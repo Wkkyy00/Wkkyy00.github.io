@@ -1,3 +1,20 @@
+Package: backgrounderaction15
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/backgrounderaction15_0.1.0_iphoneos-arm64.deb
+Size: 13360
+MD5sum: 0f0e2f00a41ded46b732b98fdffdf8bc
+SHA1: c9d313e3edd3b76a80170da1f785c8aaa1a7ef45
+SHA256: 149df4aee2483aac8ebd8cacce7efdb38ced884e70d59a306b0b95c8cf7acfd5
+Section: 系统增强
+Description: 真后台插件，控制中心图标改为小丑
+Author: @akusio_RR
+Name: CCSupport-Rootless
+Sponsor: wkk
+
 Package: com.0xkuj.ccdnd
 Version: 1.0.0
 Architecture: iphoneos-arm64
