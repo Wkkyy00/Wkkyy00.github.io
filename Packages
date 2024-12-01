@@ -134,6 +134,22 @@ Icon: https://i.imgur.com/bNyKUSs.png
 Name: RingerToggle (CCSupport)
 Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
+Package: com.lclrc.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64.deb
+Size: 4524
+MD5sum: d4b322be8fb9529231a10ac04709943b
+SHA1: 030c5aff107700fd51ee5dd8eaf47f484b3bfafb
+SHA256: e53c934c45ac732e935ecd02dd11a2f4c78a6a0f2f6d545e7a45011b4e7c60ff
+Section: Tweaks
+Description: 使手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc
+Name: RecordAnywhere
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
