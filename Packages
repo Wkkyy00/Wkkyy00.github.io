@@ -1,0 +1,16 @@
+Package: com.liuf.jpyj
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf <(null)>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/系统键盘圆角.deb
+Size: 3680
+MD5sum: db23c5f573186f1b929cd3873b9004fe
+SHA1: 1cb96326ccad40bf178a070f52f296935eb5dfca
+SHA256: c02b3cd8681f8e9d52202b0f303d27e4e189370e440a2288d0fc41c3f68fe0e6
+Section: Tweaks
+Description: 系统键盘圆角
+Author: liuf <(null)>
+Name: 系统键盘圆角
+
