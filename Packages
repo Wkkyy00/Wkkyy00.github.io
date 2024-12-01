@@ -235,3 +235,18 @@ Description: 自定义锁头
 Author: Maxwell Dausch
 Name: Latchkey
 
+Package: recorder-bubble
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/recorder-bubble_9.9.9_iphoneos-arm64.deb
+Size: 41728
+MD5sum: b1c6bfa347368c28b87680a4ca5e1557
+SHA1: b3cd75d4ecff702b3c76a5345210e67aa3adce3f
+SHA256: 7465544e1875379a933212fed2f2c25cc0f8746467f99f40b6932f280d8ae96e
+Section: Tweaks
+Description: 录制屏幕时，显示一个花瓣悬浮球指示器。
+Author: wkk
+Name: Recorder-bubble(Rootless)
+
