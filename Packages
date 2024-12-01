@@ -1,3 +1,19 @@
+Package: com.0xkuj.ccdnd
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 180
+Depends: com.opa334.ccsupport
+Filename: ./debs/CCDND_1.0.0_iphoneos-arm64.deb
+Size: 12964
+MD5sum: fda4cffc58da1fd2235f03ba3e92ebad
+SHA1: 0e76a533478d61695582027dde60f6a773eae1fd
+SHA256: 2f8ef4f1ef8ceebce6192b06d4c09b694307e4268c9cfc80c5fffddfd198f845
+Section: Tweaks
+Description: Single DND Toggle for iOS 16
+Author: 0xkuj
+Name: CCDND
+
 Package: com.82flex.noredirect
 Version: 9.9.9
 Architecture: iphoneos-arm64
@@ -77,6 +93,29 @@ Section: Tweaks
 Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏！（录屏结束自动关闭）
 Author: gilshahar7, 0xkuj
 Name: DNDMyRecording
+
+Package: com.ichitaso.ringertoggle
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 196
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.ichitaso.ringertoggle_0.3_iphoneos-arm64.deb
+Size: 16924
+MD5sum: aa3a310be6fdfb1acefdce52f800f944
+SHA1: ddd5c5e48103240fb5b2bbc04f9810b41d0641e4
+SHA256: 5baf2717e045f93bc3780ad06e34d236ce160d4af70e4818c3fd315eb6246aa0
+Section: Addons (ControlCenter)
+Homepage: https://ichitaso.com
+Description: 控制中心静音图标，非动态，可以自行替换喜欢的静音图标，已更换合适的图标大小！
+Tag: purpose::extension, compatible_min::ios11, compatible_max::ios16
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
+Dev: ichitaso
+Icon: https://i.imgur.com/bNyKUSs.png
+Name: RingerToggle (CCSupport)
+Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
 Package: com.liuf.jpyj
 Version: 0.0.1
