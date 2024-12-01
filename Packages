@@ -185,3 +185,19 @@ Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
 Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
 Name: vnodebypass
 
+Package: latchkey
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/latchkey_9.9.9_iphoneos-arm64.deb
+Size: 422960
+MD5sum: af18dc2428278451f417941e21d8811f
+SHA1: 1ee3662ed9574b3adb3725408afe625c7af9185b
+SHA256: e321260cb537cb2959194b810daf6e4c57113e07832735107ba7344aa9fe62b3
+Section: Tweaks
+Description: 自定义锁头
+Author: Maxwell Dausch
+Name: Latchkey
+
