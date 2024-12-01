@@ -14,3 +14,19 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 
+Package: com.phucdo.plampyuipro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2064
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/wkk修改版花里胡哨控制中心自用.deb
+Size: 309216
+MD5sum: 2cb1274dfe95e1303077a385bd3a0f8a
+SHA1: 2ebf6a1ab4fd2dd88cc2f2e232419a19657b216d
+SHA256: 9103d4a111657dc1300772b2708b9fb7c43aab1200ef4803dff70a28f8ce0c05
+Section: Control Center UI
+Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
+Author: wkk
+Name: wkk Control
+
