@@ -182,6 +182,24 @@ Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
 Author: wkk
 Name: wkk Control
 
+Package: denyphotoalbumsllld.rootless
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 709
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/denyphotoalbumsllld.rootless_9.9.9_iphoneos-arm64.deb
+Size: 76368
+MD5sum: 4f4fd056c422b67404a00942512291e1
+SHA1: 94f2b2e8a997c399d30c199612d1a878816ae436
+SHA256: 43582f7c0be2ab013266a3fb080b8a77a5e2f5b5a8b1a6a861f9098d7e07511c
+Section: 系统增强
+Priority: optional
+Description: 系统照片增强汉化版自用
+Author: CydiaGeek
+Name: DenyPhotoAlbums-Rootless
+Sponsor: wkk
+
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.3
 Architecture: iphoneos-arm64
