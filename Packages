@@ -30,6 +30,22 @@ Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: Single Mute
 
+Package: com.dvntm.silentnotifs
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/播放媒体时来通知静音.deb
+Size: 3784
+MD5sum: 0613a5f86570da73738cbacc7ed934bf
+SHA1: 584d3ff2776046df25e450dc1f2159d2821e3b9c
+SHA256: 3cc70148e033c333dd137e7172bdfe285e856a95f48232cd7c8c9cdac0c3048c
+Section: Tweaks
+Description: 播放媒体时，保持通知静音。
+Author: dvntm
+Name: SilentNotifs
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
