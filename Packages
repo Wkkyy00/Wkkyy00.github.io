@@ -110,6 +110,29 @@ Description: Disables passcode after a respring. This version does NOT modify sy
 Author: Brend0n <brendonjkding@126.com>
 Name: NoPassAfterRespring (Safe)
 
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
+Size: 386636
+MD5sum: f424247a3a3910ac4b71e115a48cb2c5
+SHA1: df0c56ce4a5f42b7ad26f56a0cb3fda9d64323db
+SHA256: 03d9bbff66b960f7d9e6a8e133f87c016ed17587bd290f75e832e2a18b5da9cd
+Section: Applications
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Dedicated settings app for tweaks
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
 Package: com.dao.safarix
 Version: 9.9.9
 Architecture: iphoneos-arm64
@@ -272,6 +295,27 @@ Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
 Author: wkk
 Name: wkk Control
 
+Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 168
+Depends: firmware (>= 14.1), mobilesubstrate
+Filename: ./debs/com.tomaszpoliszuk.lockscreenbatterymagsafe_1.0.4_iphoneos-arm64.deb
+Size: 5312
+MD5sum: 64265b858a4bb96d29aef6e198190f57
+SHA1: aae8b5a1664b240ac5f10b94a9c4c56cdcb43503
+SHA256: b7d9b148ecddfae8e1cc0019f3150d016cc34315260c9851f9d48d4ac2fbc854
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
+Description: 将设备连接到电源时，在锁定屏幕上启用原生MagSafe充电动画。Enable new native MagSafe charging view on lockscreen when connecting device to power source
+Tag: purpose::extension
+Author: Tomasz Poliszuk
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
+Dev: tomaszpoliszuk
+Name: 启用MagSafe充电动画
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: denyphotoalbumsllld.rootless
 Version: 9.9.9
 Architecture: iphoneos-arm64
@@ -325,6 +369,21 @@ Description: 自定义锁头
 Author: Maxwell Dausch
 Name: Latchkey
 
+Package: newterm3theos
+Version: 3.0
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Filename: ./debs/newterm3theos_3.0_iphoneos-arm64.deb
+Size: 18536288
+MD5sum: a7a3da2d6d1d0fcbcf77fd14f379a0c6
+SHA1: 67f1a357814f317fa8bcbc73b43825f77c86cf6d
+SHA256: f5337748c5e388402a3db52188b18bdd35e93e394825cd5e565b1eee984eb577
+Section: Tweaks
+Description: newterm3中文版(带theos包，无sdk)
+Author: wkk
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: newterm3中文版(带theos包)
+
 Package: org.coolstar.classicfolders2
 Version: 3.0.5
 Architecture: iphoneos-arm64
@@ -355,4 +414,23 @@ Section: Tweaks
 Description: 录制屏幕时，显示一个花瓣悬浮球指示器。
 Author: wkk
 Name: Recorder-bubble(Rootless)
+
+Package: recordpauses
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
+Filename: ./debs/recordpauses_2.0.4_iphoneos-arm64.deb
+Size: 10172
+MD5sum: 4ceb95a8914cbfcb2f20ee4b1bfcc444
+SHA1: 35da021aed731c57582ca481a49d5d50c2296d75
+SHA256: e3504eeaaa1eb0b8e44b7a8d8a6b1c4ecbdec746384c810ac54e5c626e864d45
+Description: 录像暂停 Pause/resume video recording in iOS Camera app.
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
+Name: 录像暂停 RecordPause
 
