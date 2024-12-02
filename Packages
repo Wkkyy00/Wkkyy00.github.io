@@ -110,6 +110,22 @@ Description: Disables passcode after a respring. This version does NOT modify sy
 Author: Brend0n <brendonjkding@126.com>
 Name: NoPassAfterRespring (Safe)
 
+Package: com.dao.safarix
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), com.dao.safarix.cn
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
+Filename: ./debs/com.dao.safarix_9.9.9_iphoneos-arm64.deb
+Size: 272328
+MD5sum: d6c4369a948a17c21d05193982d63a8c
+SHA1: 36c18b182fbb0552c8a4837ec9ac99c1b2295fd8
+SHA256: 75842c4d7b4d5ddf21e169ee6bc67a64c70635fa245f7f332058a9dc55da645d
+Section: 系统增强
+Description: Safari多功能增强插件。
+Author: 0xkuj
+Name: SafariX(rootless)
+
 Package: com.dvntm.silentnotifs
 Version: 0.0.2
 Architecture: iphoneos-arm64
