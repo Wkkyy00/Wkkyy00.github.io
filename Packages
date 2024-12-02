@@ -1,3 +1,18 @@
+Package: autoscroll
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: pxcex
+Depends: mobilesubstrate
+Conflicts: com.pxcex.autoscroll, com.Axs.autoscroll, xyz.cypwn.autoscroll15, byg.iosios.net.autoscroll, com.autoscroll.jb
+Filename: ./debs/autoscroll_9.9.9_iphoneos-arm64.deb
+Size: 5368
+MD5sum: becabe8484317cd2251f9b4f18325abe
+SHA1: 782427b9b69b0062734fdf6f1cdd330746721377
+SHA256: 753870e43474b39c38c4014cd03620662d7a634b709d732a3681a1b3a5e1fa5c
+Description: 跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。
+Author: pxcex
+Name: AutoScroll 自动滚动(rootless)
+
 Package: backgrounderaction15
 Version: 0.1.0
 Architecture: iphoneos-arm64
