@@ -158,6 +158,28 @@ Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏�
 Author: gilshahar7, 0xkuj
 Name: DNDMyRecording
 
+Package: com.ichitaso.hidekbsettings
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 428
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/HideKBSettings (iOS 11 to 16)_1.0.6_iphoneos-arm64.deb
+Size: 41028
+MD5sum: bd12596e4d0f33fb07cfcf14520e4af8
+SHA1: 8634989f511c6641c6291a300c1509f5c966740c
+SHA256: ba6a5f707eb2fc2b45cada422255002a996b582484961211b475e8c4149a701b
+Section: Tweaks
+Homepage: https://ichitaso.com/
+Description: Hide "Keyboard Settings" from the globe button switcher
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
+Author: ichitaso <willfeeltips+hks@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
+Dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
+Name: HideKBSettings (iOS 11 to 16)
+
 Package: com.ichitaso.ringertoggle
 Version: 0.3
 Architecture: iphoneos-arm64
