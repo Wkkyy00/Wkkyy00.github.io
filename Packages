@@ -321,6 +321,22 @@ Description: 自定义锁头
 Author: Maxwell Dausch
 Name: Latchkey
 
+Package: org.coolstar.classicfolders2
+Version: 3.0.5
+Architecture: iphoneos-arm64
+Maintainer: CoolStar
+Installed-Size: 4496
+Depends: mobilesubstrate
+Filename: ./debs/org.coolstar.classicfolders2_3.0.5_iphoneos-arm64.deb
+Size: 3316684
+MD5sum: 89786aad7779e52c0e1451490c630ae7
+SHA1: f4075dd24686ccb787bce4542785e2d023522b67
+SHA256: 5027ef5a7da9c63560b5df9d4767fa5d230947cd2806e9be7559f5e032bcd5e2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: ClassicFolders 2
+
 Package: recorder-bubble
 Version: 9.9.9
 Architecture: iphoneos-arm64
