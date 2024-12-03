@@ -133,29 +133,6 @@ Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
-Package: com.cydiageek.springanimations
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 718
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debs/com.cydiageek.springanimations_1.1.1_iphoneos-arm64.deb
-Size: 54838
-MD5sum: a3bad59305761d8bec647f13e062f7b1
-SHA1: 6925137afc8ee6a5f3e3ffb46b9b41350e54075b
-SHA256: 28095e6a9211675aad3801b85b405d457578b794c37f1d43b651eb07961fd924
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
-Description: Nice SpringBoard Animations Effects on iOS 11-15!
-Tag: purpose::extension
-Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
-Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/SpringAnimations.bundle/SpringAnimations@2x.png
-Name: SpringAnimations
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.dao.safarix
 Version: 9.9.9
 Architecture: iphoneos-arm64
