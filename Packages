@@ -422,21 +422,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: CoolStar
 Name: ClassicFolders 2
 
-Package: recorder-bubble
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/recorder-bubble_9.9.9_iphoneos-arm64.deb
-Size: 41728
-MD5sum: b1c6bfa347368c28b87680a4ca5e1557
-SHA1: b3cd75d4ecff702b3c76a5345210e67aa3adce3f
-SHA256: 7465544e1875379a933212fed2f2c25cc0f8746467f99f40b6932f280d8ae96e
-Section: Tweaks
-Description: 录制屏幕时，显示一个花瓣悬浮球指示器。
-Author: wkk
-Name: Recorder-bubble(Rootless)
-
 Package: recordpauses
 Version: 2.0.4
 Architecture: iphoneos-arm64
@@ -455,21 +440,4 @@ Description: 录像暂停 Pause/resume video recording in iOS Camera app.
 Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
-
-Package: rootless.cc
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
-Filename: ./debs/rootless.cc_9.9.9_iphoneos-arm64.deb
-Size: 506684
-MD5sum: b5a536c0584e6f0b94bb4cc99c31582c
-SHA1: fffea32ccfdfec5dd0335b5c739cae5b8f55d5cf
-SHA256: 0de3c74032fbca0a13eea212c64f292fe6820057ef9643b815898d6af2a08a16
-Section: 系统增强
-Description: 集合的控制中心，自用修改版本。
-Author: wkk
-Icon: https://chinesebuilding.club/pic/cydia.png
-Sponsor: 搬wkk
 
