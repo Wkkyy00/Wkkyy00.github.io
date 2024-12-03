@@ -295,6 +295,28 @@ Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
 Author: wkk
 Name: wkk Control
 
+Package: com.tomaszpoliszuk.applibrarydisabler
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Depends: firmware (>= 14.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | firmware (>= 15.0)
+Conflicts: com.tomaszpoliszuk.applibraryenabler
+Filename: ./debs/com.tomaszpoliszuk.applibrarydisabler_1.1.1_iphoneos-arm64.deb
+Size: 3384
+MD5sum: 94021276687dd3c8f3150f1a25575166
+SHA1: b74e9ce3d3420e87fc16f546dc9ba75de91ece1b
+SHA256: baffe9a1b14a1f21c94eef7d9db35554b1c5ed838712e60ae45fd7b03ea638f4
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Description: Turn off App Library（仅禁用资源库且有回弹效果，无设置项）
+Tag: purpose::extension
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Dev: tomaszpoliszuk
+Name: App Library Disabler
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
 Version: 1.0.4
 Architecture: iphoneos-arm64
