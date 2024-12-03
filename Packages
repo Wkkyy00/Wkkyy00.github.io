@@ -441,3 +441,19 @@ Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
 
+Package: rootless.cc
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
+Filename: ./debs/rootless.cc_9.9.9_iphoneos-arm64.deb
+Size: 506756
+MD5sum: 9b9a5e568a2859fa91040fa2a4f0f342
+SHA1: e0e3f8b19fddc3f7d798d1635f62de238fdb7eb6
+SHA256: 48651cd42c17568459a6a59e75880bc0651329ae1a552d68ce1b06f4416f2a89
+Section: 系统增强
+Description: 集合的控制中心，自用修改版本。
+Author: wkk
+Sponsor: wkk
+
