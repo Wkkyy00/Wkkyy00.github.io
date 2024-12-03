@@ -258,27 +258,6 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 
-Package: com.nightwind.onesettings
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Nightwind <nightwinddev@gmail.com>
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Conflicts: com.creaturecoding.shuffle
-Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/OneSettings_2.2_iphoneos-arm64.deb
-Size: 209960
-MD5sum: 22d676a3f54dd694b9e92821c0836740
-SHA1: 20d3a95de6e162d149152a20f0a5f2836bac5961
-SHA256: e0b34c6b2e044dfa9bca0a67a1b3475c906afc5e20d8a79a21fb31c5ca85cd3e
-Section: Tweaks
-Description: A great enhancement to your Settings App!
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: Nightwind <nightwinddev@gmail.com>
-Depiction: https://chariz.com/buy/onesettings
-Icon: https://img.chariz.cloud/icon/onesettings/icon@3x.png
-Name: OneSettings
-
 Package: com.phucdo.plampyuipro
 Version: 1.0
 Architecture: iphoneos-arm64
