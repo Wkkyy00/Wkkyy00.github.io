@@ -258,6 +258,26 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 
+Package: com.mikifp.griddys
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/com.mikifp.griddys_1.0.4_iphoneos-arm64.deb
+Size: 19932
+MD5sum: cbfd0ba5f76c3f2e4ac2d680bfef7078
+SHA1: 0cfb7b0b076794c050bc7ab6ddf6c868db3895b7
+SHA256: 2b4c2cde2400a0e31785bad6ab3a33316bd393e723c3140da264dd19f4f123ff
+Section: Tweaks
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy 图标随意摆
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
+
 Package: com.phucdo.plampyuipro
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -332,6 +352,25 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreen
 Dev: tomaszpoliszuk
 Name: 启用MagSafe充电动画
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.yan.stella
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
+Filename: ./debs/com.yan.stella_1.0.5_iphoneos-arm64.deb
+Size: 671850
+MD5sum: 0143b2b9786f0cb9f301aa714c029d74
+SHA1: 7998803fedef12b9fd7e664274f7ea196768dcc0
+SHA256: 8234dc641d8ff38474d799cc51bce0da12012fed241e213905601e79885ed3fb
+Section: Tweaks
+Description: Let it snow on your device
+Author: yan
+Depiction: https://yandevelop.github.io/depic/Stella/index.html
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Name: Stella
+Sileodepiction: https://yandevelop.github.io/depic/Stella/StellaDepiction.json
 
 Package: denyphotoalbumsllld.rootless
 Version: 9.9.9
