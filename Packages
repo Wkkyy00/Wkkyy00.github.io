@@ -242,6 +242,22 @@ Description: 使手机在锁屏状态也可以继续录屏。
 Author: Muirey03 & lclrc
 Name: RecordAnywhere
 
+Package: com.lecard.wuyu
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_0.1_iphoneos-arm64.deb
+Size: 408846
+MD5sum: 94c33650a1299131ff88eb0beaf21517
+SHA1: 2feec0eb838d180d5565520ca69cc0feb301a873
+SHA256: 6637dfd3b9c5aca70e748399b89a5c27c3f5fdbc3b9ba7de78448c7dc9163b26
+Section: Tweaks
+Description: Jailbrea!
+Author: Crassna
+Name: aiBreak
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
