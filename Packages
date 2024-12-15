@@ -94,6 +94,22 @@ Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: Single Mute
 
+Package: com.baiy.qqroundedcorners
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: baiy <QQ：961666883>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.baiy.qqroundedcorners_1.3_iphoneos-arm64.deb
+Size: 3448
+MD5sum: 3abf1f433d3cd410a2d69ae280af423a
+SHA1: 793c46112425a0e154d2b7fc7199edeeb1261233
+SHA256: 511d97b04e27162332ead7cee998de178ca5b23f78b7bce889c55c046aba82d1
+Section: Tweaks
+Description: 自用小插件，修改输入框.圆角样式，输入框加入边框，搜索框为圆角，无设置项安装即可生效。
+Author: baiy <QQ：961666883>
+Name: qq输入框圆角
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -326,6 +342,22 @@ Section: Control Center UI
 Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
 Author: wkk
 Name: wkk Control
+
+Package: com.squidforce.snapper3.plugins
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 232
+Conflicts: com.lclrc.snapper3.plugins
+Filename: ./debs/com.squidforce.snapper3.plugins_1.2_iphoneos-arm64.deb
+Size: 42082
+MD5sum: d94fed58677dd03cacdd7cbe2985301f
+SHA1: 0b8937c0d65c230fd3d142e315f740fd7d42af7b
+SHA256: 64ac1bebc6ce3ee7f4b7ac4ab870ffcc46b5925aa93bb50d6c7910dddd6b9ba4
+Section: Tweaks
+Description: including iMark and Piiico for now
+Author: SquidForce(乌贼力量)
+Name: Plugins For Snapper3
 
 Package: com.susu.springanimations
 Version: 1.1.1
