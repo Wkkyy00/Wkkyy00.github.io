@@ -471,24 +471,6 @@ Description: 自定义锁头
 Author: Maxwell Dausch
 Name: Latchkey
 
-Package: me.luki.cora
-Version: 0.9.0
-Architecture: iphoneos-arm
-Maintainer: Luki
-Installed-Size: 312
-Depends: org.swift.libswift (>= 5.0)
-Filename: ./debs/me.luki.cora_0.9.0_iphoneos-arm.deb
-Size: 41340
-MD5sum: b1270168b7ae2949cdccc0ce51307cf8
-SHA1: e326d93312467935715209bef498ca4efbd3f9c9
-SHA256: e070f92f7961c88ca8cc54a679d33a809b49eda3049477398ef9094209c05fff
-Section: Utilities
-Description: See your device's uptime in less clicks
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.cora
-Name: Cora
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.cora/depiction.json
-
 Package: newterm3theos
 Version: 3.0
 Architecture: iphoneos-arm64
