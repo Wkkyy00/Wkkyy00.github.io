@@ -310,6 +310,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
 Name: Griddy 图标随意摆
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
 
+Package: com.netskao.wechatuiswitchloaders
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wechatuiswitchloader
+Filename: ./debs/com.netskao.wechatuiswitchloaders_1.1-3_iphoneos-arm64.deb
+Size: 91516
+MD5sum: ee9e69f636cb68e93e6edc244ad8a8b1
+SHA1: ec9fdef2600700058c6ded1ce0b2f371b33866ed
+SHA256: 91225634d402a1749595dcc18a1bfc0c7d14dabdc4ae0fd95daf5f7569a1fd93
+Section: 微信插件
+Description: 微信开关图标修改，可自定义
+ * 从曾经的净化功能中独立出来附加新的设置
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/icon.png
+Name: 微信按钮 WeChatUISwitchLoader
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/js.json
+
 Package: com.opa334.crane
 Version: 1.3.16-3
 Architecture: iphoneos-arm64
@@ -500,6 +520,24 @@ Section: Tweaks
 Description: 自定义锁头
 Author: Maxwell Dausch
 Name: Latchkey
+
+Package: me.luki.canna
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/me.luki.canna_0.9.0_iphoneos-arm64.deb
+Size: 53042
+MD5sum: a7d1199660a90dbb85dbcb6db82f607d
+SHA1: f68df29357e896fab7f467d9464f98ba0879d070
+SHA256: 42c272e0517c88c0ea31f683c3f5414c356d4ea9e5e913be592873d30cd2f0b8
+Section: Tweaks
+Description: iOS 6 (or custom) charging & lock sounds
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
+Name: Canna
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
 
 Package: newterm3theos
 Version: 3.0
