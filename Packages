@@ -437,6 +437,36 @@ Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
 Name: Stella
 Sileodepiction: https://yandevelop.github.io/depic/Stella/StellaDepiction.json
 
+Package: com.yourepo.huayuarc.-rootless16
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc <xuanhua880@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.huayuarc.-rootless16_0.0.1_iphoneos-arm64.deb
+Size: 2724
+MD5sum: 073eee1b030e8f5c92e189cd183d6fe1
+SHA1: f5016f302f61b8e99fafc792b0e8f8df54a9bdf7
+SHA256: e3113231a107b9ec28d2ca73983c24cf4c905d602ea8e9bca6c99069a1e082a0
+Section: Tweaks
+Description: - 此插件删除了键盘的地球按钮“🌐” - 对于有其他切换键盘方式（例如 KeySwipe）的人很有用。
+Author: Huayuarc <xuanhua880@gmail.com>
+Name: 【键盘】隐藏键盘地球-Rootless
+
+Package: com.yourepo.huayuarc.-rootless17
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc <xuanhua880@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.huayuarc.-rootless17_0.0.1_iphoneos-arm64.deb
+Size: 4280
+MD5sum: 1fa6efa024ee8291b327065aa6749d95
+SHA1: 5f52c69a95f534717fe36a78a8b496798975bc25
+SHA256: ca922793ee719dc01c1a0f8f53a6a71aa48517acca199839560c048eea229140
+Section: Tweaks
+Description: -删除键盘的听写按钮“🎙”-
+Author: Huayuarc <xuanhua880@gmail.com>
+Name: 【键盘】隐藏语音图标-Rootless
+
 Package: denyphotoalbumsllld.rootless
 Version: 9.9.9
 Architecture: iphoneos-arm64
