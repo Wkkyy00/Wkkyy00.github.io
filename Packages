@@ -379,22 +379,6 @@ Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
 Author: wkk
 Name: wkk Control
 
-Package: com.squidforce.snapper3.plugins
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: SquidForce(乌贼力量)
-Installed-Size: 232
-Conflicts: com.lclrc.snapper3.plugins
-Filename: ./debs/com.squidforce.snapper3.plugins_1.2_iphoneos-arm64.deb
-Size: 42082
-MD5sum: d94fed58677dd03cacdd7cbe2985301f
-SHA1: 0b8937c0d65c230fd3d142e315f740fd7d42af7b
-SHA256: 64ac1bebc6ce3ee7f4b7ac4ab870ffcc46b5925aa93bb50d6c7910dddd6b9ba4
-Section: Tweaks
-Description: including iMark and Piiico for now
-Author: SquidForce(乌贼力量)
-Name: Plugins For Snapper3
-
 Package: com.susu.springanimations
 Version: 1.1.1
 Architecture: iphoneos-arm64
