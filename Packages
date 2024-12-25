@@ -149,6 +149,29 @@ Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
+Package: com.cydiageek.springanimations
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 718
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/com.cydiageek.springanimations_1.1.1_iphoneos-arm64.deb
+Size: 54838
+MD5sum: a3bad59305761d8bec647f13e062f7b1
+SHA1: 6925137afc8ee6a5f3e3ffb46b9b41350e54075b
+SHA256: 28095e6a9211675aad3801b85b405d457578b794c37f1d43b651eb07961fd924
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+Description: Nice SpringBoard Animations Effects on iOS 11-15!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+Dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/SpringAnimations.bundle/SpringAnimations@2x.png
+Name: SpringAnimations
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.dao.safarix
 Version: 9.9.9
 Architecture: iphoneos-arm64
@@ -394,22 +417,6 @@ Section: Control Center UI
 Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
 Author: wkk
 Name: wkk Control
-
-Package: com.susu.springanimations
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Installed-Size: 718
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debs/com.susu.springanimations_1.1.1_iphoneos-arm64.deb
-Size: 39308
-MD5sum: 25c7c976e45461545477ec1ed5d4f1e7
-SHA1: bef07858343028ea60b68c32c29ffe9491d0e94b
-SHA256: 5854f5f8c8957ac0869e8b3e0c893bc8c6a70da781148fa260f1022596b390af
-Section: 插件
-Description: iOS 11-16上的漂亮动画效果！
-Author: SuSu
-Icon: https://susubaby.top/images/springanimations.png
-Name: SpringAnimations
 
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
