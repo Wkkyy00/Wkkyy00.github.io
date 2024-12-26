@@ -46,6 +46,21 @@ Description: Single DND Toggle for iOS 16
 Author: 0xkuj
 Name: CCDND
 
+Package: com.0xkuj.lockeddnd.rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 168
+Filename: ./debs/锁屏自动勿扰 解锁失效com.0xkuj.lockeddnd.rootless_1.0_iphoneos-arm64.deb
+Size: 4556
+MD5sum: d220acf0cf531e1a2336358ac0592fc0
+SHA1: d7e02239e4b2c4c2941285db9011fdfb7523423d
+SHA256: bbe5389cd90d2ca5c514fa36ca6f4319aaa9cde2bfe76bd67d567ad5b7495ea6
+Section: Tweaks
+Description: Activate DND when device is locked, and disable after unlock
+Author: 0xkuj
+Name: Locked DND (rootless)
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.8
 Architecture: iphoneos-arm64
