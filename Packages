@@ -46,6 +46,23 @@ Description: Single DND Toggle for iOS 16
 Author: 0xkuj
 Name: CCDND
 
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.notificationsgroupcounts_1.0.8_iphoneos-arm64.deb
+Size: 66520
+MD5sum: be5ed127d7e22ffdd59c8d80c0da60d3
+SHA1: 13d9d23f924f90674e78f6d41d2b008f5f6ed037
+SHA256: 79d0cc7139915d0554ad348afdc3ef4365a563633dc73baeb4648fc974c6986c
+Section: Tweaks
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://susubaby.top/images/tongzhi.png
+Name: NotificationsGroupCount
+
 Package: com.82flex.noredirect
 Version: 9.9.9
 Architecture: iphoneos-arm64
