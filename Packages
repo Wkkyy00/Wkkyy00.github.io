@@ -694,6 +694,24 @@ Description: 集合的控制中心，自用修改版本。
 Author: wkk
 Sponsor: wkk
 
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64.deb
+Size: 233908
+MD5sum: f2d557005cfbdfcc91946611eaf000f4
+SHA1: fe4bb767cbe75cd834af0e9bef327114c85644fd
+SHA256: 20169e097473dac3ef0c3c1688caf5e8762e5f9ad11594c7a1195ba15470127f
+Section: 应用
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://susubaby.top/images/CocoaTop.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
 Package: xc.lzsxcl.o2pro
 Version: 13.0
 Architecture: iphoneos-arm64
