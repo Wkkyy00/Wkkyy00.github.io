@@ -50,6 +50,22 @@ Author: @akusio_RR
 Name: CCSupport-Rootless
 Sponsor: wkk
 
+Package: cn.zqbb.musicrotation
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/控制中心播放器加快版0.0.3_iphoneos-arm64.deb
+Size: 7802
+MD5sum: cb90bc9e26792e7cb6406a9a50c05bf6
+SHA1: da020e7b4256a20a711d383aa4aba587780818e0
+SHA256: 045b8751b8ae07c7513a2ed814f727b31f0d5f474853a767818b58515f7ca9cd
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zqbb
+Name: 音乐旋转
+
 Package: com.0xkuj.ccadsbegone.rootless
 Version: 1.5
 Architecture: iphoneos-arm64
