@@ -718,6 +718,25 @@ Author: CydiaGeek
 Name: DenyPhotoAlbums-Rootless
 Sponsor: wkk
 
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 492
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/vnodebypass_0.4.3_iphoneos-arm64.deb
+Size: 72712
+MD5sum: caf7ef3c62e960aba08d96bbd5fd4b9d
+SHA1: 797d3767e27ae9a2651cf98f7ee4e89a195066c9
+SHA256: 97dda66242fe907496702e8d7fc1a72eb38c5124313b8b6b091cb3fe8830d314
+Section: System
+Description: 苏苏编译并汉化，替换原本控制中心图标。仅在需要时开启，不要常开！用于隐藏越狱文件以绕过检测的工具。（仅支持iOS15-16系统Dopamine2越狱）
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Name: vnodebypass
+
 Package: latchkey
 Version: 9.9.9
 Architecture: iphoneos-arm64
