@@ -448,6 +448,22 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
 Name: Griddy 图标随意摆
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
 
+Package: com.muirey03.cr4shed
+Version: 4.3.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 2404
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11)
+Filename: ./debs/Cr4shed_COIPC_Dopamine.deb
+Size: 215200
+MD5sum: 0a0f462184c86841d9882fc7d91240a3
+SHA1: fe356ddb7909a81bd3ed912a41e4183456633963
+SHA256: 5f6ea0dbe219f02fc2132d92def8a56e010abbb3567b2b0575039fb88cc5ed3a
+Section: Tweaks
+Description: A modern crash reporter for iOS
+Author: Muirey03
+Name: Cr4shed
+
 Package: com.netskao.autofaceunlock-rootless
 Version: 1.1-7
 Architecture: iphoneos-arm64
