@@ -198,6 +198,28 @@ Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
+Package: com.cydiageek.morelinesnotifications
+Version: 1.0.4-1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 178
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs/com.cydiageek.morelinesnotifications_1.0.4-1_iphoneos-arm64.deb
+Size: 4738
+MD5sum: 916432c40268192666abdf4485b98841
+SHA1: ccd4751e74a3d1f0026cfbbc022857cbbcf75704
+SHA256: 5121b3fcced52eed2a5a3fd7b10d9963958cc55d4958c50f5dfba412d3738dd4
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Description: Increase the Lines for the Notifications!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Dev: lucaluca86
+Name: MoreLinesNotifications
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.cydiageek.springanimations
 Version: 1.1.1
 Architecture: iphoneos-arm64
