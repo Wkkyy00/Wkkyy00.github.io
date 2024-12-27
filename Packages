@@ -50,6 +50,22 @@ Author: @akusio_RR
 Name: CCSupport-Rootless
 Sponsor: wkk
 
+Package: cn.llld.swipeextenderx
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/SwipeExtenderX汉化-rootless_0.0.2_iphoneos-arm64.deb
+Size: 10250
+MD5sum: 20635ef1606a62f68a0692404aa85fa2
+SHA1: 301d207a82b4f26a8c06276b746cd325321917b9
+SHA256: 88b90dc7c2f77331f27b2b7f13f9d60a26402af03da589340c8d9c473a2bba5e
+Section: rootless汉化补丁
+Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
+Author: 来了老弟
+Name: SwipeExtenderX汉化-rootless
+
 Package: cn.zqbb.musicrotation
 Version: 0.0.3
 Architecture: iphoneos-arm64
