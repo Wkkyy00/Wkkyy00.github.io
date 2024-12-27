@@ -732,6 +732,22 @@ Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
 Name: Canna
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
 
+Package: netskao.wechatpurification
+Version: 4.2-6-END
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 16676
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
+Size: 6279272
+MD5sum: 1927dcfdb775c7edc5fe4f44b93a0460
+SHA1: 9d2e44bee6ebf656c63e82293a66bffb9976b92e
+SHA256: e43677876483db289ed57d486ab963b728922a67d03f5a06e57f0fcd6b26c324
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化END
+
 Package: newterm3theos
 Version: 3.0
 Architecture: iphoneos-arm64
