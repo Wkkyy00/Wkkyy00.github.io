@@ -409,25 +409,6 @@ Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏�
 Author: gilshahar7, 0xkuj
 Name: DNDMyRecording
 
-Package: com.github.wxsmalltabs
-Version: 0.0.1-5
-Architecture: iphoneos-arm64
-Maintainer: halo-michael
-Installed-Size: 140
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.github.wxsmalltab
-Filename: ./debs/微信小底栏.0.0.1-5.deb
-Size: 12012
-MD5sum: 284daae78cdddc4a4a15437bd68a5959
-SHA1: e1842bfc8845c5706533133f60e8c58fd63d9d60
-SHA256: 3315bfee0e256f65cff79f96216c32c486695294577928c479c5572bc5190a8e
-Section: 微信插件
-Description: 微信底栏悬浮显示
-Author: Michael
-Icon: https://TrollStoreX.Github.io/sileodepiction/WXsmalltabs/icon.png
-Name: 微信小底栏
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WXsmalltabs/js.json
-
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
