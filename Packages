@@ -486,6 +486,22 @@ Description: Jailbrea!
 Author: Crassna
 Name: aiBreak
 
+Package: com.liuf.ceshi
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf <1602389262>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/Sileo头像旋转.deb
+Size: 3978
+MD5sum: f96c698a546ec635b440064fc7981528
+SHA1: a02a185a3955af5efc9327b6ce5d80096b7eade3
+SHA256: b4185c3773d515ceee0fdf2f8eb183ff2da2d491d23fdeb5618abcdc929d00ab
+Section: Tweaks
+Description: Sileo首页头像旋转!
+Author: liuf <1602389262>
+Name: 头像旋转
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
