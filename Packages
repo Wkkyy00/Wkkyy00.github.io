@@ -570,25 +570,22 @@ Description: 面容识别成功自动解锁无需滑动，原生函数更为节�
 Author: Netskao
 Name: AutoFaceUnlock(Rootless)
 
-Package: com.netskao.wechatuiswitchloaders
-Version: 1.1-3
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-4
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 240
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: com.netskao.wechatuiswitchloader
-Filename: ./debs/com.netskao.wechatuiswitchloaders_1.1-3_iphoneos-arm64.deb
-Size: 91516
-MD5sum: ee9e69f636cb68e93e6edc244ad8a8b1
-SHA1: ec9fdef2600700058c6ded1ce0b2f371b33866ed
-SHA256: 91225634d402a1749595dcc18a1bfc0c7d14dabdc4ae0fd95daf5f7569a1fd93
-Section: 微信插件
-Description: 微信开关图标修改，可自定义
- * 从曾经的净化功能中独立出来附加新的设置
+Installed-Size: 320
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-4_iphoneos-arm64.deb
+Size: 120836
+MD5sum: 19861ea6bb06387bb63fbdc98a557cc0
+SHA1: 87ae66a102c4e7932b1ceb050011bb83bbbfaabd
+SHA256: 7dcf3c2a70c155d671f0cd4bf6cd2b0d88e5fd8ff050f8db2dadcccb6f30bf77
+Section: Netskao-Tweaks
+Description: WeChat UISwitch Loader
 Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/icon.png
-Name: 微信按钮 WeChatUISwitchLoader
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/js.json
+Name: WeChatUISwitchLoader
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
 
 Package: com.opa334.crane
 Version: 1.3.16-3
