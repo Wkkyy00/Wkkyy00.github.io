@@ -1,3 +1,19 @@
+Package: CCPlus
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
+Filename: ./debs/CCPlus_9.9.9_iphoneos-arm64.deb
+Size: 506324
+MD5sum: 7b900e9a19e0009e5a2b02e75ab62c06
+SHA1: 55e0c6978124729102c631110fcd51e9abf41ef3
+SHA256: 96231bdc266fee41950c09352fed7a8a9b30eb65b114cc987bf9aadec98d43f9
+Section: 系统增强
+Description: 集合的控制中心模块，自用修改版本。
+Author: wkk
+Sponsor: wkk
+
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
@@ -782,13 +798,13 @@ Architecture: iphoneos-arm64
 Maintainer: alias20
 Installed-Size: 492
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
-Filename: ./debs/vnodebypass_0.4.3_iphoneos-arm64.deb
-Size: 72712
-MD5sum: caf7ef3c62e960aba08d96bbd5fd4b9d
-SHA1: 797d3767e27ae9a2651cf98f7ee4e89a195066c9
-SHA256: 97dda66242fe907496702e8d7fc1a72eb38c5124313b8b6b091cb3fe8830d314
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.3_iphoneos-arm64.deb
+Size: 66904
+MD5sum: 6925aea31ed8ca207eb0006944426983
+SHA1: 3dbe94f919901bbfd5280373b6b6c7da91a9d7ea
+SHA256: 1b31f851a2f8a99545c2f1066f5932e652d30ee77b3f49225fa04afe4712f4dd
 Section: System
-Description: 苏苏编译并汉化，替换原本控制中心图标。仅在需要时开启，不要常开！用于隐藏越狱文件以绕过检测的工具。（仅支持iOS15-16系统Dopamine2越狱）
+Description: 汉化版本，仅在需要时开启，不要常开！用于隐藏越狱文件以绕过检测的工具。（仅支持iOS15-16系统Dopamine2越狱）
 Tag: role::hacker, compatible::ios15, compatible::ios16
 Author: XsF1re, ichitaso, level3tjg
 Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
