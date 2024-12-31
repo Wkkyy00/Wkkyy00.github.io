@@ -518,26 +518,6 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Name: 系统键盘圆角
 
-Package: com.mikifp.griddys
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: mikifp
-Installed-Size: 204
-Depends: mobilesubstrate
-Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
-Filename: ./debs/com.mikifp.griddys_1.0.4_iphoneos-arm64.deb
-Size: 19932
-MD5sum: cbfd0ba5f76c3f2e4ac2d680bfef7078
-SHA1: 0cfb7b0b076794c050bc7ab6ddf6c868db3895b7
-SHA256: 2b4c2cde2400a0e31785bad6ab3a33316bd393e723c3140da264dd19f4f123ff
-Section: Tweaks
-Description: 桌面图标可以随意摆放
- * Layout your icons anywhere you want!
-Author: mikifp
-Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
-Name: Griddy 图标随意摆
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
-
 Package: com.muirey03.cr4shed
 Version: 4.3.1-1+debug
 Architecture: iphoneos-arm64
@@ -914,22 +894,6 @@ Description: 录像暂停 Pause/resume video recording in iOS Camera app.
 Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
-
-Package: rootless.cc
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
-Filename: ./debs/rootless.cc_9.9.9_iphoneos-arm64.deb
-Size: 506756
-MD5sum: 9b9a5e568a2859fa91040fa2a4f0f342
-SHA1: e0e3f8b19fddc3f7d798d1635f62de238fdb7eb6
-SHA256: 48651cd42c17568459a6a59e75880bc0651329ae1a552d68ce1b06f4416f2a89
-Section: 系统增强
-Description: 集合的控制中心，自用修改版本。
-Author: wkk
-Sponsor: wkk
 
 Package: ru.domo.cocoatop64
 Version: 2.2.4
