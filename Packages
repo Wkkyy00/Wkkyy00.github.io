@@ -952,21 +952,3 @@ Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
-Package: xc.lzsxcl.o2pro
-Version: 13.0
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_13.0_iphoneos-arm64.deb
-Size: 6128332
-MD5sum: 0a242f12f5794caf620428c84bb14bdb
-SHA1: 36874add603c756bb8c9ed8bb11d94184854a11d
-SHA256: d959a0da17b394f193eab360cb4bd2e1992594a4ec039ef277e777c7027db2f8
-Section: 插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2Pro
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
-
