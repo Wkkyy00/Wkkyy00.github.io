@@ -56,14 +56,14 @@ Maintainer: wkk
 Installed-Size: 340
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/backgrounderaction15_0.1.0_iphoneos-arm64.deb
-Size: 13360
-MD5sum: 0f0e2f00a41ded46b732b98fdffdf8bc
-SHA1: c9d313e3edd3b76a80170da1f785c8aaa1a7ef45
-SHA256: 149df4aee2483aac8ebd8cacce7efdb38ced884e70d59a306b0b95c8cf7acfd5
+Size: 13336
+MD5sum: acd5b2363672735623045b9eee020cc9
+SHA1: dd1758d72b8a0e06f8e4e2a190025aacb4e57c57
+SHA256: d985f0c602542bbc9ca242e7e740a45744684dafa7e689e98bb635886ea4d4b2
 Section: 系统增强
 Description: 真后台插件，控制中心图标改为小丑
 Author: @akusio_RR
-Name: CCSupport-Rootless
+Name: 小丑真后台
 Sponsor: wkk
 
 Package: cn.llld.swipeextenderx
