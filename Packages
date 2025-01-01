@@ -22,15 +22,16 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: ./debs/MisakaHelper_END_iphoneos-arm64_rootless.deb
-Size: 13176824
-MD5sum: dfdac07dbb49f5871e1f8bff89180faa
-SHA1: 9e80412e9766c8e3dae868cd796d6f374c7057c2
-SHA256: 0185beb68e7c993be4228848a0181b9cf2b3e46b1fe673fc03fb6c0940c259c7
-Section: Tweaks
+Filename: ./debs/MisakaHelper_2.1-0_iphoneos-arm64.deb
+Size: 13166180
+MD5sum: cea07a80a3cc402b730cea3a6dddd15a
+SHA1: fd7b1f94876c7dd6e7f882419588a9f4809149ac
+SHA256: 68d9d53dc8dc26633c3ed94b7c81981dd3b30e6d67c73f9a840b0ced66603b55
+Section: 微信插件
 Priority: optional
 Description: MisakaHelper
 Author: Misaka
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: MisakaHelper
 
 Package: autoscroll
