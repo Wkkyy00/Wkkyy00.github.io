@@ -573,6 +573,23 @@ Description: A modern crash reporter for iOS
 Author: Muirey03
 Name: Cr4shed
 
+Package: com.netskao.autofaceunlock-rootless
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 452
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.autofaceunlock-rootless_1.1-7_iphoneos-arm64.deb
+Size: 63604
+MD5sum: fb523a93f8738cceabeab77c965e5657
+SHA1: c40cd4c9a38ecb58899354ddf94faadb7b76e84b
+SHA256: b04f11bccbe91ca1615b61bc7c90f37690dd977345c125382809b76e9ef1db54
+Section: Netskao-Tweaks
+Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
+Author: Netskao
+Icon: https://github.com/Wkkyy00/Wkkyy00.github.io/blob/main/photos/face.png
+Name: AutoFaceUnlock(Rootless)
+
 Package: com.netskao.wechatuiswitchloader
 Version: 1.1-4
 Architecture: iphoneos-arm64
