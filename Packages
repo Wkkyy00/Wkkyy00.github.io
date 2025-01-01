@@ -357,15 +357,16 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
-Filename: ./debs/PurifyLine(rootless).deb
-Size: 3780
-MD5sum: ec62a23aadc9e3cff89eb715017251ef
-SHA1: 44b6061dea3d22af5322fea44392fc2e8c4af2c6
-SHA256: b1901e512b196fd729764b79c55d56b0d7b9335062d54f4e0a574943f6fbb30f
-Section: 嗨-系统
+Filename: ./debs/com.dao.noline_1.0.1_iphoneos-arm64.deb
+Size: 3816
+MD5sum: 1c9a98260dc9b74f787df0c080176303
+SHA1: 62b061b642c5f2619f247b55b3227ac3accaed08
+SHA256: 877db25e43a287f3ea11fe8d0b62712cef82737887af7c4815e9ca76fbf02892
+Section: tweaks
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Author: 妖刀
-Name: PurifyLine(rootless)
+Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
+Name: PurifyLine
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.safarix
