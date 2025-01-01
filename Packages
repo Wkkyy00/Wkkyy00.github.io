@@ -536,15 +536,16 @@ Architecture: iphoneos-arm64
 Maintainer: liuf <1602389262>
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/Sileo头像旋转.deb
-Size: 3978
-MD5sum: f96c698a546ec635b440064fc7981528
-SHA1: a02a185a3955af5efc9327b6ce5d80096b7eade3
-SHA256: b4185c3773d515ceee0fdf2f8eb183ff2da2d491d23fdeb5618abcdc929d00ab
+Filename: ./debs/com.liuf.ceshi_0.0.1_iphoneos-arm64.deb
+Size: 4160
+MD5sum: df8ad97cfaa972c13274402bdb6f4817
+SHA1: 2d7044048befa992fa51804a465800191ec29cce
+SHA256: aba48514fa45ad4449e5e7c4987964ccb488c505f06d12b2f810245004a2ce6c
 Section: Tweaks
-Description: Sileo首页头像旋转!
+Description: Sileo首页头像炫酷吊炸天的旋转!牛逼嗷
 Author: liuf <1602389262>
-Name: 头像旋转
+Icon: https://s1.imagehub.cc/images/2025/01/01/562512a403da3db5ebef9a0e7ba8118a.jpeg
+Name: sileo头像旋转
 
 Package: com.liuf.jpyj
 Version: 0.0.1
