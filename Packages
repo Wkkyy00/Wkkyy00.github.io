@@ -150,22 +150,6 @@ Author: 0xkuj
 Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
-Package: com.82flex.noredirect
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 572
-Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
-Filename: ./debs/No Redirect_9.9.9_iphoneos-arm64.deb
-Size: 44084
-MD5sum: e397ccad7c90ec97a80d37e3ad28be8c
-SHA1: 8894872a5c6ef8cf759e3bd995d730c252b424a9
-SHA256: d3dad91ebfe061e316f6652b4e5c901c92f5b501964a50cfa9945aa8137e0b9d
-Section: Tweaks
-Description: Stop specified apps from redirecting to App Store, Safari or other apps.
-Author: Lessica <82flex@gmail.com>
-Name: No Redirect
-
 Package: com.82flex.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -198,22 +182,6 @@ Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
 Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
-
-Package: com.82flex.singlevpn
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.82flex.singlevpn_1.4_iphoneos-arm64.deb
-Size: 28680
-MD5sum: 22a2841ef596d06dd9373b4ab1a4ec15
-SHA1: 5d21b4da10c46624b5499b1fd4d80c6b6fcd8a8d
-SHA256: f37a7edc300f02b607d987006335c64611a8ec5750630b1cc6916924ab171614
-Section: Tweaks
-Description: Combine VPN state and wireless state into one icon.
-Author: 82Flex <82flex@gmail.com>
-Name: Single VPN
 
 Package: com.baiy.qqroundedcorners
 Version: 1.3
