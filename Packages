@@ -180,36 +180,21 @@ Description: Stop specified apps from redirecting to App Store, Safari or other 
 Author: Lessica <82flex@gmail.com>
 Name: No Redirect
 
-Package: com.82flex.removewidgetbg
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.82flex.removewidgetbg_1.7_iphoneos-arm64.deb
-Size: 29668
-MD5sum: 86913564dbea4c747c015712ac9dbc16
-SHA1: ca4c185c18f9298d1739b0c36228f15fbb2632b8
-SHA256: 7e062f8c965e9eb6eeae3feef04455cbe7ea4618ca9120512ed7334024a9c210
-Section: Tweaks
-Description: Remove the background of the widgets on the home screen.
-Author: Lessica <82flex@gmail.com>
-Name: Remove Widget Background
-
 Package: com.82flex.singlemute
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 380
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.82flex.singlemute_1.4_iphoneos-arm64.deb
-Size: 23634
-MD5sum: b155b1c0dd3bc84366aafe580a4c1cba
-SHA1: 551c96522acceb24764d114ccd985bad5a67b89e
-SHA256: c3af54a74b6c68b641558fb7d0e2915618394f55f03682701e1cd392a0b7d6a5
-Section: Tweaks
+Filename: ./debs/com.82flex.singlemute_1.5_iphoneos-arm64.deb
+Size: 24212
+MD5sum: 2ce525526bdcf64b4d5af1aa77c16a98
+SHA1: b57aeaf72be488c72378028705afa2bd8dcade08
+SHA256: 52ab01de77eb57c8cecc957e06e226be40393be9f2184466f91466979fa1e203
+Section: 插件
 Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
+Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
 
 Package: com.baiy.qqroundedcorners
