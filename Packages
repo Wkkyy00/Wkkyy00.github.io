@@ -475,13 +475,14 @@ Maintainer: Muirey03 & lclrc
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64.deb
-Size: 4524
-MD5sum: d4b322be8fb9529231a10ac04709943b
-SHA1: 030c5aff107700fd51ee5dd8eaf47f484b3bfafb
-SHA256: e53c934c45ac732e935ecd02dd11a2f4c78a6a0f2f6d545e7a45011b4e7c60ff
-Section: Tweaks
+Size: 4580
+MD5sum: 3c37cab43ce04de13d8f73f0ba854f18
+SHA1: 3ad4f8ea49a8ba9c51904ae5a728f5224fcdb529
+SHA256: 41d59fdf18244fc2330f4fe01514f9bbb5c486bef9554bf12e0490f1e9cf5b41
+Section: 插件
 Description: 使手机在锁屏状态也可以继续录屏。
 Author: Muirey03 & lclrc
+Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
 Name: RecordAnywhere
 
 Package: com.lecard.wuyu
