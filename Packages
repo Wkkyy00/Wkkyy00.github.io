@@ -844,15 +844,16 @@ Maintainer: wkk
 Installed-Size: 709
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Filename: ./debs/denyphotoalbumsllld.rootless_9.9.9_iphoneos-arm64.deb
-Size: 76368
-MD5sum: 4f4fd056c422b67404a00942512291e1
-SHA1: 94f2b2e8a997c399d30c199612d1a878816ae436
-SHA256: 43582f7c0be2ab013266a3fb080b8a77a5e2f5b5a8b1a6a861f9098d7e07511c
-Section: 系统增强
+Size: 76440
+MD5sum: 1650d7f61b012a1dff38a8a454f1b595
+SHA1: dae0580d3b23ca21ce579fc7c02e8508fe8a84ec
+SHA256: 58977fa610b4140c23c95dbb673c1ffbe3b05fb81c1659ef43debee939d90ba8
+Section: tweaks
 Priority: optional
-Description: 系统照片增强汉化版自用
+Description: 系统照片增强汉化版自用修改版本
 Author: CydiaGeek
-Name: DenyPhotoAlbums-Rootless
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
+Name: Photo pro
 Sponsor: wkk
 
 Package: killapps
