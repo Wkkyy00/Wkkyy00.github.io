@@ -151,22 +151,6 @@ Author: 0xkuj
 Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
-Package: com.82flex.removewidgetbg
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.82flex.removewidgetbg_1.7_iphoneos-arm64.deb
-Size: 29634
-MD5sum: c88c6bf39abf3e5ff4d72a6620af6e0a
-SHA1: a5d1959ee9e869dd44e1cc3c62554e5c23e7dc9b
-SHA256: f35db44d6f38a6dc7b67bd5363f072f5f80286e6c9bb8e8ee16857feac48f082
-Section: Tweaks
-Description: Remove the background of the widgets on the home screen.
-Author: Lessica <82flex@gmail.com>
-Name: Remove Widget Background
-
 Package: com.82flex.singlemute
 Version: 1.5
 Architecture: iphoneos-arm64
