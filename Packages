@@ -580,13 +580,14 @@ Maintainer: Nets
 Installed-Size: 452
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.netskao.autofaceunlock-rootless_1.1-7_iphoneos-arm64.deb
-Size: 101448
-MD5sum: e2ced69148a4c657f07133da6b022b28
-SHA1: bf7922775dcca889b549e893226c651c006b97e0
-SHA256: 3e7d640bb7b6e9714ef25c97fe18e41ad914bb6b07f09e286c3e9d23bd76eebb
+Size: 63604
+MD5sum: fb523a93f8738cceabeab77c965e5657
+SHA1: c40cd4c9a38ecb58899354ddf94faadb7b76e84b
+SHA256: b04f11bccbe91ca1615b61bc7c90f37690dd977345c125382809b76e9ef1db54
 Section: Netskao-Tweaks
 Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
 Author: Netskao
+Icon: https://github.com/Wkkyy00/Wkkyy00.github.io/blob/main/photos/face.png
 Name: AutoFaceUnlock(Rootless)
 
 Package: com.netskao.wechatuiswitchloader
