@@ -616,6 +616,24 @@ Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
 Author: wkk
 Name: wkk Control
 
+Package: com.sop.killapps
+Version: 1.7.8
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Installed-Size: 432
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.sop.killapps_1.7.8_iphoneos-arm64.deb
+Size: 165448
+MD5sum: fcc2ee17e1acdbba6f34b02ee79e08c6
+SHA1: dc09741987f149f142c2a652d6400e35d803dcab
+SHA256: fc0ee0a7e099aee8ef42b100a29f5cf8083c19c3bf40872dc40c49e5e4715093
+Section: Tweaks
+Description: Customize your app switcher with a variety of options, including the ability to close apps with a downswipe, adding buttons, a grid switcher, and many other features.
+Author: SOPPPra
+Icon: https://i.postimg.cc/hGzV6VSP/icon.png
+Name: killapps
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.killapps.json
+
 Package: com.spark.autounlockx
 Version: 1.1.0-rootless
 Architecture: iphoneos-arm64
