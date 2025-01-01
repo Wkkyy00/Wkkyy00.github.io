@@ -666,20 +666,21 @@ Name: opa334
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
 
 Package: com.phucdo.plampyuipro
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 2064
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/wkk修改版花里胡哨控制中心自用.deb
-Size: 309216
-MD5sum: 2cb1274dfe95e1303077a385bd3a0f8a
-SHA1: 2ebf6a1ab4fd2dd88cc2f2e232419a19657b216d
-SHA256: 9103d4a111657dc1300772b2708b9fb7c43aab1200ef4803dff70a28f8ce0c05
-Section: Control Center UI
-Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
+Filename: ./debs/com.phucdo.plampyuipro_1.1_iphoneos-arm64.deb
+Size: 309272
+MD5sum: 07f2a2ca255673ab5ea5a461c4fdc903
+SHA1: 7b7617fb6d918d6a50da5ff8f883b7c19ee9871f
+SHA256: 37456d199180f0abddb5e8e0fe7c6c09ed65d60e328b0ce8f2cbce487d878904
+Section: 控制中心
+Description: 为小学狗修改的控制中心花里胡哨（其他人勿下载 后果自负）
 Author: wkk
-Name: wkk Control
+Icon: https://s1.imagehub.cc/images/2025/01/01/8247520f0478239e0642f25902273695.png
+Name: wkk for 花里胡哨控制中心
 
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.1~2
