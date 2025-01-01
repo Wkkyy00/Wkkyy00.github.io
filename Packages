@@ -388,20 +388,18 @@ Name: PurifyLine
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.safarix
-Version: 9.9.9
+Version: 1.3.0
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), com.dao.safarix.cn
-Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
-Filename: ./debs/com.dao.safarix_9.9.9_iphoneos-arm64.deb
-Size: 272328
-MD5sum: d6c4369a948a17c21d05193982d63a8c
-SHA1: 36c18b182fbb0552c8a4837ec9ac99c1b2295fd8
-SHA256: 75842c4d7b4d5ddf21e169ee6bc67a64c70635fa245f7f332058a9dc55da645d
-Section: 系统增强
+Filename: ./debs/com.dao.safarix_1.3.0_iphoneos-arm64.deb
+Size: 272184
+MD5sum: f3a10922b89f3aa4e81caa49664a26da
+SHA1: d1427090b635aed72da46f9ce5877599e90a962f
+SHA256: 3a53cff3ae6348a486882fa9622a370e6f0484fc6019df69da9cefa073ee8ae1
+Section: tweaks
 Description: Safari多功能增强插件。
-Author: 0xkuj
-Name: SafariX(rootless)
+Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
+Name: SafariX
 
 Package: com.dao.tvlock
 Version: 1.2.3
