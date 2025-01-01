@@ -390,15 +390,16 @@ Architecture: iphoneos-arm64
 Maintainer: Wes <wes.hamster@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
-Filename: ./debs/TVLock(rootless).deb
-Size: 34392
-MD5sum: 10e3938d26e3a231a17e192293d58e9b
-SHA1: 5726dbd84eacb4e63b7f7168cb169d345e278cc0
-SHA256: 197f9bd2b67e79032acb00c23a2dd1bce4f024fb181f6b21c1b2cbaec8f965d6
-Section: 嗨-工具
+Filename: ./debs/com.dao.tvlock_1.2.3_iphoneos-arm64.deb
+Size: 34460
+MD5sum: 066763aa91363b3565bfb5fc61614e17
+SHA1: 0a08eb5531d7636d541da51e333ed509cd818954
+SHA256: 70b3e0fdfce2581ea4640e458342deb2bb7a7ce3263ee62a3ecb25f95edfbf5e
+Section: tweaks
 Description: 很棒的老电视关屏动画，根据开源编译，已内置简体中文。
 Author: Wes <wes.hamster@gmail.com>
-Name: TVLock(rootless)
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
+Name: TVLock
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tvlock/js.json
 
 Package: com.daodao.wicellswitcher
