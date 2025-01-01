@@ -1007,9 +1007,10 @@ Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
 Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
 Filename: ./debs/recordpauses_2.0.4_iphoneos-arm64.deb
 Size: 10172
-MD5sum: 4ceb95a8914cbfcb2f20ee4b1bfcc444
-SHA1: 35da021aed731c57582ca481a49d5d50c2296d75
-SHA256: e3504eeaaa1eb0b8e44b7a8d8a6b1c4ecbdec746384c810ac54e5c626e864d45
+MD5sum: 9a7c077ad3d745dc3011f5400ae4130e
+SHA1: 3232b42504bbcbaa5397ab51f7521e823f73ef4b
+SHA256: 98b81ab7addfcda51c685d3f32f8b76fdb9cea851db4964cf0c33ce37dd81ebe
+Section: tweaks
 Description: 录像暂停 Pause/resume video recording in iOS Camera app.
 Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
