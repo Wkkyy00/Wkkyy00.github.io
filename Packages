@@ -48,23 +48,6 @@ Description: 跟随手指自动滚动页面，直到再次触摸屏幕停止滚�
 Author: pxcex
 Name: AutoScroll 自动滚动(rootless)
 
-Package: backgrounderaction15
-Version: 0.1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 340
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/backgrounderaction15_0.1.0_iphoneos-arm64.deb
-Size: 13336
-MD5sum: acd5b2363672735623045b9eee020cc9
-SHA1: dd1758d72b8a0e06f8e4e2a190025aacb4e57c57
-SHA256: d985f0c602542bbc9ca242e7e740a45744684dafa7e689e98bb635886ea4d4b2
-Section: 系统增强
-Description: 真后台插件，控制中心图标改为小丑
-Author: @akusio_RR
-Name: 小丑真后台
-Sponsor: wkk
-
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -1047,4 +1030,21 @@ Author: Domo <domo@rambler.ru>
 Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
+Package: xiaochouzhenhoutai.wkk
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/xiaochouzhenhoutai.wkk_0.1.0_iphoneos-arm64.deb
+Size: 13392
+MD5sum: 00e8480877b8f0aa12474716dd4faf17
+SHA1: 3762360fd72f389b725fe4d14d3c196f45ce3b3d
+SHA256: 42486bc14c17db3a0dded2c2faab61fdbb93253b802e9a70348ea3af3158d04b
+Section: 控制中心
+Description: 真后台插件，控制中心图标改为小丑
+Icon: https://s1.imagehub.cc/images/2025/01/01/201aee1851a2c90af9fe7144b348aa3f.jpeg
+Name: 小丑真后台
+Sponsor: wkk
 
