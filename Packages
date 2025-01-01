@@ -1,17 +1,16 @@
-Package: CCPlus
-Version: 9.9.9
+Package: CC+
+Version: 1.9.9
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
-Filename: ./debs/CCPlus_9.9.9_iphoneos-arm64.deb
-Size: 506324
-MD5sum: 7b900e9a19e0009e5a2b02e75ab62c06
-SHA1: 55e0c6978124729102c631110fcd51e9abf41ef3
-SHA256: 96231bdc266fee41950c09352fed7a8a9b30eb65b114cc987bf9aadec98d43f9
-Section: 系统增强
+Filename: ./debs/CC+_1.9.9_iphoneos-arm64.deb
+Size: 506704
+MD5sum: ae7b4582f95e827d4e4b66fceb2c9961
+SHA1: e04982c4c74fd8584081126a2f82e338f4c8a7eb
+SHA256: 2b391d7adef321d7f686c79c9f66d38aee356cd5c6d52719bfd093cc9eaefe3e
+Section: 控制中心
 Description: 集合的控制中心模块，自用修改版本。
 Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/d54fb27b77075a42f55928e9f14a9610.png
 Sponsor: wkk
 
 Package: MisakaHelper
