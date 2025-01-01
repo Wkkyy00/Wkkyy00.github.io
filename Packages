@@ -680,6 +680,25 @@ Description: wkk Control CC on Jailbroken devices for iOS 15 & 16.
 Author: wkk
 Name: wkk Control
 
+Package: com.qiop1379.swipeextenderx
+Version: 1.6.1~2
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64.deb
+Size: 86084
+MD5sum: d4992f8c6db6f8b1ce17c242d3be0d0e
+SHA1: 3beeec5c769e585675e0466e4898fd1eea711c00
+SHA256: 41e789dcae7e3195b1b6a21804aad35a7fcabc5e170acb24fade92ce1c002877
+Section: Tweaks
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Tag: compatible_min::ios14.0
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://chariz.com/get/swipeextenderx
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
+
 Package: com.sop.killapps
 Version: 1.7.8
 Architecture: iphoneos-arm64
