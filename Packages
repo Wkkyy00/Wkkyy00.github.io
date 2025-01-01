@@ -873,14 +873,15 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 2160
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/killapps-rootless.deb
-Size: 932508
-MD5sum: 1648242d54290e77cacdd66ac0f0703c
-SHA1: 0fcdc776431ae5b7dff415b1d47a08024a6f4df5
-SHA256: cd77289aa8a1b4a28660c3248b525b5127cf514f77ddd0179a13802437520218
-Section: 系统增强
+Filename: ./debs/killapps_1.2-2_iphoneos-arm64.deb
+Size: 932716
+MD5sum: 98509185764da8fccd8fc2525c4d6d30
+SHA1: aaec7518e1d1629c2d6320271f5ad652d2bb9be3
+SHA256: 458d27fd8710032cb67c7eb0731a09c7e7a20cbbf8d8d092be82bccdce5c67a0
+Section: 插件
 Description: killapp
 Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/cf5570aed39475c4a6286b97287fbca1.png
 Name: 一键后台清理
 Sponsor: wkk
 
