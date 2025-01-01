@@ -484,11 +484,11 @@ Installed-Size: 196
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
 Filename: ./debs/com.ichitaso.ringertoggle_0.3_iphoneos-arm64.deb
-Size: 16924
-MD5sum: aa3a310be6fdfb1acefdce52f800f944
-SHA1: ddd5c5e48103240fb5b2bbc04f9810b41d0641e4
-SHA256: 5baf2717e045f93bc3780ad06e34d236ce160d4af70e4818c3fd315eb6246aa0
-Section: Addons (ControlCenter)
+Size: 16896
+MD5sum: 2127d2677ccda54cd4c0f4e413393ecd
+SHA1: a5a509182c7afd7831a793afe94c483ec1cd570c
+SHA256: 4e12842558391a3443c47bd4f8d2343b2e53c4099308f8b5ef925a86c693a290
+Section: 控制中心
 Homepage: https://ichitaso.com
 Description: 控制中心静音图标，非动态，可以自行替换喜欢的静音图标，已更换合适的图标大小！
 Tag: purpose::extension, compatible_min::ios11, compatible_max::ios16
