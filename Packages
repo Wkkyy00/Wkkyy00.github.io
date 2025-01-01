@@ -792,6 +792,23 @@ Author: CydiaGeek
 Name: DenyPhotoAlbums-Rootless
 Sponsor: wkk
 
+Package: killapps
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2160
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/killapps-rootless.deb
+Size: 932508
+MD5sum: 1648242d54290e77cacdd66ac0f0703c
+SHA1: 0fcdc776431ae5b7dff415b1d47a08024a6f4df5
+SHA256: cd77289aa8a1b4a28660c3248b525b5127cf514f77ddd0179a13802437520218
+Section: 系统增强
+Description: killapp
+Author: Netskao
+Name: 一键后台清理
+Sponsor: wkk
+
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.3
 Architecture: iphoneos-arm64
