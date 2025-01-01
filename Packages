@@ -955,13 +955,14 @@ Maintainer: Nets
 Installed-Size: 16676
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
-Size: 6279272
-MD5sum: 1927dcfdb775c7edc5fe4f44b93a0460
-SHA1: 9d2e44bee6ebf656c63e82293a66bffb9976b92e
-SHA256: e43677876483db289ed57d486ab963b728922a67d03f5a06e57f0fcd6b26c324
-Section: Netskao-Tweaks
+Size: 6274916
+MD5sum: cd94e46c00e137088c3d66db82fb8441
+SHA1: 8b156eed042044f75f353f5821b76c9bf7a131b7
+SHA256: 5aa8ddd7a74f0252721a18ea98d98a6ca35798fd07ac9d6bc3163c54b2fc0e37
+Section: 微信插件
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信净化END
 
 Package: newterm3theos
