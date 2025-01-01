@@ -741,13 +741,14 @@ Maintainer: SquidForce(乌贼力量)
 Installed-Size: 232
 Conflicts: com.lclrc.snapper3.plugins
 Filename: ./debs/com.squidforce.snapper3.plugins_1.2_iphoneos-arm64.deb
-Size: 42082
-MD5sum: d94fed58677dd03cacdd7cbe2985301f
-SHA1: 0b8937c0d65c230fd3d142e315f740fd7d42af7b
-SHA256: 64ac1bebc6ce3ee7f4b7ac4ab870ffcc46b5925aa93bb50d6c7910dddd6b9ba4
+Size: 42216
+MD5sum: 7cae293ce7df6b0b9c86ad37a5e8b1e6
+SHA1: b87ba4beccb538000ee9898f2bb8ea2ec35b507a
+SHA256: dcd22a97a3f9712fa0d3b5c4470edc33148ed08f0f458be3801c4a34f0dab52b
 Section: Tweaks
 Description: including iMark and Piiico for now
 Author: SquidForce(乌贼力量)
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Plugins For Snapper3
 
 Package: com.tomaszpoliszuk.applibrarydisabler
