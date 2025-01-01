@@ -313,11 +313,11 @@ Maintainer: Ivano Bilenchi
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
 Filename: ./debs/com.dao.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 1102304
-MD5sum: ed51a714563874cd6a3c649d1d1d9d60
-SHA1: 10ecd37ba31256851eeccdbadc7406462548f891
-SHA256: fbe9586561e0c5a291a2003d459da8279f19edc4de104ad838b52259f6e6563f
-Section: tweaks
+Size: 1101672
+MD5sum: 55ef48dce2bc3ff4f4aa23c89c736e1d
+SHA1: d9d9257284ca735d08d732ec1d405a81858e3e78
+SHA256: 99165bc276a377aa0d2423037b87d76060e8b23c3cf0b0a1dfba6b6b9193314e
+Section: 应用程序
 Description: 真正的iOS系统清理和管理实用程序，默认简体中文。
 Author: Ivano Bilenchi
 Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
