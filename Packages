@@ -213,6 +213,22 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
 
+Package: com.82flex.singlevpn
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.4_iphoneos-arm64.deb
+Size: 28680
+MD5sum: 22a2841ef596d06dd9373b4ab1a4ec15
+SHA1: 5d21b4da10c46624b5499b1fd4d80c6b6fcd8a8d
+SHA256: f37a7edc300f02b607d987006335c64611a8ec5750630b1cc6916924ab171614
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
 Package: com.baiy.qqroundedcorners
 Version: 1.3
 Architecture: iphoneos-arm64
