@@ -121,14 +121,15 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 180
 Depends: com.opa334.ccsupport
-Filename: ./debs/CCDND_1.0.0_iphoneos-arm64.deb
-Size: 12964
-MD5sum: fda4cffc58da1fd2235f03ba3e92ebad
-SHA1: 0e76a533478d61695582027dde60f6a773eae1fd
-SHA256: 2f8ef4f1ef8ceebce6192b06d4c09b694307e4268c9cfc80c5fffddfd198f845
-Section: Tweaks
-Description: Single DND Toggle for iOS 16
+Filename: ./debs/com.0xkuj.ccdnd_1.0.0_iphoneos-arm64.deb
+Size: 13044
+MD5sum: 38d187a18bb96f6cd2240d89fd936541
+SHA1: 80015e5d9254444e95e213fc8d59ce511bf5eeaf
+SHA256: c34a03884bdb9a913e092e8da22f8fa69a754ef427f1250098d976c84cc153e9
+Section: tweaks
+Description: 控制中心勿扰模式单模块支持ios16
 Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
 Name: CCDND
 
 Package: com.0xkuj.lockeddnd.rootless
