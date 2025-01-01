@@ -901,12 +901,12 @@ Maintainer: alias20
 Installed-Size: 492
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
 Filename: ./debs/kr.xsf1re.vnodebypass_0.4.3_iphoneos-arm64.deb
-Size: 66904
-MD5sum: 6925aea31ed8ca207eb0006944426983
-SHA1: 3dbe94f919901bbfd5280373b6b6c7da91a9d7ea
-SHA256: 1b31f851a2f8a99545c2f1066f5932e652d30ee77b3f49225fa04afe4712f4dd
-Section: System
-Description: 汉化版本，仅在需要时开启，不要常开！用于隐藏越狱文件以绕过检测的工具。（仅支持iOS15-16系统Dopamine2越狱）
+Size: 66892
+MD5sum: b818044b7e59de7017eff842af1cc7f2
+SHA1: 2e3320cdd01726b5ecd42103be9d7bb497b0c3d4
+SHA256: 8b700f26d7a3bc79cb68e75c72362decb8120552b344ed8e502f4cf3820f7d34
+Section: 应用程序
+Description: 汉化版本，仅在需要时开启，不要常开！用于隐藏越狱文件以绕过检测的工具。
 Tag: role::hacker, compatible::ios15, compatible::ios16
 Author: XsF1re, ichitaso, level3tjg
 Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
