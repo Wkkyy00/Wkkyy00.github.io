@@ -601,13 +601,14 @@ Maintainer: Nets
 Installed-Size: 320
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-4_iphoneos-arm64.deb
-Size: 120836
-MD5sum: 19861ea6bb06387bb63fbdc98a557cc0
-SHA1: 87ae66a102c4e7932b1ceb050011bb83bbbfaabd
-SHA256: 7dcf3c2a70c155d671f0cd4bf6cd2b0d88e5fd8ff050f8db2dadcccb6f30bf77
-Section: Netskao-Tweaks
-Description: WeChat UISwitch Loader
+Size: 121112
+MD5sum: 01c85f39b988eb5b4bfb6f6cebdd0e4d
+SHA1: aae8099e44c41c91702db05740456d533ea10862
+SHA256: da1fe72e6c0ebeb9868e1a14548030ee2f8efa4f4b74988f0bec58974fbf6329
+Section: 微信插件
+Description: 皮卡丘按钮
 Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/9cf996ab85cd0985a590a0eb60190d08.png
 Name: WeChatUISwitchLoader
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
 
