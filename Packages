@@ -40,13 +40,15 @@ Maintainer: pxcex
 Depends: mobilesubstrate
 Conflicts: com.pxcex.autoscroll, com.Axs.autoscroll, xyz.cypwn.autoscroll15, byg.iosios.net.autoscroll, com.autoscroll.jb
 Filename: ./debs/autoscroll_9.9.9_iphoneos-arm64.deb
-Size: 5368
-MD5sum: becabe8484317cd2251f9b4f18325abe
-SHA1: 782427b9b69b0062734fdf6f1cdd330746721377
-SHA256: 753870e43474b39c38c4014cd03620662d7a634b709d732a3681a1b3a5e1fa5c
-Description: 跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。
+Size: 5420
+MD5sum: 976ad4f9e2036e8336bb8e3237efcd97
+SHA1: 7d6a8b8ee5dd0c6adcc13c3bc87089ab745cb945
+SHA256: 4016e11c64e6cdca412119ed58856d52bc47b0082d4803a93dea604fffb233c1
+Section: tweaks
+Description: 跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置项。
 Author: pxcex
-Name: AutoScroll 自动滚动(rootless)
+Icon: https://s1.imagehub.cc/images/2025/01/01/d40cf6fa8692a3fcf1756214048b0fa4.jpeg
+Name: AutoScroll 自动滚动
 
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
