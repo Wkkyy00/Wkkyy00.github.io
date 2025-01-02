@@ -891,19 +891,20 @@ Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/L
 Name: vnodebypass
 
 Package: latchkey
-Version: 9.9.9
+Version: 5.2.0
 Architecture: iphoneos-arm64
 Maintainer: Maxwell Dausch
 Installed-Size: 13476
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/latchkey_9.9.9_iphoneos-arm64.deb
-Size: 422960
-MD5sum: af18dc2428278451f417941e21d8811f
-SHA1: 1ee3662ed9574b3adb3725408afe625c7af9185b
-SHA256: e321260cb537cb2959194b810daf6e4c57113e07832735107ba7344aa9fe62b3
-Section: Tweaks
-Description: 自定义锁头
+Filename: ./debs/latchkey_5.2.0_iphoneos-arm64.deb
+Size: 423000
+MD5sum: 43c96e0985f44a5ac42ae5ae2cd5f738
+SHA1: 6f52977cac25ae31bfc6f9da8774a5d93d80c017
+SHA256: 1f0ff42730dcc7fc582a956d559456f4c07f779f031f0ed644a1519dc251e792
+Section: 插件
+Description: 自定义锁头最终版本，去掉无用选项
 Author: Maxwell Dausch
+Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
 Name: Latchkey
 
 Package: me.luki.canna
