@@ -253,19 +253,19 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 718
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./debs/com.cydiageek.springanimations_1.1.1_iphoneos-arm64.deb
-Size: 54838
-MD5sum: a3bad59305761d8bec647f13e062f7b1
-SHA1: 6925137afc8ee6a5f3e3ffb46b9b41350e54075b
-SHA256: 28095e6a9211675aad3801b85b405d457578b794c37f1d43b651eb07961fd924
-Section: Tweaks
+Size: 55000
+MD5sum: 35ae3a52b0dc3c14e00f416e27fd8880
+SHA1: 852e818c439d090102e918a66f2cf0dc9826bc8c
+SHA256: 071fb2cf1c5df6430681de8fdb48c1b2961e72d757ae9992576291d919e30265
+Section: 插件
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
-Description: Nice SpringBoard Animations Effects on iOS 11-15!
+Description: Nice SpringBoard Animations Effects on iOS 11-16!（并非如此）
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
 Dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/SpringAnimations.bundle/SpringAnimations@2x.png
+Icon: https://s1.imagehub.cc/images/2025/01/02/2e8e660f3ed5b8c7c120442abc941670.png
 Name: SpringAnimations
 Sponsor: thebigboss.org <http://thebigboss.org>
 
