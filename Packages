@@ -921,6 +921,26 @@ Author: Maxwell Dausch
 Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
 Name: Latchkey
 
+Package: me.ikghd.pmp
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 792
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Filename: ./debs/me.ikghd.pmp_2.0_iphoneos-arm64.deb
+Size: 54508
+MD5sum: 925f7afbd798e7f10b27a8269936ee8b
+SHA1: 6e62bfdb0e718ed573ce7b4d67660dd76aef8753
+SHA256: c55f5fe7111eadd22f1dc697c3c3478658308f52885293f5596d4ff65703225b
+Section: 插件
+Description: 控制中心开启，一键隐藏所有照片，有微小bug。
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios17.8
+Author: iKarwan <ikghd3@gmail.com>
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+Name: PMP
+
 Package: me.luki.canna
 Version: 0.9.0
 Architecture: iphoneos-arm64
