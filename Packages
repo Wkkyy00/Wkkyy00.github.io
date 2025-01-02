@@ -399,13 +399,14 @@ Maintainer: gilshahar7, 0xkuj
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debs/com.gilshahar7.dndmyrecording_1.3_iphoneos-arm64.deb
-Size: 6956
-MD5sum: 4c7ca615f6bcaa79434348023dd61395
-SHA1: 5281e68057ad7adce76fff8f293bc38df83a5e84
-SHA256: 6e3e66cb9d82a749d720d07dad002ea1879c4297384566aee966ba4ea5977166
-Section: Tweaks
+Size: 7004
+MD5sum: 17452cf266e3680a2cd9bcd6e569854c
+SHA1: de9d82b24d8199862a12145f301345a7d5ddb23a
+SHA256: 099cee369337823b3e3ed2bc9c209339bf6d9155e23911f0cafb2d102994aa37
+Section: 插件
 Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏！（录屏结束自动关闭）
 Author: gilshahar7, 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
 Package: com.ichitaso.hidekbsettings
