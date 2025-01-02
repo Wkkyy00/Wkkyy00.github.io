@@ -529,14 +529,15 @@ Architecture: iphoneos-arm64
 Maintainer: Muirey03
 Installed-Size: 2404
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11)
-Filename: ./debs/Cr4shed_COIPC_Dopamine.deb
-Size: 215200
-MD5sum: 0a0f462184c86841d9882fc7d91240a3
-SHA1: fe356ddb7909a81bd3ed912a41e4183456633963
-SHA256: 5f6ea0dbe219f02fc2132d92def8a56e010abbb3567b2b0575039fb88cc5ed3a
-Section: Tweaks
+Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
+Size: 198096
+MD5sum: 1672626f875a8cb1433ec766afdba265
+SHA1: 1f46342e03d422a2a55a3f48e466a1e484666313
+SHA256: f0da93bc089a1c447ee49e14c2cb3849287f6920c5c57929d15ff3cdfe6d2b4a
+Section: 插件
 Description: A modern crash reporter for iOS
 Author: Muirey03
+Icon: https://s1.imagehub.cc/images/2025/01/02/f5684356c83ac8764bc1d78d001a41b9.png
 Name: Cr4shed
 
 Package: com.nahtedetihw.nowidgetlabels.lans233
