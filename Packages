@@ -382,14 +382,15 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/播放媒体时来通知静音.deb
-Size: 3784
-MD5sum: 0613a5f86570da73738cbacc7ed934bf
-SHA1: 584d3ff2776046df25e450dc1f2159d2821e3b9c
-SHA256: 3cc70148e033c333dd137e7172bdfe285e856a95f48232cd7c8c9cdac0c3048c
-Section: Tweaks
-Description: 播放媒体时，保持通知静音。
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64.deb
+Size: 3848
+MD5sum: b307b12bf756a89a536ab44fcc8ea975
+SHA1: d161d4778a5720e6601e7e1c919f55379183a046
+SHA256: 159cf1ef0819723e1e763a109218e1d9798e1e91d94c41c3b00887e3c8000492
+Section: 插件
+Description: 播放媒体时，保持通知静音，开源项目。
 Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
 Name: SilentNotifs
 
 Package: com.gilshahar7.dndmyrecording
