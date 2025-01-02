@@ -680,6 +680,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/opa334/icon.png
 Name: opa334
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
 
+Package: com.p2kdev.quitall
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 440
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.quitall_1.0_iphoneos-arm64.deb
+Size: 32940
+MD5sum: 0cf53954fefa5facb4132fa3330ada7a
+SHA1: 4f3c8064abeba8d4e512945e12420b1815e027cb
+SHA256: 3e39e929bc5c19b286a7b3914c96659ae89dd36162a1c2d2fcad50e19a842b0a
+Section: 插件
+Description: 后台卡片下滑杀死所有app，个人认为最好用的一款。支持ios16。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/cf5570aed39475c4a6286b97287fbca1.png
+Name: QuitAll
+
 Package: com.ppcon.wkk
 Version: 0.1
 Architecture: iphoneos-arm64
