@@ -51,23 +51,6 @@ Author: pxcex
 Icon: https://s1.imagehub.cc/images/2025/01/02/f3ff1cc6488043a5a6427886b48df74f.jpeg
 Name: AutoScroll 自动滚动
 
-Package: cn.llld.swipeextenderx
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/cn.llld.swipeextenderx_0.0.2_iphoneos-arm64.deb
-Size: 10408
-MD5sum: 3a1fc3e8bbea05fa31642c66fc7f1d56
-SHA1: 74ce9b30509c8e91ed40c31488774483d36d5c93
-SHA256: 7115200f8b0e3923f20d87de1cf7fbfb2e076931793790ef08c6d6efe0c062ce
-Section: tweaks
-Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
-Author: 来了老弟
-Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderX汉化-rootless
-
 Package: cn.zqbb.musicrotation
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -312,56 +295,6 @@ Description: 真正的iOS系统清理和管理实用程序，默认简体中文�
 Author: Ivano Bilenchi
 Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
 Name: iCleaner Pro
-
-Package: com.dao.noline
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
-Filename: ./debs/com.dao.noline_1.0.1_iphoneos-arm64.deb
-Size: 3816
-MD5sum: 1c9a98260dc9b74f787df0c080176303
-SHA1: 62b061b642c5f2619f247b55b3227ac3accaed08
-SHA256: 877db25e43a287f3ea11fe8d0b62712cef82737887af7c4815e9ca76fbf02892
-Section: tweaks
-Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
-Author: 妖刀
-Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
-Name: PurifyLine
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
-
-Package: com.dao.safarix
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Filename: ./debs/com.dao.safarix_1.3.0_iphoneos-arm64.deb
-Size: 272184
-MD5sum: f3a10922b89f3aa4e81caa49664a26da
-SHA1: d1427090b635aed72da46f9ce5877599e90a962f
-SHA256: 3a53cff3ae6348a486882fa9622a370e6f0484fc6019df69da9cefa073ee8ae1
-Section: tweaks
-Description: Safari多功能增强插件。
-Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
-Name: SafariX
-
-Package: com.dao.tvlock
-Version: 1.2.3
-Architecture: iphoneos-arm64
-Maintainer: Wes <wes.hamster@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
-Filename: ./debs/com.dao.tvlock_1.2.3_iphoneos-arm64.deb
-Size: 34460
-MD5sum: 066763aa91363b3565bfb5fc61614e17
-SHA1: 0a08eb5531d7636d541da51e333ed509cd818954
-SHA256: 70b3e0fdfce2581ea4640e458342deb2bb7a7ce3263ee62a3ecb25f95edfbf5e
-Section: tweaks
-Description: 很棒的老电视关屏动画，根据开源编译，已内置简体中文。
-Author: Wes <wes.hamster@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
-Name: TVLock
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tvlock/js.json
 
 Package: com.daodao.wicellswitcher
 Version: 1.2
@@ -810,25 +743,6 @@ Author: Huayuarc <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/02/116566f5242059bd3a3dd1df06f40afd.png
 Name: 【键盘】隐藏语音图标-Rootless
 
-Package: denyphotoalbumsllld.rootless
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 709
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
-Filename: ./debs/denyphotoalbumsllld.rootless_9.9.9_iphoneos-arm64.deb
-Size: 76440
-MD5sum: 1650d7f61b012a1dff38a8a454f1b595
-SHA1: dae0580d3b23ca21ce579fc7c02e8508fe8a84ec
-SHA256: 58977fa610b4140c23c95dbb673c1ffbe3b05fb81c1659ef43debee939d90ba8
-Section: tweaks
-Priority: optional
-Description: 系统照片增强汉化版自用修改版本
-Author: CydiaGeek
-Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
-Name: Photo pro
-Sponsor: wkk
-
 Package: killapps
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -950,26 +864,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: CoolStar
 Icon: https://s1.imagehub.cc/images/2025/01/02/eb29da5122d8d5215c728f1464880b8a.png
 Name: ClassicFolders 2
-
-Package: recordpauses
-Version: 2.0.4
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Conflicts: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
-Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
-Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
-Filename: ./debs/recordpauses_2.0.4_iphoneos-arm64.deb
-Size: 10172
-MD5sum: 9a7c077ad3d745dc3011f5400ae4130e
-SHA1: 3232b42504bbcbaa5397ab51f7521e823f73ef4b
-SHA256: 98b81ab7addfcda51c685d3f32f8b76fdb9cea851db4964cf0c33ce37dd81ebe
-Section: tweaks
-Description: 录像暂停 Pause/resume video recording in iOS Camera app.
-Author: PoomSmart
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
-Name: 录像暂停 RecordPause
 
 Package: ru.domo.cocoatop64
 Version: 2.2.4
