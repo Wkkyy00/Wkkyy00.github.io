@@ -917,14 +917,15 @@ Maintainer: Luki
 Installed-Size: 288
 Depends: mobilesubstrate
 Filename: ./debs/me.luki.canna_0.9.0_iphoneos-arm64.deb
-Size: 53042
-MD5sum: a7d1199660a90dbb85dbcb6db82f607d
-SHA1: f68df29357e896fab7f467d9464f98ba0879d070
-SHA256: 42c272e0517c88c0ea31f683c3f5414c356d4ea9e5e913be592873d30cd2f0b8
-Section: Tweaks
+Size: 53112
+MD5sum: 3f18a697022d725e5b8b7276d1c53f45
+SHA1: 69f538476240e78cfa3fdca0fd7b2b92ef9c8e97
+SHA256: 9428549297e05045f0e72cb39d4992c4ee8af708a77e8293c9573b539f5422be
+Section: 插件
 Description: iOS 6 (or custom) charging & lock sounds
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
+Icon: https://s1.imagehub.cc/images/2025/01/02/72316e8fbbcf556c190818976d20a473.jpeg
 Name: Canna
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
 
