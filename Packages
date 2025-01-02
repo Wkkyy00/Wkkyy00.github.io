@@ -721,17 +721,18 @@ Installed-Size: 172
 Depends: firmware (>= 14.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | firmware (>= 15.0)
 Conflicts: com.tomaszpoliszuk.applibraryenabler
 Filename: ./debs/com.tomaszpoliszuk.applibrarydisabler_1.1.1_iphoneos-arm64.deb
-Size: 3384
-MD5sum: 94021276687dd3c8f3150f1a25575166
-SHA1: b74e9ce3d3420e87fc16f546dc9ba75de91ece1b
-SHA256: baffe9a1b14a1f21c94eef7d9db35554b1c5ed838712e60ae45fd7b03ea638f4
-Section: Tweaks
+Size: 3412
+MD5sum: 20e8a7cfafbe6281c74a2345248a6d99
+SHA1: 4f0f3e0fad55ec91f7ac717ff0d35a12b1c31007
+SHA256: d71fe33cf45199ea67dde07b9222a6f9c849b9eb4f854c34ffaf340a64cca9eb
+Section: 插件
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
-Description: Turn off App Library（仅禁用资源库且有回弹效果，无设置项）
+Description: 仅禁用资源库且有回弹效果，无设置项。
 Tag: purpose::extension
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
 Dev: tomaszpoliszuk
+Icon: https://s1.imagehub.cc/images/2025/01/02/d9ff7277dd9c0d3c83f0650ddb15b28f.png
 Name: App Library Disabler
 Sponsor: thebigboss.org <http://thebigboss.org>
 
