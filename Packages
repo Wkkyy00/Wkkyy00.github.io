@@ -92,13 +92,14 @@ Installed-Size: 6096
 Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
 Conflicts: com.0xkuj.ccadsbegone
 Filename: ./debs/com.0xkuj.ccadsbegone.rootless_1.5_iphoneos-arm64.deb
-Size: 951962
-MD5sum: 63bd122eacf5cde175f2ab38f29462e5
-SHA1: 7674363538512c79d4d6b4fa371cbdfa0748d86d
-SHA256: 4bec37780f77bd425e834a4291faec45c5b68c37e19a8b5bed949b2c48fb4aaf
-Section: Tweaks
-Description: CC Toggle to block ads on demand!
+Size: 951128
+MD5sum: 730393f36106f5971e8141695a258e98
+SHA1: c923252b27e5e733eb3b62681c43b18e3d44a2bc
+SHA256: 32cba36728bc60096524bf3ef166b4b9791cd8e5ec663f2d8f8584b30f1ca372
+Section: 插件
+Description: CC Toggle to block ads on demand!（目前只支持无根越狱）
 Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/02/31d37211f7e50cbef48fe8b403cb6669.png
 Name: CCAdsBeGone (rootless)
 
 Package: com.0xkuj.ccdnd
