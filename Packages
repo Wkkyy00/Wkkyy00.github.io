@@ -562,21 +562,21 @@ Author: Muirey03
 Icon: https://s1.imagehub.cc/images/2025/01/02/f5684356c83ac8764bc1d78d001a41b9.png
 Name: Cr4shed
 
-Package: com.nahtedetihw.nowidgetlabels.lans233
+Package: com.nahtedetihw.nowidgetlabels
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: ETHN <ethanwhited2208@gmail.com>
-Filename: ./debs/com.nahtedetihw.nowidgetlabels.lans233_1.0_iphoneos-arm64.deb
-Size: 3668
-MD5sum: ea37563f3d7078dc82bebd329f4972cb
-SHA1: 9dc499f8f8bc2526904556f7a26bd5ad18190f49
-SHA256: 58c75ea3b0791e0f8f35bffb5f4dc9945d7b6fa4bb9f7f0d8a21b70b856873f0
-Section: Tweaks
-Description: 能够隐藏小组件的标题，仅支持14至16.2版本
+Filename: ./debs/com.nahtedetihw.nowidgetlabels_1.0_iphoneos-arm64.deb
+Size: 3620
+MD5sum: 9f579afe15fec78743cff3538741a7ef
+SHA1: 9069432f2c18db873ba69b21be240f17f4b87a5b
+SHA256: c484b30409ea29e9dfef31e3813c507b1a59e711b391fd3e3460e261ef3e1437
+Section: 插件
+Description: 能够隐藏小组件的标题
 Tag: role::enduser
 Author: ETHN <ethanwhited2208@gmail.com>
 Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.nowidgetlabels-rootless/icon.png
-Name: NoWidgetLabels隐藏小组件标题
+Name: NoWidgetLabels
 Someotherentrytocontrol: True
 Tags: compatible_min::ios14.0, compatible_max::ios16.2
 
