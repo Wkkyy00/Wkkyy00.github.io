@@ -667,6 +667,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/opa334/icon.png
 Name: opa334
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
 
+Package: com.ppcon.wkk
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2064
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.ppcon.wkk_0.1_iphoneos-arm64.deb
+Size: 309360
+MD5sum: 1e56749a6afb8ead4b8560636d1632f8
+SHA1: 7fef1754b81607834327c998322a42f6f0c4bef9
+SHA256: e64bf7e0cdb468c637df7381bdaa9a001bae892f82cef102b0621458ee104e7e
+Section: 控制中心
+Description: 为小学狗修改的控制中心花里胡哨（其他人勿下载）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/8247520f0478239e0642f25902273695.png
+Name: wkk for 花里胡哨控制中心
+
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.1~2
 Architecture: iphoneos-arm64
