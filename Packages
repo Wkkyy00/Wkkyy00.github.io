@@ -778,6 +778,21 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/d9ff7277dd9c0d3c83f0650ddb15b28f.
 Name: App Library Disabler
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.wkk.kbapp
+Version: 1.5
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.kbapp_1.5_iphoneos-arm64.deb
+Size: 806692
+MD5sum: d2525f3c21f09941271ba156fa173a31
+SHA1: c246eefa937d3650102c3e60989e781dd3f9f740
+SHA256: 0ac58e2b313f23d62f8a59d9ddfe00cca715883b9a92ee369079c4d4064f2cac
+Section: 插件
+Description: 在键盘底部添加快捷按钮或者App
+Author: wkk
+Icon: https://axs66.github.io/repo/icon/kbapp.png
+Name: Add app below keyboard
+
 Package: com.wkk.ocd5
 Version: 5.4.1.0
 Architecture: iphoneos-arm64
