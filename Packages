@@ -481,14 +481,14 @@ Maintainer: Crassna
 Installed-Size: 1948
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: ./debs/com.lecard.wuyu_0.1_iphoneos-arm64.deb
-Size: 408846
-MD5sum: 94c33650a1299131ff88eb0beaf21517
-SHA1: 2feec0eb838d180d5565520ca69cc0feb301a873
-SHA256: 6637dfd3b9c5aca70e748399b89a5c27c3f5fdbc3b9ba7de78448c7dc9163b26
-Section: Tweaks
-Description: Jailbrea!
+Size: 409156
+MD5sum: 3215560992c4b6e74df50852017a1a19
+SHA1: ec3586dde832b92794929fe26cb395269191c78d
+SHA256: afadb619505922ec8231ef56acadcb73b515ba544b36958a54e940d4a0880f1e
+Section: 插件
 Author: Crassna
-Name: aiBreak
+Icon: https://s1.imagehub.cc/images/2025/01/02/ecc8ba80e4b7bb57dda203e739816497.jpeg
+Name: Applecard
 
 Package: com.liuf.ceshi
 Version: 0.0.1
