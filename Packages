@@ -74,14 +74,15 @@ Architecture: iphoneos-arm64
 Maintainer: zqbb
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/控制中心播放器加快版0.0.3_iphoneos-arm64.deb
-Size: 7802
-MD5sum: cb90bc9e26792e7cb6406a9a50c05bf6
-SHA1: da020e7b4256a20a711d383aa4aba587780818e0
-SHA256: 045b8751b8ae07c7513a2ed814f727b31f0d5f474853a767818b58515f7ca9cd
-Section: Tweaks
+Filename: ./debs/cn.zqbb.musicrotation_0.0.3_iphoneos-arm64.deb
+Size: 8008
+MD5sum: 60893d8286f86aa3ce8daa7694295328
+SHA1: 0d3985f7eead1215c2fe386f7a197365f04c0d51
+SHA256: 052a25f3bc169f7f8cc0cd011983bffb853c0f2478a667b23b656480dbb83d3e
+Section: 插件
 Description: An awesome MobileSubstrate tweak!
 Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/02/a2c35da350e7d354fc9b2cc9df5a7db5.jpeg
 Name: 音乐旋转
 
 Package: com.0xkuj.ccadsbegone.rootless
