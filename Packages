@@ -431,6 +431,21 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
+Package: com.gravitation
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/com.gravitation_0.0.1_iphoneos-arm64.deb
+Size: 75432
+MD5sum: ed0eecb9af32c26c5f1b9127fed36804
+SHA1: b93c1c37ca5cd39a3703eea60949a034c4c22757
+SHA256: bd2f21deffbd8bd048a4594b183ff6a9f70148faaf86829ecbfaa0477d5337fb
+Section: 插件
+Description: 桌面晃动手机图标则会抖动下落。
+Author: Kritanta
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/gravitation.png
+Name: Gravitation
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
