@@ -515,14 +515,15 @@ Architecture: iphoneos-arm64
 Maintainer: liuf <(null)>
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/系统键盘圆角.deb
-Size: 3680
-MD5sum: db23c5f573186f1b929cd3873b9004fe
-SHA1: 1cb96326ccad40bf178a070f52f296935eb5dfca
-SHA256: c02b3cd8681f8e9d52202b0f303d27e4e189370e440a2288d0fc41c3f68fe0e6
+Filename: ./debs/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
+Size: 3732
+MD5sum: 2e375f73d7d05de5c0b67f2e92c9d295
+SHA1: 63a386e77f80e12d19399ee1929f0637a810cc5d
+SHA256: bde10b68a6415ca41086fc9661493e550d146a179b4c56ca9bdd175896772e06
 Section: Tweaks
 Description: 系统键盘圆角
 Author: liuf <(null)>
+Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
 Name: 系统键盘圆角
 
 Package: com.muirey03.cr4shed
