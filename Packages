@@ -175,13 +175,14 @@ Maintainer: baiy <QQ：961666883>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.baiy.qqroundedcorners_1.3_iphoneos-arm64.deb
-Size: 3448
-MD5sum: 3abf1f433d3cd410a2d69ae280af423a
-SHA1: 793c46112425a0e154d2b7fc7199edeeb1261233
-SHA256: 511d97b04e27162332ead7cee998de178ca5b23f78b7bce889c55c046aba82d1
-Section: Tweaks
+Size: 3584
+MD5sum: db119e9ace18d337d560a2790d9df48d
+SHA1: dcff5aac8ccbdd3f7529d95fe81acfec3a47442e
+SHA256: 3b082f4ef47ac801d768f73616e34a9fb6697674fa462f8d03891ef3ce3e9188
+Section: 插件
 Description: 自用小插件，修改输入框.圆角样式，输入框加入边框，搜索框为圆角，无设置项安装即可生效。
 Author: baiy <QQ：961666883>
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: qq输入框圆角
 
 Package: com.brend0n.nopassafterrespringsafe
