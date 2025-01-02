@@ -276,19 +276,19 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 447
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debs/com.cydiageek.tinticonlabel_1.0.5_iphoneos-arm64.deb
-Size: 66998
-MD5sum: f0ca4bc35affe0d566e91aa502e32740
-SHA1: 61ac09836947f235a67191bab908ea922d46d71d
-SHA256: 4591dca67c8c9eef3b3703bfe5b68d72e599b0a3c9d264042dbd0192d39b0018
-Section: Tweaks
+Size: 67136
+MD5sum: 380a5dfaf8cff41c0c6e82a7f21335b4
+SHA1: e0e4bb6a25c513c128e7ebfbe0ae9a271f08d54b
+SHA256: e9ea1b6470e7873b501c907800806f2d2e13d139e059f45c7703513b59034ca9
+Section: 插件
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tinticonlabelDp
-Description: Custom Colors for your Icons Labels!
+Description: 自定义图标标签颜色
 Tag: purpose::extension
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tinticonlabelDp
 Dev: lucaluca86
-Icon: file:///var/jb/Library/PreferenceBundles/TintIconLabel.bundle/TintIconLabel@2x.png
+Icon: https://s1.imagehub.cc/images/2025/01/02/a2c50494115bb77d04956d94c4728f76.png
 Name: TintIconLabel
 Sponsor: thebigboss.org <http://thebigboss.org>
 
