@@ -1096,6 +1096,22 @@ Author: Skitty
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
 Name: LightsOut
 
+Package: wkk.zeppelinreborn
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/zeppelinreborn_1.4.deb
+Size: 2980552
+MD5sum: 45551f5f3115948c8751598edcf96a67
+SHA1: 48af2d62a8b9ca9ee9450faf496861cb0394180c
+SHA256: a783a032ca03f9cd9c79220535390504c3e81439acfd365e18ee6a8eef450923
+Section: 插件
+Description: 在运营商文本或时间旁边添加图像或GIF
+Author: Hitori
+Icon: https://s1.imagehub.cc/images/2025/01/02/62018602797b84692ed3c618df96373d.jpeg
+Name: Zeppelin Reborn
+
 Package: xiaochouzhenhoutai.wkk
 Version: 0.1.0
 Architecture: iphoneos-arm64
