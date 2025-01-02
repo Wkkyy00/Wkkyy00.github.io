@@ -431,25 +431,6 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
-Package: com.hitori.zeppelinreborn
-Version: 1.4.2
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 3100
-Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
-Provides: com.alexzielenski.zeppelin
-Filename: ./debs/com.hitori.zeppelinreborn_1.4.2_iphoneos-arm64.deb
-Size: 1536196
-MD5sum: ee5cd0946552a12f2a3091c79c4a0b66
-SHA1: 2f23378aeb21839daf5a151f54863bcb21affb81
-SHA256: 975cc4646d7c887135cb432f5908ec602f0a8b3c14c99da8599ee8bfee133c86
-Section: Tweaks
-Description: Adds an image or GIF next to the carrier text or time!
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://s1.imagehub.cc/images/2025/01/02/62018602797b84692ed3c618df96373d.jpeg
-Name: Zeppelin Reborn
-
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
