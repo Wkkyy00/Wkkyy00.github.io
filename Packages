@@ -778,6 +778,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/d9ff7277dd9c0d3c83f0650ddb15b28f.
 Name: App Library Disabler
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.udevs.vpnindicator
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: udevs, squidforce
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.udevs.vpnindicator_1.2.0_iphoneos-arm64.deb
+Size: 63440
+MD5sum: b8a28f70db4d2d9875af84fbf5daf0b4
+SHA1: 4a70ee8a1d8a7ddbf87309d2049c9b7008a9a35e
+SHA256: b6bedeb47648ce322ed856d157654c0c6b8743cc411eeb64704506561777e7f9
+Section: 插件
+Description: 打开vpn时wifi或者数据变色。
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator
+
 Package: com.wkk.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
