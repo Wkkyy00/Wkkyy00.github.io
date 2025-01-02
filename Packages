@@ -1027,6 +1027,23 @@ Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
+Package: wkk.skitty.lightsout
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/wkk.skitty.lightsout_1.2_iphoneos-arm64.deb
+Size: 56108
+MD5sum: fdf258405a5d3f2ef56ee749bc848a5f
+SHA1: e6b8f20852bc2ebed3577d92748d39bd6923866b
+SHA256: a6f115df7382a1810a480911e021b57ae97819ba95b96f28c038b9433c3d48db
+Section: 插件
+Description: 使用光线传感器自动切换深色模式
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+
 Package: xiaochouzhenhoutai.wkk
 Version: 0.1.0
 Architecture: iphoneos-arm64
