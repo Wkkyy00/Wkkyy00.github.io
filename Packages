@@ -153,6 +153,23 @@ Author: 0xkuj
 Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
+Package: com.82flex.noredirect
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 572
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/com.82flex.noredirect_1.3_iphoneos-arm64.deb
+Size: 44148
+MD5sum: 9c0559924f5892ff04ebefe9b8b71c20
+SHA1: 15e58960c5cb6b578a66a61dac15750ca28c2e6f
+SHA256: 47ea1a8a6e221a1efa01cc390411b3b2a90309b6240c1f16d432302cf5dd0679
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/03/b4214b8460d298d8cfae18fcb327106d.png
+Name: No Redirect
+
 Package: com.82flex.singlemute
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -866,6 +883,22 @@ Author: CydiaGeek
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: Photo pro
 Sponsor: wkk
+
+Package: jp.soh.freepip
+Version: 0.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jp.soh.freepip_0.0.3-1_iphoneos-arm64.deb
+Size: 6436
+MD5sum: b3ebc197d00de4d0efa18d44fb5ffeda
+SHA1: 261894f30792c470d74d7c23a52fa118a28f229b
+SHA256: b01e09e9ede05356513270940df126c77fcf3149a47b7061127e72a19b2729e8
+Section: Tweaks
+Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode. 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
+Author: Soh Satoh
+Name: FreePIP
 
 Package: killapps
 Version: 1.2-2
