@@ -476,6 +476,23 @@ Icon: https://i.imgur.com/bNyKUSs.png
 Name: RingerToggle (CCSupport)
 Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
+Package: com.keyswipe-rootless
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: CyPwn <xuanhua880@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe, xyz.cypwn.keyswipe
+Filename: ./debs/com.keyswipe-rootless_1.0.2_iphoneos-arm64.deb
+Size: 13136
+MD5sum: 22d876b5ffa6d60fa65427479ccf0fdc
+SHA1: cc2b853ce5ebdcc612faa5959954636d257e6bd0
+SHA256: df981b5f77f89031e0ac013024d6b070b1c33aae4424bd91bacd3eec194b15db
+Section: 插件
+Description: 通过向上/向下滑动更改键盘
+Author: Delewhopper & julioverne <xuanhua880@gmail.com>
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/keyswipe.png
+Name: KeySwipe-Rootless
+
 Package: com.lclrc.recordanywhere
 Version: 1.1.0
 Architecture: iphoneos-arm64
