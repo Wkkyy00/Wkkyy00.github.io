@@ -891,13 +891,14 @@ Maintainer: Soh Satoh
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/jp.soh.freepip_0.0.3-1_iphoneos-arm64.deb
-Size: 6436
-MD5sum: b3ebc197d00de4d0efa18d44fb5ffeda
-SHA1: 261894f30792c470d74d7c23a52fa118a28f229b
-SHA256: b01e09e9ede05356513270940df126c77fcf3149a47b7061127e72a19b2729e8
-Section: Tweaks
-Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode. 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
+Size: 6356
+MD5sum: 98a8c2e324154ee66650c061297cfe66
+SHA1: d2f387ffe89da8204ef3e3d72517207b053bb5c0
+SHA256: d929e4f0700732ac64aa0dab546a1a482db99dc29f0690910cc75b3bf73dc47e
+Section: 插件
+Description: 解锁画中画限制，双指随意放大，无设置项。
 Author: Soh Satoh
+Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
 Name: FreePIP
 
 Package: killapps
