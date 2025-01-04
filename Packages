@@ -1211,6 +1211,24 @@ Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
+Package: twitter.nowesr1.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/twitter.nowesr1.photosplus_0.0.1_iphoneos-arm64.deb
+Size: 26484
+MD5sum: b9f714a76d9b934190c00862a53e8672
+SHA1: d4ffda39b99fa1590d5c536c27255572d5188c36
+SHA256: 4b15870ca0ed9a1913cbb8697978f337ceb220ce2785c28d4e66fe4fe4d6c8d7
+Section: 插件
+Description: 播放设置：循环播放视频 取消视频静音。   标签栏设置：隐藏图书馆标签页 隐藏为你推荐标签页 隐藏搜索标签页 隐藏分享标签页。个人觉得还不错！
+Author: nowesr1 <nowe9r@hotmail.com>
+Dev: nowesr1
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
+Name: PhotosPlus
+
 Package: wkk.skitty.lightsout
 Version: 1.2
 Architecture: iphoneos-arm64
