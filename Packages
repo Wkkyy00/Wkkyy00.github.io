@@ -859,23 +859,6 @@ Author: wkk
 Icon: https://axs66.github.io/repo/icon/kbapp.png
 Name: Add app below keyboard
 
-Package: com.wkk.nb
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 220
-Depends: mobilesubstrate
-Filename: ./debs/com.wkk.nb_1.0_iphoneos-arm64.deb
-Size: 28244
-MD5sum: 93034b4bd7b0830b17a442e80986d478
-SHA1: feb890cfdbe3a58d1447f9c4274515f9519a818e
-SHA256: 303cf804ef920cd80254c7cc2bdec08f12902401d02bde8cd9a5bf37ed6cd694
-Section: 插件
-Description: 🔓解锁美颜相机会员，测试版本：12.4.00
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/05/435fbbf7c3dbec70b85e5c0f013075b6.png
-Name: 美颜相机
-
 Package: com.wkk.ocd5
 Version: 5.4.1.0
 Architecture: iphoneos-arm64
