@@ -592,6 +592,23 @@ Author: Muirey03
 Icon: https://s1.imagehub.cc/images/2025/01/02/f5684356c83ac8764bc1d78d001a41b9.png
 Name: Cr4shed
 
+Package: com.nahtedetihw.doodle
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 4064
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.doodle_1.2_iphoneos-arm64.deb
+Size: 3577652
+MD5sum: a5e0fd767ace19bf3e15dbb448ea5559
+SHA1: c381df8d5eee54be0b647a5b8b8bc2d353722ef9
+SHA256: 0f821ef4911178321b551bfa1411f2f09645f12f3fb807f3f2e7b5d248ddf5f6
+Section: 插件
+Description: 可以手绘各种图案解锁手机！
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/01/04/08ed318e79392b5cb8c75077777076dd.png
+Name: Doodle
+
 Package: com.nahtedetihw.nowidgetlabels
 Version: 1.0
 Architecture: iphoneos-arm64
