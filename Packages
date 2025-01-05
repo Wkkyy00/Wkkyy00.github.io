@@ -947,6 +947,38 @@ Author: yan
 Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
 Name: Stella
 
+Package: com.yourepo.arm64-debs.settingswidgets
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: shepgoba <arm64.deb@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.yourepo.arm64-debs.settingswidgets_1.2.2_iphoneos-arm64.deb
+Size: 73228
+MD5sum: 4ec5fd5c100599378db3d5784210f3fc
+SHA1: 43bc104a27ca0d24d56f8c0f597f982787ebcad8
+SHA256: 408dd7a8ae10fb5674e9008b5058463d26f28e09805a0f157a33c892da6ed105
+Section: 插件
+Description: 将美观的小部件带到设置的顶部。
+Author: shepgoba <arm64.deb@icloud.com>
+Icon: https://raw.githubusercontent.com/BarabaVip/Baraba/refs/heads/main/SettingsWidgets.png
+Name: SettingsWidgets
+
+Package: com.yourepo.arm64-debs.uiextensionswitches
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Baraba <arm64.deb@icloud.com>
+Depends: com.spark.snowboard.ui, com.spark.snowboard, firmware (>= 12.0)
+Filename: ./debs/com.yourepo.arm64-debs.uiextensionswitches_2.3_iphoneos-arm64.deb
+Size: 1197352
+MD5sum: 98794eeaca0e11a468337f21592c91c4
+SHA1: d65d7dd4401fb2bc675a034c57335747a64fa4f3
+SHA256: 23153d8f3a6c344ebb358cfc31b46930c4af1586befe9cf1903f45198a183de2
+Section: 插件
+Description: 一款好看的开关扩展 需要snowboard
+Author: Baraba <arm64.deb@icloud.com>
+Icon: https://raw.githubusercontent.com/BarabaVip/Baraba/refs/heads/main/on_off.png
+Name: UI Extension Switches
+
 Package: com.yourepo.huayuarc.-rootless16
 Version: 0.0.1
 Architecture: iphoneos-arm64
