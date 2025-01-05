@@ -986,21 +986,6 @@ Sponsor: wkk
 
 Package: com.wkkyy0.qipao
 Version: 1.0
-Architecture: iphoneos-arm64e
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkkyy0.qipao_1.0_iphoneos-arm64e.deb
-Size: 6508
-MD5sum: bc5be98c5f14fd9d4d0ac2282afd8452
-SHA1: aa47330f0f7e56afcd15da31a60234fe70550db6
-SHA256: 5d2898fa0279cebc6487ea753caa22c804448d6100620ecf24e8fa291e4f2985
-Section: 插件
-Description: 下载后，文件在目录/var/mobile/Documents/气泡终端.sh 自行使用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/06/7f804617253aa3dd6438a9b02de33cc1.png
-Name: 气泡终端
-
-Package: com.wkkyy0.qipao
-Version: 1.0
 Architecture: iphoneos-arm64
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkkyy0.qipao_1.0_iphoneos-arm64.deb
