@@ -916,6 +916,23 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator
 
+Package: com.wkk.dockshowlabels
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/dockshowlabels_1.0.deb
+Size: 3868
+MD5sum: 8c625daf275e9d638a1ee54111face1a
+SHA1: 5979df172985cf5bb7cd7ecaf0ebc705ed6b89eb
+SHA256: 78a8fa948faf065738d4123802f50c77f548131f70d9865e33c58998afaf14d2
+Section: 插件
+Description: 在Dock栏下面显示软件名称，无设置项。
+Author: CydiaGeek
+Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.png
+Name: Dock显示app名称
+Sponsor: wkk
+
 Package: com.wkk.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
