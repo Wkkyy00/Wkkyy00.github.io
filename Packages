@@ -984,6 +984,21 @@ Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.
 Name: SmartNetwork
 Sponsor: wkk
 
+Package: com.wkkyy0.qipao
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkkyy0.qipao_1.0_iphoneos-arm64.deb
+Size: 6632
+MD5sum: 68bd543840aeaaa68bd3e492f43b656d
+SHA1: 7ce51aed7f4ad4f32dd34355ced6551162e803d2
+SHA256: 2d3dded104a9ccc745108cd8455554d86f441265ba073b1815ea2dc64c4c53cd
+Section: 微信插件
+Description: 无根越狱下载后，文件在目录/var/mobile/Documents/气泡终端.sh 自行食用。隐根越狱下载后，不要转换！不要转换！打开目录/var/containers/Bundle/Application/.jbroot-XXXXXXXXXXXXX/tmp/目录下，找到com.wkkyy0.qipao.deb解压，即可食用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/06/7f804617253aa3dd6438a9b02de33cc1.png
+Name: 微信气泡制作终端1.0
+
 Package: com.yan.stella
 Version: 1.0.5
 Architecture: iphoneos-arm64
