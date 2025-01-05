@@ -998,6 +998,22 @@ Author: Baraba <arm64.deb@icloud.com>
 Icon: https://raw.githubusercontent.com/BarabaVip/Baraba/refs/heads/main/on_off.png
 Name: UI Extension Switches
 
+Package: com.yourepo.cydiageek.nochargingsound
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.cydiageek.nochargingsound_0.0.1_iphoneos-arm64.deb
+Size: 3216
+MD5sum: 9d3ac4c837b7a17876a8f4409cd7a24e
+SHA1: 8b9abb2cb05104e8e352c4806ef79acebc82735c
+SHA256: cdf79d88662d2f776691889e1bd25ae655b5a2f05089d54826d12f7bef797206
+Section: 插件
+Description: 充电器连接到设备时禁用声音/振动，无设置项。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/05/88e9e30fb0e2ed87767b4d3280c200e1.png
+Name: 禁用充电声音
+
 Package: com.yourepo.huayuarc.-rootless16
 Version: 0.0.1
 Architecture: iphoneos-arm64
