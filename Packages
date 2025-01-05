@@ -965,6 +965,25 @@ Author: b4db1r3 <nfive060@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: OCD5
 
+Package: com.wkk.smartnetwork
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 1272
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
+Conflicts: com.eliassfeir.smartnetwork
+Filename: ./debs/smartnetwork_1.0.deb
+Size: 286296
+MD5sum: 5df5c5fd45ed3ebc15b4f3b8500d95ac
+SHA1: 6609de3c550f9395d13a7576ac652b99c5f45cad
+SHA256: 4ed38c9206782fd9053f2c01f5332f9d4fbf6792b73c2a2417961b235727095a
+Section: 插件
+Description: 可以信任当前网络/蓝牙等，直接解锁手机，其他的功能自己研究。
+Author: elias
+Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.png
+Name: SmartNetwork
+Sponsor: wkk
+
 Package: com.yan.stella
 Version: 1.0.5
 Architecture: iphoneos-arm64
