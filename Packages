@@ -845,6 +845,25 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/d9ff7277dd9c0d3c83f0650ddb15b28f.
 Name: App Library Disabler
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.tomaszpoliszuk.dockcontroller
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 409
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.tomaszpoliszuk.colorpickerwell, com.chpwn.iconsupport | firmware (>= 13.0)
+Filename: ./debs/com.tomaszpoliszuk.dockcontroller_2.0_iphoneos-arm64.deb
+Size: 62592
+MD5sum: b84f55854122514ae58075d1ce121da1
+SHA1: 75f7aa164c144020e351bf5da1d553287c720b3b
+SHA256: 12d2a5ca4671433c2491c99be0bd07805cbacd619fb6637e6fa95e75bfcba5a8
+Section: 插件
+Description: 功能最全的dock栏插件，具体有哪些功能自己研究。
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Dev: tomaszpoliszuk
+Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.png
+Name: 优雅dock
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.udevs.vpnindicator
 Version: 1.2.0
 Architecture: iphoneos-arm64
