@@ -984,38 +984,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.
 Name: SmartNetwork
 Sponsor: wkk
 
-Package: com.wkkyy0.qipao
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkkyy0.qipao_1.0_iphoneos-arm64e.deb
-Size: 6568
-MD5sum: 7ea887ceb524f95791fb484e22407c12
-SHA1: bc51a1fa711991d21b83c80250cb9020a332b165
-SHA256: fc033c6970a88fa2463803738c8c0d3fefd1af9a76876968c8ffae177f75003e
-Section: 微信插件
-Description: 无根越狱下载后，文件在目录/var/mobile/Documents/气泡终端.sh 自行食用。隐根越狱下载后，文件在目录.jbroot-XXXXXXXXXXXXX/var/mobile/Documents/目录下 自行食用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/06/7f804617253aa3dd6438a9b02de33cc1.png
-Name: 微信气泡制作终端1.0
-
-Package: com.wkkyy0.qipao
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkkyy0.qipao_1.0_iphoneos-arm64.deb
-Size: 6568
-MD5sum: 475f8ac325321429417515afaa11a9cd
-SHA1: 1410158ad27e8b80a30216d491fb0052ea4db8f2
-SHA256: 6e0c77101b7acdd207a2977ec01026cfd9569aa2460f0328594580485b6286f1
-Section: 微信插件
-Description: 无根越狱下载后，文件在目录/var/mobile/Documents/气泡终端.sh 自行食用。隐根越狱下载后，文件在目录.jbroot-XXXXXXXXXXXXX/var/mobile/Documents/目录下 自行食用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/06/7f804617253aa3dd6438a9b02de33cc1.png
-Name: 微信气泡制作终端1.0
-
 Package: com.yan.stella
 Version: 1.0.5
 Architecture: iphoneos-arm64
