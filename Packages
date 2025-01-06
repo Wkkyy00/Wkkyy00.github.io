@@ -803,6 +803,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
 Name: ShowMyTouches
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
 
+Package: com.sini921.showmytouches
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sini921.showmytouches_1.2.1_iphoneos-arm64.deb
+Size: 82768
+MD5sum: 7f3bacf6160bb4b04b7259b32f41cf80
+SHA1: 11e051b1f78ae139107a71df79689a70834d38b9
+SHA256: 1922b3d6dea4703f3e2aeb182c515437db5510cfba57278f7ada1bec7a5c49e5
+Section: 插件
+Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
+Name: ShowMyTouches
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
+
 Package: com.sop.killapps
 Version: 1.7.8
 Architecture: iphoneos-arm64
