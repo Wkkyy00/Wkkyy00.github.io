@@ -1,0 +1,10 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius":10,
+    "banners": [
+        {
+            "url": "http://Wkkyy00.github.io/repo/images/jailbreak.png",
+        },
+    ]
+}
