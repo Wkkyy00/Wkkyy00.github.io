@@ -1034,6 +1034,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/7f804617253aa3dd6438a9b02de33cc1.png
 Name: 微信气泡制作终端1.0
 
+Package: com.wkkyy0.weixinqipao
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkkyy0.weixinqipao_1.0_iphoneos-arm64.deb
+Size: 90208
+MD5sum: 59c814dc113103e2bc53f5cb5904c784
+SHA1: 361d84f4d08c81a04afe549cd39b1ec3d0073d66
+SHA256: c8ec23143774245770793458a133767a955f7bb41ac47594a7d94aa2653acdb0
+Section: 微信插件
+Description: 下载后文件在目录/var/mobile/Documents/红包气泡.zip 解压后结合主题盒子或者微信助手等插件食用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/06/f8b5f882408f89e4f3981df64e1f9e4f.png
+Name: 红包气泡1.0
+
 Package: com.yan.stella
 Version: 1.0.5
 Architecture: iphoneos-arm64
