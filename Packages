@@ -916,6 +916,24 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator
 
+Package: com.wechat.xuanzhuan
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 搬wkk
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.xuanzhuan_0.0.1.deb
+Size: 4928
+MD5sum: 6b797b80dd19bd384e4e2e1f4fbfc334
+SHA1: 8e78ebe1660865070f2cd4a853a52ae6fc0ad728
+SHA256: 1998f416d085e390d892ea1f4b859ec4870e3940bce92d8e3d94bcd907b283c2
+Section: 微信插件
+Description: 安装之后你的微信好友头像会变成圆形，然后旋转起来。
+Author: xybp888
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信头像旋转
+Sponsor: wkk
+
 Package: com.wkk.dockshowlabels
 Version: 0.0.1
 Architecture: iphoneos-arm64
