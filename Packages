@@ -463,6 +463,23 @@ Author: Kritanta
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/gravitation.png
 Name: Gravitation
 
+Package: com.hidenotificationbadge
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Filename: ./debs/com.hidenotificationbadge_0.0.1.deb
+Size: 2904
+MD5sum: c3fe1fb1d055a95135de7f06c8f35456
+SHA1: dc812a58594823e590ef3a0e8dcc3ba28b1590e0
+SHA256: 6520879009450eb0e6e6e1a322bc9db78ce34bce7ff899994b7433cc18f46b61
+Section: 插件
+Description: 隐藏通知图标中右下角标。
+Author: SquidForce
+Icon: https://s1.imagehub.cc/images/2025/01/07/6ef6711ca9293ce5daa41999cd7491a4.jpeg
+Name: HideNotificationBadge
+Sponsor: wkk
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
