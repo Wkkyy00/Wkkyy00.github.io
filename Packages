@@ -332,6 +332,24 @@ Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
+Package: com.cutestatusbar
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.cutestatusbar_1.0.deb
+Size: 25192
+MD5sum: feb68963a813caab0027aec0a383bcb7
+SHA1: 5042ab27d271d93c640c28e8f2596a63c56e5094
+SHA256: 94788d284ec4a8f5ab7ea1b31e14a4a7fc4a42b981b10854c4e34e827c877015
+Section: 插件
+Description: 桌面上一只随意拖动的猫，毫无卵用。丑化必备。
+Author: wgp
+Icon: https://s1.imagehub.cc/images/2025/01/08/d38cd5684f91f7053d3fe3a770b1a140.png
+Name: 猫
+Sponsor: wkk
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
@@ -649,6 +667,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/06/63afdedf20b0df5068e80a76f32ca57d.
 Name: 3Dtouch透明
 Sponsor: wkk
 
+Package: com.jyzpbtbschyd
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/com.jyzpbtbschyd_1.0.deb
+Size: 2832
+MD5sum: 7bf7b2e5754e808f9dc7572e5dca446d
+SHA1: 5086d6ca715fcaea21f282c7b97f280c39547e54
+SHA256: 9cb6868688c7f4b27c651d0a51d32b2ef79a44f91166ac15791864b1743beaca
+Section: 插件
+Description: 禁止长按应用图标移动和删除，如果需要卸载/删除应用程序，使用AppData插件卸载或者删除本插件。
+Author: poqw312
+Icon: https://s1.imagehub.cc/images/2025/01/08/0e5af7c14c85e0364e4882d868c0ff8e.jpeg
+Name: 禁用图标移动删除
+Sponsor: wkk
+
 Package: com.keyswipe-rootless
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -872,6 +907,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/8247520f0478239e0642f25902273695.png
 Name: wkk for 花里胡哨控制中心
 
+Package: com.pullclearnc
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.pullclearnc_1.0.deb
+Size: 6876
+MD5sum: a59f088e5d960436cadac844f9a3a7ed
+SHA1: caecc4375d38294c60ab567cc9d7c3a6a9c2ad49
+SHA256: c179ce39fa1592cc76e0378f01c8f34cec8f61a5e8a50ae3818e3dbe0f7a50c1
+Section: 插件
+Description: 通知栏快速下拉即可清理通知，并显示清理成功几条。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/08/04172ade2f06f8ad34d2c207810f897c.png
+Name: 下拉清理通知
+Sponsor: wkk
+
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.1~2
 Architecture: iphoneos-arm64
@@ -980,6 +1033,22 @@ Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.pads
 Icon: https://s1.imagehub.cc/images/2025/01/02/c7ce195dbe0e70c59b617132dc0f6256.png
 Name: PadSwitcher - iPad多任务
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+
+Package: com.swipedownscreenshot
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Filename: ./debs/com.swipedownscreenshot_1.0.deb
+Size: 4296
+MD5sum: ad6173c6dc38d94b775dd5d3621e27ea
+SHA1: 23c58ddb67db3d517d09f4899f598127f81def2e
+SHA256: a9165eb5b3bfc047022d63e8509fd657ae1838eba5bf7027db98fa7e7a94d642
+Section: 插件
+Description: 双指从任意地方的手机屏幕顶部下滑，即启用截图，无设置项。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/08/af5be4ac73588fa8f17f1917a0c47cc7.jpeg
+Name: 双指下滑截图
 
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
