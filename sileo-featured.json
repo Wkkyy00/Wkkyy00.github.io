@@ -1,0 +1,14 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://s1.imagehub.cc/images/2025/01/07/5625f45e68040815b4422451dcec7e50.jpeg",
+        "title": " ",
+        "package": " ",
+        "hideShadow": false
+    },
+  ]
+}
+
