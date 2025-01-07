@@ -732,23 +732,6 @@ Author: opa334
 Icon: https://s1.imagehub.cc/images/2025/01/02/7b8b32d58e2a6ca3b275fc9eb9d16a26.png
 Name: Crane
 
-Package: com.opa334.dopamine.trollstore
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: TrollStore
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/com.opa334.dopamine.trollstore_1.0_iphoneos-arm64.deb
-Size: 872
-MD5sum: 7792fb34c4ebd10de45c5edc5e9fb684
-SHA1: 1e301a6a5dedd284459dac0631e21db08aaa354b
-SHA256: e44d7fcfc1a43e0f0575bf90f1acd6a1a558db15a9a23027b30597dc889f2082
-Section: opa334
-Description: opa334
-Author: TrollStore
-Icon: https://TrollStoreX.Github.io/sileodepiction/opa334/icon.png
-Name: opa334
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
-
 Package: com.p2kdev.quitall
 Version: 1.0
 Architecture: iphoneos-arm64
