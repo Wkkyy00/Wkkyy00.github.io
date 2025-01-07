@@ -1237,6 +1237,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.
 Name: Photo pro
 Sponsor: wkk
 
+Package: dev.traurige.eneko
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64.deb
+Size: 28636
+MD5sum: d5a575db2c0bfa1ab9e90b96f2fc301c
+SHA1: 80436dfd41f6f87f8138ab33f0b53b3f50580ec9
+SHA256: 3f4467666fc8d13d710eeebe245c7e08ee2da462f88095e8c7ff68fc981184cd
+Section: 插件
+Description: 视频壁纸插件，可以对主屏幕和锁屏进行美化。
+Author: Traurige <hello@traurige.dev>
+Icon: https://s1.imagehub.cc/images/2025/01/07/dff648e22f83c2c0355153dd89dfdef3.png
+Name: Eneko
+
 Package: jp.soh.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
