@@ -223,6 +223,23 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
 
+Package: com.alwaysdark
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.alwaysdark-rootless_1.2.deb
+Size: 33888
+MD5sum: 5d7ab789d9a8c30b4dd64567b2018ad9
+SHA1: f0910061d70593de6e41cdd637c401adbbd7f589
+SHA256: a06a3f5ff0a5317e390bfa59c88af3aed1a7e6e7f92b7b41cdc53f6de2a7f891
+Section: 插件
+Description: 始终在深色/明亮模式下运行可特定应用程序。
+Author: KingPuffdaddi
+Icon: https://s1.imagehub.cc/images/2025/01/08/1f71c54f9809168bb6d406ca93090b84.jpeg
+Name: AlwaysDark
+Sponsor: wkk
+
 Package: com.axon
 Version: 1.5.5
 Architecture: iphoneos-arm64
