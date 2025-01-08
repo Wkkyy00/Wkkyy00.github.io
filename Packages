@@ -685,24 +685,6 @@ Author: sergy
 Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
 Name: Immortalizer真后台
 
-Package: com.iwanttranslucent.wkk
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.iwanttranslucent.wkk_0.0.1.deb
-Size: 5624
-MD5sum: da77adca5813bfd4ee59ac89b0d2448f
-SHA1: 1a4930a05e5a77db502e16080e39d115ce6ec326
-SHA256: c96f8cd27cdb8911780bdc3dd0126898cc81b0a6af0029c9bd238ad65f952297
-Section: 插件
-Description: 一款让你的3Dtouch透明的插件，和源里的PurifyLine搭配，效果还不错。
-Author: Luki
-Icon: https://s1.imagehub.cc/images/2025/01/06/63afdedf20b0df5068e80a76f32ca57d.jpeg
-Name: 3Dtouch透明
-Sponsor: wkk
-
 Package: com.jyzpbtbschyd
 Version: 1.0
 Architecture: iphoneos-arm64
