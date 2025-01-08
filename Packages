@@ -1002,7 +1002,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Sini921
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.sini.centra_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.centra_1.0_iphoneos-arm64.deb
 Size: 54540
 MD5sum: 0b6b167d730f399731251fcc85bf89b8
 SHA1: 201069d39a47c77a55cdf18e55071d082d0adbd2
@@ -1019,17 +1019,17 @@ Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 385
 Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.sini.lazycursor_1.0.3_iphoneos-arm64.deb
-Size: 39584
-MD5sum: eb9302d50a366705ba1a0b75b68b799a
-SHA1: a35c084f7777a1496effb2966dfa09e881d95dfd
-SHA256: 97aa9236cd1c0c78f69520eefea596f90a1a49cab3f4ba6f297732795a54eb68
+Filename: ./debs/com.lazycursor_1.0.3_iphoneos-arm64.deb
+Size: 39544
+MD5sum: da2191bc3e249df1748de2d4667a5ca1
+SHA1: f49ac5e4eb5210dd0564d6651cfeddd022f2c5a6
+SHA256: 380c85086f8175f0490ed0f8921f0ef81ecb4ac133e09ea382082a32c6e8ac30
 Section: 插件
 Priority: optional
 Description: 光标移除闪烁动画，自定义光标颜色。
 Author: CydiaGeek <lucaluca86@aol.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
-Name: LazyCursor【rootless】
+Name: LazyCursor
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.sini.pancake
@@ -1037,7 +1037,7 @@ Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
-Filename: ./debs/com.sini.pancake_2.2_iphoneos-arm64.deb
+Filename: ./debs/com.pancake_2.2_iphoneos-arm64.deb
 Size: 99628
 MD5sum: 90e4d9d44c9b06e6c0861a744c4a39fb
 SHA1: fe688690c98a139c92e49839efbfdbbabadb2d38
