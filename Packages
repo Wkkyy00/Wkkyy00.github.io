@@ -1050,6 +1050,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/08/af5be4ac73588fa8f17f1917a0c47cc7.jpeg
 Name: 双指下滑截图
 
+Package: com.tencent.themebox
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_1.1.0-1_iphoneos-arm64.deb
+Size: 2732744
+MD5sum: bf297bd0b6e857563890caa9498c9cb5
+SHA1: 75b9793a224b1a89dd73d7f714da8d416d5ed5cc
+SHA256: a2950a74403269215caf7d4f7e84d6f93084587d1495ace4ccaadce1e7fd4f98
+Section: 微信插件
+Description: 微信主题盒子，目前感觉没什么bug，上架备份用。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: ThemeBox
+
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
 Architecture: iphoneos-arm64
