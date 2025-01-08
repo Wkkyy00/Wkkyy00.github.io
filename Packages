@@ -240,6 +240,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/1f71c54f9809168bb6d406ca93090b84.
 Name: AlwaysDark
 Sponsor: wkk
 
+Package: com.apple.wechat.noads
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.apple.wechat.noads_1.2.0_iphoneos-arm64.deb
+Size: 22092
+MD5sum: 1491111db97b0e51a2316dc4f37a9ba0
+SHA1: 32cdb3563ef770b47a21acb1f7feb00ce7f66e63
+SHA256: 112903ffcf8efeb6b13dfb04dadbc37a200dddaaab59dc10777f16f78e89aec9
+Section: 微信插件
+Description: 自行研究，不做赘述，勿大肆传播。
+Author: Apple
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信广告净化助手
+
 Package: com.axon
 Version: 1.5.5
 Architecture: iphoneos-arm64
