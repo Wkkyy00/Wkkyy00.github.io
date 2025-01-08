@@ -943,6 +943,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/cf5570aed39475c4a6286b97287fbca1.png
 Name: QuitAll
 
+Package: com.ppcon.wkk
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2064
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.ppcon.wkk_0.1_iphoneos-arm64.deb
+Size: 309228
+MD5sum: 9fb69bb1e63b5aeeaf6061364d3e3891
+SHA1: 847e9eebe26bbec8aa736664af5f2156459cba76
+SHA256: 1af2949353ade6bbca66b8776f794cb508699f50f4055aa1db312e1b5a8adfe4
+Section: 控制中心
+Description: 为小学狗修改的控制中心花里胡哨（其他人勿下载）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/09/cd275ce21eab6ce680528f9a7193d6f5.png
+Name: wkk for 花里胡哨控制中心
+
 Package: com.pullclearnc
 Version: 1.1-8
 Architecture: iphoneos-arm64
