@@ -1,3 +1,18 @@
+Package: CC+
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/CC+_1.0_iphoneos-arm64.deb
+Size: 506400
+MD5sum: bf79c362f743d068ee6d5857518a96d0
+SHA1: ceb8f3a95947501d00f8491dbc982ab8fe31a63d
+SHA256: dd76e34a7c7f5a67a88b227e1fb021ccd266783e39b6f1173eed20b534cce871
+Section: 控制中心
+Description: 集合的控制中心模块，自用修改版本。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/09/50f13052de797c8187cc25e41877fee3.png
+Sponsor: wkk
+
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
@@ -18,6 +33,23 @@ Description: MisakaHelper
 Author: Misaka
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: MisakaHelper
+
+Package: autoscroll
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: pxcex
+Depends: mobilesubstrate
+Conflicts: com.pxcex.autoscroll, com.Axs.autoscroll, xyz.cypwn.autoscroll15, byg.iosios.net.autoscroll, com.autoscroll.jb
+Filename: ./debs/autoscroll_1.0_iphoneos-arm64.deb
+Size: 5420
+MD5sum: f62074a077b835ad9a5394015438e530
+SHA1: ead0bb91f99d2421a44a3e024647674416b5a199
+SHA256: 4cff6aa4e4751f894a70445efb80667e0b9b66abf3936dc2fefa8ed1f539abe1
+Section: 插件
+Description: 跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置项。
+Author: pxcex
+Icon: https://s1.imagehub.cc/images/2025/01/09/70ae7dc3552b53574e667238ce5a0a7d.png
+Name: AutoScroll 自动滚动
 
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
@@ -670,6 +702,41 @@ Author: sergy
 Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
 Name: Immortalizer真后台
 
+Package: com.iwanttranslucent.wkk
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.iwanttranslucent.wkk_0.0.1_iphoneos-arm64.deb
+Size: 5620
+MD5sum: 9e0ce117eeb46933b0374ea8f2da0ac7
+SHA1: 5f5584140f692cf319b8cf546b469124bb80b841
+SHA256: 26b447ff9ea10729aa11263fda328ce5e397a08c1c9272a0d5e102ad9bc91017
+Section: 插件
+Description: 一款让你的3Dtouch透明的插件，和源里的PurifyLine搭配，效果还不错。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/01/09/645175730c21b369776c08781b911cf7.png
+Name: 3Dtouch透明
+Sponsor: wkk
+
+Package: com.jyzpbtbschyd
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/com.jyzpbtbschyd_1.0_iphoneos-arm64.deb
+Size: 2832
+MD5sum: ee8284a764c30e705b9898afc95b4457
+SHA1: 19626cb0da3e670c0df66ec864912bce9dc7ee9a
+SHA256: 4a8a9d42083d8d2720784d9fb91bdf59bf4b7eba51c1b8ecc47199f60d75fb73
+Section: 插件
+Description: 禁止长按应用图标移动和删除，如果需要卸载/删除应用程序，使用AppData插件卸载或者删除本插件。
+Author: poqw312
+Icon: https://s1.imagehub.cc/images/2025/01/09/6dd1253c7071c3b53f74d5bb2397e6f8.png
+Name: 禁用图标移动删除
+Sponsor: wkk
+
 Package: com.keyswipe-rootless
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -703,6 +770,22 @@ Description: 使手机在锁屏状态也可以继续录屏。
 Author: Muirey03 & lclrc
 Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
 Name: RecordAnywhere
+
+Package: com.lecard.wuyu
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_0.1_iphoneos-arm64.deb
+Size: 408940
+MD5sum: b91e82374f71fc66d7afda812c520588
+SHA1: 1f72650f9e4e73e7e88deaae6d8e5becdd5d6467
+SHA256: d607fddf81a94259514e7e051c78c530ce8e145ab036a8996080758d0eb0055a
+Section: 插件
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
+Name: Applecard
 
 Package: com.liuf.ceshi
 Version: 0.0.1
@@ -1004,6 +1087,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/c7ce195dbe0e70c59b617132dc0f6256.
 Name: PadSwitcher - iPad多任务
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
 
+Package: com.swipedownscreenshot
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Filename: ./debs/com.swipedownscreenshot_1.0_iphoneos-arm64.deb
+Size: 4292
+MD5sum: cd3732ca26d2e7a59ad8407583356e93
+SHA1: 67c369f563b961d9a5d39e55c1f8b04d6092a7ed
+SHA256: c03e2e398ee8f92e3d737f03cd28d868ce97362559624401e26e5a5d5e6147e0
+Section: 插件
+Description: 双指从任意地方的手机屏幕顶部下滑，即启用截图，无设置项。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.png
+Name: 双指下滑截图
+
 Package: com.tencent.themebox
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
@@ -1029,10 +1128,10 @@ Installed-Size: 172
 Depends: firmware (>= 14.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | firmware (>= 15.0)
 Conflicts: com.tomaszpoliszuk.applibraryenabler
 Filename: ./debs/com.tomaszpoliszuk.applibrarydisabler_1.1.1_iphoneos-arm64.deb
-Size: 3412
-MD5sum: 20e8a7cfafbe6281c74a2345248a6d99
-SHA1: 4f0f3e0fad55ec91f7ac717ff0d35a12b1c31007
-SHA256: d71fe33cf45199ea67dde07b9222a6f9c849b9eb4f854c34ffaf340a64cca9eb
+Size: 3416
+MD5sum: 1e54e6a228a6e9bce2856c71dc0103c2
+SHA1: 66045a2ad01008d8a6a180792f8ee716f68d5ec4
+SHA256: 504b49dfff6eb5add2276bc83b352fc173b20c536ccbf478a29932f283381e5b
 Section: 插件
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
 Description: 仅禁用资源库且有回弹效果，无设置项。
@@ -1040,7 +1139,7 @@ Tag: purpose::extension
 Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
 Dev: tomaszpoliszuk
-Icon: https://s1.imagehub.cc/images/2025/01/02/d9ff7277dd9c0d3c83f0650ddb15b28f.png
+Icon: https://s1.imagehub.cc/images/2025/01/09/b054d8ce681f3bc9c416886d08711a85.png
 Name: App Library Disabler
 Sponsor: thebigboss.org <http://thebigboss.org>
 
