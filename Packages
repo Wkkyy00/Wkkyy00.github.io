@@ -771,22 +771,6 @@ Author: Muirey03 & lclrc
 Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
 Name: RecordAnywhere
 
-Package: com.lecard.wuyu
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 1948
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debs/com.lecard.wuyu_0.1_iphoneos-arm64.deb
-Size: 409156
-MD5sum: 3215560992c4b6e74df50852017a1a19
-SHA1: ec3586dde832b92794929fe26cb395269191c78d
-SHA256: afadb619505922ec8231ef56acadcb73b515ba544b36958a54e940d4a0880f1e
-Section: 插件
-Author: Crassna
-Icon: https://s1.imagehub.cc/images/2025/01/02/ecc8ba80e4b7bb57dda203e739816497.jpeg
-Name: Applecard
-
 Package: com.liuf.ceshi
 Version: 0.0.1
 Architecture: iphoneos-arm64
