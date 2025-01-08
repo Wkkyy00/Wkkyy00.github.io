@@ -685,23 +685,6 @@ Author: sergy
 Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
 Name: Immortalizer真后台
 
-Package: com.jyzpbtbschyd
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate
-Filename: ./debs/com.jyzpbtbschyd_1.0.deb
-Size: 2832
-MD5sum: 7bf7b2e5754e808f9dc7572e5dca446d
-SHA1: 5086d6ca715fcaea21f282c7b97f280c39547e54
-SHA256: 9cb6868688c7f4b27c651d0a51d32b2ef79a44f91166ac15791864b1743beaca
-Section: 插件
-Description: 禁止长按应用图标移动和删除，如果需要卸载/删除应用程序，使用AppData插件卸载或者删除本插件。
-Author: poqw312
-Icon: https://s1.imagehub.cc/images/2025/01/08/0e5af7c14c85e0364e4882d868c0ff8e.jpeg
-Name: 禁用图标移动删除
-Sponsor: wkk
-
 Package: com.keyswipe-rootless
 Version: 1.0.2
 Architecture: iphoneos-arm64
