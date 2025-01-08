@@ -1787,6 +1787,25 @@ Author: Hitori
 Icon: https://s1.imagehub.cc/images/2025/01/02/62018602797b84692ed3c618df96373d.jpeg
 Name: Zeppelin Reborn
 
+Package: xc.lzsxcl.o2pro
+Version: 15.0-3
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 13064
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_15.0-3_iphoneos-arm64.deb
+Size: 6779306
+MD5sum: 1dd3599ef970af697dfe0110226c696c
+SHA1: 20671df5ae6f7fd2a4b75c94859cf8e320e5f2af
+SHA256: 4d5437ed45865a777ff14416daf16147236a17a6c00b9d33a42469113bfecc4e
+Section: Tweaks
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
 Package: xiaochouzhenhoutai.wkk
 Version: 0.1.0
 Architecture: iphoneos-arm64
