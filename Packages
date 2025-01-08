@@ -1036,22 +1036,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/c7ce195dbe0e70c59b617132dc0f6256.
 Name: PadSwitcher - iPad多任务
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
 
-Package: com.swipedownscreenshot
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Filename: ./debs/com.swipedownscreenshot_1.0.deb
-Size: 4296
-MD5sum: ad6173c6dc38d94b775dd5d3621e27ea
-SHA1: 23c58ddb67db3d517d09f4899f598127f81def2e
-SHA256: a9165eb5b3bfc047022d63e8509fd657ae1838eba5bf7027db98fa7e7a94d642
-Section: 插件
-Description: 双指从任意地方的手机屏幕顶部下滑，即启用截图，无设置项。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/08/af5be4ac73588fa8f17f1917a0c47cc7.jpeg
-Name: 双指下滑截图
-
 Package: com.tencent.themebox
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
