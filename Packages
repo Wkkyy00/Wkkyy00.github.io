@@ -309,6 +309,25 @@ Author: Brend0n <brendonjkding@126.com>
 Icon: https://s1.imagehub.cc/images/2025/01/06/c8e8e3def24e4f317acca3a8edd71c41.png
 Name: DesktopLyrics
 
+Package: com.cconandoff
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.realcc_1.1.deb
+Size: 5628
+MD5sum: 9aeae54e5b208d952d3856ef62ab88d2
+SHA1: 868aaf68d48a2f1b56998837dd20ae9c98622651
+SHA256: 9f610ab6d64992b2e9edfbbf8920308a010cdce0a82cc8460653045495c82890
+Section: 插件
+Description: 控制中心完全关闭WiFi和蓝牙，不会假关闭！
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/01/08/0575ab9f6ac5978840ad356c65cf63da.png
+Name: RealCC
+Sponsor: wkk
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64
