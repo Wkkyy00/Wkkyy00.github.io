@@ -997,6 +997,22 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.sini.pancake
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.sini.pancake_2.2_iphoneos-arm64.deb
+Size: 99628
+MD5sum: 90e4d9d44c9b06e6c0861a744c4a39fb
+SHA1: fe688690c98a139c92e49839efbfdbbabadb2d38
+SHA256: 5b61f4b70ccd440995702b289e37f98ab651326dd0a97c6c557d39b06f47d5d4
+Section: 插件
+Description: 仅备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
+Name: PanCake
+
 Package: com.sini921.showmytouches
 Version: 1.2.0
 Architecture: iphoneos-arm64
