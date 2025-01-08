@@ -997,6 +997,25 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.sini.lazycursor
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 385
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.sini.lazycursor_1.0.3_iphoneos-arm64.deb
+Size: 39584
+MD5sum: eb9302d50a366705ba1a0b75b68b799a
+SHA1: a35c084f7777a1496effb2966dfa09e881d95dfd
+SHA256: 97aa9236cd1c0c78f69520eefea596f90a1a49cab3f4ba6f297732795a54eb68
+Section: 插件
+Priority: optional
+Description: 光标移除闪烁动画，自定义光标颜色。
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
+Name: LazyCursor【rootless】
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.sini.pancake
 Version: 2.2
 Architecture: iphoneos-arm64
