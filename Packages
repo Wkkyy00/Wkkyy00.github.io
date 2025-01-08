@@ -1051,6 +1051,26 @@ Icon: https://i.postimg.cc/hGzV6VSP/icon.png
 Name: killapps
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.killapps.json
 
+Package: com.spark.snowboard
+Version: 1.5.37-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3268
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64.deb
+Size: 1124328
+MD5sum: 224cd97f5b99fd907c6f628b0fdd3f63
+SHA1: 43c8e1bed2124107d34b5912d9fcc3f562a5974c
+SHA256: 906bba26d13af89becf2537ee8613a67f6f208a3bcf3b7239c71a67718fccb6c
+Section: 插件
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Icon: https://s1.imagehub.cc/images/2025/01/09/dd4cdff1666b62dd2e02d361d4dd694f.png
+Name: SnowBoard
+
 Package: com.squidforce.snapper3.plugins
 Version: 1.2
 Architecture: iphoneos-arm64
