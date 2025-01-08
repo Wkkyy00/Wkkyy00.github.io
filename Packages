@@ -997,6 +997,22 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.sini.centra
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Sini921
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.sini.centra_1.0_iphoneos-arm64.deb
+Size: 54540
+MD5sum: 0b6b167d730f399731251fcc85bf89b8
+SHA1: 201069d39a47c77a55cdf18e55071d082d0adbd2
+SHA256: 806ab7ff470ec7108b29201772d3b79569abe53c1160b9996d28d554f2774354
+Section: 控制中心
+Description: 自定义控制中心中模块的大小。
+Author: Hitori
+Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
+Name: Centra
+
 Package: com.sini.lazycursor
 Version: 1.0.3
 Architecture: iphoneos-arm64
