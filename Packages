@@ -275,6 +275,23 @@ Author: baiy <QQ：961666883>
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: qq输入框圆角
 
+Package: com.be-huge.floating-view
+Version: 1.4.6-2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.4.6-2_iphoneos-arm64.deb
+Size: 503172
+MD5sum: 23c4c071d3a4919b080fda6f5197ce9d
+SHA1: a593266841a493d66cde5bfaf91d16c090663373
+SHA256: 20c4781b2d1a5f73251aa75462512c065f1705371915adb6933bddd99b25f5f0
+Section: 插件
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/09/4b72d045da569d0b4fc787ad73451d06.png
+Name: floatingView
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
