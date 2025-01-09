@@ -1892,6 +1892,22 @@ Author: CoolStar
 Icon: https://s1.imagehub.cc/images/2025/01/02/eb29da5122d8d5215c728f1464880b8a.png
 Name: ClassicFolders 2
 
+Package: org.haxi0.derootifiers
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: haxi0
+Depends: mobilesubstrate, odcctools, fakeroot, ldid, oldabi, file, openssh-server, zstd
+Filename: ./debs/org.haxi0.derootifiers_1.3_iphoneos-arm64.deb
+Size: 529228
+MD5sum: 892a2f7430513b0880f4705784eec9f3
+SHA1: 6ca9c584ad9f88e53892ff675956d60e8f192bcb
+SHA256: 80c5904f848156c7c9a83592ac8c34de59d127252d322ed15253485f2994cb69
+Section: 插件
+Description: 有根转无根工具。备份上架。
+Author: haxi0
+Icon: https://s1.imagehub.cc/images/2025/01/10/c15ed9d5fcebba0d7dbe174217349e67.jpeg
+Name: Derootifier转无根
+
 Package: recordpauses
 Version: 2.0.4
 Architecture: iphoneos-arm64
