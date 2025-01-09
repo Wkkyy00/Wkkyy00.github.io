@@ -840,6 +840,23 @@ Author: Delewhopper & julioverne <xuanhua880@gmail.com>
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/keyswipe.png
 Name: KeySwipe-Rootless
 
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 978220
+MD5sum: 4bdc75e1a1427bf38867db24a714aeba
+SHA1: 8dbf5513e441554934c505d88c2ce839156f9863
+SHA256: bdac5168f7e89b83142fd839f93b28a9ec6510b5e96ec6e767e5bd5e843b13ca
+Section: 插件
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hammer It
+
 Package: com.lclrc.recordanywhere
 Version: 1.1.0
 Architecture: iphoneos-arm64
