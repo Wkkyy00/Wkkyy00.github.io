@@ -890,6 +890,23 @@ Name: NoWidgetLabels
 Someotherentrytocontrol: True
 Tags: compatible_min::ios14.0, compatible_max::ios16.2
 
+Package: com.netskao.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.appdata_1.4.1_iphoneos-arm64.deb
+Size: 4644388
+MD5sum: d2d29f2e0f1724b5afc9dc5b72d3a88e
+SHA1: b7888ade7d9429392d42afa0176907eb61968c7d
+SHA256: d72375b7adfd17eb16e0a802c089cda8d4890bbd3c560590161d51b8c9a3f697
+Section: 插件
+Description: 备份上架1.4.1版本。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
 Package: com.netskao.autofaceunlock-rootless
 Version: 1.1-7
 Architecture: iphoneos-arm64
