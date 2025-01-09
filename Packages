@@ -362,6 +362,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/0575ab9f6ac5978840ad356c65cf63da.
 Name: RealCC
 Sponsor: wkk
 
+Package: com.classickeyboardxs
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.classickeyboardxs_1.1-8_iphoneos-arm64.deb
+Size: 233656
+MD5sum: c585cf29b413a0bd8f8497a7171b2465
+SHA1: deac79e6dbd190eadc47c4a657fc15b8dd34a9da
+SHA256: 8c5059e5b409ca0eab36a10baeecf6006a5025bebfb752bafc9990bf1677f8de
+Section: 插件
+Description: 自定义键盘高度。上架备份。
+Author: Netskao <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
+Name: ClassicKeyboardXS
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64
