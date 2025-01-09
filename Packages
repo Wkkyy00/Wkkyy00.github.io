@@ -1119,6 +1119,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
 Name: LazyCursor
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.sini.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: sini921
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/com.onesettings_2.2_iphoneos-arm64.deb
+Size: 216864
+MD5sum: 22dd3234df3f1085f9fa515e0f78663c
+SHA1: b1dc048399d02f8ba060c1bd0c52e4865e59fdd2
+SHA256: 331aaaef9b89a42f4286ee4cf14bab104f58aeb14520579bc18d6b8500542f65
+Section: 插件
+Description: 如题。需要配置看qq空间说说。qq1772773799。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
+Name: OneSettings插件归类
+Sponsor: sini921
+
 Package: com.sini.pancake
 Version: 2.2
 Architecture: iphoneos-arm64
