@@ -189,6 +189,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信URL扩展
 Sponsor: admin@25mao.com
 
+Package: com.3dnetworkfixer
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 496
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.3dnetworkfixer_1.1-8_iphoneos-arm64.deb
+Size: 115964
+MD5sum: 8d8cb5f9e7e58bb3bc3a189f08537511
+SHA1: a805d51ad28337128a7490684a4ee46791f2cb61
+SHA256: 6db6d25b5b7a80904ca91f38005ed43bee3287ecf463eafdf6fd15b55edca08b
+Section: 插件
+Description: 长按app图标快速修复应用程序网络权限。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 3DNetworkFixer
+
 Package: com.82flex.noredirect
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -360,6 +377,24 @@ Description: 桌面任何地方展示音乐的歌词。
 Author: Brend0n <brendonjkding@126.com>
 Icon: https://s1.imagehub.cc/images/2025/01/06/c8e8e3def24e4f317acca3a8edd71c41.png
 Name: DesktopLyrics
+
+Package: com.ccborder
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: ./debs/com.ccborder_1.1.8_iphoneos-arm64.deb
+Size: 39596
+MD5sum: 2e7b052dc3da1f2b6220e56ea5f7b802
+SHA1: ed9ed12ad08be22d3064e8bc9ce648f4662d88f2
+SHA256: 6d38197d6729cdca07e9bd2bd3c4177f70a18fdd533843036dc01720a22c39f6
+Section: 控制中心
+Description: iOS18样式的控制中心，基于p2kdev的开源定制。上架备份。
+Author: fiore & p2kdev & 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: CCBorder16
 
 Package: com.cconandoff
 Version: 1.1.0
