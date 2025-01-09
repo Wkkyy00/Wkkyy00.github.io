@@ -225,6 +225,24 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/b4214b8460d298d8cfae18fcb327106d.png
 Name: No Redirect
 
+Package: com.82flex.removewidgetbgs
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Conflicts: com.82flex.removewidgetbg
+Filename: ./debs/com.82flex.removewidgetbgs_1.7_iphoneos-arm64.deb
+Size: 29800
+MD5sum: b138946a09567c32200213254b154880
+SHA1: 719cde13ef3b004f125792632dccf1f1d1532352
+SHA256: cda51ca90206e12f1114f2bb2f4d7df481346998f0f2cd47e4eade203e16f1b7
+Section: 插件
+Description: 小组件的背景透明。上架备份。
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
+Name: 移除小部件背景
+
 Package: com.82flex.singlemute
 Version: 1.5
 Architecture: iphoneos-arm64
