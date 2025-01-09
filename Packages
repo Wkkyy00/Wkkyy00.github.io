@@ -684,6 +684,23 @@ Icon: https://i.imgur.com/bNyKUSs.png
 Name: RingerToggle (CCSupport)
 Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
 
+Package: com.imkpatil.homebarsizer
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.homebarsizer_1.1.1_iphoneos-arm64.deb
+Size: 24220
+MD5sum: b51e1d7cdd7202300c3e4e78d2f9ff52
+SHA1: b9405f17e6cc6e0df5394ea08983e6e6d82fcbc4
+SHA256: a9fc038e310ec91b248850238344368a7a61a9d824d3a58c9ee3e08f46476f61
+Section: 插件
+Description: 控制底部横条的大小。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/09/59f7a3ea1b9bcc61d0f9743d956795fa.jpeg
+Name: HomeBarSizer
+
 Package: com.immortalizer
 Version: 2.0.1
 Architecture: iphoneos-arm64
