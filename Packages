@@ -2051,6 +2051,26 @@ Dev: nowesr1
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: PhotosPlus
 
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1724937362.2952e67
+Architecture: iphoneos-arm64
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64.deb
+Size: 3414696
+MD5sum: b68cb2c8ea6456473d90df8796920301
+SHA1: 543286b5d73855c94bfd64c1fe68b13b4d99404a
+SHA256: 63c2d9c2ad3db8ce09041af9e503ff44d0ebeeb5757d2a8c8ecc96765664afe1
+Section: 应用程序
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
 Package: wkk.skitty.lightsout
 Version: 1.2
 Architecture: iphoneos-arm64
