@@ -85,6 +85,23 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/02/a2c35da350e7d354fc9b2cc9df5a7db5.jpeg
 Name: 音乐旋转
 
+Package: codes.aurora.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
+Size: 123628
+MD5sum: 7e5085c776984df139d41be994667f00
+SHA1: 72881986b67487645a5f30b94575c6ec4303a82b
+SHA256: f7eefbbedd5535e11bd01c06a283bc27ab94b126a86210291c864de42a985472
+Section: 插件
+Description: 备份。
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Kayoko
+
 Package: com.0xkuj.ccadsbegone.rootless
 Version: 1.5
 Architecture: iphoneos-arm64
