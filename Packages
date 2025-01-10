@@ -275,24 +275,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/1f71c54f9809168bb6d406ca93090b84.
 Name: AlwaysDark
 Sponsor: wkk
 
-Package: com.appdata
-Version: 1.4.0
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.appdata_1.4.0_iphoneos-arm64.deb
-Size: 770660
-MD5sum: 4472f9cdfc1071f650f7f2707ade4fbb
-SHA1: f87013809a98e48cc9f10cff591e6ee92c23e775
-SHA256: ae67ba10dcc87f8499cf2b655df03892617e6b02e779a7342675bf49d125ea58
-Section: 插件
-Description: View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb
-Depiction: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: AppData
-Sileodepiction: wkk
-
 Package: com.apple.wechat.noads
 Version: 1.2.0
 Architecture: iphoneos-arm64
