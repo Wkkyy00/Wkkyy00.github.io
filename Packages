@@ -1027,6 +1027,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/d8061f9532715897329b853bf46167ac.png
 Name: AutoFaceUnlock(Rootless)
 
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+Size: 523216
+MD5sum: 7329a51e4f029651dd4d583f0727f73a
+SHA1: a113cd309467a2f5741ccf4ae5f1ef5e844df30c
+SHA256: 107308445892ae115824ec20b5324483f5006746bb2d4ba5c80cbdf33ceaa1e6
+Section: 微信插件
+Description: 微信通知从图标改为显示为头像。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatNotiAvatar
+
 Package: com.netskao.wechatuiswitchloader
 Version: 1.1-4
 Architecture: iphoneos-arm64
