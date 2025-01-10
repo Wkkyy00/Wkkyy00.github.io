@@ -857,6 +857,22 @@ Author: Delewhopper & julioverne <xuanhua880@gmail.com>
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/keyswipe.png
 Name: KeySwipe-Rootless
 
+Package: com.kitten.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64
+Maintainer: 预言小猫
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb
+Size: 10440
+MD5sum: 84572a2c84acc5808a83031131c4dc74
+SHA1: 6817c5b93be436c070356237c8bbc52d0827cf36
+SHA256: 0974d2c5ae1b3581c42593a0f87dfcc2de460efb56af22b329bde37332518f5a
+Section: 插件
+Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
+Author: 预言小猫
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键备份和恢复工具
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -1256,6 +1272,21 @@ Author: dvntm & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
 Name: ShowMyTouches
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
+
+Package: com.snail.easynotify
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.easynotify.rootless_1.0.deb
+Size: 8120
+MD5sum: c5b8cba7e8ac1f8863973f26ef66c876
+SHA1: 1f2401928c8f6558d8fcf18896d32112f6852518
+SHA256: 00ba98b919980418d1cc093e64f3931e7f1156f5978aaaaa831602eba1dad1e7
+Section: 插件
+Description: 按压APP图标3DTouch菜单快速设置开关消息通知。
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 3DEasynotify
 
 Package: com.sop.killapps
 Version: 1.7.8
@@ -1832,6 +1863,23 @@ Author: Maxwell Dausch
 Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
 Name: Latchkey
 
+Package: locked5
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/locked5_1.0_iphoneos-arm64.deb
+Size: 3212
+MD5sum: fd282142a9287dfe40d4373095f11466
+SHA1: 6da005f3a8766ca48af0f934840fd3564fc6ad5d
+SHA256: 2101ae7ac5ec9960f58069ba5d16b469da615bfede7d9c3be9962267bf7763a2
+Section: 插件
+Description: 在锁屏来电话时会有一个红色挂断的按钮。
+Author: z
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 锁屏来电拒接
+
 Package: me.ikghd.pmp
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -1959,6 +2007,40 @@ Description: newterm3中文版(带theos包，无sdk)
 Author: wkk
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: newterm3中文版(带theos包)
+
+Package: ngthienhoan.nobetaalert
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/ngthienhoan.nobetaalert_1.0_iphoneos-arm64.deb
+Size: 2508
+MD5sum: 758085e89e4b12e1cdb51df89bba1176
+SHA1: 58d94f5ff74e625c77a6a4eb68448986a221ab78
+SHA256: eca1522fc6563c562e41dee0793cab9820fd834355b777e114cca21b6a46c55c
+Section: Tweaks
+Description: 去除ios测试版Beta弹窗。
+Author: z
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 去除Beta弹窗
+
+Package: nohomebar
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/nohomebar_1.1_iphoneos-arm64.deb
+Size: 2540
+MD5sum: b00a95fd0cace4022be5c16ec5fda09c
+SHA1: 9301dda8210731958ee99d9b53d83149fd5c0cab
+SHA256: feec4d2710084b6572facef4eb9f6bd2087e2b65e81aaa481ca018beeaa43cad
+Section: 插件
+Description: 如题。
+Author: z
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 隐藏底部横条
 
 Package: org.coolstar.classicfolders2
 Version: 3.0.5
@@ -2156,4 +2238,21 @@ Description: 真后台插件，控制中心图标改为小丑
 Icon: https://s1.imagehub.cc/images/2025/01/01/201aee1851a2c90af9fe7144b348aa3f.jpeg
 Name: 小丑真后台
 Sponsor: wkk
+
+Package: z.nowplayingviewcontroller
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/z.nowplayingviewcontroller_1.0_iphoneos-arm64.deb
+Size: 3192
+MD5sum: 7c5d05ce634c79dd0c5d9e10494469c3
+SHA1: dcb0513af6c63d0d712c6d86e22f449d1b982ba3
+SHA256: b60fa556bae65db8bc736c7b70d8b27871de27425bf635184e20626f7cd1e4e5
+Section: 插件
+Description: 如题。
+Author: z
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 隐藏锁屏音乐组件
 
