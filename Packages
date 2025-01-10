@@ -642,6 +642,40 @@ Author: Bruno Andrade <brubiluco@globo.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/65559e36ac987c56556a7ab5daff0665.png
 Name: WiCellSwitcher
 
+Package: com.dcproducts.colorbar15
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: DTCalabro
+Installed-Size: 1952
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.colorbar15_1.1.0_iphoneos-arm64.deb
+Size: 470364
+MD5sum: ed205681ce824e3729a731adc2062701
+SHA1: 9c8eaf1fdf75a6bf794af6f6525403c63f9b413e
+SHA256: cfc3f740b32510db85a36a72b080c088cfcaab563fb634f50c186c42c53e06b3
+Section: 插件
+Description: 自定义状态栏时间、信号、数据、电池等颜色。个人觉得很不错。
+Author: DTCalabro
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
+Name: ColorBar15
+
+Package: com.dcproducts.pagedotsbegone
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.pagedotsbegone_1.0.0_iphoneos-arm64.deb
+Size: 151880
+MD5sum: 595050a352358a47e396abbe527d7ec9
+SHA1: 8b54c8515fec1be2c76bacf14f8368af8f79a8ad
+SHA256: de838a67704ae78aa245c9822d78dc8ad2ddde61a1234380d60ab6e3e8f1cd4a
+Section: 插件
+Description: PageDotsBeGone不仅可以隐藏页面点，还可以自定义它们的颜色，包括堆叠的小组件依然也可以隐藏页面点或自定义其颜色。
+Author: Derek Calabro
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
+Name: PageDotsBeGone
+
 Package: com.dvntm.silentnotifs
 Version: 0.0.2
 Architecture: iphoneos-arm64
