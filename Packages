@@ -1941,6 +1941,25 @@ Author: haxi0
 Icon: https://s1.imagehub.cc/images/2025/01/10/c15ed9d5fcebba0d7dbe174217349e67.jpeg
 Name: Derootifier转无根
 
+Package: preferenceloader.rootless.top
+Version: 2.2.6.6
+Architecture: iphoneos-arm64
+Maintainer: zp,Dustin Howett
+Installed-Size: 337
+Conflicts: preferenceloader, preferenceloader.rootless
+Replaces: preferenceloader
+Provides: preferenceloader (= 2.2.6)
+Filename: ./debs/preferenceloader.rootless.top_2.2.6.6_iphoneos-arm64.deb
+Size: 16136
+MD5sum: fe6fffd3c5c799c1cad59b107130e675
+SHA1: 3f9fcedb866174b00ed73ea0dd789503bd7fd30b
+SHA256: e9c99e6a9c4256a44adc6eb62a960f594f4c54cc2fee032612d840b2a714c61f
+Section: System
+Description: 插件页置顶，仅备份。
+Author: Dustin Howett
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PreferenceLoader - rootless (top)
+
 Package: recordpauses
 Version: 2.0.4
 Architecture: iphoneos-arm64
