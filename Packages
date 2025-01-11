@@ -1461,6 +1461,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.susu.wcfrostedglass
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.3_iphoneos-arm64.deb
+Size: 5076
+MD5sum: c3a12f5584e790bc4cc06d0b4b85c39a
+SHA1: 9628a58f909cf3c3dd89c69d6daed2d1b1e2bfe2
+SHA256: 416b9d521e04de22b8445d6961d4403bf9fbfb48c7839f82627927ab69f70429
+Section: 微信插件
+Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm64
