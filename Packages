@@ -1690,6 +1690,38 @@ Author: b4db1r3 <nfive060@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: OCD5
 
+Package: com.wkk.peizhi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.peizhi_1.0_iphoneos-arm64.deb
+Size: 7572
+MD5sum: e8ba9bcab38eb283d19f304405c87191
+SHA1: 3806edfcf109f64e20dbeaf816b2cfa7a44f41c3
+SHA256: ab84bbe2502ae82495438ef7f8f0f2de8babb257ff358642f8ea1eba8afac0d1
+Section: 插件配置
+Description: 这是我个人FT悬浮汉化插件的配置，给不会设置的小伙伴方便。下载后文件在目录/var/mobile/Documents/FT悬浮汉化配置.zip 解压后自行导入。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: FT配置
+
+Package: com.wkk.peizhise
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.peizhise_1.0_iphoneos-arm64.deb
+Size: 14376
+MD5sum: 0024536e8180ad19d02a118f94a5a474
+SHA1: eb2aa03288225ea63e5e5d634e8c70907ffc0b8b
+SHA256: 434dc16e740196bc530a2c4b72e8c683d9c53ad81da2f734bb34d04a5a2ba98b
+Section: 插件配置
+Description: 这是我个人SquidExtender插件的配置，给不会设置的小伙伴方便。下载后文件在目录/var/mobile/Documents/SquidExtender配置.zip 解压后自行导入。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SquidExtender配置
+
 Package: com.wkk.smartnetwork
 Version: 1.0
 Architecture: iphoneos-arm64
