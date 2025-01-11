@@ -1146,6 +1146,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.
 Name: WeChatUISwitchLoader
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
 
+Package: com.oledkeyboard
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm <xuanhua880@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.oledkeyboard_0.0.2_iphoneos-arm64.deb
+Size: 4636
+MD5sum: 9388061edc76c7fe5c307f8cb5755c2e
+SHA1: 40c9891c5d96b30e468e0dc8c75070a4982bf48d
+SHA256: 9382010df14fb90578e285421b3d0d83347d45d8ca9dc322abd13654ef57cd2e
+Section: 插件
+Description: 为系统键盘深色模式添加更黑的效果。
+Author: dvntm <xuanhua880@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: OledKeyboard
+
 Package: com.opa334.crane
 Version: 1.3.16-3
 Architecture: iphoneos-arm64
