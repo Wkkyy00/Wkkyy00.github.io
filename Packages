@@ -1443,6 +1443,23 @@ Author: SquidForce(乌贼力量)
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Plugins For Snapper3
 
+Package: com.sunshinesong.split-view-pro
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64.deb
+Size: 1575080
+MD5sum: df0daa5ac6a1e678ca756db329f44b43
+SHA1: 240c3d529aa6f662ba1024dd0d9d884146b282a1
+SHA256: 620848ccc11af98825e850a690ca9db2dc07dc54063992208be5e7467dbddad7
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm64
