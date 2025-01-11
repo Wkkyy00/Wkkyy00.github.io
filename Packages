@@ -1146,6 +1146,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.
 Name: WeChatUISwitchLoader
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
 
+Package: com.oleddarkmode
+Version: 0.5.3
+Architecture: iphoneos-arm64
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.oleddarkmode_0.5.3_iphoneos-arm64.deb
+Size: 9536
+MD5sum: 15c9786f321a3a4df4a05b01fcd7547d
+SHA1: 85b247aba9605773b679b63d9db98f5a2c087a49
+SHA256: 08c038480a9136ac6f6ebc8866a003b20f357e16d4112462205a65a8327dfc6d
+Section: 插件
+Description: 让深色模式更“深”。
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: OLED Dark Mode
+
 Package: com.oledkeyboard
 Version: 0.0.2
 Architecture: iphoneos-arm64
