@@ -368,14 +368,14 @@ Maintainer: be-huge
 Installed-Size: 2540
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.be-huge.floating-view_1.4.6-2_iphoneos-arm64.deb
-Size: 503172
-MD5sum: 23c4c071d3a4919b080fda6f5197ce9d
-SHA1: a593266841a493d66cde5bfaf91d16c090663373
-SHA256: 20c4781b2d1a5f73251aa75462512c065f1705371915adb6933bddd99b25f5f0
-Section: 插件
+Size: 503428
+MD5sum: 9951ad43c1e8f75d7f47748256b07545
+SHA1: 4a23f347570b7f3e3606894e0e78f294d821eb73
+SHA256: 360d96686af47b97788e6a4b23da0c7f617a2fdd5b690ac85dcbb70bf00b008c
+Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
-Icon: https://s1.imagehub.cc/images/2025/01/09/4b72d045da569d0b4fc787ad73451d06.png
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 Name: floatingView
 
 Package: com.brend0n.nopassafterrespringsafe
@@ -1442,6 +1442,24 @@ Description: including iMark and Piiico for now
 Author: SquidForce(乌贼力量)
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Plugins For Snapper3
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64.deb
+Size: 1575108
+MD5sum: 2ab58b8ceac1c6b4047e981d54bf9e32
+SHA1: 4010064cafe178f713147c1d4ff19a35688fdc9d
+SHA256: f47a621f28752dbb964768d651b7d85bf88f060b55b50793dc55c276cdff4800
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: split-view-pro
+Ts: sp-sss
 
 Package: com.swing.padswitcher
 Version: 1.1.0
