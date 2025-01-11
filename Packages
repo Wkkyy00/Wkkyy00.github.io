@@ -776,6 +776,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/07/6ef6711ca9293ce5daa41999cd7491a4.
 Name: HideNotificationBadge
 Sponsor: wkk
 
+Package: com.hitori.misaki
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
+Size: 306288
+MD5sum: bdf9cef0b276d52056ac747920523ad4
+SHA1: c91495ce15aba87fe1f292babb72c7470856ac44
+SHA256: d541e94fb34411b2270d1b94cc12979020afe0570ac047e26fd65b3cf3139663
+Section: 插件
+Description: 使用Misaki定制您的iOS15和16体验，定制选项，让您的iPhone真正属于您。
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
