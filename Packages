@@ -34,6 +34,24 @@ Author: Misaka
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: MisakaHelper
 
+Package: apt.april
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: k
+Installed-Size: 832
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings, me.luki.april, com.hk.april, com.qms.april
+Filename: ./debs/apt.april-3.1.deb
+Size: 392900
+MD5sum: d880a6764d4a419ee0e1b68b1364bea6
+SHA1: 3327daa46b69a9a16b814d815a63074327776cf3
+SHA256: 9589c756e0f590775018a78789232c94f99ed2f9bc7348b51fb9a31385075a01
+Section: 插件
+Description: 可以设置设置App的背景图。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: April
+
 Package: autoscroll
 Version: 1.0
 Architecture: iphoneos-arm64
