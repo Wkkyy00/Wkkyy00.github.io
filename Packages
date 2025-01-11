@@ -1907,6 +1907,23 @@ Author: Huayuarc <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/02/116566f5242059bd3a3dd1df06f40afd.png
 Name: 【键盘】隐藏语音图标-Rootless
 
+Package: com.zhezhaojihe.baidu
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: bdzt
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.zhezhao_1.0.deb
+Size: 1017548
+MD5sum: d61dcee0e4f11272713e71de615d3fa9
+SHA1: 4a4010a43ddecab39be9fffe79f4a3f09f5414e3
+SHA256: d966711604527449581e3d049f02093ef414ff731f9fa79f2643b2bbe08e42d4
+Section: 插件
+Description: 十八款好看的遮罩大集合！
+Author: bdzt
+Icon: https://chinesebuilding.club/pic/zz.png
+Name: 遮罩集合大全
+Sponsor: bdzt
+
 Package: cpm.wkk.tinge
 Version: 1.2.1
 Architecture: iphoneos-arm64
