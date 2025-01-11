@@ -1927,6 +1927,23 @@ Author: Soh Satoh
 Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
 Name: FreePIP
 
+Package: jp.uzra.getdown
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: uz.ra
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/jp.uzra.getdown_1.0_iphoneos-arm64.deb
+Size: 3676
+MD5sum: 27b02f99940e47ea6546443ac1721f75
+SHA1: 8d561876134cb54513be1822e6f9633865afa0b2
+SHA256: a0081420a2c8b8b3bb781dc0c839434b9ead534aaa825c43f27f8dbf0eff48db
+Section: 插件
+Description: 手机朝下时，自动锁屏，快人一步！
+Author: uz.ra
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: GetDown
+
 Package: killapps
 Version: 1.2-2
 Architecture: iphoneos-arm64
