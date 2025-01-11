@@ -1267,6 +1267,23 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.qqnotiavatar
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Conflicts: com.netskao.qqnotiavatar, netskao.qqnotiavatar
+Filename: ./debs/com.qqnotiavatar_1.2-2_iphoneos-arm64.deb
+Size: 25520
+MD5sum: 3c62d42c03e44d466405470413aa1893
+SHA1: 69900100ebbb7be45d154e02228d0f75b105b979
+SHA256: 6b0664fbbb91b80c04200c8141622fa87f33a5c6087e5dcfe6a30da0be5b757a
+Section: 插件
+Description: QQ显示通知头像。上架备份。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
+Name: QQ通知头像
+
 Package: com.sini.centra
 Version: 1.0
 Architecture: iphoneos-arm64
