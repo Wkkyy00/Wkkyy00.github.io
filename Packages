@@ -327,6 +327,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/1f71c54f9809168bb6d406ca93090b84.
 Name: AlwaysDark
 Sponsor: wkk
 
+Package: com.anthopak.addtofolder-rootless
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/com.anthopak.addtofolder-rootless_1.4_iphoneos-arm64.deb
+Size: 112384
+MD5sum: f6508ac580e066e1f808b23a8933bcbf
+SHA1: 5f50c002584725f4e097f59d49f544b4ae1a2413
+SHA256: cd19aaf793d2007e0aebe3840c1b89392e25c8b2345c909a69e29b6d881a0429
+Section: 插件
+Description: 长按app可以加入到任意文件夹，省去拖动步骤。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
+Name: AddToFolder
+
 Package: com.apple.wechat.noads
 Version: 1.2.0
 Architecture: iphoneos-arm64
