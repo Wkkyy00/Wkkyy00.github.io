@@ -810,6 +810,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/07/6ef6711ca9293ce5daa41999cd7491a4.
 Name: HideNotificationBadge
 Sponsor: wkk
 
+Package: com.hideserialnumber
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.hideserialnumber_0.0.4_iphoneos-arm64.deb
+Size: 58576
+MD5sum: 228f0255a0b2dff39d5282a76a36c7a4
+SHA1: ccc77da4934a4682972cef2e8b01b86394469709
+SHA256: de71240421eeebdc73e993d114cda6a5462854d10832d8fc28dbd64563eeb6ec
+Section: 插件
+Description: 自定义序列号机型等多个信息。伪装用。
+Author: ichitaso <qiaozhani000@163.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: HideSerialNumber
+
 Package: com.hitori.misaki
 Version: 2.2
 Architecture: iphoneos-arm64
