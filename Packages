@@ -2093,6 +2093,22 @@ Author: Traurige <hello@traurige.dev>
 Icon: https://s1.imagehub.cc/images/2025/01/07/dff648e22f83c2c0355153dd89dfdef3.png
 Name: Eneko
 
+Package: jp.dcsyhi.zetsurootless
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/jp.dcsyhi.zetsurootless_1.2_iphoneos-arm64.deb
+Size: 1824688
+MD5sum: df156f43b8e462b13715d02de6019fea
+SHA1: cc09e458a288cace941c625f6e78c4d635b5a715
+SHA256: fc87ad2494ecf40432eb518b598130bc40d13f4f165d806ae10cf5b3fa0c8608
+Section: 插件
+Description: 一款古老的分屏插件。仅备份。
+Author: Dcsyhi
+Icon: https://apt.bitilly.cn/Description/zetsu/icon.png
+Name: Zetsu
+
 Package: jp.soh.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
