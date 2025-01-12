@@ -1776,6 +1776,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.
 Name: SmartNetwork
 Sponsor: wkk
 
+Package: com.wkk.tixingsheng
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.tixingsheng_1.0_iphoneos-arm64.deb
+Size: 6863616
+MD5sum: d92e469bec1f94cab4ddb87180200f81
+SHA1: 12ff07e3b70d42231c803db9b938752febbcd0e6
+SHA256: 5fdc1b069888e39368fa8135881f62e4851da5f91c637a7550a4eedc3f97c0af
+Section: 插件
+Description: 下载后文件在目录/var/mobile/Documents/精选提醒声.zip 解压后自行食用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 百款精选提醒声
+
 Package: com.wkkyy0.pikaqiuzhuxiao
 Version: 1.0
 Architecture: iphoneos-arm64
