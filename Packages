@@ -2464,11 +2464,11 @@ Version: 3.0
 Architecture: iphoneos-arm64
 Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
 Filename: ./debs/newterm3theos_3.0_iphoneos-arm64.deb
-Size: 18536288
-MD5sum: a7a3da2d6d1d0fcbcf77fd14f379a0c6
-SHA1: 67f1a357814f317fa8bcbc73b43825f77c86cf6d
-SHA256: f5337748c5e388402a3db52188b18bdd35e93e394825cd5e565b1eee984eb577
-Section: Tweaks
+Size: 18136792
+MD5sum: 34d4c80f593adffc9829bde93f34475f
+SHA1: 0bcadcc73c88829bf9444b5d2873a5280278f2e4
+SHA256: c80c2c10c3c1c1b6a94cc2b5d3cdee1bfacf16f638fbb2f7cde5da8d117e011b
+Section: 应用程序
 Description: newterm3中文版(带theos包，无sdk)
 Author: wkk
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
