@@ -188,6 +188,23 @@ Author: 0xkuj
 Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
+Package: com.25mao.leftpan.rootless
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/com.25mao.leftpan.rootless.deb
+Size: 44256
+MD5sum: d16572d86d68b0651cebe5b075928a12
+SHA1: fff9fada16d84740baa0ad425ef04241d97ec9ea
+SHA256: 88add2078d939a2079f574ccab0709cf7d78d1c24717f7cfdb561258c8cd50b3
+Section: 插件
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 左滑返回
+
 Package: com.25mao.miyou.rootless
 Version: 3.8-0
 Architecture: iphoneos-arm64
@@ -1489,6 +1506,22 @@ Description: 按压APP图标3DTouch菜单快速设置开关消息通知。
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 3DEasynotify
 
+Package: com.snail.photoskipdelandinfinitezoom.rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.photoskipdelandinfinitezoom.rootless_0.0.1.deb
+Size: 4364
+MD5sum: 47bb25484c108dae01e651d874057b07
+SHA1: 919062e6ee255d9a1c747cdd16ac8cf4af56e4e5
+SHA256: 568281c7eac23a246cf45ae2726736ce3ab4e5f57f04cbe22080d735262a14df
+Section: Rootless
+Description: 照片直接删除无需确认，无限放大照片，无设置项。
+Author: Snail <snailsohi@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PhotoSkipDelAndInfiniteZoom
+
 Package: com.sop.killapps
 Version: 1.7.8
 Architecture: iphoneos-arm64
@@ -1586,12 +1619,12 @@ Maintainer: 苏苏
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.wcfrostedglass_1.0.4_iphoneos-arm64.deb
-Size: 5388
-MD5sum: 8c68775e22cf93c3e382a8834a71a922
-SHA1: 75f3d33a53617f5c27570b76955fa37811e00579
-SHA256: 1de4f970383f8f346dfebf009feda619520647f8ef12f81fae7f42bb9814ba9a
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
+Size: 5380
+MD5sum: 418ff1769b2ce0c41bcfe40f863a7c3b
+SHA1: 3e84da534c05615d3f90f3230d916cb3551cce9a
+SHA256: cbe081e412353a71bf4da6389d783030c860b93c338138f77ba6786ac26e4504
+Section: 插件
+Description: WeChat Frosted glass effect on top and bottom
 Author: 苏苏
 Icon: https://www.susubaby.top/images/wechat.png
 Name: SuWCFrostedGlass
@@ -2191,6 +2224,23 @@ Author: Traurige <hello@traurige.dev>
 Icon: https://s1.imagehub.cc/images/2025/01/07/dff648e22f83c2c0355153dd89dfdef3.png
 Name: Eneko
 
+Package: info.adolfoi.simplehome
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Adolfoi_
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/info.adolfoi.simplehome_1.1.0_iphoneos-arm64.deb
+Size: 5000
+MD5sum: 845b6fd990b4347b0ef523b0831fd766
+SHA1: 949a05f6cde9156117db4849c0f2ccc0459685d6
+SHA256: 1b6053f1b1e6e9bb0eea1cac5ee06f0c0a3b5e1efb4f672a9f189041dfe19b8a
+Section: 插件
+Description: 删除“今日视图”和“应用程序库视图”。
+Author: Adolfoi_
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SimpleHome
+
 Package: jp.soh.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
@@ -2491,6 +2541,23 @@ Author: haxi0
 Icon: https://s1.imagehub.cc/images/2025/01/10/c15ed9d5fcebba0d7dbe174217349e67.jpeg
 Name: Derootifier转无根
 
+Package: preferenceloader
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/preferenceloader_2.2.7.deb
+Size: 17616
+MD5sum: 02222d0f3bd67c36d699d540407e6fff
+SHA1: b9fec76f4f85356109d99a8f91274a4d5fab02c7
+SHA256: ac8a23dea5ae70be07262f2afce1b93b5b50befb960f5ed0281110c437ae050c
+Section: System
+Description: load preferences in style
+Author: Dhinak G
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PreferenceLoader
+
 Package: preferenceloader.rootless.top
 Version: 2.2.6.6
 Architecture: iphoneos-arm64
@@ -2618,6 +2685,28 @@ Description: 在运营商文本或时间旁边添加图像或GIF
 Author: Hitori
 Icon: https://s1.imagehub.cc/images/2025/01/02/62018602797b84692ed3c618df96373d.jpeg
 Name: Zeppelin Reborn
+
+Package: ws.hbang.newterm3
+Version: 3.0~beta1
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 14899
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm64.deb
+Size: 3836124
+MD5sum: 1a45832058bb3d0cdf2ad36a0a81f82a
+SHA1: 8f2d36995a9faca9e527bbcb06a10571f8c1c08e
+SHA256: 6782c0f0a30efd3e7f1e888d4c453dda7f97318712d155ca7b3a110b09f70ff4
+Section: 应用程序
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
 
 Package: xiaochouzhenhoutai.wkk
 Version: 0.1.0
