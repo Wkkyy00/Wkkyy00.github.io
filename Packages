@@ -1725,6 +1725,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信头像旋转
 Sponsor: wkk
 
+Package: com.wkk.atriapeizhi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.atriapeizhi_1.0_iphoneos-arm64.deb
+Size: 6776
+MD5sum: b2823a5cff7648b6e6b6e963be483a54
+SHA1: c1252d38898653b67f4263763ca62f30fa281999
+SHA256: bc8216023a54cb132c0b89e59bbc13b98b260522db5324e60e77a6eb9241ec32
+Section: 插件配置
+Description: 这是我个人Atria插件的五图标配置，给不会设置的小伙伴方便。下载后文件在目录/var/mobile/Documents/Atria五图标配置.zip 解压后自行导入Atria食用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Atria五图标配置
+
 Package: com.wkk.dockshowlabels
 Version: 0.0.1
 Architecture: iphoneos-arm64
