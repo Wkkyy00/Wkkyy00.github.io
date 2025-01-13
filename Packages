@@ -1619,12 +1619,12 @@ Maintainer: 苏苏
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.wcfrostedglass_1.0.4_iphoneos-arm64.deb
-Size: 5380
-MD5sum: 418ff1769b2ce0c41bcfe40f863a7c3b
-SHA1: 3e84da534c05615d3f90f3230d916cb3551cce9a
-SHA256: cbe081e412353a71bf4da6389d783030c860b93c338138f77ba6786ac26e4504
-Section: 插件
-Description: WeChat Frosted glass effect on top and bottom
+Size: 5400
+MD5sum: c168877e0b448d68badca7b70b069da6
+SHA1: 8eed9d7baa689c97f5fd532caf4f30f5e216555c
+SHA256: e412f28e6c6d0a6e00911707a58ffafe31488dc5b80359d2ee1735f4852ae0c7
+Section: 微信插件
+Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
 Author: 苏苏
 Icon: https://www.susubaby.top/images/wechat.png
 Name: SuWCFrostedGlass
