@@ -1008,6 +1008,23 @@ Author: 预言小猫
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键备份和恢复工具
 
+Package: com.krashkop
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: FoxfortMobile
+Installed-Size: 428
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.krashkop_1.0.2_iphoneos-arm64.deb
+Size: 191208
+MD5sum: c5ad953981f6374ee8546675c5e6bc22
+SHA1: 25fb62406e94e32683affca485eeaafb75d76ae1
+SHA256: e9e034c04c04e9fd6c6c51bb4d3c43f59828f6ecc654e0e2bd07e5716345283a
+Section: 插件
+Description: 与Cr4shed功能差不多，用来查看崩溃日志。
+Author: FoxfortMobile
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: KrashKop
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
