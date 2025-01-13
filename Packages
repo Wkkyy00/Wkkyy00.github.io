@@ -1796,15 +1796,15 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.onepeizhi_1.0_iphoneos-arm64.deb
-Size: 7920
-MD5sum: e1ebbada6d7687c0e974cedb27d925cc
-SHA1: 4e9d7e8b05dec65394cc3b4dab1742f6be51ea51
-SHA256: b072e0952f0d2f950b93774074674eb8edf398cbc1b03bf737579a98b87b92b9
+Size: 7924
+MD5sum: f66a51f449f7f56e9d0ca52c2598c768
+SHA1: 97766f69d8e6c0d0c013fc44ebbd999979638c50
+SHA256: f149cfa40c3f6d8eaf19af9562da1cda9ac1fbec46b277a1b8052d95ebfce085
 Section: 插件配置
 Description: 下载后文件在目录/var/mobile/Documents/三款onesettings配置.zip 解压后自行导入onesettings食用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: OneSettings三款配置
+Name: OneSettings配置（三款）
 
 Package: com.wkk.peizhi
 Version: 1.0
@@ -2071,6 +2071,22 @@ Author: Huayuarc <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/02/116566f5242059bd3a3dd1df06f40afd.png
 Name: 【键盘】隐藏语音图标-Rootless
 
+Package: com.zetsu
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.ccsupport, ws.hbang.common
+Filename: ./debs/com.zetsu_1.5_iphoneos-arm64.deb
+Size: 9658008
+MD5sum: ce08512f0f0f8365a15b184b91de6283
+SHA1: 88f03f114a24dab6f1c065a033eba9822aafc294
+SHA256: e5459d8a4b5e484eb36c91d7c155290f8a6369d23db9504de3ee4d91819a0574
+Section: 插件
+Description: 备份。中文版。
+Author: Dcsyhi
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
+Name: Zetsu
+
 Package: com.zhezhaojihe.baidu
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2141,22 +2157,6 @@ Description: 视频壁纸插件，可以对主屏幕和锁屏进行美化。
 Author: Traurige <hello@traurige.dev>
 Icon: https://s1.imagehub.cc/images/2025/01/07/dff648e22f83c2c0355153dd89dfdef3.png
 Name: Eneko
-
-Package: jp.dcsyhi.zetsurootless
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: Dcsyhi
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
-Filename: ./debs/jp.dcsyhi.zetsurootless_1.2_iphoneos-arm64.deb
-Size: 1824688
-MD5sum: df156f43b8e462b13715d02de6019fea
-SHA1: cc09e458a288cace941c625f6e78c4d635b5a715
-SHA256: fc87ad2494ecf40432eb518b598130bc40d13f4f165d806ae10cf5b3fa0c8608
-Section: 插件
-Description: 一款古老的分屏插件。仅备份。
-Author: Dcsyhi
-Icon: https://apt.bitilly.cn/Description/zetsu/icon.png
-Name: Zetsu
 
 Package: jp.soh.freepip
 Version: 0.0.3-1
