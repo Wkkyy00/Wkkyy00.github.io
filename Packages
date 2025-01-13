@@ -1279,6 +1279,23 @@ Author: dvntm <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: OledKeyboard
 
+Package: com.onehandwizard2
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 540
+Depends: mobilesubstrate
+Filename: ./debs/com.onehandwizard2_1.0.6_iphoneos-arm64.deb
+Size: 43792
+MD5sum: 2e86ce1a478e1ac6680aecc49848d958
+SHA1: 628fd8ed333ace6b09611a07e38fa90b4e16794b
+SHA256: 71a4a91e6bf50b266f3a17879c4f22987e134416c02d1481cff261dd4fd8432f
+Section: 插件
+Description: 单手操作你的手机，呼出方式为q横条上方下滑，呼出后在空白处上下滑可以放大缩小，单/双击可以关闭。
+Author: sharedRoutine
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: OneHandWizard2
+
 Package: com.opa334.crane
 Version: 1.3.16-3
 Architecture: iphoneos-arm64
