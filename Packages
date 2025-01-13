@@ -1790,6 +1790,22 @@ Author: b4db1r3 <nfive060@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: OCD5
 
+Package: com.wkk.onepeizhi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.onepeizhi_1.0_iphoneos-arm64.deb
+Size: 7916
+MD5sum: 9007d7c407b8a02dd3caef2d7cfe5486
+SHA1: 81ae7026d38e037c8d7b8c33589bc59a03ddf3c7
+SHA256: 497b09de6e7db817469e8d3aae6e033261f4129102648d4723863bedcafea662
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/三款onesettings配置.zip 解压后自行导入onesettings食用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: OneSettings配置(三款）
+
 Package: com.wkk.peizhi
 Version: 1.0
 Architecture: iphoneos-arm64
