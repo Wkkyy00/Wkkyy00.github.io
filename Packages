@@ -1286,12 +1286,12 @@ Maintainer: CyPwn
 Installed-Size: 540
 Depends: mobilesubstrate
 Filename: ./debs/com.onehandwizard2_1.0.6_iphoneos-arm64.deb
-Size: 43792
-MD5sum: 2e86ce1a478e1ac6680aecc49848d958
-SHA1: 628fd8ed333ace6b09611a07e38fa90b4e16794b
-SHA256: 71a4a91e6bf50b266f3a17879c4f22987e134416c02d1481cff261dd4fd8432f
+Size: 43808
+MD5sum: 9a8e25051387b00876d9cb6491b1d5b1
+SHA1: 43d6cfb63d005f3816812f0ea426cbbe78b069d4
+SHA256: ef435246cc25a1c63f987c88f6e7046c6c699f1d6eb5280efd9c424d78c0b079
 Section: 插件
-Description: 单手操作你的手机，呼出方式为q横条上方下滑，呼出后在空白处上下滑可以放大缩小，单/双击可以关闭。
+Description: 单手操作你的手机，呼出方式为横条上方下滑，呼出后在空白处上下滑动可以放大缩小，单/双击可以关闭。
 Author: sharedRoutine
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: OneHandWizard2
