@@ -954,6 +954,23 @@ Dev: ichitaso
 Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
 Name: HideKBSettings (iOS 11 to 16)
 
+Package: com.ichitaso.otadisabler
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 168
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.6_iphoneos-arm64.deb
+Size: 9512
+MD5sum: 7e639c5d0a6e63d112e9df433fbe3f6c
+SHA1: 3575379b2d47bf6a9dcf2a039e16b4c5e52269b8
+SHA256: a7d106121936863ae565f04ff2d8a637442debf59938968ddd9cca52bca48271
+Section: System
+Description: 禁用ota和设置的红点。
+Author: ichitaso
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: OTADisabler
+
 Package: com.ichitaso.ringertoggle
 Version: 0.3
 Architecture: iphoneos-arm64
