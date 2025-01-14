@@ -2541,23 +2541,6 @@ Author: z
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 隐藏底部横条
 
-Package: org.coolstar.classicfolders2
-Version: 3.0.5
-Architecture: iphoneos-arm64
-Maintainer: CoolStar
-Installed-Size: 4496
-Depends: mobilesubstrate
-Filename: ./debs/org.coolstar.classicfolders2_3.0.5_iphoneos-arm64.deb
-Size: 3298224
-MD5sum: 7261b1af415f69aeb9430b14ab8935c7
-SHA1: 46b82bb7b388272d7bf7252e2cabe44d2e8ae5bf
-SHA256: b771bcecea5b42f8ec3c5b1749bcd3cf8ea8b74d675de372e25aff5ac67bfb72
-Section: 插件
-Description: An awesome MobileSubstrate tweak!
-Author: CoolStar
-Icon: https://s1.imagehub.cc/images/2025/01/02/eb29da5122d8d5215c728f1464880b8a.png
-Name: ClassicFolders 2
-
 Package: org.haxi0.derootifiers
 Version: 1.3
 Architecture: iphoneos-arm64
