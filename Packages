@@ -1284,6 +1284,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/d8061f9532715897329b853bf46167ac.png
 Name: AutoFaceUnlock(Rootless)
 
+Package: com.netskao.storeswitchaccounts
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 460
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64.deb
+Size: 102192
+MD5sum: b30a6fc57cbe918e024e612a4af9edef
+SHA1: 0f4b3f4dc88f70662924e06deefa38d6b8dc90ab
+SHA256: e5934bc9a7d744554576fa2b1d342852c202677ef8edcec4f1a4b5dd83f8126a
+Section: 插件
+Description: 长按切换商店应用账号。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: StoreSwitchAccounts
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
