@@ -500,6 +500,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/0575ab9f6ac5978840ad356c65cf63da.
 Name: RealCC
 Sponsor: wkk
 
+Package: com.classicfolders3
+Version: 3.0.5.8
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4312
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./debs/com.classicfolders3_3.0.5.8_iphoneos-arm64.deb
+Size: 3274088
+MD5sum: 88f47d2450a38c32afe6bd67d6952a10
+SHA1: df7bab06b20e0c15b42cacf9532ca7c9c0f9f3dc
+SHA256: eb6546c40123ae80ba0fafb8cc785141ad11e1b154b425907baac41a66154dfa
+Section: 插件
+Description: 经典文件夹。备份。
+Author: CoolStar & Lizynz
+Icon: https://s1.imagehub.cc/images/2025/01/02/eb29da5122d8d5215c728f1464880b8a.png
+Name: ClassicFolders3
+
 Package: com.classickeyboardxs
 Version: 1.1-8
 Architecture: iphoneos-arm64
