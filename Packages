@@ -500,6 +500,42 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/0575ab9f6ac5978840ad356c65cf63da.
 Name: RealCC
 Sponsor: wkk
 
+Package: com.ccswitchdata-rootless
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 132
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.ccswitchdata-rootless.deb
+Size: 20800
+MD5sum: 9816000d4a3b4d6fa71aa150aa8e26e7
+SHA1: 88fcd7b05023762734b54ef93eb1c7ed0aca38eb
+SHA256: b64440d35493fa08ebb78af79a2e87b04b95ab5096e3c01ebc65b1025b2460c4
+Section: 插件
+Description: 如题。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 控制中心切换双卡流量
+Sponsor: wkk
+
+Package: com.classicfolders3
+Version: 3.0.5.5
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4312
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./debs/com.classicfolders3_3.0.5.5_iphoneos-arm64.deb
+Size: 3282780
+MD5sum: 1af0a8d4e3c9d57263904a2c9b7de8f2
+SHA1: 2d516ef3002f5f353e240a2d66585f92d6edce9a
+SHA256: b369c80efcbe71df5ad0cc76861d5fa7a17b6c82b9916b11440fbf52686d275e
+Section: 插件
+Description: 经典文件夹。备份。
+Author: CoolStar & Lizynz
+Icon: https://s1.imagehub.cc/images/2025/01/02/eb29da5122d8d5215c728f1464880b8a.png
+Name: ClassicFolders3
+
 Package: com.classicfolders3
 Version: 3.0.5.7
 Architecture: iphoneos-arm64
