@@ -1788,6 +1788,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.
 Name: 双指下滑截图
 
 Package: com.tencent.themebox
+Version: 1.0.8-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 5856
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_1.0.8-1_iphoneos-arm64.deb
+Size: 2610888
+MD5sum: 7d28118bb35c823f195c80bf404fd1aa
+SHA1: 9e70dc2f1f59e2f64b4eff9532aa05a4ffb859de
+SHA256: a41406ff2974dec404737a8a319d620618c8b6efb1ff814ff03f001836cb6f40
+Section: 微信插件
+Description: 备份。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: ThemeBox
+
+Package: com.tencent.themebox
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
 Maintainer: WeChat
