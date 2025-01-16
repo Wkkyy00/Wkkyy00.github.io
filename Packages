@@ -327,6 +327,23 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
 
+Package: com.82flex.singlevpn
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.5_iphoneos-arm64.deb
+Size: 29004
+MD5sum: ae9c1ac40af42fbe0e7a9fcbd96485d6
+SHA1: 410e052df5bdfa204c9a9ea40b4ba5adf5445af1
+SHA256: 88c1846bcd9599d9f1fd2f1d3121e6d83c90c8232edd76bf8c4e61106a70c08e
+Section: 插件
+Description: 自定义连接vpn时的wifi/数据颜色，新增连接热点颜色。
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Single VPN
+
 Package: com.alwaysdark
 Version: 1.2.3
 Architecture: iphoneos-arm64
