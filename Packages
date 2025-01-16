@@ -1718,6 +1718,40 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.susu.ios18batteryestimate
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.susu.ios18batteryestimate_1.0.1_iphoneos-arm64.deb
+Size: 14044
+MD5sum: bc5c11d65e5a41f7cc249517c929b876
+SHA1: 2b6c16c6bb26e172f2dc456cff65e0e017e67c79
+SHA256: e04204c13c82090a20c0fe549c4e9f9a5584fdbc0adea9b99d750cc50f00f726
+Section: Tweaks
+Description: 在锁屏界面显示预计充电时间，激活过SpringAnimation的可免费使用，单独激活($6.66软妹币)
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+
+Package: com.susu.springanimation
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 180
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.springanimation_1.0.4_iphoneos-arm64.deb
+Size: 10744
+MD5sum: 9d6d17a0e1df93ee0f48529ea4206b35
+SHA1: 168931f6bb3fe2cadbe5c1509e335db889cfb316
+SHA256: ae528087e918b513f0bf3cc10a6d2d7019b81e048849abe069ffa6375f460385
+Section: 插件
+Description: 桌面交互动画，激活联系QQ:2914115314($14.99软妹币)
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SpringAnimation
+
 Package: com.susu.wcfrostedglass
 Version: 1.0.3
 Architecture: iphoneos-arm64
