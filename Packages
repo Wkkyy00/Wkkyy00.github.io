@@ -77,11 +77,11 @@ Installed-Size: 123
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: cn.Bswbw.fixset
 Filename: ./debs/cn.Bswbw.fixsets_1.1_iphoneos-arm64e.deb
-Size: 36804
-MD5sum: bfe22d3747092df76fe642d60d18928d
-SHA1: 87f1b1e8a7c5abfcb909152ba61c0d88f6f79bdd
-SHA256: e3dc3d4d5657651306ef8a5cf4ba22f711835599a6713c257ce3318c59a4d73b
-Section: Bootstrap
+Size: 36800
+MD5sum: 038d5aa43d6c03a70363e05c8faa3c2a
+SHA1: ab3410c581b287962596722f3bc480e6646f67df
+SHA256: 211cf6ae526aa320ae36707a9184b5d0997a37fe6f582b4a4f9f589ef9958185
+Section: RootHide Packages
 Description: 修复部分插件转RootHide配置不保存问题。
 Author: bswbw
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
