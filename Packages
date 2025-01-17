@@ -1232,6 +1232,22 @@ Author: liuf <(null)>
 Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
 Name: 系统键盘圆角
 
+Package: com.movenotification16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.movenotification16_1.0_iphoneos-arm64.deb
+Size: 17400
+MD5sum: 77678e0b68a0449d323f9ebfb1e77d11
+SHA1: a1795b4f4acb98803cd6c8595a791c1ba8163960
+SHA256: df743bf261a6c54a5c8db8ec7e2271e08a96ad9c0f7c8a00aa0726f7d6862f45
+Section: 插件
+Description: iOS16锁屏上的通知上移，个人设置-380，感觉效果还不错！
+Author: JunesiPhone <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/movenotification16.png
+Name: MoveNotification16
+
 Package: com.muirey03.cr4shed
 Version: 4.3.1-1+debug
 Architecture: iphoneos-arm64
