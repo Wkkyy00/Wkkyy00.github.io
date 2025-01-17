@@ -1669,14 +1669,14 @@ Maintainer: SOPPPra
 Installed-Size: 432
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.mrgcgamer.libgcuniversal
 Filename: ./debs/com.sop.killapps_1.7.8_iphoneos-arm64.deb
-Size: 165448
-MD5sum: fcc2ee17e1acdbba6f34b02ee79e08c6
-SHA1: dc09741987f149f142c2a652d6400e35d803dcab
-SHA256: fc0ee0a7e099aee8ef42b100a29f5cf8083c19c3bf40872dc40c49e5e4715093
+Size: 149172
+MD5sum: 3b7dbbbb97e193ca5a75df3a5d467914
+SHA1: 0e99d36a0f3b4765fc058577ea48b875583da997
+SHA256: 72f7f11aa2dceb115e546c096160c6740332311432cd7abddb99ba5c3106e2a3
 Section: Tweaks
 Description: Customize your app switcher with a variety of options, including the ability to close apps with a downswipe, adding buttons, a grid switcher, and many other features.
 Author: SOPPPra
-Icon: https://i.postimg.cc/hGzV6VSP/icon.png
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: killapps
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.killapps.json
 
