@@ -69,6 +69,24 @@ Author: pxcex
 Icon: https://s1.imagehub.cc/images/2025/01/09/70ae7dc3552b53574e667238ce5a0a7d.png
 Name: AutoScroll 自动滚动
 
+Package: cn.Bswbw.fixsets
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.Bswbw.fixset
+Filename: ./debs/cn.Bswbw.fixsets_1.1_iphoneos-arm64e.deb
+Size: 36804
+MD5sum: bfe22d3747092df76fe642d60d18928d
+SHA1: 87f1b1e8a7c5abfcb909152ba61c0d88f6f79bdd
+SHA256: e3dc3d4d5657651306ef8a5cf4ba22f711835599a6713c257ce3318c59a4d73b
+Section: Bootstrap
+Description: 修复部分插件转RootHide配置不保存问题。
+Author: bswbw
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: FixSet【roothide】
+
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
