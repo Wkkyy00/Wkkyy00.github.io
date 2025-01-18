@@ -463,6 +463,24 @@ Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 Name: floatingView
 
+Package: com.betterccbrightness
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.betterccbrightness_1.0.3_iphoneos-arm64.deb
+Size: 43724
+MD5sum: 9f4aaf6b3bfb439903cb24099c302e17
+SHA1: 3da5726dba98f26eb9a2dece74ec0b0d4cf17307
+SHA256: 189f791025affee069f017c4016a3b95baef733b5c7448f235dd0063eb67433f
+Section: 控制中心
+Description: 在控制中心亮度模块长按后，增加了可以快速调节降低白点值和夜览的滑块。
+Author: level3tjg
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: BetterCCBrightness
+Sponsor: wkk
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
