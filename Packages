@@ -515,6 +515,23 @@ Author: fiore & p2kdev & 妖刀
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: CCBorder16
 
+Package: com.ccborder
+Version: 1.1.9
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Filename: ./debs/com.ccborder_1.1.9_iphoneos-arm64.deb
+Size: 39752
+MD5sum: bc10fd3a8d8a03c09d9e5ff592121d84
+SHA1: f9ce247f738fa96bdff43202aa39ca4b786b67f1
+SHA256: d4bb13d2d4260f05603528282ecab4d67f87cbe19531600a87fe7e69e8a3c0a7
+Section: 控制中心
+Description: iOS18样式的控制中心，基于p2kdev的开源定制。上架备份。
+Author: fiore & p2kdev & 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: CCBorder16
+
 Package: com.cconandoff
 Version: 1.1.0
 Architecture: iphoneos-arm64
