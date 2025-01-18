@@ -2102,6 +2102,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.
 Name: Dock显示app名称
 Sponsor: wkk
 
+Package: com.wkk.guazai
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.guazai_1.0_iphoneos-arm64.deb
+Size: 3018100
+MD5sum: f88375d6ed4fb81c49300fe1535e53ac
+SHA1: 1bdf3d58bc15c89b8536bb9968ae874c7cb8b79a
+SHA256: bf4d6a7d260d2cf032555118e30025be071fcaa8c0d3c39860d9c528e387a5af
+Section: 插件配置
+Description: 控制中心1*1和1*2的挂载模块与灵动岛录屏写轮眼挂载素材等，下载后文件在目录/var/mobile/Documents/控制中心与写轮眼.zip 本配置包只适合有挂载基础的人，不会挂载的铁汁只能自行搞定（不适合隐根用户，因为替换的路径素材都是无根路径，隐根不嫌麻烦自己一个个改吧）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 控制中心与写轮眼挂载
+
 Package: com.wkk.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
