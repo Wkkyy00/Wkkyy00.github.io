@@ -1301,6 +1301,23 @@ Author: JunesiPhone <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/movenotification16.png
 Name: MoveNotification16
 
+Package: com.mtac.lynxtwo
+Version: 2.5.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 2952
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.mtac.lynxtwo_2.5.4_iphoneos-arm64.deb
+Size: 674724
+MD5sum: e5d7b3728174b665f0c7cd8583f5bd76
+SHA1: 27d7c818a16397777ace7c29efa9c539fd247f7c
+SHA256: 41951d347082865d54569e8fedd42ca065ab4026ca3fd428d9453b6132d6a769
+Section: 插件
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Author: MTAC
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Lynx 2【已完整汉化】
+
 Package: com.muirey03.cr4shed
 Version: 4.3.1-1+debug
 Architecture: iphoneos-arm64
