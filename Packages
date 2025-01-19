@@ -1317,6 +1317,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 低电量通知横幅
 Sponsor: wkk
 
+Package: com.marie
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 940
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.marie_1.0.6.deb
+Size: 552596
+MD5sum: b06c2fdd0c496c42d5dc6f880445438a
+SHA1: 13828c7083793530815b3d0d295a9814d2eee43f
+SHA256: 990b346410c6e65a346035baaba4e1414c8386189d8b6dd5e183b845b7d32a22
+Section: 插件
+Description: 分别在深色/浅色模式下，为拨号界面，密码页，分享页设置背景图像。（由lans233亲情汉化并分享）
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Marie
+Sponsor: wkk
+
 Package: com.movenotification16
 Version: 1.0
 Architecture: iphoneos-arm64
