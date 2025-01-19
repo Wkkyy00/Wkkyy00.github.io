@@ -2024,6 +2024,25 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: ThemeBox
 
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 481
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.1_iphoneos-arm64.deb
+Size: 57612
+MD5sum: 00daa1d44d7814b11a9277825abf71dc
+SHA1: 76bfdd038c4e67b87a8f8980edb374cd57047554
+SHA256: 20a589e7088e5a632bc5a4b2b9eb2bc6bf7c7bf733987cda17f69ce3cd886052
+Section: 插件
+Description: 仿ios18按键反馈！
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
+
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
 Architecture: iphoneos-arm64
