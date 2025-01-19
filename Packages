@@ -714,6 +714,26 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/d38cd5684f91f7053d3fe3a770b1a140.
 Name: 猫
 Sponsor: wkk
 
+Package: com.cydiageek.gyration
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 435
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.cydiageek.gyrationapps
+Filename: ./debs/com.cydiageek.gyration_1.1.5_iphoneos-arm64.deb
+Size: 46368
+MD5sum: 00e5d1b76267d5daf5f9cfd875dff8d9
+SHA1: 4a867bbcf7443184c7dfe9a44036be194381d1a1
+SHA256: d1445259a38fb373a3e59aa5ef7102e05c04d9d2ab1702aaa0a7a5112fda9789
+Section: 插件
+Priority: optional
+Description: 与iOS9至16兼容，您可以在系统范围内启用所有应用程序、锁屏和主屏幕的旋转，还可以管理更多的旋转功能！更新于2024年4月25日，1.1.5版本，支持iOS16。添加了“旋转所有应用程序”选项（仅限iOS16）在iOS16上添加了向上向下旋转应用程序、锁屏和主屏幕的选项（感谢khanhduytran0的TrollPad Code）修复了iOS15.0+在无根环境中因使用Legacy arm64e ABI而导致的崩溃。一般代码改进/清理/修复。
+Author: CydiaGeek <lucaluca86@aol.com>
+Dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Gyration
+Sponsor: wkk
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
