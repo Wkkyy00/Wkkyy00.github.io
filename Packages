@@ -2123,6 +2123,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.
 Name: 优雅dock
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.tzfzdd
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.tzfzdd_1.1_iphoneos-arm64.deb
+Size: 2956
+MD5sum: f60dd2dee0e5e5193307aa140400e1bf
+SHA1: 2e748cb9f0521706c22a48f1a4dda006092fdf71
+SHA256: d1db7beeaca3de69f27c141deeb1a52b642b35000a625a61426689c30c7bb9d8
+Section: 控制中心
+Description: 禁止通知中心信息堆叠，连续展开。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 通知分组展开
+
 Package: com.udevs.vpnindicator
 Version: 1.2.0
 Architecture: iphoneos-arm64
