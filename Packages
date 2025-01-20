@@ -1824,6 +1824,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/04172ade2f06f8ad34d2c207810f897c.
 Name: 下拉清理通知
 Sponsor: wkk
 
+Package: com.pulloverpro
+Version: 2.1.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.pulloverpro_2.1.6_iphoneos-arm64.deb
+Size: 696268
+MD5sum: 82de44a8caf6c53da86e85b6f354de92
+SHA1: f870c84d084f1f54975302894a016e9933551277
+SHA256: 4b07c2228d8d14e6e288de1c17cf76aa90ae45f82eaee901a6642dd6289d851b
+Section: 插件
+Description: 经典插件，上架备份x
+Author: c1d3r
+Icon: https://s1.imagehub.cc/images/2025/01/21/7dd8ed70cad1d12060d8f9319d5bdb14.png
+Name: PullOver Pro
+
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.1~2
 Architecture: iphoneos-arm64
