@@ -2489,6 +2489,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 百款精选提醒声
 
+Package: com.wkk.xielunyanguazai
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.xielunyanguazai_1.0_iphoneos-arm64.deb
+Size: 4120
+MD5sum: 6493e632cdd74726811f25b906f96f5a
+SHA1: f60f62063b4e59f5f23ed5fe83740276409a5a45
+SHA256: 7e0d9e8c101c44484ffa63f352851fb24ccaef9d99d421f45fa15a03a6559da4
+Section: 插件
+Description: 灵动岛录屏写轮眼
+  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+  * 注意事项：先挂载两个路径，然后在/var/jb/Library/Themes/挂载/目录下自行准备好 写轮眼.png 和 红点.png 素材，最后再下载此插件即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/18bba91d54fb168ffa46d775d162c100.png
+Name: 灵动岛录屏写轮眼
+
 Package: com.wkkyy0.pikaqiuzhuxiao
 Version: 1.0
 Architecture: iphoneos-arm64
