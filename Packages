@@ -1937,14 +1937,14 @@ Architecture: iphoneos-arm64
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debs/com.snail.photoskipdelandinfinitezoom.rootless_0.0.1_iphoneos-arm64.deb
-Size: 4368
-MD5sum: 5032fce7da9e11a91998e0527ed2b2e8
-SHA1: f7a215bf9900813f4a805095483ca7b79d7ff017
-SHA256: dc4323ce8dc00185d15bb9ea381feb3f6fe2bf46b6f3c68de3bd15b152d82ed0
+Size: 4372
+MD5sum: 778b2112c4f7349381f20b534d8080fc
+SHA1: 618ef3c0176069244be3da1b75f5c276d7779e3f
+SHA256: 070cae70f3e5a5a84bfecbae9e37e2efbd17e832a6207d3faf19785593fb786b
 Section: 插件
 Description: 照片直接删除无需确认，无限放大照片，无设置项。
 Author: Snail <snailsohi@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: PhotoSkipDelAndInfiniteZoom
 
 Package: com.sop.killapps
