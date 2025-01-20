@@ -1349,6 +1349,23 @@ Author: lclrc(SquidForce)
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hammer It
 
+Package: com.lclrc.hidepullover
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lclrc.hidepullover_0.0.1_iphoneos-arm64.deb
+Size: 4564
+MD5sum: e5ae5316fbb72ac532cc5e4c77bb8901
+SHA1: 67c7d42ef9dfc645167a390d94fd4bdda79b3213
+SHA256: dfee8172ee86b795ed6f98d379e3453476eb8f6ba52636cbfe841f725c1a47f5
+Section: 插件
+Description: 系统截屏时隐藏，收起到最小时让它不那么显眼，乌贼出品，必属精品，仅备份。
+Author: SquidForce
+Icon: https://s1.imagehub.cc/images/2025/01/21/7dd8ed70cad1d12060d8f9319d5bdb14.png
+Name: PullOver Pro Hide
+
 Package: com.lclrc.recordanywhere
 Version: 1.1.0
 Architecture: iphoneos-arm64
