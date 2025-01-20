@@ -52,6 +52,40 @@ Author: Luki
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: April
 
+Package: apt.griddy
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Depends: mobilesubstrate
+Filename: ./debs/com.griddy_1.0.5.deb
+Size: 19656
+MD5sum: 370233660a33588e1eb8978b1877bead
+SHA1: 75b7d26da33d516639b297fd7f660ccd635c09d2
+SHA256: bf0bc72644495d2a957caee9ecf74059778255ee4248164f9d51917515c9acb6
+Section: 插件
+Description: 应用图标随意摆放，付费版本纯净砸壳上架备份。
+Author: mikifp
+Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
+Name: Griddy
+Sponsor: wkk
+
+Package: apt.passby
+Version: 1.9.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 688
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.passby_1.9.1.deb
+Size: 77600
+MD5sum: 76e5b6299bac14c3544e4c3dccf58e62
+SHA1: 72273d7d46bb743601b64f4ecda9b3c9c41f81a7
+SHA256: 2f4b3022291599c471b7e32a31c52f7065dc48b8b2482a4ed99185dd83941eea
+Section: 控制中心
+Description: 临时绕过人脸，无设置项，控制中心开启。
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PassBy
+Sponsor: wkk
+
 Package: autoscroll
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -343,6 +377,23 @@ Description: 自定义连接vpn时的wifi/数据颜色，新增连接热点颜�
 Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Single VPN
+
+Package: com.actionbarreborn
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 796
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.actionbarreborn_1.1-2_iphoneos-arm64.deb
+Size: 161856
+MD5sum: 48a86761dda67335e53e8726252d6113
+SHA1: 210da2603ceee7bd1217f64151ec10426c0c2e1b
+SHA256: 35afc5bd8318f1e5206044785fc9b28e06ce691799bdda6f5827c9ab7c515454
+Section: 插件
+Description: 在键盘底部增加撤消、重做、全选、复制、剪切、粘贴等按钮。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/21/5c738f9fce0ba9f5e62a33c8ed334b3b.png
+Name: ActionBar Reborn
 
 Package: com.alwaysdark
 Version: 1.2.3
@@ -1053,6 +1104,23 @@ Author: Hitori <mikasa-san@outlook.jp>
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki
 
+Package: com.hitori.passtext
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.hitori.passtext_1.0.1_iphoneos-arm64.deb
+Size: 127624
+MD5sum: 5dfeed93df369e3e16f9eb06f7125469
+SHA1: 7f3f1d70c3d29e8783d4e5d022fe5bf77bd9a0dd
+SHA256: d90cedba2f40eb640a186b9972db49e83490abe21f8477c7178288e4fd4c1991
+Section: 插件
+Description: 自定义你的锁屏密码，改为数字/表情/符号等等。
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PassText
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -1490,6 +1558,23 @@ Description: 面容识别成功自动解锁无需滑动，原生函数更为节�
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/d8061f9532715897329b853bf46167ac.png
 Name: AutoFaceUnlock(Rootless)
+
+Package: com.netskao.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64.deb
+Size: 393732
+MD5sum: fdf6d6e3d74ffec8f6ccd7ed97c40dca
+SHA1: 4d9c97b5628e015135aabcd6686eb53ce0321174
+SHA256: 559f4fdd7181cd4831752daf9889f85ee5a589e16e211aa44d838f60bc4ce1fa
+Section: 应用程序
+Description: 全权限砸壳神器。上架备份。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/21/4a33ca43d96d8af81a6a2a5c7aa18993.png
+Name: DumpDecrypter
 
 Package: com.netskao.storeswitchaccounts
 Version: 1.1-4
@@ -2451,6 +2536,23 @@ Description: 下载后文件在目录/var/mobile/Documents/红包气泡.zip 解�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/f8b5f882408f89e4f3981df64e1f9e4f.png
 Name: 红包气泡1.0
+
+Package: com.xybp888.lockbutton
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/一键锁屏.deb
+Size: 30708
+MD5sum: bfb5bedcbd998ff88509cc4b0f04f184
+SHA1: 6140fd242cc5171a29ff667522cafcc28afa2e28
+SHA256: 542a74378d0ec99183c6bff22c13dfa90f76f57f5e7b9becbf51af7a4d767738
+Section: 应用程序
+Priority: optional
+Description: 安装后在桌面显示一个图标，点击图标就能快速锁屏。
+Author: xybp888
+Icon: https://s1.imagehub.cc/images/2025/01/21/f7e8524cadd87aea8e3d1915eb4c4e49.png
+Name: 一键锁屏
 
 Package: com.yan.stella
 Version: 1.0.5
