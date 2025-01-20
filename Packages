@@ -743,6 +743,22 @@ Author: Netskao <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
 Name: ClassicKeyboardXS
 
+Package: com.cozybadges
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
+Filename: ./debs/com.cozybadges_2.1_iphoneos-arm64.deb
+Size: 59740
+MD5sum: 1d0a921f6a864c439516917272f78991
+SHA1: 2e07d2b546752c6086bac6ef7b159e5c0b1213f5
+SHA256: 682fa96ccccb832951de3798834ee6a010ce90d10aa3f9c39ae5fe371c23929c
+Section: 插件
+Description: 彩色通知，显示在app下方。
+Author: NoisyFlake
+Icon: https://s1.imagehub.cc/images/2025/01/21/3d6e93c08b2ebd3c38071d511802c932.jpeg
+Name: CozyBadges
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64
@@ -1724,6 +1740,22 @@ Size: 1915728
 MD5sum: 05068da15bb0a2edf3d678d670a2c076
 SHA1: 1d46cbc92d292a97ce20aa22502c389d3b948596
 SHA256: c9b9111a462208ead923bc736a5616ddfe69ff9ae5c9bf7c82399dacc4a483ee
+Section: 应用程序
+Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
+Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/01/21/e16a2f8fe58b0bdadf3641c868a71141.jpeg
+Name: TrollStore Helper
+
+Package: com.opa334.trollstorehelper
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm64.deb
+Size: 1914716
+MD5sum: 7986a77073551e68312d2eb58566ab69
+SHA1: 847f1d758496d8fce75304d52b9f4b3c60e8003d
+SHA256: 18ac48a260464e93810d24d01fc9bdb4a88e34ade9dc0f431290dc1c51c9d00a
 Section: 应用程序
 Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
 Author: opa334
