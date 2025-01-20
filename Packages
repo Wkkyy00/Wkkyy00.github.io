@@ -989,6 +989,23 @@ Author: Derek Calabro
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
 Name: PageDotsBeGone
 
+Package: com.disablebottombarlrswipe
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.disablebottombarlrswipe_1.1-2_iphoneos-arm64.deb
+Size: 5824
+MD5sum: 80c479dbe7bb68e0865a7a0d8b3e6ce1
+SHA1: f23621a9d2e5fa972b376c9a04cad49f021f7a94
+SHA256: 4d31c01d060fe96d8ac280db11cffb03342aafd3a0dffea0596f5d5d99a623a9
+Section: 插件
+Description: 禁用底部横条左/右滑动切换应用。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: DisableBottomBarLRSwipe【rootless】
+
 Package: com.dvntm.silentnotifs
 Version: 0.0.2
 Architecture: iphoneos-arm64
