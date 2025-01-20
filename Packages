@@ -1451,6 +1451,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 低电量通知横幅
 Sponsor: wkk
 
+Package: com.lstimeseconds16
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Installed-Size: 432
+Filename: ./debs/com.lstimeseconds16_0.3_iphoneos-arm64.deb
+Size: 38116
+MD5sum: 739bc5d3c01ac33e55fa407873e48aa5
+SHA1: e9051377b4e1471a54853d46a02b642b62952293
+SHA256: 0d7a3fb7e997861dda665af0cdb1444849edb1951aec0cef9ed4900d70fa37f9
+Section: 插件
+Description: 锁屏时间增加秒数。
+Author: b4db1r3
+Icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
+Name: LSTimeSeconds
+
 Package: com.marie
 Version: 1.0.6
 Architecture: iphoneos-arm64
