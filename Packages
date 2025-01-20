@@ -395,6 +395,25 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/21/5c738f9fce0ba9f5e62a33c8ed334b3b.png
 Name: ActionBar Reborn
 
+Package: com.adspeed
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 600
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/acreson.cj.adsspee.rootless_1.1.deb
+Size: 104384
+MD5sum: 30672d3c47a4fabd4326aefa57076c90
+SHA1: 1e625abd413181d0dbec4a428db423496e64c419
+SHA256: 9605fdbf8100f4c2c9d0bae8ae0cb87e307403d47008d49db63073bc4c658562
+Section: 插件
+Description: 自定义app的快速跳过激励视频广告，上架备份。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/21/3f1ad875e1eccebc5fb4050d5e4f8c32.png
+Name: VideoAdsSpeed
+Sponsor: Acreson <342080124@qq.com>
+
 Package: com.alwaysdark
 Version: 1.2.3
 Architecture: iphoneos-arm64
