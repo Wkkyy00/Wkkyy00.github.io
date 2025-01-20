@@ -2507,6 +2507,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/18bba91d54fb168ffa46d775d162c100.png
 Name: 灵动岛录屏写轮眼
 
+Package: com.wkk.zhuanjixuanzhuan
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0_iphoneos-arm64.deb
+Size: 4076
+MD5sum: 2b4bcae538e84d6490beb3bb7a775550
+SHA1: a0d058f3bc9f6d5f24c4c2999a5889cf4e43bff4
+SHA256: 10a34f5e03fbf58810403bd56ae0276f34e35d3c1d37ce488dd7f9afbda22c84
+Section: 插件
+Description: 仅支持ios16无根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+  * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
+Name: 灵动岛音乐专辑旋转
+
 Package: com.wkk.zhuxiaoguazai
 Version: 2.0
 Architecture: iphoneos-arm64
