@@ -2507,6 +2507,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/18bba91d54fb168ffa46d775d162c100.png
 Name: 灵动岛录屏写轮眼
 
+Package: com.wkk.zhuxiaoguazai
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.zhuxiaoguazai_2.0_iphoneos-arm64.deb
+Size: 771248
+MD5sum: f8ecd457a993d67b0a5c4308aa2a183e
+SHA1: 6639678464cb18637ab2d9a7ef702a42561329ce
+SHA256: 4a9044c9deda26d0aa57a3a97ac572ff55f1f498d89aa3bf18621a056c0adbee
+Section: 插件
+Description: 仅支持无根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：支持ios16，我没有ios15设备，ios15自测。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
+Name: 皮卡丘注销动画2.0
+
 Package: com.wkkyy0.pikaqiuzhuxiao
 Version: 1.0
 Architecture: iphoneos-arm64
