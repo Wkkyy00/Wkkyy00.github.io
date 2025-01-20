@@ -1873,6 +1873,22 @@ Author: SquidForce(乌贼力量)
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Plugins For Snapper3
 
+Package: com.storeswitcher2
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Filename: ./debs/com.storeswitcher2_1.0.5_iphoneos-arm64.deb
+Size: 17780
+MD5sum: c28ad8b88f632214ba41d0c2ad4b1cd3
+SHA1: 3e32b0d1a4424b4bdc900df1706683b8dbffbf72
+SHA256: 9953fa7e1eda5ce08910f6714950e8806cec79beb090a1119314ecfd3347c2f7
+Section: 插件
+Description: 商店内头像处点击，快速切换/删除AppStore账号。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: StoreSwitcher 2
+
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
 Architecture: iphoneos-arm64
