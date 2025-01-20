@@ -1271,23 +1271,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/6dd1253c7071c3b53f74d5bb2397e6f8.
 Name: 禁用图标移动删除
 Sponsor: wkk
 
-Package: com.kaiguanjihe.snowboard
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
-Filename: ./debs/com.kaiguanjihe.snowboard_1.0_iphoneos-arm64.deb
-Size: 3277860
-MD5sum: 6e5539b02117c6d70b8b0729623b093b
-SHA1: a68f68b5d8f5cbf265dcf686b912165a8dc625d1
-SHA256: c76f5302938e790730a70a6a8f1c1750751b3773d3b8bc52a77c6fe39f03cdab
-Section: 插件
-Description: 54款开关大集合！告别四处求爷爷告奶奶的日子。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 开关集合大全
-Sponsor: wkk
-
 Package: com.keyswipe-rootless
 Version: 1.0.2
 Architecture: iphoneos-arm64
