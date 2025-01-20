@@ -1023,6 +1023,23 @@ Author: dvntm
 Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
 Name: SilentNotifs
 
+Package: com.edge.siri
+Version: 3.1.2
+Architecture: iphoneos-arm64
+Maintainer: tangerine
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.edge.siri_3.1.2_iphoneos-arm64.deb
+Size: 15040
+MD5sum: 8be1f71e5eb51003d390d8f558ef921a
+SHA1: edf4743ef7bd8ac55f1f47fe8643985d00a254e7
+SHA256: d78c3be9263ac6ac8b35939530d9c480e3a635c44c8b68e2458ed5e05e572907
+Section: 插件
+Description: iOS18唤醒Siri边框效果。
+Author: tangerine
+Icon: https://s1.imagehub.cc/images/2025/01/21/2772e1b5bbc73fd906d7f03261cff53f.png
+Name: EdgeSiri
+
 Package: com.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
