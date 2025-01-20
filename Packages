@@ -1168,20 +1168,15 @@ Installed-Size: 196
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
 Filename: ./debs/com.ichitaso.ringertoggle_0.3_iphoneos-arm64.deb
-Size: 16896
-MD5sum: 2127d2677ccda54cd4c0f4e413393ecd
-SHA1: a5a509182c7afd7831a793afe94c483ec1cd570c
-SHA256: 4e12842558391a3443c47bd4f8d2343b2e53c4099308f8b5ef925a86c693a290
+Size: 16792
+MD5sum: d0dc820aad903ef7b2377b3788e939e9
+SHA1: eac6a64024db8033ee353e7978109ecd837f8d04
+SHA256: 61483ae151f141f88f1c762fe4cd27e0e24fae6f129735c3ed6ce9b3a484000b
 Section: 控制中心
-Homepage: https://ichitaso.com
 Description: 控制中心静音图标，非动态，可以自行替换喜欢的静音图标，已更换合适的图标大小！
-Tag: purpose::extension, compatible_min::ios11, compatible_max::ios16
 Author: ichitaso
-Depiction: https://cydia.ichitaso.com/depiction/ringertoggle.html
-Dev: ichitaso
 Icon: https://i.imgur.com/bNyKUSs.png
-Name: RingerToggle (CCSupport)
-Sileodepiction: https://cydia.ichitaso.com/depiction/ringertoggle.json
+Name: RingerToggle
 
 Package: com.imkpatil.homebarsizer
 Version: 1.1.1
