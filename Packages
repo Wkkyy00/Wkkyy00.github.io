@@ -2392,6 +2392,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 控制中心与写轮眼挂载
 
+Package: com.wkk.kaiguan
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0_iphoneos-arm64.deb
+Size: 3277876
+MD5sum: 4945e47d195ade5b8e1db17e70bd65d1
+SHA1: 9e86198e87d910d8ccc73ad762d0317d70870245
+SHA256: 4b21643d8e84b003aa562ff8988e9ff0be0eeef2e06dc439e7c4d59e030358bc
+Section: 插件
+Description: 54款开关大集合！直装！告别四处求爷爷告奶奶的日子，需要snowboard扩展。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: snowboard开关集合
+Sponsor: wkk
+
 Package: com.wkk.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
