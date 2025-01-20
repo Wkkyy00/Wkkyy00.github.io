@@ -195,15 +195,15 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 168
 Filename: ./debs/com.0xkuj.lockeddnd.rootless_1.0_iphoneos-arm64.deb
-Size: 4732
-MD5sum: 125bac737075fd0781b626824a52e651
-SHA1: 1f4f61175cd708df5548401248930dcf38fe43f9
-SHA256: 87ab4b2084a76bf22021cf380ef0e78f6d93cc18616713e811973d64f9bddd15
+Size: 4728
+MD5sum: 1e782e7bb874f7aada132ad5495de9d7
+SHA1: 3d2346b0f6a79f095415f9ceaeaef3dd375a3c5b
+SHA256: 7de0fb6844e1823a19558851f59fdb156780359b893a22583deee550e2ecff15
 Section: 控制中心
 Description: 设备锁定时激活DND，解锁后禁用
 Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
-Name: Locked DND (rootless)
+Name: Locked DND
 
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.8
