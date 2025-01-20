@@ -1285,6 +1285,23 @@ Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
 Name: Applecard
 
+Package: com.lenglengyu.disableappcreationalbums-rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.disableappcreationalbums-rootless_0.0.1_iphoneos-arm64.deb
+Size: 4260
+MD5sum: e731dd85c97be7b867abefa21670f5a4
+SHA1: 96f738afc6a00dca04df66a04c3160fb3395d194
+SHA256: 8b5d70d1ce2c040e183d5c8b2121d416998c830679106114c8594b972d606620
+Section: 插件
+Description: 禁止app创建相册，自主创建时相册会闪退，如果某些app保存图片需要在相册创建相册，无法创建时可能会保存不成功（例如小红书）
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
+Name: 禁止APP创建相册
+
 Package: com.liuf.ceshi
 Version: 0.0.1
 Architecture: iphoneos-arm64
