@@ -2537,21 +2537,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/f8b5f882408f89e4f3981df64e1f9e4f.png
 Name: 红包气泡1.0
 
-Package: com.xielunyanguazai
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Filename: ./debs/com.xielunyanguazai_1.0_iphoneos-arm64.deb
-Size: 4120
-MD5sum: 58fe5879997e621e6faf8d05391abc60
-SHA1: 8468bdcbd06389315017110430bb24fa150e4fc4
-SHA256: 0dd55393fee6f75a168299c6f0a289e991381e78be55eda9dc1e44c3bd685c22
-Section: 插件配置
-Description: 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca                                    挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca              注意事项：1、先挂载两个路径 2、然后在/var/jb/Library/Themes/挂载/目录下自行准备好 写轮眼.png 和 红点.png 素材，然后再下载此插件即可。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/21/f2850627da0b706a28701118e9389785.png
-Name: 灵动岛录屏写轮眼
-
 Package: com.xybp888.lockbutton
 Version: 0.1-2
 Architecture: iphoneos-arm64
