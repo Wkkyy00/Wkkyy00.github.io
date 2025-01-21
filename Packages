@@ -996,15 +996,15 @@ Maintainer: Nets
 Installed-Size: 168
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.disablebottombarlrswipe_1.1-2_iphoneos-arm64.deb
-Size: 5824
-MD5sum: 80c479dbe7bb68e0865a7a0d8b3e6ce1
-SHA1: f23621a9d2e5fa972b376c9a04cad49f021f7a94
-SHA256: 4d31c01d060fe96d8ac280db11cffb03342aafd3a0dffea0596f5d5d99a623a9
+Size: 5800
+MD5sum: d5cf8d92aed71aeaecd375d0c253b8da
+SHA1: 85c2c81208f4d8b4f0f4e2487c0d46739087da05
+SHA256: aa72e8cd5610c270f73fb1664e8279b9ea4237b1c71f7543f5fe05ad438cc740
 Section: 插件
 Description: 禁用底部横条左/右滑动切换应用。
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: DisableBottomBarLRSwipe【rootless】
+Name: DisableBottomBarLRSwipe
 
 Package: com.dvntm.silentnotifs
 Version: 0.0.2
@@ -1849,11 +1849,11 @@ Installed-Size: 2440
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.pulloverpro_2.1.6_iphoneos-arm64.deb
 Size: 696268
-MD5sum: 82de44a8caf6c53da86e85b6f354de92
-SHA1: f870c84d084f1f54975302894a016e9933551277
-SHA256: 4b07c2228d8d14e6e288de1c17cf76aa90ae45f82eaee901a6642dd6289d851b
+MD5sum: cd2d85e245ddeb0bc7d952b2d8e40055
+SHA1: e162768836ee0f6880213a43b8d3e079e3a0e1d0
+SHA256: 6002c946a5d60ea8cb4843bea2e83c4239d059b0b1b0bf5ecfb25e4d04dd9052
 Section: 插件
-Description: 经典插件，上架备份x
+Description: 经典插件，上架备份。
 Author: c1d3r
 Icon: https://s1.imagehub.cc/images/2025/01/21/7dd8ed70cad1d12060d8f9319d5bdb14.png
 Name: PullOver Pro
