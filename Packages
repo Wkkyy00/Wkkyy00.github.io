@@ -1806,6 +1806,24 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/cf5570aed39475c4a6286b97287fbca1.png
 Name: QuitAll
 
+Package: com.p2kdev.tapticboard
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.1.1_iphoneos-arm64.deb
+Size: 23488
+MD5sum: c7ed398ad8952f1aeef21af02719b03e
+SHA1: 1a3593224a8a4b4aa47c58824c7216392a6997db
+SHA256: 1d025cd9170fd44b66e20e548c560cc859d7c9fd8d817dd6d9179daa26596a80
+Section: 插件
+Description: ios15键盘震动的终极调整，敲击键盘或候选词都是震动，不支持ios16。
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
+Name: TapticBoard
+
 Package: com.ppcon.wkk
 Version: 0.1
 Architecture: iphoneos-arm64
