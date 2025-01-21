@@ -257,22 +257,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信助手
 Sponsor: admin@25mao.com
 
-Package: com.25mao.wcpluginss
-Version: 0.1-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com <admin@25mao.com>
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.wcpluginss_0.1-3_iphoneos-arm64.deb
-Size: 23256
-MD5sum: 2ac55d0310beba129abaadbfd937e78e
-SHA1: aa0db6a989d981458e9d2e633c1248e8d771547e
-SHA256: 13927b696f42eaf287413c92b2eba338d734773276c41bf1b7674d5dd2322697
-Section: 微信插件
-Description: 插件管理，长按插件图标可开启密码隐藏。
-Author: Mao
-Icon: https://s1.imagehub.cc/images/2025/01/22/17c9a83aa8678b3e03351147aa8784fc.png
-Name: 微信插件管理
-
 Package: com.25mao.wxurlexpand.rootless
 Version: 0.2-0
 Architecture: iphoneos-arm64
