@@ -1824,6 +1824,24 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
 
+Package: com.p2kdev.tapticboard
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.2_iphoneos-arm64.deb
+Size: 23580
+MD5sum: 777573b4e7451d8db927c05a1b40bf8e
+SHA1: 226945da1d3e77b42c975f4691fe6be1291ca26a
+SHA256: 82768b54e43f46c8c8ade1cb6f354cd141b273128155cd81409511c063037a17
+Section: 插件
+Description: ios15键盘震动的终极调整，敲击键盘或候选词都是震动，不支持ios16。
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
+Name: TapticBoard
+
 Package: com.ppcon.wkk
 Version: 0.1
 Architecture: iphoneos-arm64
