@@ -1162,14 +1162,14 @@ Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 544
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.hitori.passtext_1.0.1_iphoneos-arm64.deb
-Size: 127624
-MD5sum: 5dfeed93df369e3e16f9eb06f7125469
-SHA1: 7f3f1d70c3d29e8783d4e5d022fe5bf77bd9a0dd
-SHA256: d90cedba2f40eb640a186b9972db49e83490abe21f8477c7178288e4fd4c1991
+Size: 127620
+MD5sum: 8410e752c2779d83351aa684f4db052f
+SHA1: 5253e7771ae9980f92d4af8cc8421300eef2d8a4
+SHA256: 23696604de7a05edd3fbfe954cace8677f4d6a2cbba322073f9b1d95c7ce4d1b
 Section: 插件
 Description: 自定义你的锁屏密码，改为数字/表情/符号等等。
 Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
 Name: PassText
 
 Package: com.ichitaso.hidekbsettings
