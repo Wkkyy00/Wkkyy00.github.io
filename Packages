@@ -920,6 +920,24 @@ Description: Safari多功能增强插件。
 Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
 Name: SafariX
 
+Package: com.dao.stella
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: yan & 刀刀
+Installed-Size: 1332
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Conflicts: com.yan.stella, xyz.cypwn.stella
+Filename: ./debs/com.dao.stella_1.1.5_iphoneos-arm64.deb
+Size: 401124
+MD5sum: ddd556b7a3827ae16406b120dd1a5460
+SHA1: 070956e1b9cc3387c84461920f6b9a7389c51e7f
+SHA256: 17efbd43473f3b0b40814c8aa3a999c5cf1c142ff007fc389f0cf57241f8ea9e
+Section: 插件
+Description: 刀老板编译的，备份。支持无根。隐根我没试，自测哈。
+Author: yan
+Icon: https://s1.imagehub.cc/images/2025/01/22/17c9a83aa8678b3e03351147aa8784fc.png
+Name: Stella中文版
+
 Package: com.dao.tvlock
 Version: 1.2.3
 Architecture: iphoneos-arm64
