@@ -3164,6 +3164,23 @@ Author: z
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 锁屏来电拒接
 
+Package: me.aleksilassila.redditundoscrollup
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Aleksi Lassila
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/me.aleksilassila.redditundoscrollup_0.0.2_iphoneos-arm64.deb
+Size: 5740
+MD5sum: a198a59ca102d0d03473d4f5a76a351d
+SHA1: c58058dd55ce8031862f0a24085dc7746eea50af
+SHA256: a85d1afef6799a2f04d622c8b8508077bd76bf118d0aaf545f0094883643f173
+Section: 插件
+Description: 第二次点击状态栏会让你的滚动回到原来的位置。
+Author: Aleksi Lassila
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: RedditUndoScrollUp
+
 Package: me.ikghd.pmp
 Version: 2.0
 Architecture: iphoneos-arm64
