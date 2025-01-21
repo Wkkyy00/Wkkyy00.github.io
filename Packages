@@ -1842,6 +1842,22 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
 
+Package: com.pingfan.wechat
+Version: 2.2-1
+Architecture: iphoneos-arm64
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.pingfan.wechat_2.2-1_iphoneos-arm64.deb
+Size: 1657552
+MD5sum: 54b248bf1bde3f9d48ad623542ba4c54
+SHA1: 3c8c87b47bfb9dd09715721667886dcff29b5ea0
+SHA256: 812e8989f311516d64f794f33775408f216664b3c3ec3757b274d53cb7dbfa4f
+Section: 微信插件
+Description: 备份。稳定版。
+Author: 平凡
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 虚拟视频
+
 Package: com.ppcon.wkk
 Version: 0.1
 Architecture: iphoneos-arm64
