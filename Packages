@@ -2137,6 +2137,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/batteryestimate.png
 Name: iOS18BatteryEstimate
 
+Package: com.susu.powermenu
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.powermenu_1.0.4-3_iphoneos-arm64.deb
+Size: 33864
+MD5sum: b0a2fe429c4dc72ddb399b151015b17b
+SHA1: 9eb4d0a30ea24f8ef30b818786714c63d8f6d21c
+SHA256: 451e1deeedc297525ad96eb4fc0a70e6b320d951c380658ecbde2223140db54e
+Section: 控制中心
+Description: 控制中心电源模块，修复在iOS16中点击时没有任何响应，修改为点击杀后台注销。支持无根隐根。原作者MTAC。苏苏源：https://susubaby.top/0107/
+Author: 苏苏
+Icon: https://www.susubaby.top/images/powermenu.png
+Name: PowerMenu
+
 Package: com.susu.springanimation
 Version: 1.0.4
 Architecture: iphoneos-arm64
