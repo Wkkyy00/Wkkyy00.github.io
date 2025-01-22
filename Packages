@@ -671,6 +671,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 控制中心切换双卡流量
 Sponsor: wkk
 
+Package: com.christopher.everest
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Installed-Size: 17276
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0)
+Filename: ./debs/com.christopher.everest_1.0.1_iphoneos-arm64.deb
+Size: 373484
+MD5sum: be29107be9dcccb79418681048125b15
+SHA1: ba0b23465eee43b935fbebcdeec8c08bf07cbad1
+SHA256: efafe1635eeb6166d0d76bc74e7104b5795ccd69fcdaf5a97446ddd7b35f712d
+Section: 插件
+Description: app打开之前图标会动，有很多种设置方式，花里胡哨必备！
+Author: Christopher Anderson
+Icon: https://s1.imagehub.cc/images/2025/01/23/9c5a987da2e0c87f7ba1dbabef0cf03c.png
+Name: Everest
+
 Package: com.classicfolders3
 Version: 3.0.5.5
 Architecture: iphoneos-arm64
