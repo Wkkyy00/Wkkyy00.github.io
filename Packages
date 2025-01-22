@@ -144,14 +144,14 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
-Size: 123628
-MD5sum: 7e5085c776984df139d41be994667f00
-SHA1: 72881986b67487645a5f30b94575c6ec4303a82b
-SHA256: f7eefbbedd5535e11bd01c06a283bc27ab94b126a86210291c864de42a985472
+Size: 123892
+MD5sum: dbf9b168075f7ac803cf9a6a74761be9
+SHA1: 3564e4670fe450d0561441928f5617e0dce3dde1
+SHA256: b1710a721d8c0c8b229b2603ef004647bff5df520f8af8af1e5e32c24ed55da7
 Section: 插件
-Description: 备份。
+Description: 乌龙工作室修复维护支持ios16。剪贴板插件完全免费。上架备份。
 Author: Alexandra Aurora Göttlicher
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
 Name: Kayoko
 
 Package: com.0xkuj.ccadsbegone.rootless
