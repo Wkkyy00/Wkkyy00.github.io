@@ -1689,6 +1689,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: StoreSwitchAccounts
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.2-1_iphoneos-arm64.deb
+Size: 65240
+MD5sum: de5c642cf598ff08863921da8844878f
+SHA1: 60b224867f154cfb5c7e4067750e1b527ab84413
+SHA256: 5f1cddd6971e4f7d672717966ae2b0fa0e8e7b1db551964ec5f646b28be80d0a
+Section: 微信插件
+Description: 微信我的页面资料居中。单插件有开关。仅备份。仅支持8.0.31及以上。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCMyPageInfoCenter
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
