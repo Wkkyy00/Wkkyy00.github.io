@@ -1741,6 +1741,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.
 Name: WeChatUISwitchLoader
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 304
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-5_iphoneos-arm64.deb
+Size: 119372
+MD5sum: 634b6345b2da3b493b0a1233421dc5fa
+SHA1: 26496bdc2f16c66390ebe3ad6c83f959f90d4143
+SHA256: a500c0f57fce632c8987e0d8fb2f3069e74f25a23b9292772405d1b56c1692ae
+Section: 微信插件
+Description: 微信按钮。默认皮卡丘。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
+Name: WeChatUISwitchLoader
+
 Package: com.oleddarkmode
 Version: 0.5.3
 Architecture: iphoneos-arm64
