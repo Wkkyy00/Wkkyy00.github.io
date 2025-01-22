@@ -2925,6 +2925,23 @@ Author: yan
 Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
 Name: Stella
 
+Package: com.yan.stella
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1328
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.stella_1.1.5_iphoneos-arm64.deb
+Size: 361088
+MD5sum: 8b61cf2e02a973d65e01d06fba50994e
+SHA1: 567436fe0003cca86f8465cd58aeb24c69337cdd
+SHA256: d6d5f845e5cd7356b78fd17cf61921ffa54fb01e0bcb8e0f4b509b7949d9d9df
+Section: Tweaks
+Description: Let it snow on your device!
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Name: Stella
+
 Package: com.yourepo.arm64-debs.settingswidgets
 Version: 1.2.2
 Architecture: iphoneos-arm64
