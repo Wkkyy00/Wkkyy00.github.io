@@ -2240,6 +2240,24 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/powermenu.png
 Name: PowerMenu
 
+Package: com.susu.reachplayer
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 908
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_2.7_iphoneos-arm64.deb
+Size: 383760
+MD5sum: f2f1c363ff7d47c9b3d5c12bae0df648
+SHA1: 339ff652d94b00842aad5ecddf3b2af5b867f90a
+SHA256: 4cb190dfa742a1bf7f591b3b4d002717ce31d1d280a476021f18732d47a2cc4e
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑。修复：苏苏。苏苏源：https://susubaby.top/0107/
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
 Package: com.susu.springanimation
 Version: 1.0.4
 Architecture: iphoneos-arm64
