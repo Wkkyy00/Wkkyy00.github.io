@@ -412,6 +412,23 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Single VPN
 
+Package: com.82flex.wtvrbglauncher
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64.deb
+Size: 23108
+MD5sum: 675ee816f1988e8cd7a85179833e8395
+SHA1: fb60a5335e2bfd4941f5d3b17e285867124d4d4d
+SHA256: b10600b950732d57537fa295fca360e4398862a6bfbebb4aabf2dd376987dc5b
+Section: 插件
+Description: 中文输入法语音转文字免跳转插件。上架备份。
+Author: Lessica
+Icon: https://s1.imagehub.cc/images/2025/01/24/a9cc7431956ac6dec7d92f7d9260cc64.png
+Name: 语音转文字免跳转
+
 Package: com.actionbarreborn
 Version: 1.1-2
 Architecture: iphoneos-arm64
