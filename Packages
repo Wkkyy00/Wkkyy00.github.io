@@ -1090,6 +1090,25 @@ Author: tangerine
 Icon: https://s1.imagehub.cc/images/2025/01/21/2772e1b5bbc73fd906d7f03261cff53f.png
 Name: EdgeSiri
 
+Package: com.ethanrdoesmc.dawn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 565
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.ethanrdoesmc.dawn_1.1_iphoneos-arm64.deb
+Size: 165288
+MD5sum: 502aa0f38ec1da42ef02aaf16f11ba91
+SHA1: fe7355ecb019211c90b9909fb266c08c5ddff53f
+SHA256: fe70813a2c18a671ff5228a671deba07d6667596a70e6ff0e2dc4cada319402c
+Section: 插件
+Description: 自定义黑暗模式和明亮模式。可以设置通知横幅、dock栏、小组件等等处于亮模式为黑暗模式，反之亦然。
+Tag: purpose::extension
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Dev: ethanrdoesmc
+Icon: https://s1.imagehub.cc/images/2025/01/23/fb1c7478338ccafa7bd419c07dfc2be3.png
+Name: Dawn
+
 Package: com.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
