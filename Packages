@@ -481,6 +481,22 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
 Name: AddToFolder
 
+Package: com.anthopak.quickprefs
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.anthopak.quickprefs_1.3.3_iphoneos-arm64.deb
+Size: 511260
+MD5sum: 7bc12d269d3dcee0a8a6a67f49c44e32
+SHA1: a29e0e3f6189620cd722cc22df4684a12f69f5e9
+SHA256: 9a062827337ce9bca7f3cdbca52ab0fd433b1328298b935af3db09815aee6ffb
+Section: 插件
+Description: 设置里的项目抓取。上架备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Name: QuickPrefs
+
 Package: com.apple.wechat.noads
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -634,6 +650,23 @@ Description: 桌面任何地方展示音乐的歌词。
 Author: Brend0n <brendonjkding@126.com>
 Icon: https://s1.imagehub.cc/images/2025/01/06/c8e8e3def24e4f317acca3a8edd71c41.png
 Name: DesktopLyrics
+
+Package: com.cameronkatri.quickactions
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: Cameron Katri <me+quickactions@cameronkatri.com>
+Installed-Size: 458
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.cameronkatri.quickactions_1.0.0-2_iphoneos-arm64.deb
+Size: 40248
+MD5sum: d3ce884b67fe19c9e38fb6dcc50469b2
+SHA1: f422415268bd001853e3f2c1410c71548dee7184
+SHA256: b72a5b7f92886cd152cc618d937fd35979501ad9dbafbc4e681268f8611b958e
+Section: 插件
+Description: 锁屏相机和手电筒可以设置其他快捷方式的功能。不仅仅再是相机与手电筒！
+Author: Cameron Katri <me+quickactions@cameronkatri.com>
+Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
+Name: QuickActions
 
 Package: com.ccborder
 Version: 1.1.9
