@@ -1638,6 +1638,23 @@ Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/01/04/08ed318e79392b5cb8c75077777076dd.png
 Name: Doodle
 
+Package: com.nahtedetihw.floatingdockxvi
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.floatingdockxvi_2.4_iphoneos-arm64.deb
+Size: 397684
+MD5sum: 00d0ab9894ff7564257867364d00f6c6
+SHA1: e0805422e54faddb0c0c82ed05fce7026beb84ad
+SHA256: 5c5ecb68ad0729053aef79af75e9a0af6cfcbd751dbfc57aa8bb0ade1e86cc8c
+Section: 插件
+Description: 使你的dock栏可以像ipad一样抽插出资源库并且可以显示最近应用等。很炫酷。支持ios15-ioa16无根隐根。
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/01/23/24ddefd0dcdb523948386b3f0ccbe1f7.png
+Name: ipad dock
+
 Package: com.nahtedetihw.nowidgetlabels
 Version: 1.0
 Architecture: iphoneos-arm64
