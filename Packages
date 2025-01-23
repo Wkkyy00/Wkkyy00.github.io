@@ -1645,12 +1645,12 @@ Maintainer: Ethan Whited
 Installed-Size: 812
 Depends: preferenceloader
 Filename: ./debs/com.nahtedetihw.floatingdockxvi_2.4_iphoneos-arm64.deb
-Size: 397684
-MD5sum: 00d0ab9894ff7564257867364d00f6c6
-SHA1: e0805422e54faddb0c0c82ed05fce7026beb84ad
-SHA256: 5c5ecb68ad0729053aef79af75e9a0af6cfcbd751dbfc57aa8bb0ade1e86cc8c
+Size: 397680
+MD5sum: 4f9d5c05a9072ce79acc45785713b22f
+SHA1: a350e9ae9756a3a9bd551e680334347adda6d832
+SHA256: e4284f5a7a7765dca85dd6e6b3f98a99290bf77603a6d4675622e0bd2990b89b
 Section: 插件
-Description: 使你的dock栏可以像ipad一样抽插出资源库并且可以显示最近应用等。很炫酷。支持ios15-ioa16无根隐根。
+Description: 使你的dock栏可以像ipad一样抽插出资源库并且可以显示最近应用等。很炫酷。支持ios15-ios16无根隐根。
 Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/01/23/24ddefd0dcdb523948386b3f0ccbe1f7.png
 Name: ipad dock
