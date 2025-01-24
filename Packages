@@ -1230,6 +1230,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/07/f6bcfa2ae52644cd46e8064cd051b3a1.png
 Name: FLEXList(rootless)
 
+Package: com.gamegod.igg.rootless
+Version: 0.4.5
+Architecture: iphoneos-arm64
+Maintainer: iGameGod
+Installed-Size: 100096
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gamegod.igg.rootless_0.4.5_iphoneos-arm64.deb
+Size: 21922948
+MD5sum: 2faa2ba0daf5df154416bf19be20a8f8
+SHA1: c58d7ed5261536c25cfcdb5ed9380363cdb6b181
+SHA256: 89616f6ee3ca3ca2863c1e8eeeeffb49c0245f3666ae537ca33e16c21f6bbba1
+Section: 插件
+Description: 神器。只支持无根。
+Author: iGameGod
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: iGameGod
+
 Package: com.gilshahar7.dndmyrecording
 Version: 1.3
 Architecture: iphoneos-arm64
