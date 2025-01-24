@@ -3311,6 +3311,23 @@ Author: Huayuarc <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/02/116566f5242059bd3a3dd1df06f40afd.png
 Name: 【键盘】隐藏语音图标-Rootless
 
+Package: com.zaire-rootless
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/zaire-rootless_0.9.deb
+Size: 5360
+MD5sum: 91b18f1d5e78b8d2c7371ebf878ab9c0
+SHA1: ac377ec1b5c0e1691f6fa67f3863627a40bad6f7
+SHA256: 226e1601a1a52d7315fdd3d5b7bfad4a683054366431b0e103007f20b8544b60
+Section: 插件
+Description: 显示存储页面中已安装的应用程序的数量。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Zaire
+Sponsor: ekk
+
 Package: com.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64
