@@ -447,6 +447,21 @@ Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/01/24/a9cc7431956ac6dec7d92f7d9260cc64.png
 Name: 语音转文字免跳转
 
+Package: com.Wes.ExplosiveIcons
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Wes
+Filename: ./debs/com.Wes.ExplosiveIcons_1.1.1_iphoneos-arm64.deb
+Size: 40076
+MD5sum: 282cf63799ac880cae1db64a45f00ebe
+SHA1: 22e3ba56d2ea5d01c09a3be3ffd16bb913d2cc12
+SHA256: 22dedd207703513b5acfa409d9f51707eb0033db28d6fbf974cdc249b2a5c5e8
+Section: 插件
+Description: 炫酷吊爆的图标卸载动画，不支持在atria上启用（汉化：lans233）汉化作者源：https://lans233.github.io/
+Author: Wes
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: ExplosiveIcons
+
 Package: com.actionbarreborn
 Version: 1.1-2
 Architecture: iphoneos-arm64
