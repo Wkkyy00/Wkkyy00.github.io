@@ -104,6 +104,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: PerfectXTime
 Sponsor: wkk
 
+Package: apt.wkk.xtyh
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/apt.wkk.xtyh.2.0.deb
+Size: 46164
+MD5sum: e93e9266cfcb6c13c17f5af9ceaf7110
+SHA1: 2143d34963b6b73cc6b027518e07baee39b7c487
+SHA256: 319b77cf033726737c4644a3c69c497ec726718c1f2ab4c1df169789aae44a45
+Section: 插件
+Description: 无设置项，安装即生效。介意勿下。隐藏通知中心没有更早的通知文本。隐藏Dock栏磨砂背景。隐藏主屏幕翻页小白点。隐藏状态栏旋转。隐藏锁屏相机、手电筒。禁用主屏幕通知中心和锁屏搜索栏。隐藏勿扰模式横幅。无翻页点。去除负一屏编辑背景。文件夹透明。通知中心手势左滑清除消息，右滑打开应用。禁用锁屏左滑相机。去除底部横条。wkk优化小bug。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 系统优化合集
+Sponsor: wkk
+
 Package: autoscroll
 Version: 1.0
 Architecture: iphoneos-arm64
