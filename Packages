@@ -2762,6 +2762,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信头像旋转
 Sponsor: wkk
 
+Package: com.weixinshurufa
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: Doki <qiaozhani000@163.com>
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.weixinshurufa_1.8_iphoneos-arm64.deb
+Size: 81396
+MD5sum: f792166f42571b040b9a36cd0234533d
+SHA1: 2cbcba85726a390b1e0f0a6bd786189610f88cef
+SHA256: d79fd8ab2919fded0f4759d3c7bd5d6b41b2428d2e9f1fa67e7dd0fc3bbfbd37
+Section: 微信插件
+Description: 微信输入法自定义，功能如下：启用按键圆角，启用按键边框，启用按钮边框，启用候选字颜色，隐藏顶部左上角Logo，隐藏候选栏末尾分割线。我测试隐根上无效，无根自己测试。
+Author: Doki <qiaozhani000@163.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信输入法自定义
+
 Package: com.wkk.atriapeizhi
 Version: 1.0
 Architecture: iphoneos-arm64
