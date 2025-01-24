@@ -3771,6 +3771,23 @@ Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
+Package: sbapplication
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: poqw312
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/sbapplication_1.0_iphoneos-arm64.deb
+Size: 3304
+MD5sum: 164fbd75f54f73b2a671879ce15516aa
+SHA1: 817396cae5c059b9833fb64e46269695c67ef90d
+SHA256: 198e8055ccb329942b19ac95b292cac96f3e9fb324f383d01644eaab7dcbe317
+Section: 控制中心
+Description: 仅在应用程序内禁用通知中心的下拉手势(适用于游戏)返回桌面不影响通知中心手势，默认生效全局应用，并不能单一选择应用。
+Author: poqw312
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 禁用通知中心下拉手势
+
 Package: twitter.nowesr1.photosplus
 Version: 0.0.1
 Architecture: iphoneos-arm64
