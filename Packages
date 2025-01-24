@@ -447,6 +447,24 @@ Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/01/24/a9cc7431956ac6dec7d92f7d9260cc64.png
 Name: 语音转文字免跳转
 
+Package: com.FirstAppicon
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
+Filename: ./debs/文件夹第一个图标.deb
+Size: 54416
+MD5sum: e5df16c983cb5d4a1a1214b0ab21f40e
+SHA1: 1122bb9cb503eaefa2bf7b6437d25f99e28501a5
+SHA256: 20a4d977ec55678399eacad7a1481ca248e4d41048b0b00b05ac56ea394662c2
+Section: 插件
+Description: 显示为文件夹图标为第一个APP图标，无设置项，根据开源重新编译修了一下微小bug。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/25/d0f9c9a96bfa7a2dfc2afcda00da0149.png
+Name: FirstAppicon
+Sponsor: wkk
+
 Package: com.Wes.ExplosiveIcons
 Version: 1.1.1
 Architecture: iphoneos-arm64
