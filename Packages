@@ -1377,6 +1377,22 @@ Author: Hitori <mikasa-san@outlook.jp>
 Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
 Name: PassText
 
+Package: com.huami.dyyy.rootless
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: huami <xuanhua880@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.rootless_1.7_iphoneos-arm64.deb
+Size: 19748
+MD5sum: 9de991d5a85761b6a62b347227c63f60
+SHA1: 4c94e4759eee228bb0bb4c50d56ca8eae8a1019e
+SHA256: d42e2ef051b9d497c358ea59d823c4dd1793d82c59a5267296dc7c92ecc510cd
+Section: 抖音插件
+Description: 呼出方式双指长按，测试版本32.4.0，随机颜色弹幕：random
+Author: huami <xuanhua880@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
