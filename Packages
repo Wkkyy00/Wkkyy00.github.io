@@ -565,6 +565,24 @@ Author: Luki <qiaozhani000@163.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Aria
 
+Package: com.awemeclearlikes
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.awemeclearlikes.deb
+Size: 19932
+MD5sum: 857083c48435a39c782517eaaa5abaff
+SHA1: 1fa428c23c78d84678f396916c3b8581dbfd2db9
+SHA256: 2a97c0aed6d1415adc6ce02369c85b9d9f8fa137acec9080b8ab1075260adde4
+Section: 抖音插件
+Description: Netskao开发，在抖音我的喜欢界面，摇晃一下手机即可一键清空之前点赞的作品，我测试版本为30.3.0！
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音清除点赞
+Sponsor: wkk
+
 Package: com.axon
 Version: 1.5.5
 Architecture: iphoneos-arm64
