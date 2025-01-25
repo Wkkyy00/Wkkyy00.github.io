@@ -1315,6 +1315,24 @@ Author: iGameGod
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: iGameGod
 
+Package: com.gesturesxv
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2756
+Depends: mobilesubstrate
+Filename: ./debs/com.gesturesxv_1.6.1.deb
+Size: 2160292
+MD5sum: dea7eff76ff5f281c9309b8d71e19f58
+SHA1: e1f5a62287a376c70cd8f67254e7f43ef7ae8b87
+SHA256: a0fa9a6f3a87a7a2a34ea4e58cbf8d27196a5adabf61fdf614b9e6da24cb0d28
+Section: 插件
+Description: 为旧设备提供全面屏X手势。
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: GesturesXV
+Sponsor: wkk
+
 Package: com.gilshahar7.dndmyrecording
 Version: 1.3
 Architecture: iphoneos-arm64
