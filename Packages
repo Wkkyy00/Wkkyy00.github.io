@@ -2278,16 +2278,15 @@ Maintainer: SOPPPra
 Installed-Size: 540
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Filename: ./debs/com.settingsrevamp_2.1.1_iphoneos-arm64.deb
-Size: 97496
-MD5sum: 2bb169531a778469c8ed78963c0ea53c
-SHA1: 90e54a68af73584f9cb0c51872919803429572d6
-SHA256: 2df7447c2fbdac3bdca1071c2e267a67d521227f0119cf5b379921b1db8465e6
+Size: 97180
+MD5sum: 0d74413c4e152118c52fe996068b6d04
+SHA1: 7747836b21b0225ffd97f2b1809ca2d50427990d
+SHA256: 81e99b9b2981f5677a335fed1f657b9979fa50a0daa710b07dad39fde1d507d3
 Section: 插件
 Description: 211版本备份，插件归类。
 Author: SOPPPra
 Icon: https://s1.imagehub.cc/images/2025/01/27/2e843f9495c7a75329997d8f5fcab7e6.jpeg
 Name: SettingsRevamp
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/settingsrevamp/js.json
 
 Package: com.sini.centra
 Version: 1.0
