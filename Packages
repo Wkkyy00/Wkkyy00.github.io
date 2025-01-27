@@ -2881,6 +2881,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.
 Name: Dock显示app名称
 Sponsor: wkk
 
+Package: com.wkk.floatingViewpeizhi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.floatingViewpeizhi_1.0_iphoneos-arm64.deb
+Size: 6594784
+MD5sum: 897fc58922d91c1e8a23ba83baafa484
+SHA1: ae188516667e036abeeed100b779dd94c76dd50c
+SHA256: de2bb8d9a64d5f7414c68271cacd58e133c3d5dcec7e536d314da8f901432ce8
+Section: 插件配置
+Description: 个人floatingView分屏的备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: floatingView设置备份
+
 Package: com.wkk.guazai
 Version: 1.0
 Architecture: iphoneos-arm64
