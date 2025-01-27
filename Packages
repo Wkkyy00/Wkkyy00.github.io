@@ -3401,15 +3401,15 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: bdzt
 Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
-Filename: ./debs/com.zhezhao_1.0.deb
-Size: 1017548
-MD5sum: d61dcee0e4f11272713e71de615d3fa9
-SHA1: 4a4010a43ddecab39be9fffe79f4a3f09f5414e3
-SHA256: d966711604527449581e3d049f02093ef414ff731f9fa79f2643b2bbe08e42d4
+Filename: ./debs/com.zhezhaojihe.baidu_1.0_iphoneos-arm64.deb
+Size: 1017356
+MD5sum: 07b012d2a7739a9ec4d00e6ee224b90f
+SHA1: 97c980a4f59b9bc444c3cff57db5d44f7b405fa0
+SHA256: 9c6353a3d20539682db36f1497567104a06a1065717f468747fe50f2b0718cea
 Section: 插件
 Description: 十八款好看的遮罩大集合！
 Author: bdzt
-Icon: https://chinesebuilding.club/pic/zz.png
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 遮罩集合大全
 Sponsor: bdzt
 
