@@ -34,6 +34,23 @@ Author: Misaka
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: MisakaHelper
 
+Package: alias20.fakesignalbar
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/alias20.fakesignalbar_0.1_iphoneos-arm64.deb
+Size: 15252
+MD5sum: cab0a3ca4219c1e48bfee8a1ff913c55
+SHA1: b022dbe94cb2dfb9d809040fe9d8ca09b4fac60c
+SHA256: c6db2c191da98b86cd3d3cfbfc11bb0c62db05b21711d019838341864e0f2889
+Section: 插件
+Description: 备份。
+Author: alias20
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: FakeSignalBar
+
 Package: apt.april
 Version: 3.1
 Architecture: iphoneos-arm64
