@@ -3639,6 +3639,25 @@ Author: Aleksi Lassila
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: RedditUndoScrollUp
 
+Package: me.ikghd.ikset
+Version: 3.4
+Architecture: iphoneos-arm64
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Filename: ./debs/me.ikghd.ikset_3.4_iphoneos-arm64.deb
+Size: 48824
+MD5sum: 1250a5f3e671bc1dced7be880d90107e
+SHA1: 281cd37f2e9c7a8d95a81156c77e9332c695149d
+SHA256: 5ba7136e275016a69eb7be8260e0d73837e3345dfcc1b4a9e49da3679490ae25
+Section: 插件
+Description: 美化设置。
+Author: iKarwan <ikghd3@gmail.com>
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
+Name: iKSettings
+
 Package: me.ikghd.pmp
 Version: 2.0
 Architecture: iphoneos-arm64
