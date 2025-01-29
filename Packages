@@ -344,6 +344,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信URL扩展
 Sponsor: admin@25mao.com
 
+Package: com.3dappversionspoofer
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj & daodao
+Installed-Size: 492
+Depends: com.opa334.altlist
+Conflicts: com.0xkuj.3dappversionspoofer
+Filename: ./debs/com.3dappversionspoofer_2.0.3_iphoneos-arm64.deb
+Size: 59436
+MD5sum: f6530317c28a9c945c153a21c764b719
+SHA1: 37dc2fb6dfc5818c81b9ac8b431142aebdc3b9f3
+SHA256: ac63b2bd89e79fa27bfa427d844393a831ae47933b9b0d0cec4603404ba73881
+Section: 插件
+Description: 刀老板汉化，备份上架，伪装应用的版本号和iOS版本号。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 3DAppVersionSpoofer
+
 Package: com.3dnetworkfixer
 Version: 1.1-8
 Architecture: iphoneos-arm64
