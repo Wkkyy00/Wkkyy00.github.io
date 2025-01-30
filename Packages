@@ -2034,6 +2034,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCMyPageInfoCenter
 
+Package: com.netskao.wctimelinemessagetails
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wctimelinemessagetails_1.1-1_iphoneos-arm64.deb
+Size: 5460
+MD5sum: ed045e043209a56541892f2486726396
+SHA1: 6fa61a7a65f81de574fb678cebd05fdda79ebdd9
+SHA256: 148804f91b11a622a14c9c51780ca48a1c394832432c6e607a5f43b7cf6f391e
+Section: 微信插件
+Description: 微信朋友圈消息小尾巴自定义。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCTimeLineMessageTail
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
