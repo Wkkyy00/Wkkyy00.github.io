@@ -3112,6 +3112,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SquidExtender配置(三款)
 
+Package: com.wkk.peizhisew
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.peizhisew_2.0_iphoneos-arm64.deb
+Size: 14592
+MD5sum: f56040dac46d22cebd6de4700f68d3dd
+SHA1: 71abc897498ebfd095085e78d85a1b249cd77e36
+SHA256: e26c9c88d7efc739c326113ad84dc2edcfc047c18fe263e9ecdc33b808f11812
+Section: 插件配置
+Description: 这是我个人SquidExtender插件的配置，给不会设置的小伙伴方便。下载后文件在目录/var/mobile/Documents/se配置.zip 解压后自行导入SquidExtender食用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SquidExtender配置(最新26键)
+
 Package: com.wkk.smartnetwork
 Version: 1.0
 Architecture: iphoneos-arm64
