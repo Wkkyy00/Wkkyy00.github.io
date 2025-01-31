@@ -4105,6 +4105,22 @@ Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: NewTerm 3 Beta
 Support: https://hashbang.productions/support/
 
+Package: xc.lzsxcl.o2pro.rootless
+Version: 17.2
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl <xuanhua880@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro.rootless_17.2_iphoneos-arm64.deb
+Size: 7914020
+MD5sum: 0c94f509e3696ca7143ede72d0664036
+SHA1: 2c4d12dc20c168ae66c494a7e8ad457423700485
+SHA256: e476b807ff9b497d409ecf1b108acf71baa551855295e3482ad6ba5af0c18c79
+Section: 插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl <xuanhua880@gmail.com>
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+
 Package: xiaochouzhenhoutai.wkk
 Version: 0.1.0
 Architecture: iphoneos-arm64
