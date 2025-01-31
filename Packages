@@ -3833,6 +3833,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/db0552c3269c402cf762bc2ffda80f7f.
 Name: Canna
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
 
+Package: me.nebula.ding
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Nebula
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64.deb
+Size: 25572
+MD5sum: d4f13f14110c40a96efc3bbc43411710
+SHA1: b4a026c594c2ffa9f711f5a0f95d0247b1fb19b9
+SHA256: 01bb8cb0c33cf10b892715727f2182160e09ca76d7be6b98987ba85c203d420c
+Section: 插件
+Description: 静音拨片物理按键自定义其他功能(手电筒，方向锁定，飞行模式，无线网络开关，蓝牙，低电量模式，请勿打扰，移动数据，黑暗模式)
+Author: Nebula
+Depiction: nebula
+Icon: https://s1.imagehub.cc/images/2025/02/01/35cc41ac1e924657c3e222247af3a198.png
+Name: Ding
+
 Package: net.joebruce.uninstallguard
 Version: 1.5.6
 Architecture: iphoneos-arm64
