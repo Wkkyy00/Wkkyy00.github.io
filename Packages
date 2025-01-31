@@ -808,23 +808,6 @@ Author: Brend0n <brendonjkding@126.com>
 Icon: https://s1.imagehub.cc/images/2025/01/02/53548d6f3c3bff8e8d38f4ca63b36e2f.png
 Name: NoPassAfterRespring
 
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3_iphoneos-arm64.deb
-Size: 623540
-MD5sum: d1f1a5f3906f7a32d364021c8ed04201
-SHA1: d43e7f2d4b3c954e2c2aab635f43ab365cdc6cd3
-SHA256: 19ccf0f41d2e5e8f8e8d4c9668931e5f25d6f582b2c19402ca2aaee43f5ecb45
-Section: 插件
-Description: 桌面任何地方展示音乐的歌词。
-Author: Brend0n <brendonjkding@126.com>
-Icon: https://s1.imagehub.cc/images/2025/01/06/c8e8e3def24e4f317acca3a8edd71c41.png
-Name: DesktopLyrics
-
 Package: com.cameronkatri.quickactions
 Version: 1.0.0-2
 Architecture: iphoneos-arm64
