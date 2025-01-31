@@ -500,6 +500,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/25/d0f9c9a96bfa7a2dfc2afcda00da0149.
 Name: FirstAppicon
 Sponsor: wkk
 
+Package: com.HBWechatHelper.ailun
+Version: 1.7-8
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.7-8_iphoneos-arm64.deb
+Size: 11212748
+MD5sum: f6deb8cb20fbf1fc318d5c5c9f2a6e02
+SHA1: 3bc0b66cbbdec97d9fc7e681622d8a5deb30b56d
+SHA256: 11ec0b6d417afa04b536597f27f1fe21c3c205b362cb3ca5cea81ff16cc2c10a
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
 Package: com.Wes.ExplosiveIcons
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -3279,6 +3295,23 @@ Description: 感谢X大佬的无私奉献！
 Author: x✨
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音图层
+
+Package: com.xx.qqhook
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2012
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.qqhook_1.1.5_iphoneos-arm64.deb
+Size: 616064
+MD5sum: ea340278a70328c34fc59139955b7b30
+SHA1: 510e0370aaa0bec7fae1b0eaee2f767be76c498e
+SHA256: 3203843fecc6fbe14ea8fef20df2ae59d51dcf554bcdd96ea08d5cc03ec8df4f
+Section: 插件
+Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+，感谢X大佬无私奉献~
+Author: x✨
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
+Name: QQ·TIM新版图层
 
 Package: com.xybp888.lockbutton
 Version: 0.1-2
