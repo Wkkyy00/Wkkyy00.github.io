@@ -2269,6 +2269,26 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/09/cd275ce21eab6ce680528f9a7193d6f5.png
 Name: wkk for 花里胡哨控制中心
 
+Package: com.ps.recordntorch
+Version: 1.8.3
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 12.0), gsc.camera-flash
+Conflicts: org.thebigboss.recordntorch, com.spicat.recordntorch
+Replaces: org.thebigboss.recordntorch, com.spicat.recordntorch
+Provides: org.thebigboss.recordntorch, com.spicat.recordntorch
+Filename: ./debs/com.ps.recordntorch_1.8.3_iphoneos-arm64.deb
+Size: 4440
+MD5sum: f28ab917355b3cda5a129e77f1f23070
+SHA1: 6737e46ec7066620a1b317318bbeaaaaaa799968
+SHA256: 062def02024122e97d87fb6fdb9873d117e0063c3e46ae0bf48deae25d1189f8
+Section: 插件
+Description: 如题。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/02/03/fcfc35c89a28cb3c1862f54c8a62de6a.png
+Name: 录像时开启手电筒
+
 Package: com.pullclearnc
 Version: 1.1-8
 Architecture: iphoneos-arm64
