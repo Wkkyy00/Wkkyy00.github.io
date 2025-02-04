@@ -667,6 +667,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音清除点赞
 Sponsor: wkk
 
+Package: com.awemedisablebar
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.awemedisablebar_1.1-6_iphoneos-arm64.deb
+Size: 304856
+MD5sum: 2b8c3f1b18dd99c8eef48ebc5c706b93
+SHA1: 3a4873c9da1214c70dff2ed1f49d36bd85039f3b
+SHA256: 1ee3b837185b6efc025dbde0772f422cb2bc3591cc498e469958daa83287983d
+Section: 抖音插件
+Description: 抖音禁用底部朋友，+号，消息，禁用首页顶部，禁用视频右侧按钮，插件设置入口位于设置内，测试版本：32.9.0
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: AwemeDisableBar
+
 Package: com.awemedownloadmedia
 Version: 1.1-8
 Architecture: iphoneos-arm64
