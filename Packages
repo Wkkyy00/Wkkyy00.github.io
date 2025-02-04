@@ -2871,6 +2871,23 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: ThemeBox
 
+Package: com.tencent.themebox
+Version: 1.1.5-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_1.1.5-1_iphoneos-arm64.deb
+Size: 2986824
+MD5sum: 04e5c248d0a5b9e835ce2001e871bc13
+SHA1: 79be79fa1f118138afb9cb20e79334f233f94215
+SHA256: 48b5dd81e06d1f60438c1c16a5fcf8b679b1e905f30559a13427ab860ba55b28
+Section: 微信插件
+Description: 备份。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: ThemeBox
+
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
 Architecture: iphoneos-arm64
