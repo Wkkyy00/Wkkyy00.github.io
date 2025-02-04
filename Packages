@@ -1567,6 +1567,22 @@ Author: Hitori <mikasa-san@outlook.jp>
 Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
 Name: PassText
 
+Package: com.huami.DYYY
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.8.2_iphoneos-arm64.deb
+Size: 25696
+MD5sum: 14237e0d41fb7a57bbd6a0fd129d2209
+SHA1: c13b238fefb28c3a786791df5fbf059caa26434e
+SHA256: f53698222f7c454e34377631825b3124b5f0a4707b3ecba68e2e7080e1866fc7
+Section: 抖音插件
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY
+
 Package: com.huami.dyyy.rootless
 Version: 1.7
 Architecture: iphoneos-arm64
