@@ -667,6 +667,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音清除点赞
 Sponsor: wkk
 
+Package: com.awemedownloadmedia
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 456
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.awemedownloadmedia_1.1-8_iphoneos-arm64.deb
+Size: 146812
+MD5sum: 2be36eb9deff2001f58e60248b89a35f
+SHA1: cbbe4fd8adbc2020fb65339ec53023087387d1b7
+SHA256: bc34e8ed3523f971f989b208cb33eea17a37294d0133b6b2bef64f3ed3bbd216
+Section: 抖音插件
+Description: 抖音视频无水印下载，插件设置入口位于设置内，开启后在分享按钮下方有一个下载按钮，测试版本：32.9.0
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: AwemeDownloadMedia
+
 Package: com.awemefullscreen
 Version: 1.2-3
 Architecture: iphoneos-arm64
