@@ -685,6 +685,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音全屏
 Sponsor: wkk
 
+Package: com.awemevideotime
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 124
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.awemevideotime_1.1-2_iphoneos-arm64.deb
+Size: 31692
+MD5sum: 2047d51607b275b15b134258f284079c
+SHA1: d3f910dacd50ed4b2847a753a41459f193267849
+SHA256: af267aa28e38e2fd6438a54cb3ec897699922b915aaae8ae5975e4d247550664
+Section: 抖音插件
+Description: 抖音视频显示精准时长，插件入口位于设置内，测试版本：32.9.0。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: AwemeVideoTime
+
 Package: com.axon
 Version: 1.5.5
 Architecture: iphoneos-arm64
