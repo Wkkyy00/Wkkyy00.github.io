@@ -3413,23 +3413,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/f8b5f882408f89e4f3981df64e1f9e4f.png
 Name: 红包气泡1.0
 
-Package: com.xx.dyhook
-Version: 2.1.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 8796
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_2.1.0_iphoneos-arm64.deb
-Size: 2673804
-MD5sum: 738b2a501bdd966d281f30db53b72a67
-SHA1: 82f7e7ca08cd70b81d610011e5388497dcef2c2a
-SHA256: 3f31de5abd14cac910b6f7c1f8c3cf285cd129e519d9e5bb5e9aed270921756a
-Section: 抖音插件
-Description: 幸存者版本。
-Author: x✨
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音图层
-
 Package: com.xx.qqhook
 Version: 1.1.5
 Architecture: iphoneos-arm64
