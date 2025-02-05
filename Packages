@@ -3413,6 +3413,21 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/f8b5f882408f89e4f3981df64e1f9e4f.png
 Name: 红包气泡1.0
 
+Package: com.xx.dyhook.chang
+Version: 2.0.8+81
+Architecture: iphoneos-arm64
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook.chang_2.0.8+81_iphoneos-arm64.deb
+Size: 2895288
+MD5sum: 3c90641d60d6abc0b2eb9a9f639afa6e
+SHA1: 7e25421af52333c69a20f3b6ee9da40a0d87f8e7
+SHA256: ed5384c1c6005da99ea28283a18270f071a70854cbda3b21f4f3eefc8241fee2
+Section: 抖音插件
+Description: 抖音离线版本，长期使用，真正无限制的使用！只需安装这个插件，小红书图层也可以用，快手图层也可以用！（无需安装官方版图层）
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音图层畅爽版
+
 Package: com.xx.qqhook
 Version: 1.1.5
 Architecture: iphoneos-arm64
