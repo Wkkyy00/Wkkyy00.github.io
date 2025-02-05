@@ -1364,21 +1364,6 @@ Author: dvntm
 Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
 Name: SilentNotifs
 
-Package: com.dyhooks.lixian
-Version: 2.0.8+8
-Architecture: iphoneos-arm64
-Installed-Size: 13908
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.dyhooks.lixian_2.0.8+8_iphoneos-arm64.deb
-Size: 2893832
-MD5sum: 9a0f7fd07c3a2fd9a9790a862991e9b1
-SHA1: 2012bd4fb7b5339676077110932ed4e71c52a4cf
-SHA256: f18423bee206153c2a1a11da9741aacc1b80b6b70923fa1341bb0ef0fd728c1b
-Section: 抖音插件
-Description: 离线版本，长期使用，真正无限制的使用！
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音图层离线版
-
 Package: com.edge.siri
 Version: 3.1.2
 Architecture: iphoneos-arm64
@@ -3412,38 +3397,6 @@ Description: 下载后文件在目录/var/mobile/Documents/红包气泡.zip 解�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/f8b5f882408f89e4f3981df64e1f9e4f.png
 Name: 红包气泡1.0
-
-Package: com.xx.dyhook.chang
-Version: 2.0.8+81
-Architecture: iphoneos-arm64
-Installed-Size: 13908
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook.chang_2.0.8+81_iphoneos-arm64.deb
-Size: 2895288
-MD5sum: 3c90641d60d6abc0b2eb9a9f639afa6e
-SHA1: 7e25421af52333c69a20f3b6ee9da40a0d87f8e7
-SHA256: ed5384c1c6005da99ea28283a18270f071a70854cbda3b21f4f3eefc8241fee2
-Section: 抖音插件
-Description: 抖音离线版本，长期使用，真正无限制的使用！只需安装这个插件，小红书图层也可以用，快手图层也可以用！（无需安装官方版图层）
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音图层畅爽版
-
-Package: com.xx.qqhook
-Version: 1.1.5
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 2012
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.qqhook_1.1.5_iphoneos-arm64.deb
-Size: 616064
-MD5sum: ea340278a70328c34fc59139955b7b30
-SHA1: 510e0370aaa0bec7fae1b0eaee2f767be76c498e
-SHA256: 3203843fecc6fbe14ea8fef20df2ae59d51dcf554bcdd96ea08d5cc03ec8df4f
-Section: 插件
-Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+，感谢X大佬无私奉献~
-Author: x✨
-Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
-Name: QQ·TIM新版图层
 
 Package: com.xybp888.lockbutton
 Version: 0.1-2
