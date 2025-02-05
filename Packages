@@ -3361,6 +3361,40 @@ Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.
 Name: SmartNetwork
 Sponsor: wkk
 
+Package: com.wkk.tiebahook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tiebahook_1.0.3_iphoneos-arm64.deb
+Size: 66668
+MD5sum: da353c943fff3277729ac9f5c0467be4
+SHA1: f5dab82015d70aeb7570517f2a907b39db006eef
+SHA256: 7a4f1f2bbc60ec12495d39e081eea19912fe742b0154d5a4740911c739ac5e6b
+Section: 去广告
+Description: 去除百度贴吧广告，测试版：12.60.1
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
+Name: 百度贴吧NoAds1
+
+Package: com.wkk.tiebahook2
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tiebahook2_1.0.3_iphoneos-arm64.deb
+Size: 13548
+MD5sum: 103e25c9aab94c87ad43f25464547ac9
+SHA1: 16c2cd3e983445d2436c73ffbd3358a4ccbe6310
+SHA256: 4088b930f3801100eca3523c1f89c6a4312ce66c4f07b5f2a875a0d81dccbf1a
+Section: 去广告
+Description: 去除百度贴吧广告，测试版：12.60.1
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
+Name: 百度贴吧NoAds2
+
 Package: com.wkk.tixingsheng
 Version: 1.0
 Architecture: iphoneos-arm64
