@@ -2371,6 +2371,23 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
 
+Package: com.p2kdev.twitternoads
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.2.5_iphoneos-arm64.deb
+Size: 7512
+MD5sum: f7fb0307cf1dd99399555e21482dcee9
+SHA1: ec4d2fc22c39032201ad36c752d921ed1c1e615a
+SHA256: 66d17f557acf3a11e6f95212a9be6d0a442689d7e3c50d906860be3f4171bc41
+Section: 去广告
+Description: 去除X广告。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/06/94cb0d60b93edaf171b34044f9b754ab.png
+Name: TwitterNoAds
+
 Package: com.pingfan.wechat
 Version: 2.2-1
 Architecture: iphoneos-arm64
