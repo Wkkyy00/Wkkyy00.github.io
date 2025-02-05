@@ -2475,6 +2475,21 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.qmxshook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qmxshook_1.0.3_iphoneos-arm64.deb
+Size: 114948
+MD5sum: 6dbad4ebe2e18608d6acbe6ed8c9c429
+SHA1: 090a4be5e802404647d6d75147dc5d4909f06ce2
+SHA256: 72c244e4b4797b660a44e0f97907cbb6d2f269cb66447e697c7cbe5838041d46
+Section: 去广告
+Description: 免广告，测试版本：7.63.10
+Icon: https://s1.imagehub.cc/images/2025/02/06/1cb46c4a119429e59516fd3f0287e49d.png
+Name: 七猫小说
+
 Package: com.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64
