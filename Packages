@@ -1501,6 +1501,23 @@ Author: Kritanta
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/gravitation.png
 Name: Gravitation
 
+Package: com.hauncundaochu
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: lly
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hauncundaochu_1.0_iphoneos-arm64.deb
+Size: 142044
+MD5sum: 053daa9b1d60bc9af83b26b8f2f0f4c7
+SHA1: b35150106001a13928ad9bac001d8e51478afc08
+SHA256: be9f88f2f0cb07179414b9c59ddfea09535a7ad4cdcee688088a0c024c076558
+Section: 插件
+Description: 下载后的文件添加一个导出按钮，测试版本：12.22.0
+Author: lly
+Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
+Name: 百度网盘缓存导出
+
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64
