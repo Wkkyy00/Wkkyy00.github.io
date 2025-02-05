@@ -1635,6 +1635,22 @@ Author: huami <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.kugouNoAD
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.kugouNoAD_0.1-1_iphoneos-arm64.deb
+Size: 55536
+MD5sum: 6a3318fbe6684d391b55980f8e3b4436
+SHA1: 5c786d198a29ca46730dcfa6fb19e58b7b6c22c4
+SHA256: 825cb686114a11e16da48abe70a39e1c6795cc6bfd5991838ae7201d4d3bb7eb
+Section: 去广告
+Priority: optional
+Description: 去除酷狗音乐/酷狗音乐概念版开屏广告，测试版本：20.0.5。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/02/06/ec6645362af5f9dda6f90123398eb8c7.jpeg
+Name: kugouNoAD
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
