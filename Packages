@@ -3086,6 +3086,23 @@ Author: Doki <qiaozhani000@163.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信输入法自定义
 
+Package: com.wkk.12306hook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.12306hook_1.0_iphoneos-arm64.deb
+Size: 4044
+MD5sum: c381e9b96447e46fce2a54f858cdbd64
+SHA1: fc89df908970af9d2c471346668f36cc58ca0e8c
+SHA256: 07d5e8e60b652b3f8e5bc897bdbb3b89240ecc150a4cdcce5150ea0bc76e465b
+Section: 去广告
+Description: 去开屏广告，测试版本：5.9.3
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
+Name: 铁路12306NoAds
+
 Package: com.wkk.atriapeizhi
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3101,6 +3118,23 @@ Description: 这是我个人Atria插件的五图标配置，给不会设置的�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Atria五图标配置
+
+Package: com.wkk.baiduwangpanhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.baiduwangpanhook_1.0_iphoneos-arm64.deb
+Size: 3712
+MD5sum: 847c34e43c53b4acac1beeb3efb23f0e
+SHA1: cd395204b7d8483c538f74534cdeba786e6fd3f3
+SHA256: 6aa280c5a9d98dfe9809310e539a79086331434aa75367d72cce4dfb309a1c71
+Section: 去广告
+Description: 去开屏广告，测试版本：12.22.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
+Name: 百度网盘NoAds
 
 Package: com.wkk.bilibilihook
 Version: 1.0
@@ -3431,6 +3465,23 @@ Description: 下载后文件在目录/var/mobile/Documents/精选提醒声.zip �
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
 Name: 百款精选提醒声
+
+Package: com.wkk.wyyxhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wyyxhook_1.0_iphoneos-arm64.deb
+Size: 191284
+MD5sum: 7c1aadd164d8105421cddbc1ea87f112
+SHA1: ac871d127ba25a5cc87ef4446d205f49262f8e10
+SHA256: 61e941ed9edaddef97e23c6795a77de12fd5aa3d663a17a38afd0fbea0bfcd66
+Section: 去广告
+Description: 去开屏广告，测试版本：7.22.2
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/35e13015f230bb12124c0dfaeab5c609.png
+Name: 网易邮箱NoAds
 
 Package: com.wkk.xielunyanguazai
 Version: 1.0
