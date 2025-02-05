@@ -1451,6 +1451,21 @@ Author: iGameGod
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: iGameGod
 
+Package: com.gaodehook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Installed-Size: 900
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gaodehook_1.0.4_iphoneos-arm64.deb
+Size: 357756
+MD5sum: 12f1a83d2a4de74d1bd94aab117c9d9a
+SHA1: 8d227e90f944758aad2ac5d96cc3a032a7b7f71f
+SHA256: b8496c9655fc6473a9e80686a4ec25f78265067d4321bb4447762fcd82b3610a
+Section: 去广告
+Description: 功能默认开启。去除启动广告，首页一些无用的悬浮，移除底部消息-打车，移除扫一扫按钮，如果需要某功能，可以长按底栏1秒出菜单自行关闭。测试版本：15.6.0
+Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
+Name: 高德地图
+
 Package: com.gesturesxv
 Version: 1.6.1
 Architecture: iphoneos-arm64
