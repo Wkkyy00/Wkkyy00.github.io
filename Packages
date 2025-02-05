@@ -3117,6 +3117,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Atria五图标配置
 
+Package: com.wkk.bilibilihook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: girl
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bilibilihook_1.0_iphoneos-arm64.deb
+Size: 15904
+MD5sum: 8facc1c301bda2d1d9f9a7fe07e05b11
+SHA1: 1f84c4996ab07de171eae4685a6f347a97915abc
+SHA256: e519af0ff3124520f9f2bf75c15cae8e8b76d1281188e25e6fa5b29b5528baf8
+Section: 去广告
+Description: 去开屏广告，精简一系列杂项。测试版本：8.23.0
+Author: girl
+Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
+Name: 哔哩哔哩
+
 Package: com.wkk.dockshowlabels
 Version: 0.0.1
 Architecture: iphoneos-arm64
