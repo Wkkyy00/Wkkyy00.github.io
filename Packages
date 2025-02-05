@@ -3466,6 +3466,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
 Name: 百款精选提醒声
 
+Package: com.wkk.txsphook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.0_iphoneos-arm64.deb
+Size: 5468
+MD5sum: 73fe163e53af16c0bed95996c913e260
+SHA1: 8983153c0fc3ffed083fabb0d254b756b3c3f6ac
+SHA256: 5e58943cde842e670730922ac06f847726995ea77aaed139c82fb8d7ca2c9014
+Section: 去广告
+Description: 去开屏广告及部分豆腐块广告，测试版本：9.00.46
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
 Package: com.wkk.wyyxhook
 Version: 1.0
 Architecture: iphoneos-arm64
