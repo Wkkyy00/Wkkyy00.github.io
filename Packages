@@ -1364,6 +1364,21 @@ Author: dvntm
 Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
 Name: SilentNotifs
 
+Package: com.dyhooks.lixian
+Version: 2.0.8+8
+Architecture: iphoneos-arm64
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dyhooks.lixian_2.0.8+8_iphoneos-arm64.deb
+Size: 2893832
+MD5sum: 9a0f7fd07c3a2fd9a9790a862991e9b1
+SHA1: 2012bd4fb7b5339676077110932ed4e71c52a4cf
+SHA256: f18423bee206153c2a1a11da9741aacc1b80b6b70923fa1341bb0ef0fd728c1b
+Section: 抖音插件
+Description: 离线版本，长期使用，真正无限制的使用！
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音图层离线版
+
 Package: com.edge.siri
 Version: 3.1.2
 Architecture: iphoneos-arm64
