@@ -156,6 +156,23 @@ Author: pxcex
 Icon: https://s1.imagehub.cc/images/2025/01/09/70ae7dc3552b53574e667238ce5a0a7d.png
 Name: AutoScroll 自动滚动
 
+Package: cn.fuckwechatadblocker
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.fuckwechatadblocker_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 16904
+MD5sum: 01d2f923ecfbf7a009c279bb69ccba37
+SHA1: fe7f732ce1818dca6d6663f300ee6b5604fb4061
+SHA256: 6e1781325f6ada44b10a5d5265df2b2a81bdea7abbd8276d08f736958e8cdfe5
+Section: 微信插件
+Description: 微信去广告。FuckWeChatAd.dylib的打包版本。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: FuckWeChatAdBlocker
+
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
