@@ -3483,6 +3483,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
 
+Package: com.wkk.weibohook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.weibohook_1.0_iphoneos-arm64.deb
+Size: 18580
+MD5sum: 879e645e42966b0ed6207356867a617e
+SHA1: 175aa91c2fcbf65c9b9717e1b7bf2626a20e1702
+SHA256: 36f768f435782d27643ac6420fca417bb50c80721891abe7e067a0d0ef92298f
+Section: 去广告
+Description: 去开屏广告及部分豆腐块广告，测试版本：14.10.0
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
+Name: 微博NoAds
+
 Package: com.wkk.wyyxhook
 Version: 1.0
 Architecture: iphoneos-arm64
