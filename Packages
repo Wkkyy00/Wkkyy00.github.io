@@ -2560,6 +2560,22 @@ Author: SOPPPra
 Icon: https://s1.imagehub.cc/images/2025/01/27/2e843f9495c7a75329997d8f5fcab7e6.jpeg
 Name: SettingsRevamp
 
+Package: com.sgwc.events
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SGWC
+Installed-Size: 1828
+Filename: ./debs/com.sgwc.events_1.0_iphoneos-arm64.deb
+Size: 1097768
+MD5sum: 668d9ffb25dea65dac22da2af6d9682b
+SHA1: a5ae6e134a82c4d31285eb9d19e358d07138f0bd
+SHA256: 0a4ec2b82848318943d87595c719071089740b169769c1d3d6015a644997c0a9
+Section: 插件
+Description: 在锁屏界面上，可自由设置显示将来几天的节日（汉化：lans233🇨🇳）
+Author: SGWC
+Icon: https://s1.imagehub.cc/images/2025/02/07/2e759b7639963ed967fa1888a9113c58.png
+Name: Events
+
 Package: com.sini.centra
 Version: 1.0
 Architecture: iphoneos-arm64
