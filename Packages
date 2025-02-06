@@ -3431,6 +3431,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/1cb46c4a119429e59516fd3f0287e49d.png
 Name: 七猫小说
 
+Package: com.wkk.qqmusichook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qqmusichook_1.0_iphoneos-arm64.deb
+Size: 5176
+MD5sum: 51c138bb84ab7b5c306d8f31a9298e4b
+SHA1: e68bf79b3001c998cdb902e622030290d9d3d0c1
+SHA256: 6a5a16ea16881bee444485b60182ba822d92713463c073e9fe61361e46b397bf
+Section: 去广告
+Description: 去QQ音乐开屏广告，测试版本：14.1.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
+Name: QQ音乐NoAds
+
 Package: com.wkk.smartnetwork
 Version: 1.0
 Architecture: iphoneos-arm64
