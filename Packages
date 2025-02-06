@@ -3586,6 +3586,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/18bba91d54fb168ffa46d775d162c100.png
 Name: 灵动岛录屏写轮眼
 
+Package: com.wkk.zhihuhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zhihuhook_1.0_iphoneos-arm64.deb
+Size: 35804
+MD5sum: 9b1e5a3b4773e59c9f3b54dcba64a0f2
+SHA1: ee477c4553368bfe2da822fe8b35a8c7f9c151e7
+SHA256: 35137beb7b38e3f308c5b4a34d65f23b93ddb036e6f5c35e6ce6eb7d9529b02d
+Section: 去广告
+Description: 去知乎开屏广告，测试版本：10.0.0.高版本自测，自用这个版本，流畅稳定，推荐。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
+Name: 知乎NoAds
+
 Package: com.wkk.zhuanjixuanzhuan
 Version: 1.0
 Architecture: iphoneos-arm64
