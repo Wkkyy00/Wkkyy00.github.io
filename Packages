@@ -1503,6 +1503,23 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
+Package: com.ginsu.dualclock2
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 3832
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), preferenceloader, com.ginsu.gscore, com.ginsu.comet
+Filename: ./debs/com.ginsu.dualclock2_2.0.3_iphoneos-arm64.deb
+Size: 396548
+MD5sum: 5095cf0e1a472efc91f5fb1eb83ab35e
+SHA1: edaddad788ada59c12399043fae8b0c118e81880
+SHA256: 2b2550aaf8cae0c70ca5c495d3089cdc8797c74a9004b33938bcd7d4e796984d
+Section: 插件
+Description: 锁屏显示两个时间！
+Author: Ginsu
+Icon: https://s1.imagehub.cc/images/2025/02/07/6cd14280a9059e694174bb32f79d51d8.png
+Name: DualClock2
+
 Package: com.gravitation
 Version: 0.0.1
 Architecture: iphoneos-arm64
