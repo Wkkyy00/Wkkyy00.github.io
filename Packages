@@ -3500,6 +3500,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SquidExtender配置(最新26键)
 
+Package: com.wkk.peizhisew3
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.peizhisew3_3.0_iphoneos-arm64.deb
+Size: 32924
+MD5sum: 8cc5ccb9996dcd3e437fd1f9b3529a13
+SHA1: 42025ce337882179a48bc2730624b2df5048001f
+SHA256: 43fa7eff06d2acc07f618db0c034e56e45f328b0a188f866749570faabd8f6e9
+Section: 插件配置
+Description: 直装！直装！直装！五份SquidExtender的配置文件，下载后文件在目录/var/mobile/Documents/SE_backup文件夹内（三份26键，两份9键）下载后打开插件SquidExtender还原备份即可，如果不知道还原哪一份，Filza打开SE_backup目录里有相对应注释。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SquidExtender配置(五份配置直装)
+
 Package: com.wkk.qmxshook
 Version: 1.0
 Architecture: iphoneos-arm64
