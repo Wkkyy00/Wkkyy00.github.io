@@ -3535,6 +3535,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SquidExtender配置(五份配置直装)
 
+Package: com.wkk.qinglizhomgduan
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.qinglizhomgduan_1.0_iphoneos-arm64.deb
+Size: 6848
+MD5sum: 3d9c9a36ff924ed8adc4ec37f00e1706
+SHA1: 7629d9ae933f81a288b4593392a65f32b2d09d0d
+SHA256: e192ee77706fb8cc202c0af0d717b2e3bef06062a8618b53a9e1cb97bcbaae57
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/目录下（清理终端.sh）先以文本形式打开查看，不要直接点击运行！不要直接点击运行！不要直接点击运行！没效果！打开后的路径（里面路径是我自己的）roothide用户每个人jbroot后缀不一样，需要按照自己的路径填入，每个目录已经标注相对应缓存文件，另外也可以填入其他缓存目录（如app等等，这里不多赘述，如果不会使用，可以加QQ群828308356一起探讨！）无根用户也可以本终端为媒介填入自己经常清理的目录玩耍。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: RootHide插件缓存清理终端
+
 Package: com.wkk.qmxshook
 Version: 1.0
 Architecture: iphoneos-arm64
