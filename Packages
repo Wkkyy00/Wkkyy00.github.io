@@ -499,6 +499,22 @@ Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/01/24/a9cc7431956ac6dec7d92f7d9260cc64.png
 Name: 语音转文字免跳转
 
+Package: com.BeanbunsHelpers.DB
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Filename: ./debs/com.BeanbunsHelpers.DB_1.0-2_iphoneos-arm64.deb
+Size: 424160
+MD5sum: dffdb9cf66c749386de3824d2713c4c9
+SHA1: a9d341d712d8009a37f96c018772d4fac9fd0c3b
+SHA256: 1479ff4bb85f7949835247ada10dc7e878e395a846ccb85455c8517699ddb4ef
+Section: 抖音插件
+Description: 挺不错的，设置入口在抖音设置内，测试版本：33.0.0
+Author: Beanbuns
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音豆包助手
+
 Package: com.FirstAppicon
 Version: 0.3
 Architecture: iphoneos-arm64
