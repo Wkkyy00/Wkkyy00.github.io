@@ -1381,6 +1381,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: DisableBottomBarLRSwipe
 
+Package: com.douyinnoads
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.douyinnoads_1.0_iphoneos-arm64.deb
+Size: 9868
+MD5sum: 9fda62ed5598f88808f1213bb0d7f6b1
+SHA1: cf187ec0a1c0795d0f08591c8c8c246b2e57b3f1
+SHA256: bafba01422872114c9a1e55eadf777760ffbfe0bd5db8cd61518d8252f079450
+Section: 去广告
+Description: 去启动、视频流、青少年提醒，由Netskao制作，网友定制插件。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音NoAds
+
 Package: com.dumpapp.wechat
 Version: 2.0.4
 Architecture: iphoneos-arm64
