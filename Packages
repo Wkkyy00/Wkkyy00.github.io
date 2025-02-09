@@ -908,6 +908,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/dfd2f1f3615c35fe920fb6a4415e46fb.
 Name: BetterCCBrightness
 Sponsor: wkk
 
+Package: com.bhtwitter
+Version: 4.3-6
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: ./debs/com.bhtwitter_4.3-6_iphoneos-arm64.deb
+Size: 7614088
+MD5sum: 881366d8aee156028b80472a0880a2a3
+SHA1: 0e5e22a9637d8ae3ecc6688dbc460fca24689e76
+SHA256: 8b1d331247d192f0e00d719a49b56b4f24dd7fad8e6f89cac75f7cefe79b38b4
+Section: 去广告
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。测试版本：10.79.2，只能说牛逼puls！
+Author: Bandar Alruwaili
+Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
+Name: BHTwitter中文版
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
