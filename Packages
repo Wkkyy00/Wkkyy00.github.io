@@ -2996,6 +2996,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/springanimations.png
 Name: SpringAnimation
 
+Package: com.susu.suxhshook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.suxhshook_1.0_iphoneos-arm64.deb
+Size: 12244
+MD5sum: 1045158773ae5b0e624532ffe1f0403d
+SHA1: c20bf665a56295b15a50c4a86ebf07e67525f206
+SHA256: 1d1b827aa00e8c06a2f1a76976e99603fd698ea02491be32affa8ede4c9cae06
+Section: 插件
+Description: 小红书调整，关于页面双击版本号启用。yyds！
+Author: susu
+Icon: https://s1.imagehub.cc/images/2025/02/09/ed32dc7861ce92d3c5da7934b77e6d64.png
+Name: SuXHSHook
+
 Package: com.susu.wcfrostedglass
 Version: 1.0.3
 Architecture: iphoneos-arm64
