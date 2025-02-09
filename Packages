@@ -908,6 +908,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 
 Package: com.betterccbrightness
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.betterccbrightness_1.0.2_iphoneos-arm64.deb
+Size: 43676
+MD5sum: 57923c2482f1b9807764083969fa9a5f
+SHA1: 543f306e6de2a07044492caf17f9dff1831e43b3
+SHA256: 17f00755a83fc7376183649341f9426a6c4682b84a76d50c389694c1ad165552
+Section: 越狱插件
+Description: 控制中心亮度模块长按后，新增降低白点值和夜览的滑块，支持无根隐根，保护眼睛从我做起！
+Author: level3tjg
+Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.png
+Name: BetterCCBrightness
+Sponsor: wkk
+
+Package: com.betterccbrightness
 Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: wkk
