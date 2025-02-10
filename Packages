@@ -3020,12 +3020,12 @@ Maintainer: sunshinesong
 Installed-Size: 5484
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64.deb
-Size: 1575108
-MD5sum: 2ab58b8ceac1c6b4047e981d54bf9e32
-SHA1: 4010064cafe178f713147c1d4ff19a35688fdc9d
-SHA256: f47a621f28752dbb964768d651b7d85bf88f060b55b50793dc55c276cdff4800
+Size: 1567200
+MD5sum: 2e50472f29ed96f1fec19e4a59f856b2
+SHA1: 52962a31e8c1dbf388225ea8c1ffff1194eb80b4
+SHA256: 55eab9cd152cc826082155d96776bd29bfe2fd366c0ccfb3e1be40db90274ba1
 Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
+Description: 分屏，不必太复杂，一切从简即可。（我可以用的备份版本，也是付费版，没付费用不了）
 Author: sunshinesong
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 Name: split-view-pro
