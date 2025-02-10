@@ -3826,6 +3826,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
 Name: QQ音乐NoAds
 
+Package: com.wkk.shunfenghook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.shunfenghook_1.0_iphoneos-arm64.deb
+Size: 3596
+MD5sum: bb65fb0361eff3b00488f5cc0c368e5e
+SHA1: ad2c3355547a7c0da1d7c6f4a568253d8f636630
+SHA256: 745b0275a334139fa1c34f5b3ef54a4162dfd9224951def01e8d172e75b587b4
+Section: 去广告
+Description: 去开屏广告，测试版本：9.74.0，可以注入可以插件，（以下是特殊情况）如果先打开一次顺丰app有开屏广告先点一下开屏广告（点击，他会跳出一个网页，不是点跳过），然后点击关闭广告，最后杀掉app，用类似appdata插件清除缓存再打开app即无开屏广告。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/10/6f21b79a5a8c09efc2635593b5f977d3.png
+Name: 顺丰速运NoAds
+
 Package: com.wkk.smartnetwork
 Version: 1.0
 Architecture: iphoneos-arm64
