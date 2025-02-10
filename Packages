@@ -3569,6 +3569,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.
 Name: Dock显示app名称
 Sponsor: wkk
 
+Package: com.wkk.fanqiehook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fanqiehook_1.0_iphoneos-arm64.deb
+Size: 49584
+MD5sum: ff251de933ef743dae1f4cfcedebd033
+SHA1: 94e2bd05e14d922fafb834d7f7d06762c42b86d0
+SHA256: 4e888ce82a97a835e1a26d12e6682cdf8f1bab2bd85fcec77bcf653260de9b00
+Section: 去广告
+Description: 去开屏广告和神秘功能，测试版本：6.5.9
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/92c71257062850129b513726de475e60.png
+Name: 番茄小说NoAds
+
 Package: com.wkk.floatingViewpeizhi
 Version: 1.0
 Architecture: iphoneos-arm64
