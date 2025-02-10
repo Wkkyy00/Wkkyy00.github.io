@@ -3133,6 +3133,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/wechat.png
 Name: SuWCFrostedGlass
 
+Package: com.susu.wcfrostedglass
+Version: 1.0.4-2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.4-2_iphoneos-arm64.deb
+Size: 4476
+MD5sum: 5cd93e369310ed4209acba48584a36f6
+SHA1: b50baa4bbe68ab2369f36440c7a0750c15133541
+SHA256: 129317dc437217233b581abcb9a0035187c21c53fd51d1beffe2b00c9aa2a056
+Section: 微信插件
+Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm64
