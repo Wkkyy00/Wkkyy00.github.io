@@ -3879,6 +3879,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/35e13015f230bb12124c0dfaeab5c609.png
 Name: 网易邮箱NoAds
 
+Package: com.wkk.xianyuhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xianyuhook_1.0_iphoneos-arm64.deb
+Size: 3056
+MD5sum: 636d55dd4f7b6d64c0ff64efc0ddb3fc
+SHA1: 976e62f490e59cb7d03691d954bcb895423a1c38
+SHA256: baf302b2d32e98ffc14cb94cdfc1ccc479d4463ce927502ceb9aebc23c9802f4
+Section: 去广告
+Description: 去开屏广告，测试版本：7.19.20
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
+Name: 闲鱼NoAds
+
 Package: com.wkk.xielunyanguazai
 Version: 1.0
 Architecture: iphoneos-arm64
