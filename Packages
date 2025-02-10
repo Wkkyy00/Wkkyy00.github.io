@@ -3879,6 +3879,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
 Name: 百度贴吧NoAds2
 
+Package: com.wkk.tiktokhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tiktokhook_1.0.0_iphoneos-arm64.deb
+Size: 35604
+MD5sum: f0a25ce1260d0b367b81501672b04249
+SHA1: 1c3f20eb9fef5ae80071ae7a711a6e954a7dd971
+SHA256: 4e1c4f6090efb9a617d24f5951201973ac88d7ad0596bf126f8e16800c433d44
+Section: 去广告
+Description: 去除TikTok的+号按钮，测试版本：31.0.2
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/10/072d22b015ff8d1776fb4d56e7db5721.png
+Name: TikTokHook
+
 Package: com.wkk.tixingsheng
 Version: 1.0
 Architecture: iphoneos-arm64
