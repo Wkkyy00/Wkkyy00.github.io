@@ -3863,6 +3863,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SquidExtender配置(五份配置直装)
 
+Package: com.wkk.qichezhijiahook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qichezhijiahook_1.0_iphoneos-arm64.deb
+Size: 3304
+MD5sum: f618dc0d2a8258b3781e3f318db2d981
+SHA1: e3c4a397287e511164dbf61ee4eb92b9ce6f9bce
+SHA256: 222276187628f0e3e9f7b128bee4794fbd0cf136937bb4c76e29652613f77356
+Section: 去广告
+Description: 去开屏广告，测试版本：11.70.9
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/305a48c9773b7d9257998d276c541dbf.png
+Name: 汽车之家NoAds
+
 Package: com.wkk.qinglizhomgduan
 Version: 1.0
 Architecture: iphoneos-arm64
