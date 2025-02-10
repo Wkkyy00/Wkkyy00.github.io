@@ -3666,6 +3666,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 关于源（空包仅浏览）
 
+Package: com.wkk.mtwmhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mtwmhook_1.0_iphoneos-arm64.deb
+Size: 3260
+MD5sum: 29b1905a91cefde177aeb1c6d92b97e8
+SHA1: 2d860545c20663cd0103bdd3f43626d0724ce676
+SHA256: e07e2b849357dfb7b3b27c81f4876a8fae2df4b389ec0533d839cd35b5203644
+Section: 去广告
+Description: 去开屏广告，测试版本：8.43.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/a541db9f5e53205076737e9e874c7bf7.png
+Name: 美团外卖NoAds
+
 Package: com.wkk.o2propeizhi
 Version: 1.0
 Architecture: iphoneos-arm64
