@@ -3485,6 +3485,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Assets.car文件解压终端
 
+Package: com.wkk.WeChatmiaobian
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WeChatmiaobian_1.0_iphoneos-arm64.deb
+Size: 8900
+MD5sum: 591ad8650ead7b8dabc18124fc03cb87
+SHA1: 49714089b5dde54710716f53951e1a5831a50b8f
+SHA256: 7fb63f5368719a74c7b65fca2adce83b67db484b87365832ab935cfd571a3f9a
+Section: 微信插件
+Description: 为文本输入框和长按内容边框添加描边，我已添加无后台多开微信版本的所有标识，即所有无后台多开微信也生效，不生效自行检查屏蔽情况。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatStroke
+
 Package: com.wkk.atriapeizhi
 Version: 1.0
 Architecture: iphoneos-arm64
