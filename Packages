@@ -3552,6 +3552,23 @@ Author: girl
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩
 
+Package: com.wkk.coffeehook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.coffeehook_1.0_iphoneos-arm64.deb
+Size: 223700
+MD5sum: 867456f6e535dfd0d3d5bd6e84205412
+SHA1: f9334a21083474a6f12a07d6dad65cfc81203999
+SHA256: 037299aaacff9a41dbb7bab032612be9439e679773ef8f0dc94c0b0535988be0
+Section: 去广告
+Description: 去开屏广告，测试版本：5.3.22
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/5db6eeb77ecf271acfce493fdfcfcf9e.jpeg
+Name: 瑞幸咖啡NoAds
+
 Package: com.wkk.didihook
 Version: 1.0
 Architecture: iphoneos-arm64
