@@ -3586,6 +3586,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.
 Name: Dock显示app名称
 Sponsor: wkk
 
+Package: com.wkk.dzdphook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dzdphook_1.0_iphoneos-arm64.deb
+Size: 10964
+MD5sum: 63e189ad8f4cf3734f3489843977506a
+SHA1: 155faee32189c79496b126331f9d91f283e70618
+SHA256: 24c05a060f806b038cb00a3353694148cefca55de70251913fd0c620cfd2d2fe
+Section: 去广告
+Description: 去开屏广告，测试版本：11.30.12
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
+Name: 大众点评NoAds
+
 Package: com.wkk.fanqiehook
 Version: 1.0
 Architecture: iphoneos-arm64
