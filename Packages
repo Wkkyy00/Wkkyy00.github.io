@@ -2416,6 +2416,23 @@ Author: Fouad Raheb
 Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
 Name: AppData
 
+Package: com.netskao.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5048760
+MD5sum: b393bb8f40d58c7d08913609fc1948bc
+SHA1: 6041fac2a6b163979af478aca192311a3d3ba2af
+SHA256: de51d43ed060a89a5669bedb6bf224f191098613a22395f1d635a8501d090c69
+Section: 插件
+Description: 备份上架。长按降级。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
 Package: com.netskao.autofaceunlock-rootless
 Version: 1.1-7
 Architecture: iphoneos-arm64
