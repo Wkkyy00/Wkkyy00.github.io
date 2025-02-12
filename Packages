@@ -190,6 +190,24 @@ Author: 来了老弟
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX汉化-rootless
 
+Package: cn.zqbb.appdata
+Version: 1.3.6-9
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 356
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/cn.zqbb.appdata_1.3.6-9_iphoneos-arm64.deb
+Size: 76912
+MD5sum: 9954d76effbe1e3bf024550c2e672c9c
+SHA1: 4a1da2d077bc72fa625cfe4969b88ad2e7484417
+SHA256: 3ec5627a8dbcabe777734890f83e8a1858c7a1a6c7c6a9690ba53e05517111a7
+Section: 插件
+Description: 仅备份。
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
+Name: Hello AppData
+
 Package: cn.zqbb.musicrotation
 Version: 0.0.3
 Architecture: iphoneos-arm64
