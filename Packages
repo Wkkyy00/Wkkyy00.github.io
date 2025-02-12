@@ -2095,6 +2095,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/645175730c21b369776c08781b911cf7.
 Name: 3Dtouch透明
 Sponsor: wkk
 
+Package: com.jontelang.instalauncher2
+Version: 1.11.0
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
+Installed-Size: 1188
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/com.jontelang.instalauncher2_1.11.0_iphoneos-arm64.deb
+Size: 203632
+MD5sum: c9a6cff7227779b85a9c89db61933bbe
+SHA1: 3259c294aad05977316e0334b043648f0d8ff046
+SHA256: 021425eccae39bf79aa3d115bd42d8aff43ff05365721890022f50e24d1edf42
+Section: 插件
+Description: 侧边呼出app！
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
+Name: InstaLauncher 2
+
 Package: com.jyzpbtbschyd
 Version: 1.0
 Architecture: iphoneos-arm64
