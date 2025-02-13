@@ -2385,6 +2385,23 @@ Name: Lynx 2【已完整汉化】
 
 Package: com.muirey03.cr4shed
 Version: 4.3.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03
+Installed-Size: 2356
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
+Size: 210980
+MD5sum: e5945c5728059e08bc73f2af25732008
+SHA1: a308cf81dd6d98cd28fa1a2dc0c04381e30d923c
+SHA256: 8bae490f3397ae95ee8c84e1e2d3eef3fa43d46efdb26de4c383c0d53a908371
+Section: Tweaks
+Description: A modern crash reporter for iOS
+Author: Muirey03
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Cr4shed
+
+Package: com.muirey03.cr4shed
+Version: 4.3.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: Muirey03
 Installed-Size: 2404
