@@ -3572,6 +3572,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Assets.car文件解压终端
 
+Package: com.wkk.SwipeExtenderX
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SwipeExtenderX_1.0_iphoneos-arm64.deb
+Size: 6460
+MD5sum: fd3a7efeee69ac925eae6d07b9f70d82
+SHA1: 0d9fa67c75705a0adb56905ba36ee1c0b4f067f9
+SHA256: 1c970ee509397368006704b5c3f44bc2e39c090d990be96e403fc0c58e4ee085
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/目录下，自行使用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SwipeExtenderX配置
+
 Package: com.wkk.WeChatmiaobian
 Version: 1.0
 Architecture: iphoneos-arm64
