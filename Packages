@@ -2400,23 +2400,6 @@ Author: Muirey03
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Cr4shed
 
-Package: com.muirey03.cr4shed
-Version: 4.3.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: Muirey03
-Installed-Size: 2404
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11)
-Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
-Size: 197988
-MD5sum: cff6ffd79f3830043d649b91bcc73487
-SHA1: a155fee434192db3d1d6af02c864cc8c2cf1776a
-SHA256: 21e57cbff4d6dd9b4e96fb6795fc4f1c37b9a0ac98aed64c1364d2a1f73f8f76
-Section: Tweaks
-Description: A modern crash reporter for iOS
-Author: Muirey03
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Cr4shed
-
 Package: com.nahtedetihw.doodle
 Version: 1.2
 Architecture: iphoneos-arm64
