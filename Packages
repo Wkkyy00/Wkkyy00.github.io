@@ -3610,6 +3610,24 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
 Name: NoPreferencesTips
 
+Package: com.susu.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.nopreferencetips_1.0.4_iphoneos-arm64e.deb
+Size: 7410
+MD5sum: 639328e9d351aeef95503decd6b01640
+SHA1: c758a6795321392a00efde5c7a1bf6ef21f1f9d3
+SHA256: 5ddc15ee28c85e0368377f4c71230925840db1973214ef1f113197053ef9d4d5
+Section: 插件
+Description: 支持ios15-16无根隐根，移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标（只显示15天），移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）仅备份，作者源：苏苏源：https://susubaby.top/0107/
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
+Name: NoPreferencesTips
+
 Package: com.susu.powermenu
 Version: 1.0.4-3
 Architecture: iphoneos-arm64
