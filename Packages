@@ -1536,6 +1536,22 @@ Author: Derek Calabro
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
 Name: PageDotsBeGone
 
+Package: com.den.locktouchx
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MrDeNsor <xuanhua880@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.locktouchx_1.0_iphoneos-arm64.deb
+Size: 10912
+MD5sum: be113c401cbeab6a9174a4c8ff93bc7f
+SHA1: 647eb613755cbc5620a73e35c774e1291f507f88
+SHA256: 706db79744d5e52d400cf50c101379b5d1baf0221f000071f35ef3ae1e91e1a5
+Section: 插件
+Description: 3Dtouch按压App呼出加密选项，和ios18一样！
+Author: MrDeNsor <xuanhua880@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/14/20135b2edd20cb6c0c3805be86ceee92.png
+Name: LockTouchX
+
 Package: com.disablebottombarlrswipe
 Version: 1.1-2
 Architecture: iphoneos-arm64
