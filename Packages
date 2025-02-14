@@ -4259,38 +4259,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 关于源（空包仅浏览）
 
-Package: com.wkk.o2propeizhi
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.o2propeizhi_1.0_iphoneos-arm64.deb
-Size: 7722880
-MD5sum: 1a2f1417cfa3926ae718a21a31f69abf
-SHA1: f36878b35e512c79aaec6e28dc9acc05883f20d6
-SHA256: b86c5be6754f2fdb251e97d4498d14080494f874d3eb67fb761752cfe683172b
-Section: 插件配置
-Description: 这是我个人o2pro插件的设置，给不会设置的小伙伴方便。下载后文件在目录/var/mobile/Documents/o2pro设置.zip 解压后自行观看设置。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: o2pro完整个人设置
-
-Package: com.wkk.o2propeizhi2
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.o2propeizhi2_2.0_iphoneos-arm64.deb
-Size: 3667044
-MD5sum: a6f49b459def68e1ce4b4a72fe8e5235
-SHA1: ceffdb0be395f694103aa06f34e5f20cc058816f
-SHA256: d8c4d4959968ee8d3fb6d4f18c0812e5e8bf57b1e44f0535806882372219bf54
-Section: 插件配置
-Description: 这是我个人o2pro插件的设置，给不会设置的小伙伴方便。下载后文件在目录/var/mobile/Documents/o2pro设置.zip 解压后自行观看设置。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: o2pro最新个人设置（图）
-
 Package: com.wkk.ocd5
 Version: 5.4.1.0
 Architecture: iphoneos-arm64e
@@ -5712,22 +5680,6 @@ Depiction: https://chariz.com/get/newterm-beta
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: NewTerm 3 Beta
 Support: https://hashbang.productions/support/
-
-Package: xc.lzsxcl.o2pro.rootless
-Version: 17.2
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl <xuanhua880@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro.rootless_17.2_iphoneos-arm64.deb
-Size: 7914020
-MD5sum: 0c94f509e3696ca7143ede72d0664036
-SHA1: 2c4d12dc20c168ae66c494a7e8ad457423700485
-SHA256: e476b807ff9b497d409ecf1b108acf71baa551855295e3482ad6ba5af0c18c79
-Section: 插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl <xuanhua880@gmail.com>
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2Pro
 
 Package: xiaochouzhenhoutai.wkk
 Version: 0.1.0
