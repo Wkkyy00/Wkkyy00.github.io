@@ -1388,25 +1388,6 @@ Name: ClassicFolders3
 
 Package: com.classicfolders3
 Version: 3.0.6
-Architecture: iphoneos-arm64e
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4312
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./debs/com.classicfolders3_3.0.6_iphoneos-arm64e.deb
-Size: 6684200
-MD5sum: f982210444b86a171d8a1069755607b8
-SHA1: 7c54cc8f600971b3bfacaed364d09c82feeea7b1
-SHA256: 33e85623c6a0abf8073546e13ef2ada74b35aabb080fead6cfe141fee35dbf8f
-Section: 插件
-Description: 经典文件夹。备份。
-Author: CoolStar & Lizynz
-Icon: https://s1.imagehub.cc/images/2025/01/02/eb29da5122d8d5215c728f1464880b8a.png
-Name: ClassicFolders3
-
-Package: com.classicfolders3
-Version: 3.0.6
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4312
