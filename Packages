@@ -1238,6 +1238,24 @@ Author: CoolStar & Lizynz
 Icon: https://s1.imagehub.cc/images/2025/01/02/eb29da5122d8d5215c728f1464880b8a.png
 Name: ClassicFolders3
 
+Package: com.classicfolders3
+Version: 3.0.6
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4312
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./debs/com.classicfolders3_3.0.6_iphoneos-arm64.deb
+Size: 3274636
+MD5sum: 59052a4969ee6ed7ddd9e9dd2d972354
+SHA1: 34651638a7cf8361d166020c19f8c0fbeaa27e46
+SHA256: 28ce1c53b5de23c982cc86a24d32930c58862219ac3fadea185d6256ed5ecdeb
+Section: 插件
+Description: 经典文件夹。备份。
+Author: CoolStar & Lizynz
+Icon: https://s1.imagehub.cc/images/2025/01/02/eb29da5122d8d5215c728f1464880b8a.png
+Name: ClassicFolders3
+
 Package: com.classickeyboardxs
 Version: 1.1-8
 Architecture: iphoneos-arm64
