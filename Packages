@@ -3264,6 +3264,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ通知头像
 
+Package: com.serena.AppIndex
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Filename: ./debs/com.serena.AppIndex_1.0_iphoneos-arm64.deb
+Size: 779168
+MD5sum: b8b0056a05760422a413b8dc4163a055
+SHA1: cf2fac1ea1ca0de5a258ab75699fcc17014ef3f9
+SHA256: 1cbf1e8744fc4422d572158f447e61ee100e8db2294f021793986f01e8a8af88
+Section: Applications
+Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
+Tag: compatible_min::ios13.0
+Author: Serena <hanzikashi@gmail.com>
+Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
+Name: AppIndex
+
 Package: com.settingsrevamp
 Version: 2.1.1
 Architecture: iphoneos-arm64
