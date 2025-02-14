@@ -3262,6 +3262,24 @@ Author: Serena <hanzikashi@gmail.com>
 Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
 Name: AppIndex
 
+Package: com.serena.AppIndex
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.serena.appindex_1.0_iphoneos-arm64e.deb
+Size: 853028
+MD5sum: 7ef95151a5081a16a55155384649683d
+SHA1: ea7c12e047041c981a65f41d78e7a3b9c85d3607
+SHA256: b7af0147abe1cbd3cf1be9e3f8595f1ecbc9c7248d380eafc3788f800fe39ca7
+Section: Applications
+Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
+Tag: compatible_min::ios13.0
+Author: Serena <hanzikashi@gmail.com>
+Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
+Name: AppIndex
+
 Package: com.settingsrevamp
 Version: 2.1.1
 Architecture: iphoneos-arm64
