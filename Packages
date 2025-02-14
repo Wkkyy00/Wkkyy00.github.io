@@ -551,6 +551,25 @@ Icon: https://s1.imagehub.cc/images/2025/01/25/d0f9c9a96bfa7a2dfc2afcda00da0149.
 Name: FirstAppicon
 Sponsor: wkk
 
+Package: com.FirstAppicon
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
+Filename: ./debs/com.firstappicon_0.3_iphoneos-arm64e.deb
+Size: 67702
+MD5sum: 31094adbe798f2f43c1aa715827d1f72
+SHA1: d38b2f834216a3625f3bf69f609b4af4081b9b29
+SHA256: 31b37dfa40e927c0f08b409bacb302bcef085484554499d31444e08f7cf0267d
+Section: 插件
+Description: 显示为文件夹图标为第一个APP图标，无设置项，根据开源重新编译修了一下微小bug，支持无根隐根iOS15-16！
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/25/d0f9c9a96bfa7a2dfc2afcda00da0149.png
+Name: FirstAppicon
+Sponsor: wkk
+
 Package: com.HBWechatHelper.ailun
 Version: 1.7-8
 Architecture: iphoneos-arm64
