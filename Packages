@@ -1556,6 +1556,23 @@ Name: PageDotsBeGone
 
 Package: com.den.locktouchx
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: MrDeNsor <xuanhua880@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.locktouchx_1.0_iphoneos-arm64e.deb
+Size: 14396
+MD5sum: ec60b419f5c60b9ab637eb1bed42ee74
+SHA1: f5dd7981797eaeaa50a22e996c2e62a9387e6478
+SHA256: 5b7fdb7496e6cb6c21c661fa9612ce07c0cf2a310a115721a1fc2519410f6bcc
+Section: 插件
+Description: 3Dtouch按压App呼出加密选项，和ios18一样！
+Author: MrDeNsor <xuanhua880@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/14/20135b2edd20cb6c0c3805be86ceee92.png
+Name: LockTouchX
+
+Package: com.den.locktouchx
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: MrDeNsor <xuanhua880@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
