@@ -745,6 +745,23 @@ Name: AddToFolder
 
 Package: com.anthopak.quickprefs
 Version: 1.3.3
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.anthopak.quickprefs_1.3.3_iphoneos-arm64e.deb
+Size: 528968
+MD5sum: 7794570fce78e49a19fc138ba18ec5a4
+SHA1: 84484381c26140d80accc6c57642f44a44790411
+SHA256: 4568a03b23ae315678c37f6fa3ba224914e5ec7cf761f0b19cf106ff3ca1ec58
+Section: 插件
+Description: 设置里的项目抓取。上架备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Name: QuickPrefs
+
+Package: com.anthopak.quickprefs
+Version: 1.3.3
 Architecture: iphoneos-arm64
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
@@ -1646,6 +1663,21 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.safarix
 Version: 1.3.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.dao.safarix_1.3.0_iphoneos-arm64e.deb
+Size: 298386
+MD5sum: 99064b3de97c659227c59b5caff70455
+SHA1: 0bc191f2444a4b48063a46703daf67f2ac0e6076
+SHA256: e810cb6eb43e6a22244f2a47e908f61260f679d06b12f360396ae9975d545858
+Section: 插件
+Description: Safari多功能增强插件。
+Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
+Name: SafariX
+
+Package: com.dao.safarix
+Version: 1.3.0
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Filename: ./debs/com.dao.safarix_1.3.0_iphoneos-arm64.deb
@@ -1712,6 +1744,24 @@ Author: Wes <wes.hamster@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
 Name: TVLock
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tvlock/js.json
+
+Package: com.daodao.wicellswitcher
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: com.brunonfl.wicellswitcher
+Filename: ./debs/com.daodao.wicellswitcher_1.2_iphoneos-arm64e.deb
+Size: 26946
+MD5sum: b0bff68505f88fa40a10bf69f471f806
+SHA1: 070945b513a911ebb609a54d29c3d89e07be46a0
+SHA256: d4fc6c0941d801a4d1d65acd8d4e9638cd64a47287f6e09ea0bc235488cfa34d
+Section: 控制中心
+Description: WiFi和蜂窝数据之间智能切换，控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi，或者断开连接时触发。Skypain基于i_82修复支持iOS15的源码，编译支持rootless。
+Author: Bruno Andrade <brubiluco@globo.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/65559e36ac987c56556a7ab5daff0665.png
+Name: WiCellSwitcher
 
 Package: com.daodao.wicellswitcher
 Version: 1.2
@@ -3192,6 +3242,25 @@ Description: 后台卡片下滑杀死所有app，个人认为最好用的一款�
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/cf5570aed39475c4a6286b97287fbca1.png
 Name: QuitAll
+
+Package: com.p2kdev.tapticboard
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.p2kdev.tapticboard_1.2_iphoneos-arm64e.deb
+Size: 27630
+MD5sum: 1e7d3bc57771a842856654d4d9099400
+SHA1: cc9ecbdfe20a65cd86d1cafef767fd91baf71667
+SHA256: 0baa743f9e73f4ffd51abb89942bb424aa85031997447dcdc68933e07e76cd02
+Section: 插件
+Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都是震动，
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
+Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
+Name: TapticBoard
 
 Package: com.p2kdev.tapticboard
 Version: 1.2
