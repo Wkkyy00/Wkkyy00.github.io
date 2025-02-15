@@ -2885,6 +2885,24 @@ Name: Cr4shed
 
 Package: com.muteplay
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: uz.ra
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.muteplay_1.0_iphoneos-arm64e.deb
+Size: 5210
+MD5sum: e9d432767ea9b923c8f440acddcb6ce5
+SHA1: e6d8e69a6bf75d4614cecebca9cac4cdd513ab20
+SHA256: 3df8d3100c9bfe16e73c1776686c4ed41b608929b78451bad93e45fccefe773f
+Section: 插件
+Description: 播放音乐时，通知静音。
+Author: uz.ra
+Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
+Name: MutePlay
+
+Package: com.muteplay
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: uz.ra
 Installed-Size: 168
@@ -3379,6 +3397,24 @@ Description: 为小学狗修改的控制中心花里胡哨（其他人勿下载�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/09/cd275ce21eab6ce680528f9a7193d6f5.png
 Name: wkk for 花里胡哨控制中心
+
+Package: com.primalfolder2
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
+Filename: ./debs/com.primalfolder2_0.1.2_iphoneos-arm64e.deb
+Size: 62882
+MD5sum: 1eebde9f51b3a5beeffef985da034f65
+SHA1: 78b317c4bff053ca0bb0043340795c3ad69960e4
+SHA256: 5d89ffae1f2a9bfe6682cd991678737bd02495c265b58637b36706c603d87660
+Section: 插件
+Description: 将文件夹显示为文件夹里第一个app的图标，动画略丝滑，暂无汉化，有设置项，支持无根隐根。（不要和源里的FirstAppicon同时安装！）
+Author: ichitaso
+Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
+Name: PrimalFolder2
 
 Package: com.primalfolder2
 Version: 0.1.2
