@@ -3562,15 +3562,15 @@ Maintainer: SOPPPra
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
 Filename: ./debs/com.settingsrevamp_2.1.1_iphoneos-arm64.deb
-Size: 97548
-MD5sum: 8e176fd676227d2d015493fee4f9f73a
-SHA1: d108b8dd70d2a34f6a081655214e26dfd8b5e813
-SHA256: da4e265a10a22f1bd9d969b212201b7f898b13b89d1d1ec1c1f084e6c3fbff99
+Size: 97684
+MD5sum: f1edf22cefeadb5d9508567ddd904bb8
+SHA1: b2c63a893ccae940216092cb088e115ec1fdd49f
+SHA256: 4807244b3e5fa4cc38428cf7e7005d238c1309fb36a48bfd5960d7cfd08d139c
 Section: 插件
-Description: 归类插件，211版本备份。
+Description: 设置归类插件，211版本备份。
 Author: SOPPPra
 Icon: https://s1.imagehub.cc/images/2025/02/15/c4f2fd60bc7eafadc70f350d5e8e0008.png
-Name: SettingsRevamp(rootless)
+Name: SettingsRevamp
 
 Package: com.sgwc.events
 Version: 1.0
