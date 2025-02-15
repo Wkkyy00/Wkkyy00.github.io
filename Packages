@@ -1625,6 +1625,25 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.
 Name: PurifyLine
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
+Package: com.dao.noline
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: ./debs/com.dao.noline_1.0.1_iphoneos-arm64e.deb
+Size: 5332
+MD5sum: 49199954be964dea0ce7500ab28862f7
+SHA1: 9ef0ae8ce083af9c7955cddf75d06bda08d3718b
+SHA256: 425933f095c151390fbd422033ab6979e7645b43afb4c31967d72b921b4abcb0
+Section: 插件
+Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
+Author: 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
+Name: PurifyLine
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
+
 Package: com.dao.safarix
 Version: 1.3.0
 Architecture: iphoneos-arm64
