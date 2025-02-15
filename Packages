@@ -3962,15 +3962,15 @@ Maintainer: susu
 Installed-Size: 236
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.susu.suawemehook_1.2-4_iphoneos-arm64.deb
-Size: 21764
-MD5sum: 162a78accd4f8246163e558132cf2395
-SHA1: 599d9197aefe161858a8517800de59a34ef56abf
-SHA256: 34a92021683d8ca4a1bbfb9693a149b1c0969fc8be5999dc453e6cd0967d59f5
+Size: 21768
+MD5sum: 8254cfec90c1242731033a6c2395bae8
+SHA1: 1e0eaad006f44a9c1c252eb03c4a3b5b6ec818a6
+SHA256: 66ad3ef2c1b711e49923416e7288954191a9d51adb003eac88bdc6ffc398b089
 Section: 抖音插件
 Priority: optional
 Description: 仅供学习交流。
 Author: susu
-Https: //s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: SuAwemeHook
 
 Package: com.susu.suxhshook
