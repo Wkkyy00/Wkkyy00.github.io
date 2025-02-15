@@ -677,6 +677,22 @@ Name: 黄白助手
 
 Package: com.Wes.ExplosiveIcons
 Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Wes
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wes.explosiveicons_1.1.1_iphoneos-arm64e.deb
+Size: 46450
+MD5sum: 75dad1f3aba8d335ea744bb0765599cd
+SHA1: c34a3b2b96f540cc6b0c068c2f9b75aa689ca953
+SHA256: 645aff6d4843c129d113b9b40db90c629102a0152a7ace77b1500f25f398cbb7
+Section: 插件
+Description: 炫酷吊爆的图标卸载动画，不支持在atria上启用（汉化：lans233）汉化作者源：https://lans233.github.io/
+Author: Wes
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: ExplosiveIcons
+
+Package: com.Wes.ExplosiveIcons
+Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: Wes
 Filename: ./debs/com.Wes.ExplosiveIcons_1.1.1_iphoneos-arm64.deb
