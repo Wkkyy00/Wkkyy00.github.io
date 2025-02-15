@@ -3955,6 +3955,24 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/springanimations.png
 Name: SpringAnimation
 
+Package: com.susu.suawemehook
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-4_iphoneos-arm64.deb
+Size: 21764
+MD5sum: 162a78accd4f8246163e558132cf2395
+SHA1: 599d9197aefe161858a8517800de59a34ef56abf
+SHA256: 34a92021683d8ca4a1bbfb9693a149b1c0969fc8be5999dc453e6cd0967d59f5
+Section: 抖音插件
+Priority: optional
+Description: 仅供学习交流。
+Author: susu
+Https: //s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: SuAwemeHook
+
 Package: com.susu.suxhshook
 Version: 1.0
 Architecture: iphoneos-arm64
