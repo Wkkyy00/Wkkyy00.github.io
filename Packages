@@ -1813,6 +1813,38 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: DisableBottomBarLRSwipe
 
+Package: com.doki.wxkeyboarduihook
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Doki <qiaozhani000@163.com>
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.doki.wxkeyboarduihook_1.6_iphoneos-arm64.deb
+Size: 60948
+MD5sum: c0aa1e39a116e9e838127486c4b408a3
+SHA1: add1dd971925a8d9d56932eb4dc536a4fe43aaae
+SHA256: 25bb993e518fe4cb70289ae90c7e9bf135654ede27176bbe8a964b8359a498af
+Section: 微信插件
+Description: 微信输入法自定义，功能如下：启用按键圆角，启用按键边框，启用按钮边框，启用候选字颜色，隐藏顶部左上角Logo，隐藏候选栏末尾分割线。我测试隐根上无效，无根自己测试。
+Author: Doki <qiaozhani000@163.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信输入法自定义
+
+Package: com.doki.wxkeyboarduihook
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: Doki <qiaozhani000@163.com>
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.doki.wxkeyboarduihook_1.8_iphoneos-arm64.deb
+Size: 81400
+MD5sum: ab99ebb788aa4a36fb4f9b6cd8c8fe7f
+SHA1: 1f2d453050ba490e5a91251886693537b00ac107
+SHA256: ffd43cc39372493f8ed512af0ed1574a685367cef7a8a79a3f39c94db05ed06b
+Section: 微信插件
+Description: 微信输入法自定义，功能如下：启用按键圆角，启用按键边框，启用按钮边框，启用候选字颜色，隐藏顶部左上角Logo，隐藏候选栏末尾分割线。我测试隐根上无效，无根自己测试。
+Author: Doki <qiaozhani000@163.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信输入法自定义
+
 Package: com.douyinnoads
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4014,22 +4046,6 @@ Author: xybp888
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信头像旋转
 Sponsor: wkk
-
-Package: com.weixinshurufa
-Version: 1.8
-Architecture: iphoneos-arm64
-Maintainer: Doki <qiaozhani000@163.com>
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.weixinshurufa_1.8_iphoneos-arm64.deb
-Size: 81396
-MD5sum: f792166f42571b040b9a36cd0234533d
-SHA1: 2cbcba85726a390b1e0f0a6bd786189610f88cef
-SHA256: d79fd8ab2919fded0f4759d3c7bd5d6b41b2428d2e9f1fa67e7dd0fc3bbfbd37
-Section: 微信插件
-Description: 微信输入法自定义，功能如下：启用按键圆角，启用按键边框，启用按钮边框，启用候选字颜色，隐藏顶部左上角Logo，隐藏候选栏末尾分割线。我测试隐根上无效，无根自己测试。
-Author: Doki <qiaozhani000@163.com>
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 微信输入法自定义
 
 Package: com.wkk.12306hook
 Version: 1.0
