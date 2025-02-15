@@ -4338,6 +4338,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
 Name: 大众点评NoAds
 
+Package: com.wkk.ersatz
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.ersatz_1.0.1_iphoneos-arm64.deb
+Size: 49160
+MD5sum: 2192a87e49596dedd258dda77b1c806f
+SHA1: 0bfc8ee9e71cc69c671ea30ab205f05f4e1f9097
+SHA256: 14ca396c132839bce6b1d08f59e90e0b9d3130feb3e1e86a19370c119eef542e
+Section: 插件
+Description: 替换设备任意地方的文字（全局），可以用来汉化插件，修改系统信息等等，支持无根隐根。
+Author: Skitty
+Icon: https://s1.imagehub.cc/images/2025/02/15/67cec14b46fce6b77852f3f7eab21597.png
+Name: Ersatz
+Sponsor: wkk
+
 Package: com.wkk.fanqiehook
 Version: 1.0
 Architecture: iphoneos-arm64
