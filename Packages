@@ -2883,6 +2883,23 @@ Author: Muirey03
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Cr4shed
 
+Package: com.muteplay
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: uz.ra
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.muteplay_1.0_iphoneos-arm64.deb
+Size: 3808
+MD5sum: 1e01a3477d8bfdde01b9a7e30e809804
+SHA1: 911aec9bb992fc5871b0273d4aa1f0a1fef10117
+SHA256: 79cb76e4531d3a188b2a1bb9decd510eff8f67792c5d71a99d11dc365d6aa0dd
+Section: 插件
+Description: 播放音乐时，通知静音。
+Author: uz.ra
+Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
+Name: MutePlay
+
 Package: com.nahtedetihw.doodle
 Version: 1.2
 Architecture: iphoneos-arm64
