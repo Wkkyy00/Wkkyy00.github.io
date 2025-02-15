@@ -3380,6 +3380,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/09/cd275ce21eab6ce680528f9a7193d6f5.png
 Name: wkk for 花里胡哨控制中心
 
+Package: com.primalfolder2
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
+Filename: ./debs/com.primalfolder2_0.1.2_iphoneos-arm64.deb
+Size: 51028
+MD5sum: 9ce7ca3be179493073b41d3d0918b3d4
+SHA1: 73a444c390ca1f7933c3e3e15f4e300414701e8c
+SHA256: b21c20e622511c908a7932542aad2e2974508d6a35db9a009519efacbb923ecb
+Section: 插件
+Description: 将文件夹显示为文件夹里第一个app的图标，动画略丝滑，暂无汉化，有设置项，支持无根隐根。（不要和源里的FirstAppicon同时安装！）
+Author: ichitaso
+Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
+Name: PrimalFolder2
+
 Package: com.pullclearnc
 Version: 1.1-8
 Architecture: iphoneos-arm64
