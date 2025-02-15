@@ -541,6 +541,24 @@ Name: 移除小部件背景
 
 Package: com.82flex.singlemute
 Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 380
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlemute_1.5_iphoneos-arm64e.deb
+Size: 28974
+MD5sum: d5d433ac8786aa3753ec22a105749f54
+SHA1: 6dc51757cf1afec39eef140366551157498475b0
+SHA256: c4064c7fc027f2905f8a05bfa28335c2184e86e5e5186605a2066caecfd5fd8b
+Section: 插件
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://susubaby.top/images/Singlemute.png
+Name: Single Mute
+
+Package: com.82flex.singlemute
+Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 380
@@ -555,6 +573,24 @@ Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
 Icon: https://susubaby.top/images/Singlemute.png
 Name: Single Mute
+
+Package: com.82flex.singlevpn
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.5_iphoneos-arm64e.deb
+Size: 35408
+MD5sum: a0d0114293da0b6ccc1febe563bd7673
+SHA1: 88252a0a5bae0cb05f2bbe03a7a0dddf637c728a
+SHA256: 9455e2ac6f6595714bff0da96a8b863e020133436127e289bad956b13a146b63
+Section: 插件
+Description: 自定义连接vpn时的wifi/数据颜色，新增连接热点颜色。
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Single VPN
 
 Package: com.82flex.singlevpn
 Version: 1.5
@@ -2680,6 +2716,24 @@ Name: PullOver Pro Hide
 
 Package: com.lclrc.recordanywhere
 Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64e.deb
+Size: 6224
+MD5sum: 8608222a85959a0c251a2532105341c5
+SHA1: e828ddb325929b7188af0e5335e9e8074774e673
+SHA256: d3db0cfc86ae08c7ce7e8482aae6fe0b67f773be8d273329fe9e78995f28d2c9
+Section: 插件
+Description: 使手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc
+Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
+Name: RecordAnywhere
+
+Package: com.lclrc.recordanywhere
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: Muirey03 & lclrc
 Installed-Size: 168
@@ -4026,6 +4080,25 @@ Name: StoreSwitcher 2
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: sunshinesong
+Installed-Size: 5484
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64e.deb
+Size: 4476638
+MD5sum: 5808f80ff122c351ed1d26c2616aeac2
+SHA1: 3d444979a6cea99c119ce4060626940c83ae806f
+SHA256: e346176f9aa9ff479ea368e50cb2881eee4ae8f438d7600a3e04289d26d5590e
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。（我可以用的备份版本，也是付费版，没付费用不了）
+Author: sunshinesong
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.4.0
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 5484
@@ -4515,6 +4588,24 @@ Description: 键盘底部增加：全选，复制，粘贴等按钮，支持iOS1
 Author: udevs
 Icon: https://s1.imagehub.cc/images/2025/02/16/70da186c338dbef6e9af2fd730a997d4.png
 Name: DockX
+
+Package: com.udevs.vpnindicator
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: udevs, squidforce
+Installed-Size: 420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.udevs.vpnindicator_1.2.0_iphoneos-arm64e.deb
+Size: 68792
+MD5sum: 36ae4be96515ac4734f4e4ebc0dc36dc
+SHA1: 8993a67057663c281f1b5a12c7ff3ab777169431
+SHA256: 440f912e75b889e36617d551dc4f684a481593c5500d17078fe7b3d790fbfe4c
+Section: 插件
+Description: 打开vpn时wifi或者数据变色。
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator
 
 Package: com.udevs.vpnindicator
 Version: 1.2.0
