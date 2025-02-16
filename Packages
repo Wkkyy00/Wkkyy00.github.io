@@ -282,6 +282,24 @@ Name: 音乐旋转
 
 Package: codes.aurora.kayoko
 Version: 2.7
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.7_iphoneos-arm64e.deb
+Size: 173984
+MD5sum: 3deded6809d7fc561bc6b1f14c85f7c8
+SHA1: 4ee5db06eb8227e4c868f81028415dcc0d4b5c66
+SHA256: 941b84e3dc966f0c209adf1061c9b09eafa51a5d04d89601332dddcffae80b5c
+Section: 插件
+Description: 乌龙工作室修复维护支持ios16。剪贴板插件完全免费。上架备份。
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
@@ -1556,6 +1574,23 @@ Author: Netskao <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
 Name: ClassicKeyboardXS
 
+Package: com.classickeyboardxs
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.classickeyboardxs_1.1-8_iphoneos-arm64e.deb
+Size: 335724
+MD5sum: 52479c2aa00cae3a8079e35f0d7661c1
+SHA1: 6a443e3b8f4ff1cf94084f269270b74895d7824c
+SHA256: 039a1cda8fcffbc44083042a888af954fe27d216b3dc8a45f52abbf5400bb764
+Section: 插件
+Description: 自定义键盘高度。上架备份。
+Author: Netskao <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
+Name: ClassicKeyboardXS
+
 Package: com.cozybadges
 Version: 2.1
 Architecture: iphoneos-arm64
@@ -2592,6 +2627,25 @@ Description: 控制底部横条的大小。
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/09/59f7a3ea1b9bcc61d0f9743d956795fa.jpeg
 Name: HomeBarSizer
+
+Package: com.immortalizer
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: sergy & daodao
+Installed-Size: 660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: ./debs/com.immortalizer_2.0.1_iphoneos-arm64e.deb
+Size: 65798
+MD5sum: c48380aeb5fca20dd242f78d92b57fe5
+SHA1: 1156252bed0d765d375008454a6cb3f580037c98
+SHA256: dedacc02d337f820ae42aff568e7b693996a33198bc72c08b0a66abcf2bf8890
+Section: 插件
+Description: 可将应用置于前台，达到「真后台」效果，应用图标长按菜单——开启/禁用「真后台」，CC模块控制，需先打开要控制的app，然后点击模块，根据开源重新编译。
+Author: sergy
+Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
+Name: Immortalizer真后台
 
 Package: com.immortalizer
 Version: 2.0.1
@@ -4358,6 +4412,26 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/c7ce195dbe0e70c59b617132dc0f6256.
 Name: PadSwitcher - iPad多任务
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
 
+Package: com.swing.padswitcher
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: SWING
+Installed-Size: 368
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/com.swing.padswitcher_1.1.0_iphoneos-arm64e.deb
+Size: 31818
+MD5sum: 6f8a3e778314f3aaeaace88550acedc8
+SHA1: 20098fd1f789cb9f2cb481d12d825b98f7fa8ed8
+SHA256: a7363ccb675b7f3b07db0a57b3a08e14966e83bc9ed5a4eba37a11c5670dd17c
+Section: 插件
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
+Icon: https://s1.imagehub.cc/images/2025/01/02/c7ce195dbe0e70c59b617132dc0f6256.png
+Name: PadSwitcher - iPad多任务
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+
 Package: com.swipedownscreenshot
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4617,6 +4691,25 @@ Size: 421208
 MD5sum: c3afae82c4269120687b6d588063e0e0
 SHA1: 6d1f01f1b1419ee905417813dc6ab536a0966cfe
 SHA256: 68f80f05af8fd47db1ca6d43ac0c26839b34a554028b6161c08b076820ff1b88
+Section: 插件
+Description: 键盘底部增加：全选，复制，粘贴等按钮，支持iOS15-16无根隐根，仅备份。
+Author: udevs
+Icon: https://s1.imagehub.cc/images/2025/02/16/70da186c338dbef6e9af2fd730a997d4.png
+Name: DockX
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 2068
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64e.deb
+Size: 598548
+MD5sum: 9c78c68f7627c357e8bede4cc029a83e
+SHA1: 3797c374abeeff9f28fdb0cf28efa9adbb8b47cd
+SHA256: f48b03358d3893e9e2082c06bfd1ce2881708d2f16561248142a777da8a7a7cf
 Section: 插件
 Description: 键盘底部增加：全选，复制，粘贴等按钮，支持iOS15-16无根隐根，仅备份。
 Author: udevs
@@ -6270,6 +6363,25 @@ Size: 233856
 MD5sum: 1e308e73c277b53ce7db3a4e9731da00
 SHA1: ad8ba56cc8ec692de2707b6bd82805acc559ff4b
 SHA256: 12e3067dcfc7b47d4b80804b2c8e1fc00e81ff9a4e40969e57349829cc824420
+Section: 应用程序
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://susubaby.top/images/CocoaTop.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64e.deb
+Size: 307366
+MD5sum: b6f3584b2a5063cd27bf1a62e5bba2c6
+SHA1: 0cb38ee45fa17c6b7b88dd90117db93c8d323d47
+SHA256: 5afd2b6a0b41372b0cd10fba5f3e335c9b97e00517c53ad26b5b2a798983734c
 Section: 应用程序
 Description: Process Viewer for iOS
 Author: Domo <domo@rambler.ru>
