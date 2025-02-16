@@ -2326,6 +2326,25 @@ Author: Kritanta
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/gravitation.png
 Name: Gravitation
 
+Package: com.hapticsleep
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 173
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.hapticsleep_1.0.1.deb
+Size: 3636
+MD5sum: dabeff7580d8ee6589ecc08166f83584
+SHA1: 73dd98445fdd09a761ae3dfd2f5410d209d3cd40
+SHA256: 2e67ce89853fec9f9cbb28ab085504839e9421e0ed5f6782472cf843c9a87b07
+Section: 插件
+Priority: optional
+Description: 锁屏的时候震动一下，无设置项，支持无根隐根。
+Author: <lucaluca86@aol.com>
+Icon: https://s1.imagehub.cc/images/2025/02/16/645bce926562f373e092158d903db4ce.png
+Name: HapticSleep
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.hauncundaochu
 Version: 1.0
 Architecture: iphoneos-arm64
