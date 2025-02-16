@@ -370,6 +370,23 @@ Name: CCDND
 
 Package: com.0xkuj.lockeddnd.rootless
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.lockeddnd.rootless_1.0_iphoneos-arm64e.deb
+Size: 6428
+MD5sum: 9220b9d09c0d32c26228d5f9bb165027
+SHA1: a58dc56673ace812e7a358ab03741a47d3c931a8
+SHA256: b31d90b2308198be4c931601b224206e6eadc611f7d46e9fd051f247298df567
+Section: 控制中心
+Description: 设备锁定时激活DND，解锁后禁用
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
+Name: Locked DND
+
+Package: com.0xkuj.lockeddnd.rootless
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Installed-Size: 168
@@ -1778,6 +1795,24 @@ Author: Ivano Bilenchi
 Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
 Name: iCleaner Pro
 
+Package: com.dao.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: ./debs/com.dao.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 2758880
+MD5sum: 006ed20a763db657406a76f9aeb5939e
+SHA1: 7d2916aa0c6415d39cac6baf179136e595c5b4db
+SHA256: 1982184a28ea63439127533c0f04482dfebdd457b4a01e0a62b8a68c800efff3
+Section: 应用程序
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文。
+Author: Ivano Bilenchi
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
+Name: iCleaner Pro
+
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -2351,6 +2386,23 @@ Size: 1194920
 MD5sum: b14443dc2b4a8daf0b0054b4c1944433
 SHA1: 7d05ae931071bafd11eb395be4a1558142252dc4
 SHA256: ce7a1248de11ce881cc7fbf2b4a159c192f5e6719c60821739675ae5cf31b26a
+Section: 插件
+Description: 改变您的iOS体验，这是声音定制的终极调整，允许您轻松地根据自己的喜好更改各种系统声音，可以个性化：锁定声音，解锁声音，截图声音，充电声音。点击应用程序图标声音。调高音量，降低音量的声音，提升您设备的听觉体验，让其真正属于您！
+Author: Hitori <xuanhua880@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hikari
+
+Package: com.hikari
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.hikari_1.0.8_iphoneos-arm64e.deb
+Size: 1210390
+MD5sum: ca39fc73321a5edae04dd408e35fa899
+SHA1: 11e4edb37c19cc42d40c926100f03405d395b00d
+SHA256: 3ad94dbaaa5d8cbf948e7f6550d7cfec074a00d44665f4cdad5790f5e1580443
 Section: 插件
 Description: 改变您的iOS体验，这是声音定制的终极调整，允许您轻松地根据自己的喜好更改各种系统声音，可以个性化：锁定声音，解锁声音，截图声音，充电声音。点击应用程序图标声音。调高音量，降低音量的声音，提升您设备的听觉体验，让其真正属于您！
 Author: Hitori <xuanhua880@gmail.com>
@@ -3745,6 +3797,26 @@ Description: 自定义控制中心中模块的大小。
 Author: Hitori
 Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
 Name: Centra
+
+Package: com.sini.lazycursor
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 385
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.sini.lazycursor_1.0.3_iphoneos-arm64e.deb
+Size: 44354
+MD5sum: 478b4d76fbddbe25d4f16d3347b7375b
+SHA1: 5b3904ee74826235e441f64f140f211ca19b4464
+SHA256: 0bd6094a2670bf2c43650191bcd5408c5b0d4883b3e65da76b20f7285197ac95
+Section: 插件
+Priority: optional
+Description: 光标移除闪烁动画，自定义光标颜色。
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
+Name: LazyCursor
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.sini.lazycursor
 Version: 1.0.3
