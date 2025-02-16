@@ -660,6 +660,22 @@ Author: Beanbuns
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音豆包助手
 
+Package: com.BeanbunsHelpers.DB
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Filename: ./debs/com.BeanbunsHelpers.DB_1.0-3_iphoneos-arm64.deb
+Size: 456972
+MD5sum: 43d6e478865774e1e40853f405f61a4a
+SHA1: 2a8caa9071a54489a7fa13ff9afbc6d4502a2424
+SHA256: 7c8a68e752ec1c87a174ab9aabe65f2dc29e71d720f8f98ff5d63fc546f0e509
+Section: 抖音插件
+Description: 仅供学习交流，设置入口在抖音设置内，测试版本：33.0.0
+Author: Beanbuns
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音豆包助手
+
 Package: com.FirstAppicon
 Version: 0.3
 Architecture: iphoneos-arm64
