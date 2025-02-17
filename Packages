@@ -4491,6 +4491,24 @@ Author: susu
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: SuAwemeHook
 
+Package: com.susu.suawemehook
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.2-8_iphoneos-arm64.deb
+Size: 22992
+MD5sum: 3b8188fd46eb990e96b686ed9759287a
+SHA1: 201102ff16e1ff7216f5debe37710b8024d46982
+SHA256: 2b79165ea41e7243f76198a2ebb12c18d46bf77dc523cdc0ad2d014eaedfe31d
+Section: 抖音插件
+Priority: optional
+Description: 仅供学习交流。
+Author: susu
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: SuAwemeHook
+
 Package: com.susu.suxhshook
 Version: 1.0
 Architecture: iphoneos-arm64
