@@ -2448,25 +2448,6 @@ Author: Hitori <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hikari
 
-Package: com.hitori.misaki
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1049
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
-Size: 306010
-MD5sum: ef1edc9b18fbb51d4dfbc975e83e91c1
-SHA1: 519184fb27896871592eb37379b5548cc1db059e
-SHA256: faa4720fe55c2367a130b3cc6325f1e79ab84a71d0f285be244a3d7689727a60
-Section: Tweaks
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: Hitori <mikasa-san@outlook.jp>
-Depiction: https://chariz.com/buy/misaki
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
-
 Package: com.hitori.passtext
 Version: 1.0.1
 Architecture: iphoneos-arm64
