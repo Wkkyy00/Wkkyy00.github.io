@@ -2455,31 +2455,15 @@ Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1049
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
-Size: 306288
-MD5sum: bdf9cef0b276d52056ac747920523ad4
-SHA1: c91495ce15aba87fe1f292babb72c7470856ac44
-SHA256: d541e94fb34411b2270d1b94cc12979020afe0570ac047e26fd65b3cf3139663
-Section: 插件
-Description: 使用Misaki定制您的iOS15和16体验，定制选项，让您的iPhone真正属于您。
+Size: 306010
+MD5sum: ef1edc9b18fbb51d4dfbc975e83e91c1
+SHA1: 519184fb27896871592eb37379b5548cc1db059e
+SHA256: faa4720fe55c2367a130b3cc6325f1e79ab84a71d0f285be244a3d7689727a60
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
 Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
-
-Package: com.hitori.misaki
-Version: 2.2
-Architecture: iphoneos-arm64e
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1049
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64e.deb
-Size: 368694
-MD5sum: 29a8d58f4e08483a9acb04a125ff3385
-SHA1: 968ba39bf641b29b143219f445d1a2ad1967fa71
-SHA256: 9fa55f2e395f58c803c63a1cc2b79de821c6e55e12d88d72417abd36837f518f
-Section: 插件
-Description: 使用Misaki定制您的iOS15和16体验，定制选项，让您的iPhone真正属于您。
-Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki
 
