@@ -5691,6 +5691,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/f7e8524cadd87aea8e3d1915eb4c4e49.
 Name: 一键锁屏
 
 Package: com.yan.stella
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1328
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.stella_1.0.3_iphoneos-arm64.deb
+Size: 664516
+MD5sum: 0aaf59b0de59443b598038d1e1285d5b
+SHA1: 6dd367d77000bb7bb222c9c75393a9d4dd8cf4da
+SHA256: 2bb6bc6f3462c35a436c8d903d0d4e98a6df35222d9fac112d47055349304b46
+Section: Tweaks
+Description: Let it snow on your device!
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Name: Stella
+
+Package: com.yan.stella
 Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: yan
