@@ -865,6 +865,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/3f1ad875e1eccebc5fb4050d5e4f8c32.
 Name: VideoAdsSpeed
 Sponsor: Acreson <342080124@qq.com>
 
+Package: com.aimpro
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.aimpro_1.1.2_iphoneos-arm64.deb
+Size: 2323052
+MD5sum: 885a21bd8fead1e68c0cb26e252ee5ba
+SHA1: d33664fbf298ec45ed109e01e36ac44fcf4eb9f0
+SHA256: e16c03e1a80a92d7c132240d198c9829f7c14951ef889d4f1046d2dbfcc73cd8
+Section: 插件
+Description: ios16样式的时间和日期锁屏。自定义字体，自定义字体大小，定制颜色，位置偏移，对齐日期，自定义字体，自定义字体大小，日期选项（样式：大写、小写、大写、无）小部件，小部件选项，部件颜色位置偏移等。
+Author: alimaulana
+Depiction: k
+Icon: https://axs66.github.io/repo/icon/aimpro.png
+Name: AIM Pro
+
 Package: com.alwaysdark
 Version: 1.2.3
 Architecture: iphoneos-arm64
