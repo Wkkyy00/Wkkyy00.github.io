@@ -192,6 +192,24 @@ Author: pxcex
 Icon: https://s1.imagehub.cc/images/2025/01/09/70ae7dc3552b53574e667238ce5a0a7d.png
 Name: AutoScroll 自动滚动
 
+Package: cn.Bswbw.fixsets
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.Bswbw.fixset
+Filename: ./debs/cn.Bswbw.fixsets_1.1_iphoneos-arm64e.deb
+Size: 36756
+MD5sum: 2f7985c664924bd848907023eb90e441
+SHA1: fe858baa4c3f800d0a5418ea41bb1554c1374964
+SHA256: 00946107f1229b342ffa7e19d81f093486747c2ca2314b68780c18ab7a59424c
+Section: Bootstrap
+Description: 修复部分插件转RootHide配置不保存问题。
+Author: bswbw
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: FixSet
+
 Package: cn.fuckwechatadblocker
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
