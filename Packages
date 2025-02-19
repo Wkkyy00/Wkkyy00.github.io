@@ -5360,10 +5360,10 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Filename: ./debs/com.wkk.logo_1.0_iphoneos-arm64.deb
-Size: 133008
-MD5sum: f78960825e745ad924dcc26e13992141
-SHA1: 5a85ea918388d2d37230368b4d4fa14dd075204e
-SHA256: 799782b06c009add2a49a289075f3e9ae3d441540a51708379f50d91e76e3fb6
+Size: 94428
+MD5sum: 69937b3acffda325c7698b5d09dc9b1c
+SHA1: e68baacad47e96b90e8a4ff943b2d7da41b407cf
+SHA256: f7ab2d2178c40a46f95773c2d5ea84d8768c010dcbc9cf58bbc7474a36bc2568
 Section: 插件
 Description: 仅支持ios15-16无根越狱，替换重启用户空间的苹果logo为蜡笔小新（如图标）启发灵感来源与赵楠（虽然早被其他大神开发）还是发出来给兄弟们玩。可以加qq群828308356找我要logo制作终端改为自己的喜欢的logo或图片。
   * 苹果启动logo路径：/System/Library/PrivateFrameworks/ProgressUI.framework
