@@ -6154,6 +6154,41 @@ Author: Soh Satoh
 Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
 Name: FreePIP
 
+Package: jp.soh.freepip
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jp.soh.freepip_0.0.4_iphoneos-arm64.deb
+Size: 4980
+MD5sum: 6cd78423167662ab60bf2a89c758c406
+SHA1: 765e5609fff3e58efa698b8afb25d4753c029d81
+SHA256: 3750efe92ac3a14ad1d00d080430da2db00d85e8fd7f0300d50cea61b4a35c95
+Section: 插件
+Description: 解锁画中画限制，双指随意放大，无设置项。
+Author: Soh Satoh
+Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
+Name: FreePIP
+
+Package: jp.soh.freepip
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Soh Satoh
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jp.soh.freepip_0.0.4_iphoneos-arm64e.deb
+Size: 6700
+MD5sum: 123c0c09353c001fe0f7d9df028a9e59
+SHA1: b104cc1fb80d00686bcef3efd7ff3903488a1462
+SHA256: ef46297643a0cbeb2cde76648717539d4d3fde0416ed30d30012fd9c90791be5
+Section: 插件
+Description: 解锁画中画限制，双指随意放大，无设置项。
+Author: Soh Satoh
+Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
+Name: FreePIP
+
 Package: jp.uzra.getdown
 Version: 1.0
 Architecture: iphoneos-arm64
