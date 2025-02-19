@@ -5355,6 +5355,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 关于源（空包仅浏览）
 
+Package: com.wkk.logo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.logo_1.0_iphoneos-arm64.deb
+Size: 133008
+MD5sum: f78960825e745ad924dcc26e13992141
+SHA1: 5a85ea918388d2d37230368b4d4fa14dd075204e
+SHA256: 799782b06c009add2a49a289075f3e9ae3d441540a51708379f50d91e76e3fb6
+Section: 插件
+Description: 仅支持ios15-16无根越狱，替换重启用户空间的苹果logo为蜡笔小新（如图标）启发灵感来源与赵楠（虽然早被其他大神开发）还是发出来给兄弟们玩。可以加qq群828308356找我要logo制作终端改为自己的喜欢的logo或图片。
+  * 苹果启动logo路径：/System/Library/PrivateFrameworks/ProgressUI.framework
+  * 注意：先挂载启动logo路径再下载此插件，Dopamine里重启Springboard，再重启用户空间即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.jpeg
+Name: 重启用户空间启动logo
+
 Package: com.wkk.ocd5
 Version: 5.4.1.0
 Architecture: iphoneos-arm64e
