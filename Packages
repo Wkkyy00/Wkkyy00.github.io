@@ -747,6 +747,23 @@ Author: Beanbuns
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音豆包助手
 
+Package: com.Doki.kbstyle
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Doki
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.Doki.kbstyle_1.1_iphoneos-arm64.deb
+Size: 33132
+MD5sum: 56ebfd2b08b663c16a81f461b962403b
+SHA1: f0e1b4c41673170c69b07c88bc210797e32afead
+SHA256: 83dc691d0c067e81c3944c5bd8086bfc4ebdcc08ae77774ae144e0f0a23dd962
+Section: 插件
+Description: 自定义微信输入法的背景颜色。支持无根隐根。
+Author: Doki
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 微信输入法DIY颜色
+
 Package: com.FirstAppicon
 Version: 0.3
 Architecture: iphoneos-arm64
@@ -3871,6 +3888,43 @@ Description: 将文件夹显示为文件夹里第一个app的图标，动画略�
 Author: ichitaso
 Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
 Name: PrimalFolder2
+
+Package: com.ps.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64e.deb
+Size: 4410
+MD5sum: a7f47dc3eb4947119eb0899d2867ad6c
+SHA1: 2107bfc33ace17992bb4b3bda2b282c8ffe4ce01
+SHA256: 8d712a958e0954bdee9070b459c59fc785f82a67397173ed7349e46bf3e7168d
+Section: Tweaks
+Description: 仿Office 2013的输入光标
+Author: PoomSmart
+Icon: https://www.susubaby.top/images/smoothcursor.png
+Name: SmoothCursor (iOS 13+)
+
+Package: com.ps.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64.deb
+Size: 3156
+MD5sum: eabb55cd2f1e2f3d60cef5c089d90bdf
+SHA1: 77fc0d3c9c949cac4570301d0dbb82b7aa84d064
+SHA256: 63a7c7e076f9b0d4592265c3d62d3ce6f2acac5a0dfe24e43947bedf3f727d82
+Section: Tweaks
+Description: 仿Office 2013的输入光标
+Author: PoomSmart
+Icon: https://www.susubaby.top/images/smoothcursor.png
+Name: SmoothCursor (iOS 13+)
 
 Package: com.pullclearnc
 Version: 1.1-8
