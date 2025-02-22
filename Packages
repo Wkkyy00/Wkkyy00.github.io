@@ -3392,6 +3392,24 @@ Name: NoWidgetLabels
 Someotherentrytocontrol: True
 Tags: compatible_min::ios14.0, compatible_max::ios16.2
 
+Package: com.nahtedetihw.stepup
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Filename: ./debs/com.nahtedetihw.stepup_1.2_iphoneos-arm64.deb
+Size: 43308
+MD5sum: 50eec2f73a9d3b6ec48344d51c8f9f99
+SHA1: 6b7ca23d04bdcad19508456451d0028358c7d8fd
+SHA256: f4a232ec3868804948d5f169317836980342f19ea89dd6f2746623a8f0e4bf78
+Section: 插件
+Description: 当你厌倦了长按音量可以把音量调到最大/最小时，此插件可以帮助到你，可以自由定义音量按键值，按一下调到最大/最小等等。
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
+Name: StepUp
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+
 Package: com.netskao.appdata
 Version: 1.4.1
 Architecture: iphoneos-arm64
