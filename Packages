@@ -2818,6 +2818,23 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCNicknameAvatarStyle
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 256
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64.deb
+Size: 36412
+MD5sum: 57d9f217775e73e97968213b91276301
+SHA1: fe74396249ca623e981e7f3e151fc03ced5dc1c8
+SHA256: 5ea369460dfa23922adc17e124c8c10d2d5ff026d06bb91cf2fde1e77abd9076
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCNicknameAvatarStyle
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
