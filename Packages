@@ -2801,6 +2801,23 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/02/06/ec6645362af5f9dda6f90123398eb8c7.jpeg
 Name: kugouNoAD
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 256
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_1.0-2_iphoneos-arm64.deb
+Size: 31000
+MD5sum: f3d9c94053978ebf9c6f6547d023b747
+SHA1: c0e2d2f5360ccbefb685d0e23794f4d2c99e07f0
+SHA256: fbc2f747478bb749f41baef1d0aab4e91628f49224968f6ce9096fdd2b3044f0
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCNicknameAvatarStyle
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
