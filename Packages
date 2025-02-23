@@ -3016,6 +3016,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/6dd1253c7071c3b53f74d5bb2397e6f8.
 Name: 禁用图标移动删除
 Sponsor: wkk
 
+Package: com.k.alpine
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.k.alpine_1.4_iphoneos-arm64.deb
+Size: 601348
+MD5sum: 97499dea68c708d83222a867740d80bc
+SHA1: 8143e7dd35ffcc1743a18400ceff477616596c25
+SHA256: 5f943b1e533e17dc956df3d520e04116fb2eb96160a5e0ab720f33024fd7131f
+Section: 插件
+Description: 系统的弹窗美化。
+Author: MTAC
+Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
+Name: Alpine
+
 Package: com.keyswipe-rootless
 Version: 1.0.2
 Architecture: iphoneos-arm64
