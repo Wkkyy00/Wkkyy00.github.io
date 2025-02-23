@@ -3018,6 +3018,23 @@ Sponsor: wkk
 
 Package: com.k.alpine
 Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: k
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.k.alpine_1.4_iphoneos-arm64e.deb
+Size: 654074
+MD5sum: b9489486c5ed834f99556af50c91b813
+SHA1: 30cf08c0c58a5b10d3b381b4e4e3265d20e1eede
+SHA256: bd9e61ac66b869a765aa97526f971a616b1bc440db31fa055d5077603d0b79d2
+Section: 插件
+Description: 系统的弹窗美化。
+Author: MTAC
+Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
+Name: Alpine
+
+Package: com.k.alpine
+Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: k
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
