@@ -3253,6 +3253,23 @@ Author: b4db1r3
 Icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
 Name: LSTimeSeconds
 
+Package: com.lxcloud.WCEhance
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.0-2_iphoneos-arm64.deb
+Size: 42456
+MD5sum: 3a6268a73361acb0fd4d06ecd49fefc5
+SHA1: 90e86142a0fef4c93678145c7d9f420f8aec6ae1
+SHA256: 2a3df3df06791083c532e4b107f06cba153a1f3cdd19e1b482750dfda6cff55d
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCEhance
+
 Package: com.marie
 Version: 1.0.6
 Architecture: iphoneos-arm64
