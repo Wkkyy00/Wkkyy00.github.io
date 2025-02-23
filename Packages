@@ -250,6 +250,24 @@ Name: FuckWeChatAdBlocker
 
 Package: cn.llld.flexlist
 Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.llld.flexlist_0.0.4_iphoneos-arm64e.deb
+Size: 16054
+MD5sum: 157d7e67bc303c3da0c7e43afd7e1085
+SHA1: 29eb2cf9d584c8f061a78c64c27b2d006f3313ef
+SHA256: ab3ad4a80e9963378d78e0aaf32324cb97df2e904cce0f81f2325d9a0033ec5d
+Section: 插件
+Description: Flexlist,Flexing,Flexible,Flexall等调试工具简体中文包。
+Author: 来了老弟 h_h_x_t
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Flexlist/Flexing汉化
+
+Package: cn.llld.flexlist
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
