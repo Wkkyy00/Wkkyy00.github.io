@@ -2962,6 +2962,29 @@ Dev: ichitaso
 Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
 Name: HideKBSettings
 
+Package: com.ichitaso.iconorder
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Havoc
+Installed-Size: 168
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: ./debs/com.ichitaso.iconorder_1.0.3_iphoneos-arm64.deb
+Size: 8884
+MD5sum: 0210a99bc7f44e1d96ef5832f339a5f7
+SHA1: c6f54e5a65b0b32f3ff3b005f325cefc0c145a84
+SHA256: 26ff841dce53d1ef8cc0579c33260d01d14bdb879ae35e6070ec3cdf9122d2e8
+Section: 插件
+Description: 防止springboard奔溃或者重启时图标乱跑。
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios17.5.1
+Author: ichitaso
+Dev: ichitaso
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: IconOrder
+
 Package: com.ichitaso.ringertoggle
 Version: 0.3
 Architecture: iphoneos-arm64
