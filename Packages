@@ -3049,6 +3049,41 @@ Author: MTAC
 Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
 Name: Alpine
 
+Package: com.k.blurryalerts
+Version: 1.2.2-3
+Architecture: iphoneos-arm64e
+Maintainer: k
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/精美tvos弹窗.deb
+Size: 40566
+MD5sum: 55ac89eab10d1dfdf5703d46bd66bc49
+SHA1: 1c969152b35ae0f82856ac8fa716ffbded2ca2e6
+SHA256: 2e0bc806d60a695fb58ecf67269d4b15f0e30d13c941f6929f910b6b2b2288e7
+Section: 插件
+Description: 精美TVOS弹窗，支持无根隐根。
+Author: SlyFabi
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: BlurryAlerts
+Sponsor: k
+
+Package: com.k.blurryalerts
+Version: 1.2.2-3
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/精美tvos弹窗无根.deb
+Size: 31416
+MD5sum: 3f7bd4c0f3e373a6cdfb2c657a5bf940
+SHA1: 9b8f949586e3fac46715b37bfd1475864e645036
+SHA256: fb0adf0baefe9f8ac0d73c0bf6c1e320177d0fc9f6f8dc97e78f5f56bb6b76ea
+Section: 插件
+Description: 精美TVOS弹窗，支持无根隐根。
+Author: SlyFabi
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: BlurryAlerts
+Sponsor: k
+
 Package: com.keyswipe-rootless
 Version: 1.0.2
 Architecture: iphoneos-arm64
