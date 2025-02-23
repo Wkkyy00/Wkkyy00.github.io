@@ -2224,6 +2224,39 @@ Author: MrDeNsor <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/14/20135b2edd20cb6c0c3805be86ceee92.png
 Name: LockTouchX
 
+Package: com.den.locktouchx
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: MrDeNsor <xuanhua880@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.locktouchx_1.3_iphoneos-arm64.deb
+Size: 22040
+MD5sum: 7dc7c4b8ae4eb129d5f76e9bea6d108e
+SHA1: 0076d2a0b056a4f637f4c688b401a62fa85f61fa
+SHA256: 55ee6ae2af1aaa4a38bf4b765443a7b6de41d017355ec9ff5173c467cc6f23fc
+Section: 插件
+Description: 3Dtouch按压App呼出加密选项，和ios18一样！
+Author: MrDeNsor <xuanhua880@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/14/20135b2edd20cb6c0c3805be86ceee92.png
+Name: LockTouchX
+
+Package: com.den.locktouchx
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: MrDeNsor <xuanhua880@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.locktouchx_1.3_iphoneos-arm64e.deb
+Size: 29882
+MD5sum: 3690bc7eb90c502f8c9b9a81597da8c4
+SHA1: bb698647f7475049dd0a4b9455009831af3316cf
+SHA256: 857a4608e163e058bf4e3a12553d0d1abc6930cf7104eeaec9527058b590acff
+Section: 插件
+Description: 3Dtouch按压App呼出加密选项，和ios18一样！
+Author: MrDeNsor <xuanhua880@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/14/20135b2edd20cb6c0c3805be86ceee92.png
+Name: LockTouchX
+
 Package: com.disablebottombarlrswipe
 Version: 1.1-2
 Architecture: iphoneos-arm64
