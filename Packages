@@ -255,12 +255,12 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/cn.llld.flexlist_0.0.4_iphoneos-arm64.deb
-Size: 11752
-MD5sum: 7c4d9b392359ef5d023304ca2c5b195e
-SHA1: e2965f8406d97622872851670cda1b9371b6c2de
-SHA256: 1f787aa5d7331ab34cad790294ac315323b2989280118f138909df8f1bf69963
+Size: 11832
+MD5sum: 81998c81c46cecef70de89c7fbbc6519
+SHA1: 26f56c834d5d05237b3038a23c71e2886f7f8433
+SHA256: a3ccb31d833b4fb609629bceed724954eb58e491c42d55462cfcdb2a829bdade
 Section: 插件
-Description: Flexlist，Flexing,Flexible,Flexall等调试工具简体中文包。
+Description: Flexlist,Flexing,Flexible,Flexall等调试工具简体中文包。
 Author: 来了老弟 h_h_x_t
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Flexlist/Flexing汉化
