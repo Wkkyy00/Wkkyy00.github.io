@@ -13,6 +13,27 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/09/50f13052de797c8187cc25e41877fee3.png
 Sponsor: wkk
 
+Package: MikotoHelper
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: MikotoHelper
+Replaces: MikotoHelper
+Provides: MikotoHelper
+Filename: ./debs/MikotoHelper_1.3.6_iphoneos-arm64.deb
+Size: 20879612
+MD5sum: ed95db4bc45a1934aacd5c1879f2aa27
+SHA1: e21a0ae8d4d87e50fa614bbea796ec98af6ef3d0
+SHA256: f69a7b0b2588a65d91f71e9e6dad22eb03cee2166d05b7ed8a7163fa4c0577d5
+Section: 微信插件
+Priority: optional
+Description: MikotoHelper
+Author: Mikoto
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: MikotoHelper
+
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
