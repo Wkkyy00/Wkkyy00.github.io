@@ -5464,38 +5464,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
-Package: com.wkk.Assets.carjieya
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.Assets.carjieya_1.0_iphoneos-arm64.deb
-Size: 6012
-MD5sum: 3dc14c609b455004d3442f659d095c43
-SHA1: ac7f4394f838e465cd3f40dd537e7a7a23daeebd
-SHA256: fb65aea283eeff61df1db9c20659f978f32dd853bb7fb9ed3edde83734e89002
-Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/目录下（解压Assets.car.sh）自行使用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Assets.car文件解压终端
-
-Package: com.wkk.SwipeExtenderX
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SwipeExtenderX_1.0_iphoneos-arm64.deb
-Size: 6460
-MD5sum: fd3a7efeee69ac925eae6d07b9f70d82
-SHA1: 0d9fa67c75705a0adb56905ba36ee1c0b4f067f9
-SHA256: 1c970ee509397368006704b5c3f44bc2e39c090d990be96e403fc0c58e4ee085
-Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/目录下，自行使用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: SwipeExtenderX配置
-
 Package: com.wkk.WeChatmiaobian
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5512,22 +5480,6 @@ Description: 为文本输入框和长按内容边框添加描边，我已添加�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatStroke
-
-Package: com.wkk.atriapeizhi
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.atriapeizhi_1.0_iphoneos-arm64.deb
-Size: 6776
-MD5sum: b2823a5cff7648b6e6b6e963be483a54
-SHA1: c1252d38898653b67f4263763ca62f30fa281999
-SHA256: bc8216023a54cb132c0b89e59bbc13b98b260522db5324e60e77a6eb9241ec32
-Section: 插件配置
-Description: 这是我个人Atria插件的五图标配置，给不会设置的小伙伴方便。下载后文件在目录/var/mobile/Documents/Atria五图标配置.zip 解压后自行导入Atria食用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Atria五图标配置
 
 Package: com.wkk.baiduwangpanhook
 Version: 1.0
@@ -5668,22 +5620,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/92c71257062850129b513726de475e60.png
 Name: 番茄小说NoAds
 
-Package: com.wkk.floatingViewpeizhi
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.floatingViewpeizhi_1.0_iphoneos-arm64.deb
-Size: 6594784
-MD5sum: 897fc58922d91c1e8a23ba83baafa484
-SHA1: ae188516667e036abeeed100b779dd94c76dd50c
-SHA256: de2bb8d9a64d5f7414c68271cacd58e133c3d5dcec7e536d314da8f901432ce8
-Section: 插件配置
-Description: 个人floatingView分屏的备份。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: floatingView设置备份
-
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5700,22 +5636,6 @@ Description: 去开屏和部分豆腐块广告，测试版本：15.09.1
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
 Name: 高德地图NoAds
-
-Package: com.wkk.guazai
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.guazai_1.0_iphoneos-arm64.deb
-Size: 3018104
-MD5sum: bacd8bc13bf003ed25806d690acbf13f
-SHA1: 5551f446200901f9679acc8097e2630fda002e84
-SHA256: da129e6661a305df30cb93bef5e86899edc5fa832491458c0802c328edd56ba1
-Section: 插件配置
-Description: 控制中心1乘1和1乘2的挂载模块与灵动岛录屏写轮眼挂载素材等，下载后文件在目录/var/mobile/Documents/控制中心与写轮眼.zip 本配置包只适合有挂载基础的人，不会挂载的铁汁只能自行搞定（不适合隐根用户，因为替换的路径素材都是无根路径，隐根不嫌麻烦自己一个个改吧）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 控制中心与写轮眼挂载
 
 Package: com.wkk.hitori.misaki
 Version: 2.2
@@ -5833,54 +5753,6 @@ Author: b4db1r3 <nfive060@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: OCD5
 
-Package: com.wkk.onepeizhi
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.onepeizhi_1.0_iphoneos-arm64.deb
-Size: 7916
-MD5sum: 9007d7c407b8a02dd3caef2d7cfe5486
-SHA1: 81ae7026d38e037c8d7b8c33589bc59a03ddf3c7
-SHA256: 497b09de6e7db817469e8d3aae6e033261f4129102648d4723863bedcafea662
-Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/三款onesettings配置.zip 解压后自行导入onesettings食用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: OneSettings配置(三款）
-
-Package: com.wkk.peizhi
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.peizhi_1.0_iphoneos-arm64.deb
-Size: 7572
-MD5sum: e8ba9bcab38eb283d19f304405c87191
-SHA1: 3806edfcf109f64e20dbeaf816b2cfa7a44f41c3
-SHA256: ab84bbe2502ae82495438ef7f8f0f2de8babb257ff358642f8ea1eba8afac0d1
-Section: 插件配置
-Description: 这是我个人FT悬浮汉化插件的配置，给不会设置的小伙伴方便。下载后文件在目录/var/mobile/Documents/FT悬浮汉化配置.zip 解压后自行导入。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: FT配置
-
-Package: com.wkk.peizhisew3
-Version: 3.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.peizhisew3_3.0_iphoneos-arm64.deb
-Size: 32924
-MD5sum: 8cc5ccb9996dcd3e437fd1f9b3529a13
-SHA1: 42025ce337882179a48bc2730624b2df5048001f
-SHA256: 43fa7eff06d2acc07f618db0c034e56e45f328b0a188f866749570faabd8f6e9
-Section: 插件配置
-Description: 直装！直装！直装！五份SquidExtender的配置文件，下载后文件在目录/var/mobile/Documents/SE_backup文件夹内（三份26键，两份9键）下载后打开插件SquidExtender还原备份即可，如果不知道还原哪一份，Filza打开SE_backup目录里有相对应注释。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: SquidExtender配置(五份配置直装)
-
 Package: com.wkk.qichezhijiahook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5897,22 +5769,6 @@ Description: 去开屏广告，测试版本：11.70.9
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/305a48c9773b7d9257998d276c541dbf.png
 Name: 汽车之家NoAds
-
-Package: com.wkk.qinglizhomgduan
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.qinglizhomgduan_1.0_iphoneos-arm64.deb
-Size: 6848
-MD5sum: 3d9c9a36ff924ed8adc4ec37f00e1706
-SHA1: 7629d9ae933f81a288b4593392a65f32b2d09d0d
-SHA256: e192ee77706fb8cc202c0af0d717b2e3bef06062a8618b53a9e1cb97bcbaae57
-Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/目录下（清理终端.sh）先以文本形式打开查看，不要直接点击运行！不要直接点击运行！不要直接点击运行！没效果！打开后的路径（里面路径是我自己的）roothide用户每个人jbroot后缀不一样，需要按照自己的路径填入，每个目录已经标注相对应缓存文件，另外也可以填入其他缓存目录（如app等等，这里不多赘述，如果不会使用，可以加QQ群828308356一起探讨！）无根用户也可以本终端为媒介填入自己经常清理的目录玩耍。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: RootHide插件缓存清理终端
 
 Package: com.wkk.qmxshook
 Version: 1.0
