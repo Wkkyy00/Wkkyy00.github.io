@@ -5532,6 +5532,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.SwipeExtenderX
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SwipeExtenderX_1.0_iphoneos-arm64.deb
+Size: 1512
+MD5sum: 18a8f4c063b29ab7c7b3cfecc1927d14
+SHA1: 316c505e9b11a6f24440a8e1979f36e2a1a80b0b
+SHA256: 638a1be96773208bc142d2957c4b5f315d1f8287815b5c7bd1b1490ce97a2c3c
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/New preset.plist
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SwipeExtenderX配置(自用)
+
 Package: com.wkk.WeChatmiaobian
 Version: 1.0
 Architecture: iphoneos-arm64
