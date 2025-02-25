@@ -5391,6 +5391,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.
 Name: 优雅dock
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.transparentpipgrabber
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: k
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.transparentpipgrabber_0.0.3_iphoneos-arm64.deb
+Size: 6308
+MD5sum: 316d938095c0d92c7906fd2ad065f184
+SHA1: d957da93d83f4a6f72b10a44fe623eadfe451b14
+SHA256: a62397106c5fd83546da3b27b9a410a45ec743683b85b44d9b07b758f8af909b
+Section: 插件
+Description: 将画中画最小化的图标四周的框变为透明并保留箭头。
+Author: Korboy <korboybeats@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: TransparentPIPGrabber
+
 Package: com.tzfzdd
 Version: 1.1
 Architecture: iphoneos-arm64
