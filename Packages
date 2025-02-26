@@ -6011,6 +6011,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/6f21b79a5a8c09efc2635593b5f977d3.png
 Name: 顺丰速运NoAds
 
+Package: com.wkk.singlevpnandmute
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.singlevpnandmute_1.0_iphoneos-arm64.deb
+Size: 48892
+MD5sum: a4610d27b80ad67922aa65dfabc4ffd9
+SHA1: 27853deba5ad292e88a58aca00c65277dca12545
+SHA256: 0190f6c2ce400c6335a65911e9781b866eac7ee936226276a40a9311a61c186a
+Section: 插件
+Description: 自用修改。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/e09d179481fdf3723e11a10232ab32fd.png
+Name: ShadowrocketMute
+
 Package: com.wkk.smartnetwork
 Version: 1.0
 Architecture: iphoneos-arm64
