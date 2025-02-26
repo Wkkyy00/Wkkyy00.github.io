@@ -5671,6 +5671,24 @@ Author: girl
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩
 
+Package: com.wkk.center
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/控制中心自用.deb
+Size: 60264
+MD5sum: 5e450fde8a3650e56d40ebe4b3419abb
+SHA1: 3937b17dd30e1b27df842703c1862e7c65e06747
+SHA256: ee7d05d2647bb1fd26f459fa7c177acd4c9f0ee75d61dba8fe4b6acd9bf6dd02
+Section: 控制中心
+Description: 自用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sponsor: wkk
+
 Package: com.wkk.didihook
 Version: 1.0
 Architecture: iphoneos-arm64
