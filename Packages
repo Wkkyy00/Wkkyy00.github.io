@@ -4726,6 +4726,22 @@ Author: girl
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩
 
+Package: com.wkk.car
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.car_1.0_iphoneos-arm64.deb
+Size: 1024
+MD5sum: f1681f3ec0d0c1f33401f23b16ecb7f1
+SHA1: 3137f4e954258cf75cac6ee289f65217989ba46c
+SHA256: e9d9d7b09a549fd76cc74e10fe40f079304f81e0aea63e65bd45a8c12b7a882d
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/解压Car.sh
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Car解压终端(自用)
+
 Package: com.wkk.center
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4743,6 +4759,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
 Name: wkkCenter
 Sponsor: wkk
+
+Package: com.wkk.cqkjlogo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.cqkjlogo_1.0_iphoneos-arm64.deb
+Size: 1292
+MD5sum: a46e337f4e9a8bfae908ec40f0933672
+SHA1: c20902e881ade314afef0b91ab82babe6dd0adfe
+SHA256: 4585f7c01834b33659bf48797798968ecc9cb042ead50729d532117dc7346f09
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/重启用户空间logo制作.sh
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 重启用户空间logo制作终端(自用)
 
 Package: com.wkk.didihook
 Version: 1.0
@@ -4983,6 +5015,27 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/305a48c9773b7d9257998d276c541dbf.png
 Name: 汽车之家NoAds
 
+Package: com.wkk.qipao
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.qipao_1.0_iphoneos-arm64.deb
+Size: 1668
+MD5sum: c2493086ad7e0c3d3b4e8df9b98cc600
+SHA1: d44730f1002ebc3428f565ee14b5e2cc8cec4d23
+SHA256: cb44b1729058ce7c014edfdd9f5b56396214fe4ead45419433f0a47d63ffc76b
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/气泡制作.sh
+  * 使用方法如下
+  * 我方气泡.png
+  * 对方气泡.png
+  * 红包气泡.png
+  * 运行终端即可
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 红包气泡制作终端(自用)
+
 Package: com.wkk.qmxshook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5016,6 +5069,22 @@ Description: 去QQ音乐开屏广告，测试版本：14.1.0
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
 Name: QQ音乐NoAds
+
+Package: com.wkk.roothidezd
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.roothidezd_1.0_iphoneos-arm64.deb
+Size: 1376
+MD5sum: df70058365afef83b4119333afcfd106
+SHA1: 980ca8a2e2ed52cf5f969adb83b6b3300caed435
+SHA256: 1b1e2ef560b96f62c3adaa2d5dd60ad299ac0d0eb1501a6832528aa87f1b8713
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/清理终端.sh
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 清理终端(自用)
 
 Package: com.wkk.shunfenghook
 Version: 1.0
