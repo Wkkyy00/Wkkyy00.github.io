@@ -5195,6 +5195,26 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.png
 Name: 双指下滑截图
 
+Package: com.swipeshiftcaret
+Version: 1.11
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 183
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader (>= 2.1.0)
+Filename: ./debs/com.swipeshiftcaret_1.11_iphoneos-arm64.deb
+Size: 15216
+MD5sum: 7166f5bee040628e07076b6dda4edddf
+SHA1: 173868d0aab42a99751ca0b085ed1cf18d2e8ec4
+SHA256: 32bd8af6be37e66029c58e3d585f3edab071c0932d449b37387a4f01474b957f
+Section: 插件
+Priority: optional
+Description: 通过手指在空白处滑动控制光标。无设置项。支持无根隐根。
+Tag: purpose::extension
+Author: r_plus <anasthasia.r+swipeshiftcaret@gmail.com>
+Dev: rplus
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SwipeShiftCaret
+
 Package: com.tencent.themebox
 Version: 1.0.8-1
 Architecture: iphoneos-arm64
