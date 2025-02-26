@@ -3268,6 +3268,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: BlurryAlerts
 Sponsor: k
 
+Package: com.k.p2kdev.underdock
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 680
+Depends: mobilesubstrate
+Conflicts: com.restiveconch.actionbar,com.udevs.dockx
+Filename: ./debs/com.k.p2kdev.underdock_1.3_iphoneos-arm64.deb
+Size: 58664
+MD5sum: 3f21ab81254bed407c2c05d41136deb4
+SHA1: 9132a271756fba7a09c0386e7c504ef0279a5382
+SHA256: c04315adf90cab01c7fc75540f1953d93e4db55ec5c8111524bff8f1a42ed393
+Section: 插件
+Description: 键盘底部新增一系列快捷方式小按钮，并非注入到键盘，而是注入到应用，且非所有应用有效。底部快捷方式超过七个会自动替代听写/地球。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: UnderDock
+
 Package: com.keyswipe-rootless
 Version: 1.0.2
 Architecture: iphoneos-arm64
