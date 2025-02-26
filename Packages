@@ -3167,24 +3167,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.
 Name: AppData
 
 Package: com.netskao.appdata
-Version: 1.4.1
-Architecture: iphoneos-arm64e
-Maintainer: Nets
-Installed-Size: 14408
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.appdata_1.4.1_iphoneos-arm64e.deb
-Size: 13992092
-MD5sum: cfed433629b6fce9e83b8f2c4b2434da
-SHA1: 2eefe506905a0dd69ac6cc8b55efaf626e78bb0c
-SHA256: 6c7b0fcba71f79887b2089f7a79a236be5cb4f312106e0c1b51383f1d0cebde0
-Section: 插件
-Description: 备份上架1.4.1版本。
-Author: Fouad Raheb
-Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
-Name: AppData
-
-Package: com.netskao.appdata
 Version: 1.4.4
 Architecture: iphoneos-arm64
 Maintainer: Nets
