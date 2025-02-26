@@ -4827,6 +4827,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.
 Name: Dock显示app名称
 Sponsor: wkk
 
+Package: com.wkk.dyhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dyhook_1.0_iphoneos-arm64.deb
+Size: 2576
+MD5sum: a65aaad7a1cbb2062dd57d24acc081e6
+SHA1: dbed19e0e81e8ed40dcc1565826f5812496a41a5
+SHA256: 9d112f5bbbb0ac4de54acebcbbd297d0387cc94ee184a1ea126a979812528c05
+Section: 去广告
+Description: 抖音只去掉+号，自用。
+  * 源代码：@huami（感谢为爱发电的高中生大佬）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音去+号
+
 Package: com.wkk.dzdphook
 Version: 1.0
 Architecture: iphoneos-arm64
