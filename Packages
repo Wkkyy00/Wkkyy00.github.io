@@ -5086,23 +5086,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 关于源（空包仅浏览）
 
-Package: com.wkk.kongbao999999
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.kongbao_1.deb
-Size: 5888
-MD5sum: e43baa7d1c56265909b76169a0c06942
-SHA1: 2c4a58d2112bcdb1d886361edb63f1771893fd5d
-SHA256: 3b3740d9997b0b429d3293fc1a334893b140e35976c2425be986ead886a9b2b1
-Section: 插件配置
-Description: 1234577
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 测试js
-Sileodepiction: https://github.com/Wkkyy00/SileoDepiction/snapper3.json
-
 Package: com.wkk.logo
 Version: 1.0
 Architecture: iphoneos-arm64
