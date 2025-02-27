@@ -5815,6 +5815,22 @@ Author: P2KDev
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: Tinge
 
+Package: cum.0xilis.hidemyvpn
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snoolie K
+Installed-Size: 168
+Filename: ./debs/cum.0xilis.hidemyvpn_1.0.0_iphoneos-arm64.deb
+Size: 3564
+MD5sum: 8405267fd7cf76545b26adad50793c26
+SHA1: b20fd64211dbb9e8cb955fbc62193292d47e3fda
+SHA256: 07913ea92ad01e37099a40cc4d002dcf0dec6806322577475fb398b9ad78ce36
+Section: 控制中心
+Description: 隐藏状态栏一切vpn，支持无根隐根。
+Author: Snoolie K
+Icon: https://s1.imagehub.cc/images/2025/02/27/b15bc0d82eb3578fcc1afab7a9d2b991.png
+Name: HideMyVPN
+
 Package: denyphotoalbumsllld.rootless
 Version: 9.9.9
 Architecture: iphoneos-arm64
