@@ -5832,23 +5832,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 遮罩集合大全
 Sponsor: bdzt
 
-Package: cpm.wkk.tinge
-Version: 1.2.1
-Architecture: iphoneos-arm64
-Maintainer: P2KDev
-Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn, ws.hbang.alderis
-Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless, xyz.cypwn.tinge
-Filename: ./debs/cpm.wkk.tinge_1.2.1_iphoneos-arm64.deb
-Size: 40940
-MD5sum: 6d48c38d83a84b3b3c216fc17151d7d5
-SHA1: 26b56c4b5c49dddc7a1974a2ec97c7cd9ec024b8
-SHA256: 0be25013fba96fafb5b3b70b1bb904512f52d29f78b15b9779953149ce35d435
-Section: 插件
-Description: 通知角标的自定义。
-Author: P2KDev
-Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
-Name: Tinge
-
 Package: cum.0xilis.hidemyvpn
 Version: 1.0.0
 Architecture: iphoneos-arm64
