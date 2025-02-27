@@ -2087,22 +2087,38 @@ Name: FLEXList(rootless)
 
 Package: com.forsnapper3.wkk
 Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.forsnapper3.wkk_1.0_iphoneos-arm64.deb
+Size: 20560
+MD5sum: 09bc02a71d574e12ef95ce2fa446d72c
+SHA1: 8ef1ebf1a8277d7b79d1e309679f2363e776085c
+SHA256: fa8a659439aaae68a244dff2f75e0eb9b47e0355becd7b4db3ba440e05c29fef
+Section: 插件
+Description: 无根隐根直装，自用款，素材来源于不知名网友，搭配源里的Plugins For Snapper3 使用效果更佳。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: snapper3 自用美化
+
+Package: com.forsnapper3.wkk
+Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
 Filename: ./debs/com.forsnapper3.wkk_1.0_iphoneos-arm64e.deb
-Size: 21652
-MD5sum: 99349940c42fc0eb857d23dd0478a904
-SHA1: 63677383ba7ec6f6c6bf96d6040de1872c56015e
-SHA256: 660ef2a3a6b56b23f91b43679a8c2fa084300b1c0fc8ab1ce6400ad25796e49a
+Size: 22610
+MD5sum: f59ad8eaa6802ab9ebddace6520e6202
+SHA1: 5c8b622ac19d11418ac47f0d3ae6b864c64f7884
+SHA256: 43f4d00eb44a7f040381e09bd414fc10cf3772558291a222faebfd27a6493b9d
 Section: 插件
 Description: 无根隐根直装，自用款，素材来源于不知名网友，搭配源里的Plugins For Snapper3 使用效果更佳。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
 Name: snapper3 自用美化
-Sileodepiction: https://github.com/Wkkyy00/SileoDepiction/Snapper3/js.json
 
 Package: com.gamegod.igg.rootless
 Version: 0.4.5
