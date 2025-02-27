@@ -2137,25 +2137,6 @@ Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.
 Name: Snapper3 自用美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/bcdf49ae36c25188f8833dcdcbf90f5e0f771861/snapper3.json
 
-Package: com.forSnapper3.wkk
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3.wkk_1.0_iphoneos-arm64e.deb
-Size: 21600
-MD5sum: cadb0d87f9ad19f8076aad24b13ef2b5
-SHA1: 9d2a3eddb54368f0ca0d009d4bbf8694d594d529
-SHA256: 3c2a48d67cc3d53468598afa704e182a99692b1dc45859ce3ab4352161400b35
-Section: 插件
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/bcdf49ae36c25188f8833dcdcbf90f5e0f771861/snapper3.json
-
 Package: com.gamegod.igg.rootless
 Version: 0.4.5
 Architecture: iphoneos-arm64
