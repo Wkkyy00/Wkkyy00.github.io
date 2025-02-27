@@ -5345,6 +5345,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/072d22b015ff8d1776fb4d56e7db5721.png
 Name: TikTokHook
 
+Package: com.wkk.tinge
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn, ws.hbang.alderis
+Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
+Filename: ./debs/tinge.deb
+Size: 41000
+MD5sum: 6801e5cfe715e770df2cd57733672907
+SHA1: 59e6d1b17fe33e259a88615140f40441f077dc0a
+SHA256: b57283b1e349bf9135d853870d38cec388d33ec595d7a3e23e22aa7ffbb63817
+Section: 插件
+Description: 角标的自定义。
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/02/28/be49f4669114c22ae28387036babbdfa.jpeg
+Name: Tinge
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Tinge.json
+
 Package: com.wkk.tixingsheng
 Version: 1.0
 Architecture: iphoneos-arm64
