@@ -5086,6 +5086,28 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 关于源（空包仅浏览）
 
+Package: com.wkk.kongbao999999
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.kongbao_1.deb
+Size: 6372
+MD5sum: f1ef77db1ebee45e11aa890eeafef8be
+SHA1: f9e7736d7fa45650e90e486728e7a49b49d97474
+SHA256: 5a7ee6d33bf8bfd1634b6b087340d3f4ba0b7b2f22f8b4ced7cd4183747fe0ba
+Section: 插件配置
+Description:
+  * 源里插件基本都是无根用户方便可直装，隐根用户需要自行转换，大部分插件隐根用户都能转换使用（我亲自都玩过）
+  * 且隐根用户在转换插件前，插件下载目录为.jbroot/tmp目录下（我的一些个人配置或者其他文件同理），可以自行解压查看或使用，源里百分之99的插件我都玩过，安全绿色且无毒，放心使用。
+  * 不会的可以加我QQ1772773799或者QQ群828308356一起探讨。
+  * 建源的初心是为爱发电，共同进步，并不会把用户转换成私人用户索要钱财，除非你自愿付费问问题！
+  * 另外说一点：白嫖的尽头是付费，切记！！
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 测试js
+Sileodepiction: https://github.com/Wkkyy00/SileoDepiction/blob/94a1c96f4dd9d259ba2888691d1ca21196f78ba6/Snapper3/js.json
+
 Package: com.wkk.logo
 Version: 1.0
 Architecture: iphoneos-arm64
