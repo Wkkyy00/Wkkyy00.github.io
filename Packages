@@ -4781,6 +4781,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.SquidExtenderpz
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SquidExtenderpz_1.0_iphoneos-arm64e.deb
+Size: 31734
+MD5sum: 1999c7dce44c1e68f8929d67971f52be
+SHA1: a0bfdbb5a2c9d1a59c761cf82be5bd395e11bbac
+SHA256: 4c473980c1cef1db6ddf5c9f6b95ff7d7e23a9f91af850a1f6ac1f0db53dd711
+Section: 插件配置
+Description: 直装！直装！直装！
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Name: SquidExtender配置
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/SquidExtender.json
+
+Package: com.wkk.SquidExtenderpz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SquidExtenderpz_1.0_iphoneos-arm64.deb
+Size: 27880
+MD5sum: a9ae8f52c8cad1390c2b4491c61a27f3
+SHA1: 1771caa5ee858eba7e3f583cadde0ca9d6384f15
+SHA256: 3574db90e9ce3ec21f36c11e4fe1e28b327f474ad11aae84d4a19bacf40331f4
+Section: 插件配置
+Description: 直装！直装！直装！
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Name: SquidExtender配置
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/SquidExtender.json
+
 Package: com.wkk.SwipeExtenderX
 Version: 1.0
 Architecture: iphoneos-arm64
