@@ -250,6 +250,24 @@ Author: 来了老弟 h_h_x_t
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Flexlist/Flexing汉化
 
+Package: cn.llld.flexlist
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.llld.flexlist_0.0.4_iphoneos-arm64e.deb
+Size: 16058
+MD5sum: f910a3d621f135ebb69690ec3c9f01bc
+SHA1: f78595050631c0bd01d339a70aaca69af0e47e12
+SHA256: 035d97cb7b798ed373c135b25c0777a45efadf214ab9e998d5bf3962ad8581b0
+Section: 插件
+Description: Flexlist,Flexing,Flexible,Flexall等调试工具简体中文包。
+Author: 来了老弟 h_h_x_t
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Flexlist/Flexing汉化
+
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
