@@ -303,6 +303,25 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
 Name: Hello AppData
 
+Package: cn.zqbb.fix120hz
+Version: 3.2.0-1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 940
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debs/cn.zqbb.fix120hz_3.2.0-1_iphoneos-arm64.deb
+Size: 296324
+MD5sum: 5b6c14c5e6dce8bf67b9c0629dcb8972
+SHA1: 4e4eebfd4e264f15a88b10a4fd675e6bc8b0f75c
+SHA256: bded8ecddea93a9bd3d162990280b2a283107dde746957d560f51d07559e47c2
+Section: 插件
+Description: 解锁动态刷新率80hz到120hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+Name: Hello 120Hz
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/120hz.json
+
 Package: cn.zqbb.musicrotation
 Version: 0.0.3
 Architecture: iphoneos-arm64
