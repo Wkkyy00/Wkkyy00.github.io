@@ -5353,14 +5353,14 @@ Maintainer: P2KDev
 Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn, ws.hbang.alderis
 Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
 Filename: ./debs/com.wkk.tinge_1.2.1_iphoneos-arm64.deb
-Size: 40988
-MD5sum: 59b4bdaedfe8ff71331d773244ec7957
-SHA1: aabc4a335b6c7d03a7a356406a56416377dadd6a
-SHA256: e1e9c23ac5b5da4565bd95fd8b25e4c856df50fba810cf7708f55d461a1ea5e8
+Size: 41056
+MD5sum: f392639e0b1d3a6a02c6a858a959efe8
+SHA1: 2eeb88c67c044b8ff3037aeefe098a1a34f3d521
+SHA256: 86ae73e8f3c32512799853188d8e51fe1ff10a617caae03ebfde6b44dd130aaf
 Section: 插件
 Description: 角标的自定义。
 Author: P2KDev
-Icon: https://s1.imagehub.cc/images/2025/02/28/8ea38a8c7d44899bc59baaf2a05e67ab.jpeg
+Icon: https://s1.imagehub.cc/images/2025/02/28/38a5b0741717e85ef57dfc2154f6fd78.jpeg
 Name: Tinge
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Tinge.json
 
