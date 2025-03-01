@@ -2977,14 +2977,33 @@ Maintainer: Crassna
 Installed-Size: 1948
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: ./debs/com.lecard.wuyu_0.1_iphoneos-arm64.deb
-Size: 408940
-MD5sum: b91e82374f71fc66d7afda812c520588
-SHA1: 1f72650f9e4e73e7e88deaae6d8e5becdd5d6467
-SHA256: d607fddf81a94259514e7e051c78c530ce8e145ab036a8996080758d0eb0055a
+Size: 409308
+MD5sum: 7caf532b446edbc52d8d77b8982267a2
+SHA1: a392e04c080bb7ee95551665d152ee43a9491757
+SHA256: 099ca5aeaaf60c4181cb1d7e041267815a54bf22e266a05643e9c5bef705fe2b
 Section: 插件
 Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
 Name: Applecard
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Applecard.json
+
+Package: com.lecard.wuyu
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 1948
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_0.1_iphoneos-arm64e.deb
+Size: 595502
+MD5sum: c0c61728c736e4ced3954f4517d7a934
+SHA1: 7dd5f5571af518b9f479576cc76392913cc44002
+SHA256: f7401972432f3e0ddf2f46041cdbc45b5ac86e0d73aae32a7e3cab2c695c2f96
+Section: 插件
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
+Name: Applecard
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Applecard.json
 
 Package: com.lenglengyu.disableappcreationalbums-rootless
 Version: 0.0.1
