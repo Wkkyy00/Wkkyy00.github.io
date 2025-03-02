@@ -5275,16 +5275,16 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Filename: ./debs/com.wkk.jptext_1.0_iphoneos-arm64.deb
-Size: 15476
-MD5sum: a4ff47dc5587278d8de754efa7783628
-SHA1: 0163b9927c44f22dee70cc91729b81532a7be877
-SHA256: b39cfecaf49cae35f74dfb274337a6650941a2d4d5e2d74748ff0e9933507ac6
+Size: 15468
+MD5sum: 96f7f9d50677181ddfaeaf66c6ce063e
+SHA1: 78f317bfa88a95cba0206936d9c3b5228d7e274d
+SHA256: 7e35914703d5140f6d39b1e7634ee362a0b0321dd525cc5842031b7cab017df9
 Section: Dopamine挂载
 Description: 更改键盘文字。
   * 键盘字路径：/System/Library/TextInput/TextInput_zh.bundle
   * 注意：先挂载路径再下载此插件，Dopamine里重启Springboard，再重启用户空间即可。
 Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/03/02/42f500f95b5633e6011a694165e9dc97.png
 Name: 修改原生键盘上文字
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/keyboardtext.json
 
