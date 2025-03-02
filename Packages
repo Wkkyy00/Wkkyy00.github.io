@@ -4309,6 +4309,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.susu.hidekbsettings
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 404
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.hidekbsettings_1.0.7_iphoneos-arm64.deb
+Size: 24548
+MD5sum: 4a6b19ca8216450c6c9942528580e71d
+SHA1: b5c7621849812a8cdd85184041de937ccd8d8b44
+SHA256: 0c60227659b7e27f3f77688c3e0178925227343a71ff522eda464984076f337e
+Section: 插件
+Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
+Icon: https://www.susubaby.top/images/HidekBSettings.png
+Name: HideKBSettings
+
 Package: com.susu.ios18batteryestimate
 Version: 1.0.1
 Architecture: iphoneos-arm64
