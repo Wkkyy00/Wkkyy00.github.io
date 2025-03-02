@@ -6743,6 +6743,37 @@ Dev: nowesr1
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: PhotosPlus
 
+Package: uncar
+Version: 0.0.1-6
+Architecture: iphoneos-arm64e
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/uncar_0.0.1-6_iphoneos-arm64e.deb
+Size: 8564
+MD5sum: ab6d143bc1e41ed93c3adb89d49a9df8
+SHA1: 30d73b8e359d7127f1bcb3797ec345b92cce9b5f
+SHA256: 6c3f51f31e2e807547f339434e4a3616f6f200152bdee54bd484ea6dbf92714f
+Section: 插件
+Description: 配合解压car使用，用于提取Assets.car
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: uncar
+
+Package: uncar
+Version: 0.0.1-6
+Architecture: iphoneos-arm64
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Filename: ./debs/uncar_0.0.1-6_iphoneos-arm64.deb
+Size: 6588
+MD5sum: 261ef7bec0e1db8eb1e5b1ec60ee7668
+SHA1: d78c5f98ebad0269226b16aa4cb4684ee1294b52
+SHA256: e2cbeb91d04850274abdc40bb6b2c42a75a67c7c7f1373495afc4825d7e3866b
+Section: 插件
+Description: 配合解压car使用，用于提取Assets.car
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: uncar
+
 Package: wiki.qaq.chromatic.rootless
 Version: 3.0-rootless-release-1724937362.2952e67
 Architecture: iphoneos-arm64
