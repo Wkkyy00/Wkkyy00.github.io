@@ -1,14 +1,13 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{356, 158}",
+  "itemSize": "{360, 160}",
   "itemCornerRadius": 10,
   "banners": [
     {
       "url": "https://s1.imagehub.cc/images/2025/01/07/5625f45e68040815b4422451dcec7e50.jpeg",
-      "title": "点我",
+      "title": "点我：友情提示，请挂vpn",
       "package": "com.wkk.kongbao",
       "hideShadow": false,
-      "titleFontSize": 5 // 新增字段，指定文字大小
     }
   ]
 }
