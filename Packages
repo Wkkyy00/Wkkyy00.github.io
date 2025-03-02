@@ -5729,10 +5729,10 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.tixingsheng_1.0_iphoneos-arm64.deb
-Size: 6863560
-MD5sum: b32d1afb1c6f091f1aebf11f5a92355f
-SHA1: e1631152181197dd08af3ada4ece4fe2f2e914a4
-SHA256: 9ecaaa9477fc319a17f74f021311b4cf36de0b400f716de33323059828d96e75
+Size: 6858708
+MD5sum: 114c949d628944b29738139a5f49dcea
+SHA1: e77f0b9389629ea62de4225675ee735913a095be
+SHA256: 372964f27731dfe2f35eb2e618641f53e6dd659444bbbe291b1f1fc4cd6c7aa7
 Section: 插件
 Description: 下载后文件在目录/var/mobile/Documents/精选提醒声.zip 解压后自行食用。
 Author: wkk
@@ -5910,38 +5910,6 @@ Description: 下载后文件在目录/var/mobile/Documents/皮卡丘注销动画
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画1.0
-
-Package: com.wkkyy0.qipao
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkkyy0.qipao_1.0_iphoneos-arm64.deb
-Size: 6532
-MD5sum: 2be68e40ac17c4b3cd30b81decb14acd
-SHA1: 415289348574789a729807cb1ecb06a0d91036d6
-SHA256: 38e490af394bb035e4f6d153efec23612e80e270e49b093a25fb0cf6888fde20
-Section: 微信插件
-Description: 下载后文件在目录/var/mobile/Documents/气泡终端.sh 自行食用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/06/7f804617253aa3dd6438a9b02de33cc1.png
-Name: 微信气泡制作终端1.0
-
-Package: com.wkkyy0.weixinqipao
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkkyy0.weixinqipao_1.0_iphoneos-arm64.deb
-Size: 90208
-MD5sum: 59c814dc113103e2bc53f5cb5904c784
-SHA1: 361d84f4d08c81a04afe549cd39b1ec3d0073d66
-SHA256: c8ec23143774245770793458a133767a955f7bb41ac47594a7d94aa2653acdb0
-Section: 微信插件
-Description: 下载后文件在目录/var/mobile/Documents/红包气泡.zip 解压后结合主题盒子或者微信助手等插件食用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/06/f8b5f882408f89e4f3981df64e1f9e4f.png
-Name: 红包气泡1.0
 
 Package: com.xx.ysbrowserhook
 Version: 1.0.2
