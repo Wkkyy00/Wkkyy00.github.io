@@ -5133,6 +5133,22 @@ Name: wkkCenter
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
 Sponsor: wkk
 
+Package: com.wkk.cqkjlogo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.cqkjlogo_1.0_iphoneos-arm64.deb
+Size: 1292
+MD5sum: a46e337f4e9a8bfae908ec40f0933672
+SHA1: c20902e881ade314afef0b91ab82babe6dd0adfe
+SHA256: 4585f7c01834b33659bf48797798968ecc9cb042ead50729d532117dc7346f09
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/重启用户空间logo制作.sh
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 重启用户空间logo制作终端(自用)
+
 Package: com.wkk.didihook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5254,22 +5270,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
 Name: 高德地图NoAds
 
-Package: com.wkk.hitori.misaki
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.wkk.hitori.misaki_2.2_iphoneos-arm64.deb
-Size: 305984
-MD5sum: 0abe9bcc4b71de971521ba9b14eea4d0
-SHA1: 9f41c3b860682daf6d4418adff90e0787f1e1f3a
-SHA256: bfba1401ebe06c7c6b71fc77a0ea913b9da27c9e32b444002d11e1fc0d2d3f23
-Section: Tweaks
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
-
 Package: com.wkk.jptext
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5336,6 +5336,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: 关于源（空包仅浏览）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kongbao.json
+
+Package: com.wkk.logo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.logo_1.0_iphoneos-arm64.deb
+Size: 94444
+MD5sum: 559655a1ce7389f2b412596d6ac2c55b
+SHA1: 861971480ccf3fbb3d96ebd871a63ab16c5ed206
+SHA256: 60f57af5ab85a34d659df9f87988d1fbe03b64a593af9c4f8474c89e49321a8c
+Section: Dopamine挂载
+Description: 仅支持ios15-16无根越狱，替换重启用户空间的苹果logo为蜡笔小新（如图标）启发灵感来源与赵楠（虽然早被其他大神开发）还是发出来给兄弟们玩。可以加qq群828308356找我要logo制作终端改为自己的喜欢的logo或图片。
+  * 苹果启动logo路径：/System/Library/PrivateFrameworks/ProgressUI.framework
+  * 注意：先挂载启动logo路径再下载此插件，Dopamine里重启Springboard，再重启用户空间即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.jpeg
+Name: 重启用户空间启动logo
 
 Package: com.wkk.ocd5
 Version: 5.4.1.0
@@ -5648,6 +5665,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
 Name: 闲鱼NoAds
 
+Package: com.wkk.xielunyanguazai
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.xielunyanguazai_2.0_iphoneos-arm64.deb
+Size: 16308
+MD5sum: 0bbe52509e27c5a967144c4ff8983800
+SHA1: 11b0b43975e36ba53f823fad8d0de289d9f862d2
+SHA256: 8afee70e7b34721fd79a7a9b53be12baacb05417b34e125ba0ef468853783117
+Section: Dopamine挂载
+Description: 灵动岛录屏写轮眼（仅支持14Pro-14PM IOS16 Dopamine无根越狱）
+  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+  * 注意事项：先挂载上述两个路径，最后再下载此插件即可，重启springboard没有生效，重启用户空间即可，不再需要自备素材（var/jb/Library/Themes/挂载/目录下可以自行更换素材）上述步骤完成后从控制中心呼出录屏即可看到效果。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/18bba91d54fb168ffa46d775d162c100.png
+Name: 灵动岛录屏写轮眼
+
 Package: com.wkk.zhihuhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5664,6 +5699,57 @@ Description: 去知乎开屏广告，测试版本：10.0.0.高版本自测，自
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
 Name: 知乎NoAds
+
+Package: com.wkk.zhuanjixuanzhuan
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0_iphoneos-arm64.deb
+Size: 4084
+MD5sum: ad5448738936b1c33c324283300eb6bf
+SHA1: 2d00e095347e27e9740a71109b2b659efa65953f
+SHA256: 596ee1e7832b4cde0cd847eccfbaf4a716e4975b4b15d7f4301a5ab0f97e3d04
+Section: Dopamine挂载
+Description: 仅支持ios16无根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+  * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
+Name: 灵动岛音乐专辑旋转
+
+Package: com.wkk.zhuxiaoguazai
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.zhuxiaoguazai_2.0_iphoneos-arm64.deb
+Size: 771172
+MD5sum: 5d46177ada33fecf69d1a71579adf716
+SHA1: fec1b3726d5627314c592693d2158d3105735bb7
+SHA256: 707cbaa9501678b9248854b4af52e9f0b973e4894b51e37cb0ee84b0ef579eef
+Section: Dopamine挂载
+Description: 仅支持无根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：支持ios16，我没有ios15设备，ios15自测。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
+Name: 皮卡丘注销动画2.0
+
+Package: com.wkkyy0.pikaqiuzhuxiao
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkkyy0.pikaqiuzhuxiao_1.0_iphoneos-arm64.deb
+Size: 470328
+MD5sum: 0bbc9ae22392a530dbf88964ead1c74a
+SHA1: e6ac40f7f7ebdcfc523f65e09080c2f2725e879e
+SHA256: d6a1818e8db3f4ae84abe0227d0b1f12ab48b4fe4c64ccf3d0a07b45b5e1f531
+Section: Dopamine挂载
+Description: 下载后文件在目录/var/mobile/Documents/皮卡丘注销动画.zip 解压后挂载自行食用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
+Name: 皮卡丘注销动画1.0
 
 Package: com.wkkyy0.qipao
 Version: 1.0
