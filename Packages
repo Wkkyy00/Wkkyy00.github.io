@@ -4360,6 +4360,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/powermenu.png
 Name: PowerMenu
 
+Package: com.susu.powermenu
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.powermenu_1.0.5_iphoneos-arm64.deb
+Size: 33780
+MD5sum: 4c2b31e16d83cd2636fde93d6e34c2d9
+SHA1: 57334c04fbf29d78d9aa12f92cdcb2c924edd4f9
+SHA256: 90739f4f2e1fec01f9aff76caeb7c4e96d2e71ae7b1e959047d501e7bf0d1251
+Section: 控制中心
+Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。原作者 MTAC
+Author: 苏苏
+Icon: https://www.susubaby.top/images/powermenu.png
+Name: PowerMenu
+
 Package: com.susu.reachplayer
 Version: 3.1
 Architecture: iphoneos-arm64
