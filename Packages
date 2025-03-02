@@ -5286,6 +5286,24 @@ Author: Hitori <mikasa-san@outlook.jp>
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki
 
+Package: com.wkk.jptext
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.jptext_1.0_iphoneos-arm64.deb
+Size: 15476
+MD5sum: a4ff47dc5587278d8de754efa7783628
+SHA1: 0163b9927c44f22dee70cc91729b81532a7be877
+SHA256: b39cfecaf49cae35f74dfb274337a6650941a2d4d5e2d74748ff0e9933507ac6
+Section: Dopamine挂载
+Description: 更改键盘文字。
+  * 键盘字路径：/System/Library/TextInput/TextInput_zh.bundle
+  * 注意：先挂载路径再下载此插件，Dopamine里重启Springboard，再重启用户空间即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 修改原生键盘上文字
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/keyboardtext.json
+
 Package: com.wkk.kaiguan
 Version: 1.0
 Architecture: iphoneos-arm64
