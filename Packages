@@ -5355,6 +5355,24 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: 关于源（空包仅浏览）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kongbao.json
 
+Package: com.wkk.lineguazai
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.lineguazai_1.0_iphoneos-arm64.deb
+Size: 96284
+MD5sum: 49aabc2c4d7295882f7dc7f49a20a229
+SHA1: b0e9c19040ef6b69f4741bae967ae70f5d467ccb
+SHA256: 5765a68898de39ca7b2da6e019bdba2095719f54514b29a1c9122ff0024b33f5
+Section: Dopamine挂载
+Description: 仅支持无根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：支持ios16，我没有ios15设备，ios15自测。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/02/c85ed126bb63c93315b82176bd21d9ba.png
+Name: 线条旋转注销动画
+
 Package: com.wkk.logo
 Version: 1.0
 Architecture: iphoneos-arm64
