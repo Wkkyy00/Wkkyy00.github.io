@@ -5086,16 +5086,17 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 114
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: ./debs/控制中心自用.deb
-Size: 60264
-MD5sum: 5e450fde8a3650e56d40ebe4b3419abb
-SHA1: 3937b17dd30e1b27df842703c1862e7c65e06747
-SHA256: ee7d05d2647bb1fd26f459fa7c177acd4c9f0ee75d61dba8fe4b6acd9bf6dd02
+Filename: ./debs/com.wkk.center_1.0_iphoneos-arm64.deb
+Size: 60336
+MD5sum: f545725e54b35d36800c9b8a43f40ee4
+SHA1: a92b671b736d656bbc38b7b70799b986eb5c843f
+SHA256: 25591a4f3313ec0348bbf4907fe607258721cc93a5df0e15a155a633acec8b60
 Section: 控制中心
 Description: 自用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
 Name: wkkCenter
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
 Sponsor: wkk
 
 Package: com.wkk.cqkjlogo
