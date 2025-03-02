@@ -6883,20 +6883,3 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/201aee1851a2c90af9fe7144b348aa3f.
 Name: 小丑真后台
 Sponsor: wkk
 
-Package: z.nowplayingviewcontroller
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/z.nowplayingviewcontroller_1.0_iphoneos-arm64.deb
-Size: 3192
-MD5sum: 7c5d05ce634c79dd0c5d9e10494469c3
-SHA1: dcb0513af6c63d0d712c6d86e22f449d1b982ba3
-SHA256: b60fa556bae65db8bc736c7b70d8b27871de27425bf635184e20626f7cd1e4e5
-Section: 插件
-Description: 如题。
-Author: z
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 隐藏锁屏音乐组件
-
