@@ -1977,6 +1977,23 @@ Author: Derek Calabro
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
 Name: PageDotsBeGone
 
+Package: com.dcproducts.pagedotsbegone
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.pagedotsbegone_1.1.0_iphoneos-arm64.deb
+Size: 205944
+MD5sum: 766a39cee051596c331c689ea72c7d07
+SHA1: 9a83166e93da27ff05ceeebb977dada16d0f8186
+SHA256: ff250880daf0374170f833ef6061b9ef9fab2f506911c98048fd18a6851ca888
+Section: 插件
+Description: PageDotsBeGone不仅可以隐藏页面点，还可以自定义它们的颜色，包括堆叠的小组件依然也可以隐藏页面点或自定义其颜色。更新增加支持IOS16。
+Author: Derek Calabro
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
+Name: PageDotsBeGone
+
 Package: com.den.locktouchx
 Version: 1.0
 Architecture: iphoneos-arm64
