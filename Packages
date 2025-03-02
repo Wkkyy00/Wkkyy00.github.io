@@ -5563,6 +5563,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/072d22b015ff8d1776fb4d56e7db5721.png
 Name: TikTokHook
 
+Package: com.wkk.timexz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.timexz_1.0_iphoneos-arm64.deb
+Size: 2892
+MD5sum: f17d7f0ea8d01d7253b0023873de5989
+SHA1: ba8eb37b7457e55d632b019ebfef4925d5ba8cb4
+SHA256: 2dd8404951214caebabf8b12f1f61c75fd6245d8862f03eee67acf66ead7dd3a
+Section: Dopamine挂载
+Description: 更改控制中心计时器。
+  * 计时器路径：/System/Library/ControlCenter/Bundles/TimerModule.bundle/timer.ca
+  * 注意：先挂载路径再下载此插件，如果Dopamine里重启Springboard未生效，再重启用户空间即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/02/deb70850b50b43bd729b7657dc690c23.png
+Name: 控制中心计时器
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kzzxtimer.json
+
 Package: com.wkk.tinge
 Version: 1.2.1
 Architecture: iphoneos-arm64
