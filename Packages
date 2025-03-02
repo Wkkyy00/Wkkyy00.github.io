@@ -3260,6 +3260,23 @@ Author: huami&Lxcloud
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCEhance
 
+Package: com.lxcloud.WCEhance
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.0-4_iphoneos-arm64.deb
+Size: 50536
+MD5sum: 643055dfe92b54618725db2e496a86d6
+SHA1: fd68331deedd1be59ba7e973c6b7be9732b8e2f5
+SHA256: b209537bd99460bd174633324bbb18dd908a394ae12b3782f80078d4676c4d18
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCEhance
+
 Package: com.marie
 Version: 1.0.6
 Architecture: iphoneos-arm64
