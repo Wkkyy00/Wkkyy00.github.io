@@ -5236,6 +5236,24 @@ Icon: https://s1.imagehub.cc/images/2025/02/15/67cec14b46fce6b77852f3f7eab21597.
 Name: Ersatz
 Sponsor: wkk
 
+Package: com.wkk.faceguazai
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.faceguazai_1.0_iphoneos-arm64.deb
+Size: 521876
+MD5sum: 893fbd72f73d5d4c53a24a033b9fa75a
+SHA1: fbf2938447fbf451019b0603bf4bcbc47129d8ee
+SHA256: 4efc95f2c5f632c0c2e01361baf0bcce26439858063fed77792b75b6fa18aa1f
+Section: Dopamine挂载
+Description: 仅支持无根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：支持ios16，我没有ios15设备，ios15自测。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/02/19b7ab38e3434c8fd8fd7a895a39bebe.jpeg
+Name: 笑脸注销动画
+
 Package: com.wkk.fanqiehook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5354,6 +5372,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.jpeg
 Name: 重启用户空间启动logo
 
+Package: com.wkk.nndxguazai
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.nndxguazai_2.0_iphoneos-arm64.deb
+Size: 188308
+MD5sum: f5a788c246eb66b5a61c742094e02e56
+SHA1: 2855284378ecf9adb2a869cb4aef8f85484126c5
+SHA256: d54b8ce2adddbffbcb6b55a8cfbca7cbb4ce03feeefd5f43d449543f0590b8cf
+Section: Dopamine挂载
+Description: 仅支持无根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：支持ios16，我没有ios15设备，ios15自测。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/02/9951c6ec81c84bce7fda5cdf77936476.jpeg
+Name: 妮妮打熊注销动画
+
 Package: com.wkk.ocd5
 Version: 5.4.1.0
 Architecture: iphoneos-arm64
@@ -5458,6 +5494,24 @@ Description: 下载后文件在目录/var/mobile/Documents/清理终端.sh
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 清理终端(自用)
+
+Package: com.wkk.shouzhiguazai
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.shouzhiguazai_1.0_iphoneos-arm64.deb
+Size: 563768
+MD5sum: dc49b3c8108f846cce08eb2086446dc1
+SHA1: 3abbd89f19fbb98e1b82cae9ded3183c69c5bb78
+SHA256: 52ac32c7d5148aa58fb10895801f4611971869ad3d88061e90e6ee43df9d00cd
+Section: Dopamine挂载
+Description: 仅支持无根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：支持ios16，我没有ios15设备，ios15自测。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/02/e3942c1cc4ac42de69fc0f6b6b720ee3.jpeg
+Name: 手指打桌注销动画
 
 Package: com.wkk.shunfenghook
 Version: 1.0
@@ -5648,6 +5702,24 @@ Description: 去开屏广告及部分豆腐块广告，测试版本：14.10.0
 Author: null
 Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
 Name: 微博NoAds
+
+Package: com.wkk.windowsguazai
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.windowsguazai_2.0_iphoneos-arm64.deb
+Size: 786480
+MD5sum: 8522e4160ba0693bfc0eda0c11848d7c
+SHA1: 44014c24670705420f4bc5ac1f7a3d68b741746d
+SHA256: 06421ef1f0bcff46757b16d75e8aac191ae282991745f27ab462d3e18fcd2c03
+Section: Dopamine挂载
+Description: 仅支持无根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：支持ios16，我没有ios15设备，ios15自测。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/02/bb7bb805fc55ceb26ce1698eba23c759.jpeg
+Name: Windows注销动画
 
 Package: com.wkk.wyyxhook
 Version: 1.0
