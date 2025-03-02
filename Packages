@@ -3752,6 +3752,24 @@ Author: 平凡
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 虚拟视频
 
+Package: com.powersettings
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind& 刀刀
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.nightwind.powersettings
+Filename: ./debs/com.powersettings_0.0.1_iphoneos-arm64.deb
+Size: 31896
+MD5sum: 3a12ef350fc12ba4c456f2bc7867e5b3
+SHA1: 2449dac9529682aa0724ca6c4c5e662139cba942
+SHA256: edf8f77a1b011ccc7e969162a0f065eaf9e3c8e1bcbd017a1c8515d20837754f
+Section: 插件
+Description: 将电源菜单(注销、重启等)添加到“设置”右上角！刀老板汉化，上架备份。
+Author: Nightwind
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PowerSettings
+
 Package: com.ppcon.wkk
 Version: 0.1
 Architecture: iphoneos-arm64
