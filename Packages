@@ -3772,6 +3772,32 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/06/94cb0d60b93edaf171b34044f9b754ab.png
 Name: TwitterNoAds
 
+Package: com.pantsthief.flexing
+Version: 1.5.2
+Architecture: iphoneos-arm64e
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 284
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex, mobilesubstrate
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_1.5.2_iphoneos-arm64e.deb
+Size: 19880
+MD5sum: 861c6ef747da959f02540f2c46212183
+SHA1: 77aff5a12e537fdb9e877bfa328b398659d29cb9
+SHA256: a7dd840bbc022c049cd8390beb57385312169b0959708529a2a2a235c06b3d43
+Section: Tweaks
+Description: Open FLEX anywhere!  aka FLEXTool/FLEXList
+  .
+  Usage:
+  - long press status bar on home screen
+  - three-finger long press on app views
+  .
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: FLEXing
+Sileodepiction-Unused: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
 Package: com.pingfan.wechat
 Version: 2.2-1
 Architecture: iphoneos-arm64
