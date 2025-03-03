@@ -6277,6 +6277,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 遮罩集合大全
 Sponsor: bdzt
 
+Package: com.zqbb.savephotos
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.zqbb.savephotos_1.1_iphoneos-arm64.deb
+Size: 4544
+MD5sum: 1b853ef22a3ce6601a41b40918bcf508
+SHA1: 177238bc8f602fc9f754a3bee4ee32862a46d744
+SHA256: edb7f34e9a71d2fbdac366b4c37d89a781b62b69c2225afb38dd96b493ab1ef3
+Section: 插件
+Description: Snapper3全屏截图按钮增加(保存至相册)功能，超过7个按钮时UI补全至7个。上架备份。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
+Name: Hello Snapper
+
 Package: cum.0xilis.hidemyvpn
 Version: 1.0.0
 Architecture: iphoneos-arm64
