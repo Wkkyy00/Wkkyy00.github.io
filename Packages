@@ -424,22 +424,6 @@ Author: 0xkuj
 Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
-Package: com.123
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/123.deb
-Size: 5880
-MD5sum: 39c0a8f186898046163965aae7ce49a2
-SHA1: 02417eedf660666fc11dac8df629ede5c1d877c8
-SHA256: 853fef70dde81effefba7981d0f1fcf4fcd2619ab25a5d63c29b157001af55de
-Section: 不要为了越狱，放弃升级的乐趣
-Description: 测试
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: 11111111111111111（空包仅浏览）
-
 Package: com.1opa334.crane
 Version: 1.3.16-3
 Architecture: iphoneos-arm64
