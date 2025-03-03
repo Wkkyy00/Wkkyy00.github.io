@@ -3509,14 +3509,14 @@ Maintainer: Nets
 Installed-Size: 140
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.netskao.awemenoads_1.1-3_iphoneos-arm64.deb
-Size: 32760
-MD5sum: 55ac41cd90aa1ad8bdc637d43078e0a3
-SHA1: 652439e2faceb9e0045ef02e8ffe62ae349db21b
-SHA256: aaf90b0a7d3faa1496c72ab9c7323516993df40e4ae4e914106b13a649b20d2d
+Size: 32744
+MD5sum: ce37c1c328816a428a567a2e7735afda
+SHA1: e7f10228c8fd2dc5d95e510a3c207d3cd0613780
+SHA256: a2c58356c79e52dd7faa0d7b7e12a98480d55e01fb6ec20110ff72814c9eac4d
 Section: 抖音插件
 Description: 去除视频流广告，去除启动广告，去除每日青少年提示，小程序跳过广告，单独开关控制，内存清理功能，单独开关控制，由Netskao制作，网友付费定制插件。
 Author: Netskao
-Https: //s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: AwemeNoAds
 
 Package: com.netskao.dumpdecrypter
