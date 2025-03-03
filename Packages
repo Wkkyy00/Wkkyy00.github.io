@@ -5906,24 +5906,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
 Name: 闲鱼NoAds
 
-Package: com.wkk.xielunyanguazai
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Filename: ./debs/com.wkk.xielunyanguazai_2.0_iphoneos-arm64.deb
-Size: 16308
-MD5sum: 0bbe52509e27c5a967144c4ff8983800
-SHA1: 11b0b43975e36ba53f823fad8d0de289d9f862d2
-SHA256: 8afee70e7b34721fd79a7a9b53be12baacb05417b34e125ba0ef468853783117
-Section: Dopamine挂载
-Description: 灵动岛录屏写轮眼（仅支持14Pro-14PM IOS16 Dopamine无根越狱）
-  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
-  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
-  * 注意事项：先挂载上述两个路径，最后再下载此插件即可，重启springboard没有生效，重启用户空间即可，不再需要自备素材（var/jb/Library/Themes/挂载/目录下可以自行更换素材）上述步骤完成后从控制中心呼出录屏即可看到效果。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/21/18bba91d54fb168ffa46d775d162c100.png
-Name: 灵动岛录屏写轮眼
-
 Package: com.wkk.zhihuhook
 Version: 1.0
 Architecture: iphoneos-arm64
