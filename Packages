@@ -3502,6 +3502,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
 Name: AutoFaceUnlock
 
+Package: com.netskao.awemenoads
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 140
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemenoads_1.1-3_iphoneos-arm64.deb
+Size: 32760
+MD5sum: 55ac41cd90aa1ad8bdc637d43078e0a3
+SHA1: 652439e2faceb9e0045ef02e8ffe62ae349db21b
+SHA256: aaf90b0a7d3faa1496c72ab9c7323516993df40e4ae4e914106b13a649b20d2d
+Section: 抖音插件
+Description: 去除视频流广告，去除启动广告，去除每日青少年提示，小程序跳过广告，单独开关控制，内存清理功能，单独开关控制，由Netskao制作，网友付费定制插件。
+Author: Netskao
+Https: //s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: AwemeNoAds
+
 Package: com.netskao.dumpdecrypter
 Version: 1.5-1
 Architecture: iphoneos-arm64
