@@ -2871,6 +2871,25 @@ Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
 Name: InstaLauncher 2
 
+Package: com.jontelang.instalauncher2
+Version: 1.11.0
+Architecture: iphoneos-arm64e
+Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
+Installed-Size: 1188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/com.jontelang.instalauncher2_1.11.0_iphoneos-arm64e.deb
+Size: 265514
+MD5sum: 53a94b08927d353d6427154641d1873d
+SHA1: 896fb42b1a614fec61d4adacef2586cc0506ace3
+SHA256: 73fcb8c37cc9d4330755e83d86b6589f4c5b8c64201cab1ee547e331bfbf686e
+Section: 插件
+Description: 侧边呼出app！
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
+Name: InstaLauncher 2
+
 Package: com.jyzpbtbschyd
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3501,6 +3520,23 @@ Description: 面容识别成功自动解锁无需滑动，原生函数更为节�
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
 Name: AutoFaceUnlock
+
+Package: com.netskao.awemefullscreen
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 400
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.2-5_iphoneos-arm64.deb
+Size: 165148
+MD5sum: 5ec2b03222513429e12bd4fc2b041170
+SHA1: a7d9b15c169b78de8b4d0afccc08c9c272ddc698
+SHA256: e2f29ab8dde736a23227d1c95ed8e3be560bb2e436664d50b2a1be40f1c77ee5
+Section: 抖音插件
+Description: 抖音主页全屏播放，测试版本：31.9.0
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: AwemeFullScreen
 
 Package: com.netskao.awemenoads
 Version: 1.1-3
