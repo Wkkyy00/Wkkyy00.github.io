@@ -2114,11 +2114,11 @@ Maintainer: Netskao
 Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.douyinnoads_1.0_iphoneos-arm64.deb
-Size: 9868
-MD5sum: 9fda62ed5598f88808f1213bb0d7f6b1
-SHA1: cf187ec0a1c0795d0f08591c8c8c246b2e57b3f1
-SHA256: bafba01422872114c9a1e55eadf777760ffbfe0bd5db8cd61518d8252f079450
-Section: 去广告
+Size: 9872
+MD5sum: 0516de6aa2ec7e7279365f0ececd658e
+SHA1: 5a746ffde8fe16f95218a9658274d673ffcd57db
+SHA256: 4819db82523a36725346f1ec673ec08281b735f4672960bd55f1edb0d3b1e091
+Section: 抖音插件
 Description: 去启动、视频流、青少年提醒，由Netskao制作，网友定制插件。
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
@@ -5359,11 +5359,11 @@ Maintainer: wkk
 Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.dyhook_1.0_iphoneos-arm64.deb
-Size: 2576
-MD5sum: a65aaad7a1cbb2062dd57d24acc081e6
-SHA1: dbed19e0e81e8ed40dcc1565826f5812496a41a5
-SHA256: 9d112f5bbbb0ac4de54acebcbbd297d0387cc94ee184a1ea126a979812528c05
-Section: 去广告
+Size: 2572
+MD5sum: e1c2078fdf2939ff0085e10c3148608c
+SHA1: a0668deb66fa31b798fc78c59a234efa99601f0d
+SHA256: c4ea547dfce906c7bcf3dab360653ad559d16eac80ee2a2a9b68b89ea89e04a6
+Section: 抖音插件
 Description: 抖音只去掉+号，自用。
   * 源代码：@huami（感谢为爱发电的高中生大佬）
 Author: wkk
