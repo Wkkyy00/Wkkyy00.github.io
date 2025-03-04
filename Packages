@@ -5183,6 +5183,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.Filzamh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.Filzamh_1.0_iphoneos-arm64.deb
+Size: 118896
+MD5sum: 12c37f4a11b2cbdf4965710cb301917c
+SHA1: e6f9ba613a2cd39019a68e61c1fb7104b38b51c4
+SHA256: 32a330d05cbecdaf64b920ae2a0585058e845a7a7e92f5ea2128772df519b47e
+Section: 插件
+Description: Filza美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.png
+Name: Filza美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
+
 Package: com.wkk.SquidExtenderpz
 Version: 1.0
 Architecture: iphoneos-arm64e
