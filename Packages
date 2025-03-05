@@ -1994,6 +1994,23 @@ Author: Derek Calabro
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
 Name: PageDotsBeGone
 
+Package: com.dcproducts.pagedotsbegone
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.pagedotsbegone_1.2.0_iphoneos-arm64.deb
+Size: 205948
+MD5sum: 7dcf096a53284008b572678d2307b420
+SHA1: 6b4ce9fce0766abc0b36be32fbe1a7558af49b06
+SHA256: cd18dc7ec465f3c7b1d7f7900130f217a14ad7e819600df63a831c4c9f1d6468
+Section: 插件
+Description: PageDotsBeGone不仅可以隐藏页面点，还可以自定义它们的颜色，包括堆叠的小组件依然也可以隐藏页面点或自定义其颜色等许多功能。更新增加支持IOS16。
+Author: Derek Calabro
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
+Name: PageDotsBeGone
+
 Package: com.den.locktouchx
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4777,6 +4794,25 @@ Description: 仅供学习交流。
 Author: susu
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: SuAwemeHook
+
+Package: com.susu.suawemehook
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.5_iphoneos-arm64.deb
+Size: 31716
+MD5sum: 71918742abca046639a79e096ffa6ca0
+SHA1: 9d301899302b1172bc79e30e07fcb67b937131c0
+SHA256: 6f499d3818aefa36d95d0d343279f9895a0cb7c1cf2d89ae2b2d89a7bbba19c3
+Section: 抖音插件
+Priority: optional
+Description: 仅供学习交流。
+Author: susu
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
 
 Package: com.susu.suxhshook
 Version: 1.0
