@@ -5862,6 +5862,43 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/6f21b79a5a8c09efc2635593b5f977d3.png
 Name: 顺丰速运NoAds
 
+Package: com.wkk.sileomh
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sileomh_1.0_iphoneos-arm64e.deb
+Size: 46680
+MD5sum: 1a7c2b28d1e8bad37ccf7ceea0c4320b
+SHA1: eb4f825d771ae7dc68aad0113bb4f6a0f5d048d1
+SHA256: ae028e3a69ea262f1f9238fa04ecb2943024bda8080d960f3f6eaf7109733670
+Section: 插件
+Description: Sileo美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Sileo美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
+
+Package: com.wkk.sileomh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sileomh_1.0_iphoneos-arm64.deb
+Size: 44740
+MD5sum: 58ba99a63a8c483914b8b437bbc7c2b2
+SHA1: 4af3d096f979de8db0102bfd06d3537328df0a80
+SHA256: 62b2b17a97323cf2c8c3d038cb0a09d3d860f02cf16e87ae48400695ed3dacbd
+Section: 插件
+Description: Sileo美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Sileo美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
+
 Package: com.wkk.singlevpnandmute
 Version: 1.0
 Architecture: iphoneos-arm64
