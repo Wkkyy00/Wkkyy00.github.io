@@ -5292,6 +5292,24 @@ Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.
 Name: Filza美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
 
+Package: com.wkk.Filzamh
+Version: 1.1-end
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.Filzamh_1.1-end_iphoneos-arm64.deb
+Size: 122156
+MD5sum: af53f6d174eda099234f69d2b7fc6c5b
+SHA1: 1a8741b3bd023fab95c9ab8a4fe577ffa84d4a58
+SHA256: 49fbf147828b4aeb64a63e4c6a4dc8bd22c102651ca05e771956aad1483da581
+Section: 插件
+Description: Filza美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.png
+Name: Filza美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
+
 Package: com.wkk.SquidExtenderpz
 Version: 1.0
 Architecture: iphoneos-arm64e
