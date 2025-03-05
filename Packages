@@ -6355,6 +6355,42 @@ Author: Huayuarc <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/02/116566f5242059bd3a3dd1df06f40afd.png
 Name: 【键盘】隐藏语音图标-Rootless
 
+Package: com.yourepo.lly.adsspee-rootless
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.yourepo.lly.adsspee-rootless_1.1.3_iphoneos-arm64.deb
+Size: 108328
+MD5sum: 2d7f1c849e020b1556b64a2c108628c8
+SHA1: d119aa1199b78eb4237c1cc70625ba54069da476
+SHA256: 57a9a43e2f3685d8ec945fc83689e96197e92a4bbb5b927505c38fad8aaade63
+Section: 插件
+Description: 快速跳过激励视频广告，奖励正常领取。上架备份。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/03/05/5e7750e53f47782c0f1f2d5ea3e69638.png
+Name: VideoAdsSpeed
+
+Package: com.yourepo.lly.adsspee-rootless
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.yourepo.lly.adsspee-rootless_1.1.3_iphoneos-arm64e.deb
+Size: 108352
+MD5sum: cc6f76185f77342a68f463dbc0df8fb6
+SHA1: 1a50ff2b9f72f867f61f4b6a29bd9c684ca02b33
+SHA256: cab7230acd82841c43336b2bdc64ba35cec32f3039f66521ebc0f9942c608cd5
+Section: 插件
+Description: 快速跳过激励视频广告，奖励正常领取。上架备份。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/03/05/5e7750e53f47782c0f1f2d5ea3e69638.png
+Name: VideoAdsSpeed
+
 Package: com.zaire-rootless
 Version: 0.9.0
 Architecture: iphoneos-arm64
