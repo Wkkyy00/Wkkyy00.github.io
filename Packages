@@ -5274,6 +5274,43 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.AppStoremh
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.AppStoremh_1.0_iphoneos-arm64e.deb
+Size: 64548
+MD5sum: 2859d58879addb2002dd45940d3c49c7
+SHA1: 674fcd81bc63aff06d9ff6edb12ab60d0201c4b4
+SHA256: 9072a7310eec5057309746fa742366da4b321774778f95582d84a44843b4f71c
+Section: 一切美化的东西都是垃圾
+Description: App Store美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/06/a39704438b10be358870f50e0fae8320.png
+Name: App Store美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/App%20Store.json
+
+Package: com.wkk.AppStoremh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.AppStoremh_1.0_iphoneos-arm64.deb
+Size: 62092
+MD5sum: ac867b2a3c701f0eabe145edc7f7e33a
+SHA1: b173829e29bb8c1a07d70f3f037177b530d9cb79
+SHA256: 3a8561fcae5402651a29c34314af141dea524135d006000199b27187d5e1828a
+Section: 一切美化的东西都是垃圾
+Description: App Store美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/06/a39704438b10be358870f50e0fae8320.png
+Name: App Store美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/App%20Store.json
+
 Package: com.wkk.Filzamh
 Version: 1.0
 Architecture: iphoneos-arm64
