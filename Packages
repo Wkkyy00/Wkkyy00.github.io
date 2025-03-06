@@ -2227,43 +2227,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/07/f6bcfa2ae52644cd46e8064cd051b3a1.png
 Name: FLEXList(rootless)
 
-Package: com.forSnapper3.wkk
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3.wkk_1.0_iphoneos-arm64.deb
-Size: 20528
-MD5sum: 7789fbbfa664257d8b80720898f4a529
-SHA1: 66940f24fd0758d590c994e84bc7a27b5a696609
-SHA256: 9ea92daf34a0bdaedbcf19bc3afc9b4ccc7df440fc6d9e7e67ee5dc4dd1c754c
-Section: 插件
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
-
-Package: com.forSnapper3.wkk
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3.wkk_1.0_iphoneos-arm64e.deb
-Size: 22490
-MD5sum: 34ce3205b62411ab704be5c351d4d250
-SHA1: be9275fe2dda6ce5a95bf8fc6574e8c9260e26c6
-SHA256: a1add0f2b2dbfdcbfb0ffa2c99cae1fd86c050b940958fae65ce73e144c5c0fe
-Section: 插件
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
-
 Package: com.gamegod.igg.rootless
 Version: 0.4.5
 Architecture: iphoneos-arm64
@@ -5292,24 +5255,6 @@ Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.
 Name: Filza美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
 
-Package: com.wkk.Filzamh
-Version: 1.1-end
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.Filzamh_1.1-end_iphoneos-arm64.deb
-Size: 122156
-MD5sum: af53f6d174eda099234f69d2b7fc6c5b
-SHA1: 1a8741b3bd023fab95c9ab8a4fe577ffa84d4a58
-SHA256: 49fbf147828b4aeb64a63e4c6a4dc8bd22c102651ca05e771956aad1483da581
-Section: 插件
-Description: Filza美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.png
-Name: Filza美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
-
 Package: com.wkk.SquidExtenderpz
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -5861,43 +5806,6 @@ Description: 去开屏广告，测试版本：9.74.0，可以注入可以插件�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/6f21b79a5a8c09efc2635593b5f977d3.png
 Name: 顺丰速运NoAds
-
-Package: com.wkk.sileomh
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.sileomh_1.0_iphoneos-arm64e.deb
-Size: 46680
-MD5sum: 1a7c2b28d1e8bad37ccf7ceea0c4320b
-SHA1: eb4f825d771ae7dc68aad0113bb4f6a0f5d048d1
-SHA256: ae028e3a69ea262f1f9238fa04ecb2943024bda8080d960f3f6eaf7109733670
-Section: 插件
-Description: Sileo美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Sileo美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
-
-Package: com.wkk.sileomh
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.sileomh_1.0_iphoneos-arm64.deb
-Size: 44740
-MD5sum: 58ba99a63a8c483914b8b437bbc7c2b2
-SHA1: 4af3d096f979de8db0102bfd06d3537328df0a80
-SHA256: 62b2b17a97323cf2c8c3d038cb0a09d3d860f02cf16e87ae48400695ed3dacbd
-Section: 插件
-Description: Sileo美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Sileo美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
 
 Package: com.wkk.singlevpnandmute
 Version: 1.0
