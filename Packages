@@ -7246,6 +7246,52 @@ Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: NewTerm 3 Beta
 Support: https://hashbang.productions/support/
 
+Package: ws.hbang.newterm3
+Version: 3.0~beta1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24244
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/ws.hbang.newterm3_3.0~beta1-3+debug_iphoneos-arm64.deb
+Size: 3949100
+MD5sum: 3ab478022375108c2aeaf47964de7dfb
+SHA1: fdd6390256d8544fa699e849565681de10afdb84
+SHA256: bb39a3a725025e7da424e9e0cc50066c8ffa04dd9251aef057da52db80389d8e
+Section: 插件
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.newterm3
+Version: 3.0~beta1-670+debug
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24128
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/ws.hbang.newterm3_3.0~beta1-670+debug_iphoneos-arm64e.deb
+Size: 3832008
+MD5sum: 893dfd562d899a26fb7b39947f6c4966
+SHA1: a7c83b6b7a5c6cd7cbafad7314161b2b09cbb862
+SHA256: b30abaabc901182d3fc42fce6fceb37db8abbac7e02b3a2f6443b327919cb531
+Section: 插件
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
 Package: xiaochouzhenhoutai.wkk
 Version: 0.1.0
 Architecture: iphoneos-arm64
