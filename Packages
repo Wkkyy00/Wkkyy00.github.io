@@ -5492,6 +5492,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
 
+Package: com.wkk.bhmh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 百度主题
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bhmh_1.0.deb
+Size: 326944
+MD5sum: bf34569bee000a9d4710c52f203553de
+SHA1: 39dec6a35f69b22b60f8f2a93445e344ee92a05d
+SHA256: 08c3ec5b541dd671cb77276e9dc7ec0ab3af9dbb492dd7bc6d66da63c1dd0d39
+Section: 一切美化的东西都是垃圾
+Description: 拨号键盘美化。
+Author: 百度主题
+Icon: https://s1.imagehub.cc/images/2025/03/08/0364f8251947561dd09612ea1ee9a016.png
+Name: 拨号键盘美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/bohaojp.json
+
 Package: com.wkk.bilibilihook
 Version: 1.0
 Architecture: iphoneos-arm64
