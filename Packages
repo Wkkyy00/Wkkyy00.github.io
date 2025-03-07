@@ -2995,6 +2995,47 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: BlurryAlerts
 Sponsor: k
 
+Package: com.k.nahtedetihw.iconrotation
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.k.nahtedetihw.iconrotation_1.1_iphoneos-arm64.deb
+Size: 5984
+MD5sum: d9717297d70726de770d6d5b1be3e7d7
+SHA1: c61d39ebc84b5731e74241106ad6da47f1629f12
+SHA256: 525cebe6797fbdf4ca708f1af3cca24bc0c16eb75bd198c3f16d9ec51db0e24e
+Section: 一切美化的东西都是垃圾
+Description: 图标旋转。
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/03/07/f90f6f6a9b704c6962a24dbbfee96817.png
+Name: IconRotation
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/IconRotation.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.5
+
+Package: com.k.nahtedetihw.iconrotation
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.k.nahtedetihw.iconrotation_1.1_iphoneos-arm64e.deb
+Size: 8104
+MD5sum: dfd1c346047d1ebe05d2d1a41607813f
+SHA1: 3bc5ad3b3d21dcc3a49dabe61ec9bc105d23f998
+SHA256: 1cfb677377e0597e4b98648b571c3093b31d8a9aac916fc02319fc4aa8b8f6b0
+Section: 一切美化的东西都是垃圾
+Description: 图标旋转。
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/03/07/f90f6f6a9b704c6962a24dbbfee96817.png
+Name: IconRotation
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/IconRotation.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.5
+
 Package: com.k.p2kdev.underdock
 Version: 1.3
 Architecture: iphoneos-arm64
