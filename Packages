@@ -699,6 +699,22 @@ Author: Beanbuns
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音豆包助手
 
+Package: com.BeanbunsHelpers.DB
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Filename: ./debs/com.BeanbunsHelpers.DB_1.0-4_iphoneos-arm64.deb
+Size: 639220
+MD5sum: d8f90c38e249b7a496b5f6e6c03e9fae
+SHA1: 0668dabd524c7ea889cc746e86984658732a3b71
+SHA256: f9007d92e2cc8bad448d7d3103171c57c7595f87ffea024e60f0b8de39b521fd
+Section: 抖音插件
+Description: 仅供学习交流，设置入口在抖音设置内，测试版本：33.0.0
+Author: Beanbuns
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音豆包助手
+
 Package: com.Doki.kbstyle
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -2264,6 +2280,80 @@ Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.
 Name: Snapper3 自用美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
 
+Package: com.forSnapper3three.wkk
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.forSnapper3three.wkk_1.0_iphoneos-arm64e.deb
+Size: 27624
+MD5sum: cd8d58e2f56fde4459c1b4bb47535c7e
+SHA1: 1b79144b1ca6aa0686bb663ab7c96a09b54443f2
+SHA256: d05851abbae93d3fceb4eacc1974ca66273bb4cf512df74e73aa1f60ecbfe1b1
+Section: 一切美化的东西都是垃圾
+Description: 美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3 美化（3）
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3three.json
+
+Package: com.forSnapper3three.wkk
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.forSnapper3three.wkk_1.0_iphoneos-arm64.deb
+Size: 26168
+MD5sum: 2bb98752cb97135e22cc3caf5002ac7b
+SHA1: f1be047d7e4f630a3b56553b2b6344cfe4921aea
+SHA256: 6574aaa4096d00cb9f595db7a9831fdf46b8cfa87c8cfed76813614c4226f952
+Section: 一切美化的东西都是垃圾
+Description: 美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3 美化（3）
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3three.json
+
+Package: com.forSnapper3two.wkk
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.forSnapper3two.wkk_1.0_iphoneos-arm64e.deb
+Size: 91826
+MD5sum: 368c32ebad81a97c60c5939c2125edde
+SHA1: b0e3e507ed53fe2e04909aa113d0e09dda2dc708
+SHA256: cf1f88260c5ba0715f0764a2ff7b14ef180e01d636be26900b9cef650600756b
+Section: 一切美化的东西都是垃圾
+Description: 美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3 美化（2）
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
+
+Package: com.forSnapper3two.wkk
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.forSnapper3two.wkk_1.0_iphoneos-arm64.deb
+Size: 90848
+MD5sum: 2aa9c82348fc8eb5d67e5609a592d0e3
+SHA1: 41bbab3696ee23b6dc02fa78f53153d1be51a0e7
+SHA256: 59a99e08e5f46042b0f704aa03f3c8fc16b3c541252e3435a3588063c123e5a5
+Section: 一切美化的东西都是垃圾
+Description: 美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3 美化（2）
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
+
 Package: com.gamegod.igg.rootless
 Version: 0.4.5
 Architecture: iphoneos-arm64
@@ -2724,6 +2814,25 @@ Size: 49360
 MD5sum: b899ed880e54fbc4bdc131502ca4bce7
 SHA1: 0976e2dce8aeb3cbc4b19b9b3ff1fd3282a9d6ce
 SHA256: 304d9e251dcb482b2fcb944cfce066fb81d6878d067ca4b297ea804c693e6cf8
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.0-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.0-8_iphoneos-arm64.deb
+Size: 53764
+MD5sum: 112d35173c3a53d359e82fad15dc174d
+SHA1: d257001e5393e41baa90ba1bc9b183df3a66a850
+SHA256: 22833b86e7d4a16e8738d45461793bb8e7c0c84bfd2408e67d650cecfc93fcb8
 Section: 抖音插件
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -3410,6 +3519,23 @@ Size: 1129700
 MD5sum: ce0770bcc4af20e126e9e80ad0c756c1
 SHA1: 242cad92e4acac47aadd8ed7cecfd348ea181769
 SHA256: cc1c301afd5725c6045d07fd72e5649eecb5f4e0715a127d9ce5a215872000e9
+Section: 插件
+Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
+Name: 短视频助手
+
+Package: com.lly.shortvideodl
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5076
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lly.shortvideodl_1.9.0_iphoneos-arm64.deb
+Size: 903788
+MD5sum: 77494d5e1606f14ed0c4127df42c9043
+SHA1: b377c6c0c8e281e98a4b8a55ab90dc42446dd08a
+SHA256: 2abe3314f82c2ae381aa5ad653566bf397ccca26c4e71078de74b1de786a5cd8
 Section: 插件
 Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
 Author: lenglengyu
