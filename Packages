@@ -3178,6 +3178,22 @@ Name: PullOver Pro Hide
 
 Package: com.lclrc.recordanywhere
 Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03 & lclrc
+Depends: mobilesubstrate
+Filename: ./debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64e.deb
+Size: 4224
+MD5sum: c9807cf16e992720e3af2e3404688336
+SHA1: dfbfea02ee542bb1b7cb7da512ed96e832f33271
+SHA256: c506a577f235a484421b8862377050b37300f065557762f7b0ee634bb9b4ea14
+Section: 插件
+Description: 使手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc
+Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
+Name: RecordAnywhere
+
+Package: com.lclrc.recordanywhere
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: Muirey03 & lclrc
 Installed-Size: 168
