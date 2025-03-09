@@ -3042,6 +3042,25 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.dyyy
+Version: 2.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.0-9_iphoneos-arm64.deb
+Size: 54684
+MD5sum: 878f2f17caf1abe8c4f156b3f2f21541
+SHA1: 0d8093f24f72ba7f413366189fed99021b855ede
+SHA256: 059a89f1121f5ef4f928cba63d65d2039ef4d266027fdfb8c9e776a671d06955
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY
+
 Package: com.huami.dyyy.rootless
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -5357,6 +5376,25 @@ SHA256: 5c5ef01578466005c279628bb80061cffb96a5dd379ccdb9b002699f75960403
 Section: 抖音插件
 Priority: optional
 Description: 仅供学习交流
+Author: susu
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
+Package: com.susu.suawemehook
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.7_iphoneos-arm64.deb
+Size: 42332
+MD5sum: 23fc9ec61ea5a2b91fed163b5e45a5f1
+SHA1: e4f045f604d74bd006b71069cab66657ecd9a151
+SHA256: 6629c27c2afbe0db276ed5723744f47709e127ddd2fece1e479cdecaaae0232c
+Section: 抖音插件
+Priority: optional
+Description: 仅供学习交流。
 Author: susu
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: SuAwemeHook
