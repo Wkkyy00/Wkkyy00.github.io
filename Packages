@@ -2323,10 +2323,10 @@ Maintainer: wkk
 Depends: mobilesubstrate, firmware (>= 15.0)
 Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
 Filename: ./debs/com.forSnapper3.wkk_1.1_iphoneos-arm64.deb
-Size: 20596
-MD5sum: 5c6beba2035ca3de90dc36cc5f46b858
-SHA1: dca0ff0ec617ba430e74dc4f6df66c71865daea5
-SHA256: c15712d0cbae92cb87fb34ffd8a34e09b796bcff5b5a1fd100eb57e0e546e5d7
+Size: 21804
+MD5sum: b0fb62c7a70a80afb7eda1648fc469f9
+SHA1: d80f4c10315f3c420d4898ca583c71f56def682f
+SHA256: b382e2472ff17da77439865ec784999786c501b91fe5dee40afb31f91679c63d
 Section: 一切美化的东西都是垃圾
 Description: 自用美化。
 Author: wkk
@@ -2342,10 +2342,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
 Filename: ./debs/com.forSnapper3.wkk_1.1_iphoneos-arm64e.deb
-Size: 22616
-MD5sum: ef1d5e80f3cb109bba173a348f51ddc9
-SHA1: 74d4c23201792c5af07d33770497b3571a873e04
-SHA256: 36ffbe004663dc196eaf579830c51e40445640b36786167f26dff9eac824f117
+Size: 23856
+MD5sum: ea99c94d9f35e58c68c2e25d5bd22b85
+SHA1: 3a033f06de0de52a9f9e50338e22fc4aa2a3283c
+SHA256: f7080273093dcca893a0ae0c7bb4c49bea8ae95deeeeb63a8743ea64b149f051
 Section: 一切美化的东西都是垃圾
 Description: 自用美化。
 Author: wkk
