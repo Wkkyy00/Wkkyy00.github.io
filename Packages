@@ -1484,6 +1484,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.0-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.0-1_iphoneos-arm64.deb
+Size: 573096
+MD5sum: 8eebe00487a859a6ffdfc3568b239991
+SHA1: 050bd038fa2b8d9abd8b157d58c1ee79d553f26a
+SHA256: 4cb52face79d0fb3a3aa91da1531927fd6340cf2a7272603630f7bfbc83b75a6
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.betterccbrightness
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -5245,6 +5263,23 @@ Size: 4476
 MD5sum: 5cd93e369310ed4209acba48584a36f6
 SHA1: b50baa4bbe68ab2369f36440c7a0750c15133541
 SHA256: 129317dc437217233b581abcb9a0035187c21c53fd51d1beffe2b00c9aa2a056
+Section: 微信插件
+Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
+Author: 苏苏
+Icon: https://www.susubaby.top/images/wechat.png
+Name: SuWCFrostedGlass
+
+Package: com.susu.wcfrostedglass
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.wcfrostedglass_1.0.5_iphoneos-arm64.deb
+Size: 4860
+MD5sum: 7f85f2fd62e6b5ce2bfa9faa8e1870bb
+SHA1: 13ca9b3fb6488782cf416ff14a9e62a83c0cb56d
+SHA256: 7b2d90a98cb8fb1f341ca8f0a0df29c415f26106b27e1118f06d166d78f48d53
 Section: 微信插件
 Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
 Author: 苏苏
