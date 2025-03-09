@@ -78,6 +78,24 @@ Name: MisakaHelper
 
 Package: alias20.fakesignalbar
 Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: alias20
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/alias20.fakesignalbar_0.1_iphoneos-arm64e.deb
+Size: 20012
+MD5sum: e54ab68a7e1cf608a934132be4723824
+SHA1: 503178706c486293604bc58ca5cd01f5d83a084f
+SHA256: a2a3aed76f8ffa50e64d24ad588de64a5d8bf341846140b173ddd978d7e8adbc
+Section: 插件
+Description: 备份。
+Author: alias20
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: FakeSignalBar
+
+Package: alias20.fakesignalbar
+Version: 0.1
 Architecture: iphoneos-arm64
 Maintainer: alias20
 Installed-Size: 364
@@ -763,6 +781,25 @@ Size: 54408
 MD5sum: fba1832ba03495409864a05191981729
 SHA1: 571fd6d7bf3b03670505aed04308536922a21aa7
 SHA256: 0cf76093a9da1e4b9ee6cd18d369eab7fcd47e904766db657710bfdab9899cdb
+Section: 插件
+Description: 显示为文件夹图标为第一个APP图标，无设置项，根据开源重新编译修了一下微小bug，支持无根隐根iOS15-16！
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/25/d0f9c9a96bfa7a2dfc2afcda00da0149.png
+Name: FirstAppicon
+Sponsor: wkk
+
+Package: com.FirstAppicon
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
+Filename: ./debs/com.firstappicon_0.3_iphoneos-arm64e.deb
+Size: 67688
+MD5sum: 26ffbcc3d53a47b13a5fe155ce6ad048
+SHA1: 42945bae465d10bf7b2731ab16139c78a5d7d2dd
+SHA256: b3c8d17a6c2334f4f2025112c53a98a99ef7817db028a1562242d7b49a626e18
 Section: 插件
 Description: 显示为文件夹图标为第一个APP图标，无设置项，根据开源重新编译修了一下微小bug，支持无根隐根iOS15-16！
 Author: wkk
@@ -2020,6 +2057,25 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.
 Name: PurifyLine
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
+Package: com.dao.noline
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: ./debs/com.dao.noline_1.0.1_iphoneos-arm64e.deb
+Size: 5332
+MD5sum: ea2fcc45889a9316fb69b09d336a9e79
+SHA1: a25c46cf53b1dbca44cef2fa26b9d885f17a2ed4
+SHA256: 5866e5dd7e36b5374520e08bb521ab3c909ded970cc6beddf8cae072447d36ac
+Section: 插件
+Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
+Author: 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
+Name: PurifyLine
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
+
 Package: com.dao.safarix
 Version: 1.3.0
 Architecture: iphoneos-arm64
@@ -2029,6 +2085,21 @@ Size: 272376
 MD5sum: 21e4fc76743a7f8be8bab8449bf0948e
 SHA1: e1b23d1ac7dbb01623cbe791d6f917c7ee73b9b1
 SHA256: 1f69ee479e4cc57a7e4719e98f96eea58698a47525a5be8c2a2a1146539ab98e
+Section: 插件
+Description: Safari多功能增强插件。
+Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
+Name: SafariX
+
+Package: com.dao.safarix
+Version: 1.3.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.dao.safarix_1.3.0_iphoneos-arm64e.deb
+Size: 298380
+MD5sum: f241227bb80729ffb3fca48c210b9791
+SHA1: de7cd14ab27ce157864ec7ccc662640540118642
+SHA256: a58e7f9e8afca03399b251431e4a42dd953912f400b631c1731ce935107525cd
 Section: 插件
 Description: Safari多功能增强插件。
 Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
@@ -2312,6 +2383,24 @@ Size: 3848
 MD5sum: b307b12bf756a89a536ab44fcc8ea975
 SHA1: d161d4778a5720e6601e7e1c919f55379183a046
 SHA256: 159cf1ef0819723e1e763a109218e1d9798e1e91d94c41c3b00887e3c8000492
+Section: 插件
+Description: 播放媒体时，保持通知静音，开源项目。
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
+Name: SilentNotifs
+
+Package: com.dvntm.silentnotifs
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Size: 5260
+MD5sum: 242045704c997258bcfab2b4cab1e6e9
+SHA1: ce29edaf621cca8a18fef42d12ff9de099af11f7
+SHA256: 90a1b4ff204f9f6526901e341654807d13f55016bd3618a164c1c348b9e81aa8
 Section: 插件
 Description: 播放媒体时，保持通知静音，开源项目。
 Author: dvntm
@@ -2602,6 +2691,24 @@ Size: 7004
 MD5sum: 17452cf266e3680a2cd9bcd6e569854c
 SHA1: de9d82b24d8199862a12145f301345a7d5ddb23a
 SHA256: 099cee369337823b3e3ed2bc9c209339bf6d9155e23911f0cafb2d102994aa37
+Section: 插件
+Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏！（录屏结束自动关闭）
+Author: gilshahar7, 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
+Name: DNDMyRecording
+
+Package: com.gilshahar7.dndmyrecording
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: gilshahar7, 0xkuj
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.gilshahar7.dndmyrecording_1.3_iphoneos-arm64e.deb
+Size: 9384
+MD5sum: 099b8be288c9b0dd8adc4b9849767a79
+SHA1: 80f03a7c35c0c2db9ba076108345cd69fd371f48
+SHA256: a21c35f400f91efb222404d13616dbc0b9d25634c56ebab11506fea8b8db3a92
 Section: 插件
 Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏！（录屏结束自动关闭）
 Author: gilshahar7, 0xkuj
@@ -3648,6 +3755,24 @@ Name: sileo头像旋转
 
 Package: com.liuf.jpyj
 Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: liuf <(null)>
+Installed-Size: 280
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.liuf.jpyj_0.0.1_iphoneos-arm64e.deb
+Size: 5260
+MD5sum: fee5c0fc7ebf8f52f08a679fec0a74cb
+SHA1: 2d6a1d5fefd615b4fcc001a50ee95f13f5c20c6c
+SHA256: ae4bf519ab43d94ed0d6bde4b6dab928f53a3c3a3dcb33833f43aeb0a2af284d
+Section: Tweaks
+Description: 系统键盘圆角
+Author: liuf <(null)>
+Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
+Name: 系统键盘圆角
+
+Package: com.liuf.jpyj
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: liuf <(null)>
 Installed-Size: 280
@@ -4507,6 +4632,25 @@ Name: PrimalFolder2
 
 Package: com.ps.smoothcursorios13
 Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64e.deb
+Size: 4388
+MD5sum: 6666a180c13f5d5321e49b39f17c3049
+SHA1: e53ae9090d7b037df672f5de662bc26c644b4d64
+SHA256: 7af2a93f8334573c4b7b82de5776958e8a31be7c5901ac0c9d3c6f1f449eb34c
+Section: Tweaks
+Description: 仿Office 2013的输入光标
+Author: PoomSmart
+Icon: https://www.susubaby.top/images/smoothcursor.png
+Name: SmoothCursor (iOS 13+)
+
+Package: com.ps.smoothcursorios13
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
 Installed-Size: 168
@@ -5080,6 +5224,25 @@ Name: StoreSwitcher 2
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: sunshinesong
+Installed-Size: 5472
+Pre-Depends: rootless-compat(>= 0.9), rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64e.deb
+Size: 4482518
+MD5sum: 276d6e39c4f02b57b7d2ebdfaaee7ddd
+SHA1: 940b3b0b50cbc1aa97d50405677f8c278f373ec9
+SHA256: 1c40be8d687bc4ad231516b14e25cb4dec35dcd4894350e80354a38888be84e3
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.4.0
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 5472
@@ -5142,6 +5305,24 @@ Size: 5436
 MD5sum: 74acfa296d4b95d07d044aafb4f43d30
 SHA1: 71995eb946451f271870490f62b0e488b2624077
 SHA256: 9acfd97c793945cc7aa8c40abaf2089b0ffa974a29ad367e08f2cc585db275a1
+Section: 插件
+Description: 支持ios15-16无根隐根，移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标（只显示15天），移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）仅备份，作者源：苏苏源：https://susubaby.top/0107/
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
+Name: NoPreferencesTips
+
+Package: com.susu.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.susu.nopreferencetips_1.0.4_iphoneos-arm64e.deb
+Size: 7408
+MD5sum: 8a8f11c5f9e86ac7cb4d08f0558673cf
+SHA1: 59dbdf8441145417246aebb3af982a39c490b471
+SHA256: 547b0005546599a081d50ace53b248580f8638f04d127bf228f3fd1c7502a16b
 Section: 插件
 Description: 支持ios15-16无根隐根，移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标（只显示15天），移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）仅备份，作者源：苏苏源：https://susubaby.top/0107/
 Author: 苏苏
@@ -5551,6 +5732,27 @@ Size: 15216
 MD5sum: 7166f5bee040628e07076b6dda4edddf
 SHA1: 173868d0aab42a99751ca0b085ed1cf18d2e8ec4
 SHA256: 32bd8af6be37e66029c58e3d585f3edab071c0932d449b37387a4f01474b957f
+Section: 插件
+Priority: optional
+Description: 通过手指在空白处滑动控制光标。无设置项。支持无根隐根。
+Tag: purpose::extension
+Author: r_plus <anasthasia.r+swipeshiftcaret@gmail.com>
+Dev: rplus
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SwipeShiftCaret
+
+Package: com.swipeshiftcaret
+Version: 1.11
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 183
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader (>= 2.1.0)
+Filename: ./debs/com.swipeshiftcaret_1.11_iphoneos-arm64e.deb
+Size: 19322
+MD5sum: 1f7d682c6f836cd334129a9be317964b
+SHA1: eee75026a4823fb7fa4e2b291c07dee00b105356
+SHA256: 7ecaa76a74a6cc2cd60c8fc7cb9e9c2fa0971a4b5c58352562c73de25447918a
 Section: 插件
 Priority: optional
 Description: 通过手指在空白处滑动控制光标。无设置项。支持无根隐根。
@@ -6190,6 +6392,25 @@ Description: 去开屏广告，测试版本：11.30.12
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
 Name: 大众点评NoAds
+
+Package: com.wkk.ersatz
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 504
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.ersatz_1.0.1_iphoneos-arm64e.deb
+Size: 62174
+MD5sum: d8ae20d114d831582ba87d89e6f19cd8
+SHA1: 900f3e2c1e51c99c98614faaa3c19a7a0dd0e88d
+SHA256: fa4c6fbecdb4dba547418a2edc03f5c96c4d8c5c8c140b538c4d319d2f6601e0
+Section: 插件
+Description: 替换设备任意地方的文字（全局），可以用来汉化插件，修改系统信息等等，支持无根隐根。
+Author: Skitty
+Icon: https://s1.imagehub.cc/images/2025/02/15/67cec14b46fce6b77852f3f7eab21597.png
+Name: Ersatz
+Sponsor: wkk
 
 Package: com.wkk.ersatz
 Version: 1.0.1
