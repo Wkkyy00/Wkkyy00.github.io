@@ -5164,6 +5164,25 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: SuAwemeHook
 Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
 
+Package: com.susu.suawemehook
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 352
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.susu.suawemehook_1.3.6_iphoneos-arm64.deb
+Size: 37908
+MD5sum: 09122b0faa4976fc60365111a209e061
+SHA1: de12ab475b852b88a96383c7d7286cf9edc58b8a
+SHA256: 5c5ef01578466005c279628bb80061cffb96a5dd379ccdb9b002699f75960403
+Section: 抖音插件
+Priority: optional
+Description: 仅供学习交流
+Author: susu
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: SuAwemeHook
+Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
+
 Package: com.susu.suxhshook
 Version: 1.0
 Architecture: iphoneos-arm64
