@@ -2298,6 +2298,43 @@ Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.
 Name: Snapper3 自用美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
 
+Package: com.forSnapper3four.wkk
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.forSnapper3four.wkk_1.0_iphoneos-arm64e.deb
+Size: 42346
+MD5sum: 341c2b283fc3c10fdeb6a1c748007978
+SHA1: 7185cd1a489267e50f46d5f87d0d83ed65ca6ad2
+SHA256: 84a11d67b2d3148e7291e37feda533f7de5512acb462c0c0961197b5c5e5bf67
+Section: 一切美化的东西都是垃圾
+Description: 自用美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3 自用美化（4）
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3four.json
+
+Package: com.forSnapper3four.wkk
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.forSnapper3four.wkk_1.0_iphoneos-arm64.deb
+Size: 40548
+MD5sum: c8a5aeaf843261b8f83f5e6bd3121ac1
+SHA1: d1168974961e413127ab082f666048c46fd1888c
+SHA256: 9ac3aff86c186fb4a1d5a213da0e0726a864a815263db17bbea3d604a9109c28
+Section: 一切美化的东西都是垃圾
+Description: 自用美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3 自用美化（4）
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3four.json
+
 Package: com.forSnapper3three.wkk
 Version: 1.0
 Architecture: iphoneos-arm64e
