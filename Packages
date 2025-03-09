@@ -4519,6 +4519,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ通知头像
 
+Package: com.recordpause
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.recordpause_2.0.6_iphoneos-arm64.deb
+Size: 11580
+MD5sum: b78b9dd6865d074d21b80088448ab958
+SHA1: 53eeeadc4ba44baf22b80b69ce80e2017fe03273
+SHA256: cb515d2f5ac97f886478ae9c9b3e9943808d12cff8a3574fa1d65645d57b5cc3
+Section: 插件
+Description: 录制视频时，可以手动暂停/恢复，非常好用！支持无根隐根。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: RecordPause
+
+Package: com.recordpause
+Version: 2.0.6
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.recordpause_2.0.6_iphoneos-arm64e.deb
+Size: 15448
+MD5sum: 7bdf2fd90d3e4f19f81b6b900e1058e2
+SHA1: e3fc4a3dcc9189feb99dfe78df892d982bf9b626
+SHA256: e7bc86557dcacb72691d4bc5e7daf1b350ee9ad756bb9e43144e50f4494f9056
+Section: 插件
+Description: 录制视频时，可以手动暂停/恢复，非常好用！支持无根隐根。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: RecordPause
+
 Package: com.serena.AppIndex
 Version: 1.0
 Architecture: iphoneos-arm64
