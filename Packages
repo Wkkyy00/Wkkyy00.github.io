@@ -6139,17 +6139,17 @@ Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/he
 Package: com.wkk.Desa
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: wkk
+Maintainer: Gleptech
 Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.Desa_1.0_iphoneos-arm64.deb
-Size: 10985584
-MD5sum: 45151b051627df5585dd58122b0ab3d9
-SHA1: 10acd2a0758cce48226c5c1a5855ca1260e8c8ef
-SHA256: 5b6d5fc9b282bf7eeff252c41084d08336497969662fe9ecbfbeb396d968d232
+Size: 10985588
+MD5sum: 79ced8238ed158a2329fd673129e0873
+SHA1: 2e304b962a61dfa710b9828d9957a93b6deb4741
+SHA256: 11b28519f98558bb3dce711933ba9d84bf7c5e4fd2b9dd3742c28e8c4b5c00a3
 Section: 一切美化的东西都是垃圾
 Description: 图标。
-Author: wkk
+Author: Gleptech
 Icon: https://s1.imagehub.cc/images/2025/03/11/93c5ac92ef7458d85ca58ab57c58b613.jpeg
 Name: Desa
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Desa.json
