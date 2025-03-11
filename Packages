@@ -6574,6 +6574,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/92c71257062850129b513726de475e60.png
 Name: 番茄小说NoAds
 
+Package: com.wkk.ftpz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.ftpz_1.0_iphoneos-arm64.deb
+Size: 2436
+MD5sum: 474f1af54d373a6078a25249e019d960
+SHA1: e9dedc5ce61440a632010dc01042b6fd3a08a2a0
+SHA256: 09baa1c1c3a62ffd5aef188ff60c31206186d80bb43b64ea1cb05aaa279ca7bc
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/cn.llld.fyllldprefs.plist
+  * 注意事项：导入后需重新激活FT
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: FT Tool（配置文件）
+
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64
