@@ -6436,6 +6436,40 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator
 
+Package: com.wctextcolor
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wctextcolor_1.1_iphoneos-arm64.deb
+Size: 22080
+MD5sum: 7980ba1213d3ea83b037bd35838ac8f0
+SHA1: 82a1f680db32b5827fa959e4a9592a868ff40efe
+SHA256: f6b0a5f3ffbfb11897cf366a48c013a647f63e75774ec42f624590e41d5b4b09
+Section: 微信插件
+Description: 微信输入框圆角，更改预选字颜色。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCTextColor
+
+Package: com.wctextcolor
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wctextcolor_1.5_iphoneos-arm64.deb
+Size: 21956
+MD5sum: 4f84b3f1e3d545b9d96552f3fa9f4e93
+SHA1: 5dd402a8f685551482f5f982fa3e9c3482c6bdd9
+SHA256: 217d8051ebc8ac78e022d7d287face1dd344e404f04f45fa211bae7c8e88f2d5
+Section: 微信插件
+Description: 微信输入框圆角，更改预选字颜色。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCTextColor
+
 Package: com.wechat.xuanzhuan
 Version: 0.0.1
 Architecture: iphoneos-arm64
