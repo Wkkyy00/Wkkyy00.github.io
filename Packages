@@ -2443,6 +2443,23 @@ Author: dvntm
 Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
 Name: SilentNotifs
 
+Package: com.dyzs
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/xuu.deb
+Size: 105232
+MD5sum: a5476b4c94c18e2572c34aa9d03d678a
+SHA1: 3007b885d9d8f930bfb04e27e2a5e74bab55c358
+SHA256: cbd53d7ae43c02ba3596a8558130c58b791957cd7465180526ce1bc01d090e00
+Section: 抖音插件
+Description: 学习交流。
+Author: XUUᶻ
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音助手
+Sponsor: k
+
 Package: com.edge.siri
 Version: 3.1.2
 Architecture: iphoneos-arm64
