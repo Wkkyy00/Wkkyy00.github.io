@@ -3706,6 +3706,22 @@ Author: opa334
 Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Name: Crane
 
+Package: com.kk.misaki.
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.kk.misaki._2.2_iphoneos-arm64.deb
+Size: 306152
+MD5sum: bbef2271495affd19ecd6bf2f8ec88f3
+SHA1: d4fa40bb80c3f10b50a6556e3f695a3a7a7306b9
+SHA256: f427193f15806ac682aa46054a516e3277055986302f1678bb17968f2af531ae
+Section: 插件
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.用 Misaki 定制你的 iOS 15 和 16 体验。定制选项让你的 iPhone 真正属于你自己。
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
 Package: com.krashkop
 Version: 1.0.2
 Architecture: iphoneos-arm64
