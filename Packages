@@ -1808,6 +1808,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/0575ab9f6ac5978840ad356c65cf63da.
 Name: RealCC
 Sponsor: wkk
 
+Package: com.ccsim
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Installed-Size: 188
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.ccsim_1.1-9_iphoneos-arm64.deb
+Size: 23628
+MD5sum: b6be6319c3ea0ffe1e1221771b72ac8c
+SHA1: f7aad7235b6a8d3d4ca6b0fc1262da214362e77b
+SHA256: 7f940983a0ba39f166ee1337674560f5b0700b364c9ae0c12cc12eaea268f70a
+Section: 控制中心
+Description: 控制中心快速启用或禁用其中一张SIM卡。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: CCSIM
+
 Package: com.ccswitchdata-rootless
 Version: 1.1-4
 Architecture: iphoneos-arm64
