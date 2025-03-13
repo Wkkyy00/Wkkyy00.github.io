@@ -7592,15 +7592,15 @@ Installed-Size: 624
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
 Filename: ./debs/com.xuuz.douyinhelpers_1.0-8_iphoneos-arm64.deb
-Size: 109764
-MD5sum: 8a2f558c75e3d39a3105a13950b0f619
-SHA1: fb7516373b4efec2fdef6e86d2cbfac850e843d0
-SHA256: 3f6426e8272fbf826e695b8d4efcd8f9f48143be1101ac38627b843d20c21dd9
+Size: 109600
+MD5sum: 4bb96d66751427e5af54817ba877029e
+SHA1: f69283b739e78bd34665d1c21df489bcd01a1cf7
+SHA256: a1fdf05d094ec41a75657248bcd56cd4fa5d131e0af763f48ab6c979ce0dc58d
 Section: 抖音插件
 Priority: optional
 Description: 学习交流。
 Author: XUUᶻ
-Https: //s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音助手
 
 Package: com.xx.ysbrowserhook
