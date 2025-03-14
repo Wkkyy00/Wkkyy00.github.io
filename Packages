@@ -1,18 +1,3 @@
-Package: CC+
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Filename: ./debs/CC+_1.0_iphoneos-arm64.deb
-Size: 506400
-MD5sum: bf79c362f743d068ee6d5857518a96d0
-SHA1: ceb8f3a95947501d00f8491dbc982ab8fe31a63d
-SHA256: dd76e34a7c7f5a67a88b227e1fb021ccd266783e39b6f1173eed20b534cce871
-Section: 控制中心
-Description: 集合的控制中心模块，自用修改版本。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/09/50f13052de797c8187cc25e41877fee3.png
-Sponsor: wkk
-
 Package: MikotoHelper
 Version: 1.3.6
 Architecture: iphoneos-arm64
@@ -6828,12 +6813,12 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.car_1.0_iphoneos-arm64.deb
-Size: 1024
-MD5sum: f1681f3ec0d0c1f33401f23b16ecb7f1
-SHA1: 3137f4e954258cf75cac6ee289f65217989ba46c
-SHA256: e9d9d7b09a549fd76cc74e10fe40f079304f81e0aea63e65bd45a8c12b7a882d
+Size: 1064
+MD5sum: 1b6db2b722e2e12be4064d8558da102c
+SHA1: 40bb6015f2d55d0d30da56e077fdb7989ea99a4b
+SHA256: 669c5dc8c1431a22ea83d95a29c3699101e4d67eb216695b63574447f2a8c8b3
 Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/解压Car.sh
+Description: 下载后文件在目录/var/mobile/Documents/解压Car.sh（需下载源里的uncar配合一起使用）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Car解压终端(自用)
@@ -6863,12 +6848,12 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.cqkjlogo_1.0_iphoneos-arm64.deb
-Size: 1292
-MD5sum: a46e337f4e9a8bfae908ec40f0933672
-SHA1: c20902e881ade314afef0b91ab82babe6dd0adfe
-SHA256: 4585f7c01834b33659bf48797798968ecc9cb042ead50729d532117dc7346f09
+Size: 1432
+MD5sum: 16f8ad77376d20d9dc5df295ea2a3bf1
+SHA1: ade19d3d0c2cbfe00cdbb08ac4365e0913699a43
+SHA256: 95d22924785db1cc503d655d53092447beddeebae97f10a71421d367aca3e31b
 Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/重启用户空间logo制作.sh
+Description: 下载后文件在目录/var/mobile/Documents/重启用户空间logo制作.sh（使用方法：新建文件夹，准备好logo素材，命名为logo.png，同目录下运行终端即可，自己决定logo素材长宽（分辨率），我个人的建议是500*500和700*700之间。）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 重启用户空间logo制作终端(自用)
