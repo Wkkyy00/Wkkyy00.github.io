@@ -7205,6 +7205,27 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 红包气泡制作终端(自用)
 
+Package: com.wkk.qipao
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.qipao_2.0_iphoneos-arm64.deb
+Size: 1712
+MD5sum: b2f8c66c7ccf572857d031800c38fffd
+SHA1: a54c8e594ab89b2acd6c864de1cc8ed1a3a26397
+SHA256: 79572bd0180d39df59a20e2ad25a991137ef235f134008ec431c11ce761c6f6a
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/气泡制作.sh
+  * 使用方法如下
+  * 我方气泡.png
+  * 对方气泡.png
+  * 红包气泡.png
+  * 运行终端即可（2.0补全红包）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 红包气泡制作终端(自用)
+
 Package: com.wkk.qmxshook
 Version: 1.0
 Architecture: iphoneos-arm64
