@@ -3634,6 +3634,23 @@ Author: MTAC
 Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
 Name: Alpine
 
+Package: com.k.bettercc
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/com.k.bettercc_0.0.6_iphoneos-arm64.deb
+Size: 48164
+MD5sum: 7a34a67c9579e4d14e136f08f89e4a69
+SHA1: a158eab70e93a88fcb8f93807b2236fbae53284f
+SHA256: 7bbc0a8aac1ea39ecd1e28b53f76f6ba3772f9a046456982d08abafb069f451d
+Section: 控制中心
+Description: 控制中心模块大小调整。
+Author: Miguelaka95
+Icon: https://sini921.github.io/repo/sileodepiction/icon/bettercc.png
+Name: BetterCC
+Sponsor: k
+
 Package: com.k.blurryalerts
 Version: 1.2.2-3
 Architecture: iphoneos-arm64
