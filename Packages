@@ -7174,12 +7174,12 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/空包.deb
-Size: 5968
-MD5sum: 64dc6af5e4cc55aa3d9923782d4065e3
-SHA1: 3d115327beb507264a758ca1df6bc63de2b67555
-SHA256: 37b40d9e595a458cc116d67775e608b91363352b581ecc84c7f6110c8332e157
-Section: 不要为了越狱，放弃升级的乐趣
+Filename: ./debs/空包包.deb
+Size: 5924
+MD5sum: 81b117b401bda9c91ec31eeeebc6e17b
+SHA1: 03476c06ede95703756b35ac9be0a55f9762f4d1
+SHA256: bb5ad2e40a1e910d250095f32cd7bf940bd157a50c6c71882046cc40d3f9e415
+Section: jailbreak
 Description: 建源初心。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
