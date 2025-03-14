@@ -7167,6 +7167,43 @@ Author: b4db1r3 <nfive060@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: OCD5
 
+Package: com.wkk.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 376
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.photosplus_0.0.1_iphoneos-arm64e.deb
+Size: 31218
+MD5sum: dfd5a571167b1d3bcd235ba9884419e7
+SHA1: 79ba64641dee7d1b4effd6c87e680815d47b40f8
+SHA256: 575bbea522c2759c6957f683cdee12cef5c5fa63524f63790a59ebad8ec97c7a
+Section: 插件
+Description: 个人自用款。
+Author: wkk
+Dev: nowesr1
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
+Name: PhotosPlus
+
+Package: com.wkk.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.photosplus_0.0.1_iphoneos-arm64.deb
+Size: 26228
+MD5sum: 5d2c49f1c1129086d5476321f3d707e7
+SHA1: 77c89d81f78d92bb1ba93ebc135b6d155b763da8
+SHA256: 0f49e9012a118281d10b6ad2eae744b1ece14f586ee55307ac79b32574f4a501
+Section: 插件
+Description: 个人自用款。
+Author: wkk
+Dev: nowesr1
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
+Name: PhotosPlus
+
 Package: com.wkk.qichezhijiahook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -8550,24 +8587,6 @@ Description: 仅在应用程序内禁用通知中心的下拉手势(适用于游
 Author: poqw312
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 禁用通知中心下拉手势
-
-Package: twitter.nowesr1.photosplus
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/twitter.nowesr1.photosplus_0.0.1_iphoneos-arm64.deb
-Size: 26484
-MD5sum: b9f714a76d9b934190c00862a53e8672
-SHA1: d4ffda39b99fa1590d5c536c27255572d5188c36
-SHA256: 4b15870ca0ed9a1913cbb8697978f337ceb220ce2785c28d4e66fe4fe4d6c8d7
-Section: 插件
-Description: 播放设置：循环播放视频 取消视频静音。   标签栏设置：隐藏图书馆标签页 隐藏为你推荐标签页 隐藏搜索标签页 隐藏分享标签页。个人觉得还不错！
-Author: nowesr1 <nowe9r@hotmail.com>
-Dev: nowesr1
-Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
-Name: PhotosPlus
 
 Package: uncar
 Version: 0.0.1-6
