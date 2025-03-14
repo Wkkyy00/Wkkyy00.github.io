@@ -6862,13 +6862,13 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.cqkjlogo_1.0_iphoneos-arm64.deb
-Size: 1432
-MD5sum: 16f8ad77376d20d9dc5df295ea2a3bf1
-SHA1: ade19d3d0c2cbfe00cdbb08ac4365e0913699a43
-SHA256: 95d22924785db1cc503d655d53092447beddeebae97f10a71421d367aca3e31b
+Filename: ./debs/com.wkk.cqkjlogo_1.0_iphoneos-arm.deb
+Size: 1440
+MD5sum: 870b7e4ef50090bee1518ae249e8f8ef
+SHA1: 7071c79ac0faf52da72d959f6cc98612842002c8
+SHA256: 2c789ca771bbe0df5fef1b80b65cf2efea1fb3697591f82f83066c3be5120077
 Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/重启用户空间logo制作.sh（使用方法：新建文件夹，准备好logo素材，命名为logo.png，同目录下运行终端即可，自己决定logo素材长宽（分辨率），我个人的建议是500*500和700*700之间。）
+Description: 下载后文件在目录/var/mobile/Documents/重启用户空间logo制作.sh（使用方法：新建文件夹，准备好logo素材，命名为logo.png，同目录下运行终端即可，自己决定logo素材长宽（分辨率），我个人的建议是500✖️500和700✖️700之间。）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 重启用户空间logo制作终端(自用)
@@ -7155,11 +7155,11 @@ Package: com.wkk.logo
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Filename: ./debs/com.wkk.logo_1.0_iphoneos-arm.deb
-Size: 94444
-MD5sum: 559655a1ce7389f2b412596d6ac2c55b
-SHA1: 861971480ccf3fbb3d96ebd871a63ab16c5ed206
-SHA256: 60f57af5ab85a34d659df9f87988d1fbe03b64a593af9c4f8474c89e49321a8c
+Filename: ./debs/com.wkk.logo_1.0_iphoneos-arm64.deb
+Size: 94436
+MD5sum: eedeaaa026b8cf067b6adfc289d29612
+SHA1: 36beee5334316a10c31b6689c3f4ffec50b84687
+SHA256: 142c23753d0b30df029bcd3957bea0494713de2df3b3c062c68767ec32825f8c
 Section: Dopamine挂载
 Description: 仅支持ios15-16无根越狱，替换重启用户空间的苹果logo为蜡笔小新（如图标）启发灵感来源与赵楠（虽然早被其他大神开发）还是发出来给兄弟们玩。可以加qq群828308356找我要logo制作终端改为自己的喜欢的logo或图片。
   * 苹果启动logo路径：/System/Library/PrivateFrameworks/ProgressUI.framework
