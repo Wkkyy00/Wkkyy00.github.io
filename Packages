@@ -275,16 +275,16 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/cn.llld.swipeextenderx_0.0.2_iphoneos-arm64.deb
-Size: 10508
-MD5sum: 01c0eef465271975b4bee1db0cf0fc7f
-SHA1: 215438d6337e676c983f3f0ed721b3b9a5319a30
-SHA256: 6bff24a1fef7d53fa1e22f6f7923521941a60d74408585f6a49689c0f737540f
+Filename: ./debs/cn.lld.swipeextenderx_0.0.2_iphoneos-arm64.deb
+Size: 10364
+MD5sum: fa48a22114f652133f22d707536cd4ce
+SHA1: 66ac361c7daa98ef979262b04c90ec34cace5492
+SHA256: 034922edb714965e530c3d42f9b4c41506a2d684e07508b0e38b66e46c7b997a
 Section: 插件
-Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
+Description: 如题。
 Author: 来了老弟
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderX汉化-rootless
+Name: SwipeExtenderX汉化
 
 Package: cn.upsidedowned
 Version: 1.1-4+debug
