@@ -378,6 +378,40 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/02/a2c35da350e7d354fc9b2cc9df5a7db5.jpeg
 Name: 音乐旋转
 
+Package: cn.zqbb.phonekey.reset
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: zqbb <w2599z@gmail.com>
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.zqbb.phonekey.reset_1.0.0-1_iphoneos-arm64.deb
+Size: 5016
+MD5sum: f0e8ad6bbddbea77fcd889c93d4c94b5
+SHA1: 4539713e306fa96765998ee3208ed15df051b2f8
+SHA256: 284511e38ba554bedf7908a75d5b0de86af0f6f20c78c3a649d372809f473cbf
+Section: Tweaks
+Description: 修复pro改max分辨率造成的电话拨号键盘错位，备份上架。
+Author: zqbb <w2599z@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PhoneKeyReset拨号键复位
+
+Package: cn.zqbb.phonekey.reset
+Version: 1.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb <w2599z@gmail.com>
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.zqbb.phonekey.reset_1.0.0-1_iphoneos-arm64e.deb
+Size: 5308
+MD5sum: 92c39cd6121e794060f37f4da8bc983c
+SHA1: 3c76a756df8601ab43725c6a76239b10c8927e5c
+SHA256: c28e033c3721e5f54768944236d49dfd484cdfc91fce008bd4b2009efd1b28c4
+Section: Tweaks
+Description: 修复pro改max分辨率造成的电话拨号键盘错位，备份上架。
+Author: zqbb <w2599z@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PhoneKeyReset拨号键复位
+
 Package: codes.aurora.kayoko
 Version: 2.7
 Architecture: iphoneos-arm64
