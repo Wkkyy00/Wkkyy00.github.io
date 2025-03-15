@@ -6243,17 +6243,15 @@ Maintainer: SWING
 Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Filename: ./debs/com.swing.padswitcher_1.1.0_iphoneos-arm64.deb
-Size: 26420
-MD5sum: 50254574b3e1f4fa77f561cb1dac1cb9
-SHA1: d098343ba4c6f08291f0dcaf1ed0686d167b9fcf
-SHA256: 0e8df69cbd93a07aec10d061436b84008fc7d6f2bdb9241f115db512519433dd
+Size: 26352
+MD5sum: 1c8ecdb8eab724d0b92085abbb7bc144
+SHA1: db8e15dcfe84ebb33e1491f6db3eae99615d5b9a
+SHA256: f80dc8cd775c1f85a06738019aa3c4ae2837e36c3fc270aa62010da5b78e826a
 Section: 插件
 Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
 Author: SWING
-Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
 Icon: https://s1.imagehub.cc/images/2025/01/02/c7ce195dbe0e70c59b617132dc0f6256.png
-Name: PadSwitcher - iPad多任务
-Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+Name: PadSwitcher
 
 Package: com.swipedownscreenshot
 Version: 1.0
