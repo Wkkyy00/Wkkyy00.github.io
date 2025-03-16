@@ -7445,23 +7445,6 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: 关于源（空包仅浏览）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kongbao.json
 
-Package: com.wkk.kongbao2
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/坎坎坷坷.deb
-Size: 5932
-MD5sum: c528b3b49a743434204607b02e58b242
-SHA1: fcd0a365917579191b6fb8a566edd1054f19fdfc
-SHA256: 05c549663a0b467f2f919064ce9f456206f170e7508205ec1b7150aa9707d57e
-Section: jailbreak
-Description: 建源初心。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
-Name: 关于源（空包仅浏览）
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kongbao.json
-
 Package: com.wkk.lineguazai
 Version: 1.0
 Architecture: iphoneos-arm64
