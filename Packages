@@ -5064,10 +5064,10 @@ Architecture: iphoneos-arm64
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
 Filename: ./debs/com.pancake_2.3_iphoneos-arm64.deb
-Size: 112836
-MD5sum: 874e484c56b537e5bb82e0a722fcf080
-SHA1: 89b9da074f26cefa1809ba9df0e5ac428b03602e
-SHA256: cb44fb91aff0fa50be3bfe0461225a3a275eebdcc45a30be58d2fdda918427d3
+Size: 112916
+MD5sum: 4563e8eda9832347769711c4f7355294
+SHA1: 985f254767ca27731c07ffb415ac1a637694d48b
+SHA256: 17478d8a5b11816a446f583e49d43ccbf05eee0d2bc4e7965c169f44e9298141
 Section: 插件
 Description: 仅备份。已汉化。
 Author: AnthoPak <anthopakdev@gmail.com>
