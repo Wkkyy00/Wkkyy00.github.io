@@ -5042,6 +5042,38 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/06/94cb0d60b93edaf171b34044f9b754ab.png
 Name: TwitterNoAds
 
+Package: com.pancake
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.pancake_2.2_iphoneos-arm64.deb
+Size: 99604
+MD5sum: 31dfd5188580d587765ca3dec86f1a0a
+SHA1: 26327319d74e15f9b240835cb3bd430d6883ba28
+SHA256: 36935b395bc01968eb5c8ddcc96d65b90be4a2b2986b467ca05af99f7f8eec7d
+Section: 插件
+Description: 仅备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
+Name: PanCake
+
+Package: com.pancake
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.pancake_2.3_iphoneos-arm64.deb
+Size: 111496
+MD5sum: 908d03c51e6c0fd361b5a69ab848e174
+SHA1: 0bc421266e69fbb089f1482e137d1d34e6204790
+SHA256: d68c3002303bcf02d0d7feafb345299665abf7f85080762ec02016e6f1ecdb1f
+Section: 插件
+Description: 仅备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
+Name: PanCake
+
 Package: com.pantsthief.flexing
 Version: 1.5.2
 Architecture: iphoneos-arm64e
@@ -5399,38 +5431,6 @@ Author: Nightwind
 Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
 Name: OneSettings插件归类
 Sponsor: sini921
-
-Package: com.sini.pancake
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
-Filename: ./debs/com.pancake_2.2_iphoneos-arm64.deb
-Size: 99628
-MD5sum: 90e4d9d44c9b06e6c0861a744c4a39fb
-SHA1: fe688690c98a139c92e49839efbfdbbabadb2d38
-SHA256: 5b61f4b70ccd440995702b289e37f98ab651326dd0a97c6c557d39b06f47d5d4
-Section: 插件
-Description: 仅备份。
-Author: AnthoPak <anthopakdev@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
-Name: PanCake
-
-Package: com.sini.pancake
-Version: 2.3
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
-Filename: ./debs/com.sini.pancake_2.3_iphoneos-arm64.deb
-Size: 111524
-MD5sum: 2db63e82883173b6421cbdf8bb96dc78
-SHA1: b24e845ef3da6c229552aeac814168f4670d3d2a
-SHA256: 8c8f4d7f2328336ae8f4977180be2ecd8f7d05c5b43c68757a1e9ff355b99ca8
-Section: 插件
-Description: 仅备份。
-Author: AnthoPak <anthopakdev@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
-Name: PanCake
 
 Package: com.sini921.showmytouches
 Version: 1.2.0
