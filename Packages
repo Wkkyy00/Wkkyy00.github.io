@@ -4515,6 +4515,23 @@ Author: huami&Lxcloud
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCEhance
 
+Package: com.lxcloud.WCEhance
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.0-6_iphoneos-arm64.deb
+Size: 56944
+MD5sum: d66fe121c99bdc62af539abdddf58ce6
+SHA1: 5c99e351ba090a099696bafe599302e6a7b3040e
+SHA256: 8905c1707d80623ee12d435767d5485f43357987b999020d33ee1823f7c59be5
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCEhance
+
 Package: com.marie
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -5393,6 +5410,22 @@ Size: 99628
 MD5sum: 90e4d9d44c9b06e6c0861a744c4a39fb
 SHA1: fe688690c98a139c92e49839efbfdbbabadb2d38
 SHA256: 5b61f4b70ccd440995702b289e37f98ab651326dd0a97c6c557d39b06f47d5d4
+Section: 插件
+Description: 仅备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
+Name: PanCake
+
+Package: com.sini.pancake
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.sini.pancake_2.3_iphoneos-arm64.deb
+Size: 111524
+MD5sum: 2db63e82883173b6421cbdf8bb96dc78
+SHA1: b24e845ef3da6c229552aeac814168f4670d3d2a
+SHA256: 8c8f4d7f2328336ae8f4977180be2ecd8f7d05c5b43c68757a1e9ff355b99ca8
 Section: 插件
 Description: 仅备份。
 Author: AnthoPak <anthopakdev@gmail.com>
