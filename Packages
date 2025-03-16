@@ -4120,6 +4120,41 @@ Author: liuf <(null)>
 Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
 Name: 系统键盘圆角
 
+Package: com.lly.ghallownetwork
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.lly.ghallownetwork_0.0.1_iphoneos-arm64.deb
+Size: 8084
+MD5sum: d18c2ba8bb3c1b8a9ed726329acc4105
+SHA1: e27ea15bba4f21e5f7d666ed5453f7166d13c908
+SHA256: c9e59ed2bdb820e57630e584a5b1c7345a7aafe28e3ca02cdf688f10dabc956b
+Section: Tweaks
+Description: 国行手机自动允许使用网络。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Allow Network
+
+Package: com.lly.ghallownetwork
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.lly.ghallownetwork_0.0.1_iphoneos-arm64e.deb
+Size: 10564
+MD5sum: ab3e859829bf16c5a01742c5c8eb4602
+SHA1: b5dbd2e2afc3bf995854d51a0e880ac8821f8ff6
+SHA256: 9cb7dd2de0f53002c3006a5f9e95a195b6e13d3edd952620361dd88806a1b266
+Section: Tweaks
+Description: 国行手机自动允许使用网络。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Allow Network
+
 Package: com.lly.shortvideodl
 Version: 1.8.3
 Architecture: iphoneos-arm64
