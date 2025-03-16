@@ -8017,25 +8017,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画1.0
 
-Package: com.xuuz.douyinhelpers
-Version: 1.0-8
-Architecture: iphoneos-arm64
-Maintainer: XUUᶻ
-Installed-Size: 624
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
-Filename: ./debs/com.xuuz.douyinhelpers_1.0-8_iphoneos-arm64.deb
-Size: 109600
-MD5sum: 4bb96d66751427e5af54817ba877029e
-SHA1: f69283b739e78bd34665d1c21df489bcd01a1cf7
-SHA256: a1fdf05d094ec41a75657248bcd56cd4fa5d131e0af763f48ab6c979ce0dc58d
-Section: 抖音插件
-Priority: optional
-Description: 学习交流。
-Author: XUUᶻ
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音助手
-
 Package: com.xx.ysbrowserhook
 Version: 1.0.2
 Architecture: iphoneos-arm64
