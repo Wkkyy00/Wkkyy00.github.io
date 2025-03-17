@@ -4466,6 +4466,23 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
 Name: 短视频助手
 
+Package: com.lly.shortvideodl
+Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5076
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lly.shortvideodl_1.9.5_iphoneos-arm64.deb
+Size: 902680
+MD5sum: 9e736b57344a27332c2f63ea12e7b655
+SHA1: 1df59bbb3d134f2bd887265c8e40948668fb5fda
+SHA256: 1950cb621f9980e660f665a33f439099d1498cddbdec61892c2f274694f667aa
+Section: 插件
+Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
+Name: 短视频助手
+
 Package: com.lowpowerbannertips
 Version: 1.1-3
 Architecture: iphoneos-arm64
