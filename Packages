@@ -2643,10 +2643,10 @@ Architecture: iphoneos-arm64
 Maintainer: k
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.dyzs_1.1-2_iphoneos-arm64.deb
-Size: 122980
-MD5sum: db88d49d2065e6fb9bd23a757ede2862
-SHA1: 5b4674a04414a3577375f215c66bcf36ab6b22f1
-SHA256: 950fd3d1553a538b8ba6080d430c88ec238f885b2ba2a5292f09812bfaaa8f67
+Size: 123256
+MD5sum: a557c81d7cb355990ed158d736cb3371
+SHA1: 54823131bd3fe979aaa0525b4fe569fd0b825977
+SHA256: bbb60c01220593986b883e224c4026c50519cf8d1a94d82b753335575af0dada
 Section: 抖音插件
 Description: 学习交流。
 Author: XUUᶻ
