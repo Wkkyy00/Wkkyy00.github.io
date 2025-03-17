@@ -5293,6 +5293,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ通知头像
 
+Package: com.recordntorch
+Version: 1.8.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 11.0), gsc.camera-flash
+Filename: ./debs/com.recordntorch_1.8.4_iphoneos-arm64.deb
+Size: 4412
+MD5sum: 416b5a3ed64fc58093e36938a8c6209a
+SHA1: 8576ad4feca84163c5e20159ec5710efd89fd1dd
+SHA256: 7bdb3c38fbbfbfc50be1f11271875cecf0d386a2567086d4fdd67fdda4adb8d2
+Section: 插件
+Description: 录制视频时开启闪光灯（左上角）
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Record
+
+Package: com.recordntorch
+Version: 1.8.4
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), gsc.camera-flash
+Filename: ./debs/com.recordntorch_1.8.4_iphoneos-arm64e.deb
+Size: 5948
+MD5sum: 2cfaae48ad7b7dad933870497b754dfd
+SHA1: 8fcfb6f6348de2712ca48172ba830451d67f49b7
+SHA256: 0cd6fe0fe9d247a7bc2c4033235ae5e62eec8952d2c1455fe930fa9c8e7dc750
+Section: 插件
+Description: 录制视频时开启闪光灯（左上角）
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Record
+
 Package: com.recordpause
 Version: 2.0.6
 Architecture: iphoneos-arm64
