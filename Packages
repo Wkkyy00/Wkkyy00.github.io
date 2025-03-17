@@ -2689,6 +2689,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/2772e1b5bbc73fd906d7f03261cff53f.
 Name: EdgeSiri
 
 Package: com.enhance
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 1420
+Depends: firmware (>= 15.0), org.theos.substitute (>= 2.0) | com.ex.substitute (>= 2.0) | mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.4)
+Filename: ./debs/com.enhance_1.0-7_iphoneos-arm64.deb
+Size: 221460
+MD5sum: 65e4042aa482a3b13fdaa5f8b7882892
+SHA1: eb09ecebf49f7b18549772ef6a481d169bacce64
+SHA256: 7dd7ec05ccb27912ff3b6d51078702f551f8d3af9fc180a0a147e0d629a82bc7
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Author: 愫茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.enhance
 Version: 1.0.0-2+debug
 Architecture: iphoneos-arm64
 Maintainer: Developer
