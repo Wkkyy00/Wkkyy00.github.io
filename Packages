@@ -2638,6 +2638,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.
 Name: SilentNotifs
 
 Package: com.dyzs
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.dyzs_1.1-2_iphoneos-arm64.deb
+Size: 122980
+MD5sum: db88d49d2065e6fb9bd23a757ede2862
+SHA1: 5b4674a04414a3577375f215c66bcf36ab6b22f1
+SHA256: 950fd3d1553a538b8ba6080d430c88ec238f885b2ba2a5292f09812bfaaa8f67
+Section: 抖音插件
+Description: 学习交流。
+Author: XUUᶻ
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音助手
+Sponsor: k
+
+Package: com.dyzs
 Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: k
