@@ -2688,6 +2688,23 @@ Author: tangerine
 Icon: https://s1.imagehub.cc/images/2025/01/21/2772e1b5bbc73fd906d7f03261cff53f.png
 Name: EdgeSiri
 
+Package: com.enhance
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Developer
+Installed-Size: 1224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.enhance_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 186304
+MD5sum: c929dbff4e511e9854154f6f85bf34ba
+SHA1: aa93ce2baab7d988905ee8555661b41a5e312535
+SHA256: cbeef6aa405a4322bf5a15f8acfdaf576f20c64532fb82d93b3b8702fc96815c
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Author: Developer
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
 Package: com.ethanrdoesmc.dawn
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -3539,6 +3556,25 @@ Size: 74036
 MD5sum: 940ed970b2ac054bcf4513106205640e
 SHA1: f9c542fe405ae7e4e9b19207c4eb10a05243a2bf
 SHA256: 64313a190bb0e43cf2f3322f08e4d8af3256b89c6aae72609f93de35483ee89b
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.1-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.1-5_iphoneos-arm64.deb
+Size: 78276
+MD5sum: 26c9294fdab67ac8c4312beec6edb4d8
+SHA1: 2387d7cd6688284bb055cb5c9740258cb5f53e31
+SHA256: 7ebeb89d50b76e25150cfe38993525507c4bf1ab722d5220ad7f6e12fde8db2c
 Section: 抖音插件
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -6237,6 +6273,42 @@ Size: 817776
 MD5sum: b368c9db78c583f02a44698ce8239249
 SHA1: 60207adda5be147a8565458a21cdc31874baae2f
 SHA256: 24e70f728d62d35d26b3c7155ddfb866f114c1f65d4f9f362f30d8e47bfeb391
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑,仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.7.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1448
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.7.3_iphoneos-arm64.deb
+Size: 826884
+MD5sum: cf79afe642d21627297957119fb037d9
+SHA1: 802746458f00ff702064adec5dc2194336b94182
+SHA256: 4418620969ec85f5b4cee439ebee3be9ac6ec0205ea98b2f15f235efc34f1c40
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑,仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.7.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1984
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.7.5_iphoneos-arm64.deb
+Size: 1355100
+MD5sum: f944c543dfb23fa9c01179436a4e1c7c
+SHA1: 26cc5a2ee0c606e2e2a955c39be0e0ba020355cf
+SHA256: fa21f7955dc13c46c19bf5219f377ab82df32536cd3944960c7744881758a6e0
 Section: 插件
 Description: ReachPlayer便捷访问音乐专辑,仅自用
 Author: 苏苏
