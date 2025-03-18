@@ -2181,6 +2181,22 @@ Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
+Package: com.curtin.pkc
+Version: 0.7-0
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-0_iphoneos-arm64.deb
+Size: 815848
+MD5sum: 9c6a3e4d8dc6b1943b7f33f3c4d25904
+SHA1: bd6a4d01cca86a66924b1181dfbd759a9bbfc89f
+SHA256: 887dcdd5645a8825261b26d89c1866c9575cf07374e6c28a05f808e9a3c99e98
+Section: 微信插件
+Priority: optional
+Description: 学习交流。
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: PKC
+
 Package: com.cutestatusbar
 Version: 1.0.0
 Architecture: iphoneos-arm64
