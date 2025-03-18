@@ -2706,16 +2706,16 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChatEnhance
 
 Package: com.enhance
-Version: 1.0.0-2+debug
+Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: Developer
 Installed-Size: 1224
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.enhance_1.0.0-2+debug_iphoneos-arm64.deb
-Size: 186304
-MD5sum: c929dbff4e511e9854154f6f85bf34ba
-SHA1: aa93ce2baab7d988905ee8555661b41a5e312535
-SHA256: cbeef6aa405a4322bf5a15f8acfdaf576f20c64532fb82d93b3b8702fc96815c
+Filename: ./debs/com.enhance_1.0.8_iphoneos-arm64.deb
+Size: 226912
+MD5sum: 3d0962c92a31bb41a95d83254ec3576e
+SHA1: 4388d55d9fc881533a261e52f797f7f5cd30267b
+SHA256: 661b4a884f7215d7353aa244ab1a9ebdf414cd87eccbf4171c47ccdc8db2087b
 Section: 微信插件
 Description: 微信增强插件，支持聊天按钮布局自定义等功能。
 Author: Developer
