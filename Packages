@@ -2611,12 +2611,12 @@ Architecture: iphoneos-arm64
 Maintainer: Doki <qiaozhani000@163.com>
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.doki.wxkeyboarduihook_1.8_iphoneos-arm64.deb
-Size: 81400
-MD5sum: ab99ebb788aa4a36fb4f9b6cd8c8fe7f
-SHA1: 1f2d453050ba490e5a91251886693537b00ac107
-SHA256: ffd43cc39372493f8ed512af0ed1574a685367cef7a8a79a3f39c94db05ed06b
+Size: 81560
+MD5sum: afc1c99412e084793a0099e3f98935d3
+SHA1: e0461c866662c2f1e85c0268450f7e7412aff82c
+SHA256: b2ec87c4975036c41de572f1dc9521968cc4a557d8f9495b087b8b70ebcf28d4
 Section: 微信插件
-Description: 微信输入法自定义，功能如下：启用按键圆角，启用按键边框，启用按钮边框，启用候选字颜色，隐藏顶部左上角Logo，隐藏候选栏末尾分割线。我测试隐根上无效，无根自己测试。
+Description: 微信输入法自定义，功能如下：启用按键圆角，启用按键边框，启用按钮边框，启用候选字颜色，隐藏顶部左上角Logo，隐藏候选栏末尾分割线。
 Author: Doki <qiaozhani000@163.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信输入法自定义
