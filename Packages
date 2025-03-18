@@ -5468,6 +5468,23 @@ Author: PoomSmart
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: RecordPause
 
+Package: com.satella
+Version: 1.9.0-1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Conflicts: xyz.cypwn.satella, emt.paisseon.satella, com.dao.satella.cn
+Filename: ./debs/com.satella_1.9.0-1_iphoneos-arm64.deb
+Size: 73540
+MD5sum: 235edcedba9c0471faef3baf1e42e80b
+SHA1: 5a02ca2ffa548d0d2f439ddbe1b339f552933ea6
+SHA256: b90adf93e4ae8196e1939482991a83574f920db89b79b72cb0671b094354a775
+Section: 插件
+Description: 牛X的本地内购买破解器，已包含简体中文包。
+Author: Paisseon
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Satella中文版
+
 Package: com.serena.AppIndex
 Version: 1.0
 Architecture: iphoneos-arm64
