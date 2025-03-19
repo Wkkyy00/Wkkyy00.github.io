@@ -7169,10 +7169,10 @@ Maintainer: WeChat
 Installed-Size: 6132
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.tencent.themebox_2.0.0_iphoneos-arm64.deb
-Size: 3586812
-MD5sum: a1396646394dd40066b9a288996453b4
-SHA1: b79c78ff4790b82885bad45e52db789719193770
-SHA256: bcdb4f8a0c37473bf03d038d914a3a48c8b4ea61f8c23c52b1631afcdd6a5447
+Size: 3584936
+MD5sum: 5d1a11eca4515656698d6b1e40d53dc5
+SHA1: 48c8ccf245e750c5cc545ef5bffe77ab158e40eb
+SHA256: 1cf5a99c8f7ebf21dcb3b25dc55d89630276ae10d056cfa83eaea7f9e59eebe8
 Section: 微信插件
 Description: 备份。
 Author: WeChat
