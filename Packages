@@ -2791,6 +2791,23 @@ Author: Developer
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEnhance
 
+Package: com.enhance
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: Developer
+Installed-Size: 1224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.enhance_1.0.9_iphoneos-arm64.deb
+Size: 166268
+MD5sum: dab76994a50cbd79f5497a5702364345
+SHA1: 2681f75266e8625d07fc8e2d32b55350a7368b60
+SHA256: cb66125feb5340242645a0b3f3d9662e89497e80694efae7822c1da765b787de
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Author: Developer
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
 Package: com.ethanrdoesmc.dawn
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -4605,6 +4622,23 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
 Name: 短视频助手
 
+Package: com.lly.shortvideodl
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5076
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lly.shortvideodl_1.9.7_iphoneos-arm64.deb
+Size: 913188
+MD5sum: 342015c73c129409e83dd59d470c2e5f
+SHA1: b4230347fbc0343610efcc6895ed30d38b33d5f0
+SHA256: 4e5e4ba60bdccc05193e4b51a1c0b127823b8eee612a230d2b9074a7c1140798
+Section: 插件
+Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
+Name: 短视频助手
+
 Package: com.lowpowerbannertips
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -6346,6 +6380,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/powermenu.png
 Name: PowerMenu
 
+Package: com.susu.powermenu
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.powermenu_1.0.6_iphoneos-arm64.deb
+Size: 34324
+MD5sum: 1c5b6c4a6769f5f4778cf8aa9726d8e6
+SHA1: fd1e263921affd7a789fe00acc30e6220208a5a0
+SHA256: 5e5a2a7fd1ccc82e70405b59178ab75e850ec15d620b9e36086c177ee931ed4e
+Section: 控制中心
+Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。
+Author: 苏苏
+Icon: https://www.susubaby.top/images/powermenu.png
+Name: PowerMenu
+
 Package: com.susu.reachplayer
 Version: 3.1
 Architecture: iphoneos-arm64
@@ -6467,6 +6518,24 @@ SHA1: 26cc5a2ee0c606e2e2a955c39be0e0ba020355cf
 SHA256: fa21f7955dc13c46c19bf5219f377ab82df32536cd3944960c7744881758a6e0
 Section: 插件
 Description: ReachPlayer便捷访问音乐专辑,仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.7.9
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1240
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.7.9_iphoneos-arm64.deb
+Size: 562716
+MD5sum: a0c3b887b4539fb9d0766ec45e15613a
+SHA1: 6740d5bbdf44dba2b0c9fe3297aeb6785eb8c0f3
+SHA256: ff42c94a9136de21a9382413bc7ec9d0f201fec40ae8055e9124346a3c22942c
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
 Author: 苏苏
 Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
