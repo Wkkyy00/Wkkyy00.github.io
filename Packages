@@ -465,6 +465,23 @@ Author: Alexandra Aurora Göttlicher
 Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
 Name: Kayoko
 
+Package: codes.aurora.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.8_iphoneos-arm64.deb
+Size: 127164
+MD5sum: bc316a0af201ed49342196bc13e81901
+SHA1: 91d193c1fcff2ea2d139735524c3e900cccd306f
+SHA256: 7ec37003bc156c2e9939f03571e40d03a1ecefffe628f8f5cf74cf60a01478e3
+Section: 插件
+Description: 乌龙工作室修复维护支持ios16。剪贴板插件完全免费。上架备份。
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
+Name: Kayoko
+
 Package: com.0xkuj.ccadsbegone.rootless
 Version: 1.5
 Architecture: iphoneos-arm64
