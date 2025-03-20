@@ -4352,6 +4352,40 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.
 Name: Applecard
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Applecard.json
 
+Package: com.lenglengyu.afakerxi
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 212
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.lenglengyu.afakerxi_1.0.3_iphoneos-arm64.deb
+Size: 20416
+MD5sum: ddceae757afc8bf742292e249150bddf
+SHA1: d7a0bcc990803b4fd050b9e61384790f93318f78
+SHA256: 6e4302c41ec6fd5f608969911a6c1427447397754b7667e9e370258167e0b003
+Section: 插件
+Description: 伪装电量，步数修改。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AFakerXI
+
+Package: com.lenglengyu.afakerxi
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 212
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.lenglengyu.afakerxi_1.0.3_iphoneos-arm64e.deb
+Size: 20264
+MD5sum: b16a6068dc9319feeba2c7811b050597
+SHA1: d62a02ae66bc9b9a1b3d357e64ee509c927de2c0
+SHA256: c48c7501e8f3cd69b47536bc3c7874a5c6dc455649330c2132e9a68365858f75
+Section: 插件
+Description: 伪装电量，步数修改。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AFakerXI
+
 Package: com.lenglengyu.disableappcreationalbums-rootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
