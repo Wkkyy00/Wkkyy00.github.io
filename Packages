@@ -9339,28 +9339,6 @@ Depiction: nebula
 Icon: https://s1.imagehub.cc/images/2025/02/01/35cc41ac1e924657c3e222247af3a198.png
 Name: Ding
 
-Package: net.joebruce.uninstallguard
-Version: 1.5.6
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 5122
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/net.joebruce.uninstallguard_1.5.6_iphoneos-arm64.deb
-Size: 1392708
-MD5sum: 9e95b3b4190ec12fa410e3087de8a86c
-SHA1: 1dac9a1ab55bee07e33552d46eef202b62283903
-SHA256: 37d8edd634daf445fe01c9258a37079044a7a1ea543461bc6f724c63f492b95e
-Section: 应用程序
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uninstallguardDp
-Description: 一款防止App被卸载的插件，在越狱状态下你设置的App都不可能被卸载，注意：这是一款付费插件 一年15元，不付费只能限制一个App，有能力的人可以购买，自测无根隐根都能用。
-Tag: purpose::extension
-Author: Joe Bruce <joebruce1122@hotmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uninstallguardDp
-Dev: joebruce
-Icon: https://s1.imagehub.cc/images/2025/01/05/c5d0b4d4a007f1d36a0c8f4b9744221d.png
-Name: 卸载守护者
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: netskao.wechatpurification
 Version: 4.2-6-END
 Architecture: iphoneos-arm64
