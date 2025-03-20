@@ -2324,6 +2324,27 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: Gyration
 Sponsor: wkk
 
+Package: com.cydiageek.hidesearchbutton
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 174
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.cydiageek.hidesearchbutton_1.0.0_iphoneos-arm64.deb
+Size: 4032
+MD5sum: 11dced485dd2bd8644689cad84074180
+SHA1: 503685cb7b6d2ef3f0e755a768fc9bfd09dee56f
+SHA256: 281e51fddb1541483fb057afd333a0c1c70311ed16fe9d2ea6ff8847660577f6
+Section: Tweaks
+Priority: optional
+Description: 隐藏桌面搜索但不禁用功能。
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: HideSearchButton
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
