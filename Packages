@@ -2074,6 +2074,24 @@ Author: fiore & p2kdev & 妖刀
 Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
 Name: CCBorder16
 
+Package: com.cccellularrate
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: k
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.cccellularrate.deb
+Size: 89696
+MD5sum: 060cef656dca187030145c58003357d1
+SHA1: ca94e2e70bedcc5b539a2608d952e54d9f06c893
+SHA256: 1e4f554828620027133ad6a531eb8e075df60433e23b72ca68bfb251b343cd8d
+Section: 控制中心
+Description: 控制中心快速开启2/3/4/5G
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: CCCellularRate
+Sponsor: k
+
 Package: com.cconandoff
 Version: 1.1.0
 Architecture: iphoneos-arm64
