@@ -7380,15 +7380,34 @@ Name: VPNIndicator
 
 Package: com.waqt
 Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: k
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.waqt_1.4_iphoneos-arm64e.deb
+Size: 36352
+MD5sum: 4738fad0a167b11d2ec7a34f38301856
+SHA1: 9f2c469242fb0deb4f6a1e5aacc3b2b806289525
+SHA256: 57354b1e8c05cbb3d5233ca0852e19d2e53b6d49e628718c71bbb1310853e56c
+Section: 插件
+Description: 自定义时间日期，免费。
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Waqt
+Sponsor: k
+
+Package: com.waqt
+Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: k
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/con.waqt.deb
-Size: 34980
-MD5sum: 237d51820764dec28139940a31af557c
-SHA1: 4e3138826223194ec730fd2bf47568f658a608ca
-SHA256: 2a0cd48be9a15372af36691a7255c04937db5bb642deba6f8eee4457ff9cf26b
+Filename: ./debs/com.waqt_1.4_iphoneos-arm64.deb
+Size: 34936
+MD5sum: 6ad8961e251798c2a5ae61d335173efa
+SHA1: 8aeceab118c3b8a7669db8ace05df8bd61fb51a1
+SHA256: ac46e71065aea806f8cb1e2ad24937b331ce9d262b87ec70ca7bc58671fd3c25
 Section: 插件
 Description: 自定义时间日期，免费。
 Author: P2KDev
