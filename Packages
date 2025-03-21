@@ -4971,6 +4971,23 @@ Author: huami&Lxcloud
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCEhance
 
+Package: com.lxcloud.WCEhance
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.0-7_iphoneos-arm64.deb
+Size: 57376
+MD5sum: 43109a8808d2bbeff8ffb8c77347a03b
+SHA1: bf617791ea2781a51b42698fde815993d4da423a
+SHA256: aac850ba4e1bde555343dc5a4161ea3e3adfd95fdeeb9214a867d23721783bb6
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCEhance
+
 Package: com.marie
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -7833,6 +7850,25 @@ Size: 167320
 MD5sum: d0c250813d1f656717d87749ff2cccac
 SHA1: a16f70184e9e53b39cb3df9afd656f737f393931
 SHA256: 5bf5db4ca799710b7c19371623907b6936cbeedfc3e6c8722705657c34584f99
+Section: 控制中心
+Description: 自用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
+Sponsor: wkk
+
+Package: com.wkk.center
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.wkk.center_4.0_iphoneos-arm64.deb
+Size: 180980
+MD5sum: 5e75c6e326656372aba2f5ff5a62d35e
+SHA1: 52ccb075abb747d2fc938042ebaef152237b23d5
+SHA256: 36f81c97c65ea600fa17ad711db80ced6260000e70e4a3f6163ab41c77a56107
 Section: 控制中心
 Description: 自用。
 Author: wkk
