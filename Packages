@@ -8541,23 +8541,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
 Name: QQ音乐NoAds
 
-Package: com.wkk.roothide
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.roothide.deb
-Size: 5948
-MD5sum: 80e63bfb6f05ec32a8d534d6575f04fc
-SHA1: 05cf8e284ba15c824ce14e924a116ed60af556b6
-SHA256: 199812833ed373181118bf58c0c6a72c10ee6d999067b98ccf9cf95929ca83e3
-Section: jailbreak
-Description: 挂🪜看图。
-Author: zqbb
-Icon: https://s1.imagehub.cc/images/2025/03/21/71e0966bb8d4e8016b76cc1aace00c5b.jpeg
-Name: 关于roothide越狱提示无根残留（空包）
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
-
 Package: com.wkk.roothidezd
 Version: 1.0
 Architecture: iphoneos-arm64
