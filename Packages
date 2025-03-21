@@ -7822,6 +7822,25 @@ Name: wkkCenter
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
 Sponsor: wkk
 
+Package: com.wkk.center
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.wkk.center_3.0_iphoneos-arm64.deb
+Size: 167320
+MD5sum: d0c250813d1f656717d87749ff2cccac
+SHA1: a16f70184e9e53b39cb3df9afd656f737f393931
+SHA256: 5bf5db4ca799710b7c19371623907b6936cbeedfc3e6c8722705657c34584f99
+Section: 控制中心
+Description: 自用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
+Sponsor: wkk
+
 Package: com.wkk.cqkjlogo
 Version: 1.0
 Architecture: iphoneos-arm64
