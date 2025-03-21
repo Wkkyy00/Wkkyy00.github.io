@@ -8969,6 +8969,23 @@ Author: yan
 Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
 Name: Stella
 
+Package: com.ydw.BypassWechatMSG
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: BypassWechatMSG
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ydw.BypassWechatMSG_0.0.2_iphoneos-arm64.deb
+Size: 322932
+MD5sum: ec7857bc9fa15af5020a19a9cdd60aa0
+SHA1: cda6d23dc472ce665c0f8a20f9e68698db6b6bd5
+SHA256: c100b75bf30d69d9e83084404f5949abe43d0140c717ddb09cd74c4bb33e054c
+Section: 微信插件
+Description: 修改「合并转发」聊天记录预览内容文本。
+ * 依赖老猫「插件收纳」
+Author: BypassWechatMSG
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BypassWechatMSG
+
 Package: com.yourepo.arm64-debs.settingswidgets
 Version: 1.2.2
 Architecture: iphoneos-arm64
