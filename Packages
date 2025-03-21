@@ -2285,19 +2285,43 @@ Name: CozyBadges
 
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64e.deb
+Size: 389168
+MD5sum: 6f6c8a85149c7da8e36874220d411a2e
+SHA1: 7649c221a71cebc24ef822c717e0abda71d3355f
+SHA256: 98d793d08799cc8b91268415876bd8d4a2166c3d27c73b96a450e812af789fdb
+Section: Applications
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: 桌面生成App，直达越狱插件页面。
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.9
 Architecture: iphoneos-arm64
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1064
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
 Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
-Size: 386636
-MD5sum: f424247a3a3910ac4b71e115a48cb2c5
-SHA1: df0c56ce4a5f42b7ad26f56a0cb3fda9d64323db
-SHA256: 03d9bbff66b960f7d9e6a8e133f87c016ed17587bd290f75e832e2a18b5da9cd
+Size: 386624
+MD5sum: 39a347e1cf9b4e837a3a02adacf71b74
+SHA1: 1d4859cbbc8fad2921a2905da7ca2d91a9eae96f
+SHA256: a81e0536b513bb376777de1b98e5b59a266fe43d7df7f9ef5211e509a16732d7
 Section: Applications
 Priority: optional
 Homepage: https://creaturecoding.com/
-Description: Dedicated settings app for tweaks
+Description: 桌面生成App，直达越狱插件页面。
 Tag: purpose::application, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
@@ -2449,6 +2473,24 @@ Dev: lucaluca86
 Icon: https://s1.imagehub.cc/images/2025/01/02/a2c50494115bb77d04956d94c4728f76.png
 Name: TintIconLabel
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.dao.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: ./debs/com.dao.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 2758884
+MD5sum: 9e251b6f098d6b062dc0a48398ab6697
+SHA1: 9f7cac7d99585a12edcd17ff56e9dc873fe40822
+SHA256: 4b4a6c63a0107eedd7cf306c03bb94c4489ed9ddebe27d7de7fd7045b7c9b7a8
+Section: 应用程序
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文。
+Author: Ivano Bilenchi
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
+Name: iCleaner Pro
 
 Package: com.dao.icleanerpro
 Version: 7.10.0
@@ -5926,6 +5968,24 @@ Description: 牛X的本地内购买破解器，已包含简体中文包。
 Author: Paisseon
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Satella中文版
+
+Package: com.serena.AppIndex
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.serena.appindex_1.0_iphoneos-arm64e.deb
+Size: 853022
+MD5sum: f45eb95062ca033d54add9ce9202f849
+SHA1: ad645cd4891974325ba882d64c64125494f5cbb1
+SHA256: 7798a8945b0c3e55d81cd781318efe1ef14c75d01c6aef22c2c02088b62ec60f
+Section: Applications
+Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
+Tag: compatible_min::ios13.0
+Author: Serena <hanzikashi@gmail.com>
+Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
+Name: AppIndex
 
 Package: com.serena.AppIndex
 Version: 1.0
@@ -9779,6 +9839,25 @@ Size: 233856
 MD5sum: 1e308e73c277b53ce7db3a4e9731da00
 SHA1: ad8ba56cc8ec692de2707b6bd82805acc559ff4b
 SHA256: 12e3067dcfc7b47d4b80804b2c8e1fc00e81ff9a4e40969e57349829cc824420
+Section: 应用程序
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://susubaby.top/images/CocoaTop.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64e.deb
+Size: 307372
+MD5sum: 602bfa8095d29812dd6ce164665d2f3c
+SHA1: e2799c936eb483697a881bb4d42959fc6cc1146e
+SHA256: 3bbc0bf81f0eac145b97c364c8e3ee805e22c64cc57751a2e8761ad2f748eda7
 Section: 应用程序
 Description: Process Viewer for iOS
 Author: Domo <domo@rambler.ru>
