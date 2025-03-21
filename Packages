@@ -621,6 +621,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64.deb
+Size: 9038128
+MD5sum: 81cfdcfc86d38d126f31a388c6002257
+SHA1: 96d02fce447176f0fb5edd64ca463f5af9d8e6f7
+SHA256: 425ffa7110ab2f6184a60a9ee3790727c0679ea5eca36f2e76b658e8e414d10b
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.wcpluginss
 Version: 0.1-3
 Architecture: iphoneos-arm64
@@ -2852,6 +2870,23 @@ Name: 抖音助手
 Sponsor: k
 
 Package: com.dyzs
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.dyzs_1.1-4_iphoneos-arm64.deb
+Size: 154340
+MD5sum: 64f087e87c6dec7000e6c701e1402917
+SHA1: bf9f2769b5695ad54e654178ba7505b87f587d90
+SHA256: fd6fb1427a8ee5198471499cc5e58e0dd4d2af7d59ed8d423dfbb04765f86702
+Section: 抖音插件
+Description: 学习交流。
+Author: XUUᶻ
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音助手
+Sponsor: k
+
+Package: com.dyzs
 Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: k
@@ -3884,6 +3919,25 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.dyyy
+Version: 2.1-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.1-7_iphoneos-arm64.deb
+Size: 107988
+MD5sum: b41e95005b4d10cde84d6f5db5d1dc64
+SHA1: c13cd4a0eca6c25448c7c32e3a52dc5c356b2e68
+SHA256: 2d9207de72dbda160312ae7a88e481852fed9e2463feb971fb9966883e576dda
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY
+
 Package: com.huami.dyyy.rootless
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -4863,6 +4917,23 @@ Size: 910960
 MD5sum: 3ab8be748151a80d47acfb4b4a96421e
 SHA1: 190091fd433aaeb90c71f53b5c4771bb0948c5d1
 SHA256: 899eaf5b9469898b0368e772faee994e85b7ee2ab3735c3cb560ad8659b4db40
+Section: 插件
+Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
+Name: 短视频助手
+
+Package: com.lly.shortvideodl
+Version: 1.9.9k
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5076
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lly.shortvideodl_1.9.9k_iphoneos-arm64.deb
+Size: 930016
+MD5sum: b723cbbeff2bf5d5a9f170bd56cea9a3
+SHA1: b117dc7daedce6ffe352adcbbfbdd5b8de1ff521
+SHA256: 2ac56fd15b16090828fd08e68468c6c27b7e820a83bbd03a0e95e7e819402ecf
 Section: 插件
 Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
 Author: lenglengyu
@@ -6836,6 +6907,24 @@ Size: 565676
 MD5sum: 6b47b7a6fc84b3e2118a3b82b279c0b5
 SHA1: 5d2c013617bcc851548369d294a366c51048af58
 SHA256: 575d49c96b953a44f14d2bc4738f85c94ba82e00fef7c7e17b105bf23d38afdc
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.8.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1244
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.8.1_iphoneos-arm64.deb
+Size: 564844
+MD5sum: 5315f4b2b74338252415019e820913d6
+SHA1: e5f2e124fc0df30a2c39b442d95dce53ebe0a3a6
+SHA256: 484f22f913195ac0c2599826aae57e4ecf1ac56978fb003d0e6f433d9d5dbec0
 Section: 插件
 Description: ReachPlayer便捷访问音乐专辑
 Author: 苏苏
