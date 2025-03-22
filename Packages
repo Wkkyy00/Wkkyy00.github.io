@@ -4714,23 +4714,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: Allow Network
 
 Package: com.lly.shortvideodl
-Version: 1.8.3
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 5076
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.lly.shortvideodl_1.8.3_iphoneos-arm64.deb
-Size: 1135068
-MD5sum: c8bd892925b8cf0498359f81c9e9854e
-SHA1: 0f347c05d2aa39fb675af5ef19ae4171460da600
-SHA256: 54f15675eadac0290104578b699477ea70577ef2dc92dcdad6e71f7fb268d497
-Section: 插件
-Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
-Author: lenglengyu
-Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
-Name: 短视频助手
-
-Package: com.lly.shortvideodl
 Version: 1.8.5
 Architecture: iphoneos-arm64
 Maintainer: lenglengyu <lenglengyu@126.com>
