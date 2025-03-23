@@ -3899,6 +3899,23 @@ Author: Developer
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEnhance
 
+Package: com.enhance
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: Developer
+Installed-Size: 1224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.enhance_1.1.5_iphoneos-arm64.deb
+Size: 211256
+MD5sum: ffb540498b0c288329f701f95ddcbd1e
+SHA1: 01f43cf9b31fd8c9b150c1f95884cf46ed90578e
+SHA256: dd85d57106002a6287826f334033b4e9dbbfd7cb26d8506c7a34af44fd9b1066
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Author: Developer
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
 Package: com.ethanrdoesmc.dawn
 Version: 1.1
 Architecture: iphoneos-arm64
