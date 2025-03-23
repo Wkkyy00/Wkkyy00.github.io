@@ -3694,6 +3694,22 @@ Author: DumpApp
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 锤子助手
 
+Package: com.dumpapp.wechat
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: DumpApp
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.dumpapp.wechat_2.0.5_iphoneos-arm64.deb
+Size: 10430812
+MD5sum: c885912d8584cbad95dafe6ecf4f65b5
+SHA1: e040f4e7ae540b0038f0c2bb17fcc40871c2fb46
+SHA256: b1b2e8506b6546cce7ab142dbd8742f13758e0e64fc81ba762c7fe2f0957c386
+Section: 微信插件
+Description: 延续净化的锤子助手，上架备份。
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
 Package: com.dvntm.silentnotifs
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -3773,6 +3789,23 @@ Size: 154340
 MD5sum: 64f087e87c6dec7000e6c701e1402917
 SHA1: bf9f2769b5695ad54e654178ba7505b87f587d90
 SHA256: fd6fb1427a8ee5198471499cc5e58e0dd4d2af7d59ed8d423dfbb04765f86702
+Section: 抖音插件
+Description: 学习交流。
+Author: XUUᶻ
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音助手
+Sponsor: k
+
+Package: com.dyzs
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.dyzs_1.1-5_iphoneos-arm64.deb
+Size: 162352
+MD5sum: f74895c859b3eec39e8e416116e1e828
+SHA1: d8ca069966110e7f501bb8e3ab13326928782060
+SHA256: 1ce0423b92128c31fa3b4d2ef45c91b61f19095763fbebcc73276e1d06ab971f
 Section: 抖音插件
 Description: 学习交流。
 Author: XUUᶻ
