@@ -3710,6 +3710,22 @@ Author: DumpApp
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 锤子助手
 
+Package: com.dumpapp.wechat
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: DumpApp
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.dumpapp.wechat_2.0.6_iphoneos-arm64.deb
+Size: 10512916
+MD5sum: fff0567703a221faab0fbcbe4c83cefe
+SHA1: a0568339364f991b67794d3e8ae8e7d8c1800772
+SHA256: ce70b2f983ec3ee512c0a2d60559de593f607dde8a094205695f9d5fb7d89f2b
+Section: 微信插件
+Description: 延续净化的锤子助手，上架备份。
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
 Package: com.dvntm.silentnotifs
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -5929,6 +5945,23 @@ Size: 970568
 MD5sum: a53deb8428399a82cdcd50aba096fb8c
 SHA1: 8bb4c9c302f82f97868fb6afc659e8f8f7857dbf
 SHA256: 4dee7db9fe53f4e955d3005db6d22acab1db69cb496160a16f383da8763556fd
+Section: 插件
+Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
+Name: 短视频助手
+
+Package: com.lly.shortvideodl
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5076
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lly.shortvideodl_2.0.2_iphoneos-arm64.deb
+Size: 972508
+MD5sum: a03094a3112c765660e11c2237ded80e
+SHA1: bbc6d9c7cdff303bca22dfefc36085fc5ae257c7
+SHA256: 23e3b8474b625440ccce87126dd855a07205f79ab1f2cb55882c445868fc6df5
 Section: 插件
 Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
 Author: lenglengyu
