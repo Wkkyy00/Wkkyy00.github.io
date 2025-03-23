@@ -4289,23 +4289,6 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/gravitation.png
 Name: Gravitation
 
 Package: com.h7ang0.xhsnowatermark
-Version: 1.0.0-1-2+debug
-Architecture: iphoneos-arm64
-Maintainer: h7ang0
-Installed-Size: 332
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.h7ang0.xhsnowatermark_1.0.0-1-2+debug_iphoneos-arm64.deb
-Size: 36112
-MD5sum: 350778b0070f35511efaeb7faf380079
-SHA1: 03617934e19bad5dc984bc0d1a2c829668fe388a
-SHA256: 06b8ad93bf392e7a42ef1c619e63a938e5a071e2c58ed93bea69466235d2aaa1
-Section: Tweaks
-Description: 小红书实况照片去水印插件
-Author: h7ang0
-Icon: https://s1.imagehub.cc/images/2025/03/23/e31ddc2f1ec9789fecb4d2ab379770ae.png
-Name: XHSHelper
-
-Package: com.h7ang0.xhsnowatermark
 Version: 1.0.0-2+debug
 Architecture: iphoneos-arm64
 Maintainer: h7ang0
