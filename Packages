@@ -4289,6 +4289,23 @@ Author: h7ang0
 Icon: https://s1.imagehub.cc/images/2025/03/23/e31ddc2f1ec9789fecb4d2ab379770ae.png
 Name: XHSHelper
 
+Package: com.h7ang0.xhsnowatermark
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: h7ang0
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.h7ang0.xhsnowatermark_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 32124
+MD5sum: 472c3f0eb5d476397abb8d40f0aea165
+SHA1: 21628d12497d8df05ed2ff6b3a270b8f6deeb200
+SHA256: d37e3f397837393efd598e5f320fee35cdf46dc0a5257cce463edcc003fc2998
+Section: Tweaks
+Description: 小红书实况照片去水印插件
+Author: h7ang0
+Icon: https://s1.imagehub.cc/images/2025/03/23/e31ddc2f1ec9789fecb4d2ab379770ae.png
+Name: XHSHelper
+
 Package: com.hapticsleep
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -4897,6 +4914,23 @@ Description: 呼出方式双指长按，测试版本32.4.0，随机颜色弹幕�
 Author: huami <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
+
+Package: com.huami.dyyymoshushi
+Version: 2.1-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyymoshushi_2.1-8_iphoneos-arm64.deb
+Size: 123524
+MD5sum: 1a58981f5d7a62d56c59f3604d1f7c27
+SHA1: 9fb160ff6171dff084cbaba8a656653978288fb1
+SHA256: 9d1b982125631201f56dc6b865c85e8efc83913ce4f6f5c85842028913533336
+Section: 抖音插件
+Description: 仅更换插件面板UI，基于 @huamidev 的DYYY定制，UI设计代码来自 @iosxuuz；首页双指长按进入，在DYYY基础上增加，进度时长位置、评论区透明、输入框透明、昵称缩放、隐藏头像关注➕、隐藏弹幕按钮、隐藏商店物品、隐藏商店预约、隐藏点击推荐等，代码来自 @wtrwx、@waa404 等大佬的开源。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
 
 Package: com.huami.kugouNoAD
 Version: 0.1-1
