@@ -9609,12 +9609,12 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.roothidezd_1.1_iphoneos-arm64.deb
-Size: 1628
-MD5sum: 7732dd4d1f26824af61f4d6d7d88ac35
-SHA1: b812ba94d63510ec532726a0575066277fabe51f
-SHA256: dc88d38c4e5ef6df5fa395e1846777414f468aa3b36562b860ac0a1e33e23e95
+Size: 1656
+MD5sum: 2e931a03d8e4e2eb1a6da2bff38f7317
+SHA1: 4078c3c7291cf143ac1b06dfdf6e792a635a0cd6
+SHA256: b85b6697aa961ddefa3376867e3ea238455c85c34832e3bfa22da8ba38216a0c
 Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/清理终端.sh（以文本形式打开并且修改替换自己要清理的固定路径）
+Description: 下载后文件在目录/var/mobile/Documents/清理终端.sh（以文本形式打开并且修改替换自己要清理的固定路径）记得给脚本权限：0755
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 清理终端(自用)
