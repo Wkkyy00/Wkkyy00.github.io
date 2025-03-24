@@ -269,6 +269,23 @@ Author: 来了老弟 h_h_x_t
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Flexlist/Flexing汉化
 
+Package: cn.llld.nyyh
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X: h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.nyyh_0.2_iphoneos-arm64.deb
+Size: 5164
+MD5sum: 08aea1d9bf51b5de03cdb0956ffc0d2f
+SHA1: 2b07a8ef48f8aefa04031c002a912cf55ef95809
+SHA256: a33d75a5ce0550c51dc6a8148a63043994e79c0e836117a77b437e285f0e4993
+Section: 插件
+Description: 作用：使用农业银行的同时允许插件注入。用法：进应用看到检测弹窗(3指触摸0.5秒非弹窗处即可)，录屏检测的遮挡用2指触摸2秒即去掉。（不能用联系我，我下架，翻以前资源发现的）
+Author: 来了老弟 X: h_h_x_t
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 农业银行
+
 Package: cn.llld.qsyy
 Version: 0.1
 Architecture: iphoneos-arm64
