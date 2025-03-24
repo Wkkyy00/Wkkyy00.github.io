@@ -4968,6 +4968,24 @@ Author: huami <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.dyyy.vt
+Version: 2.2-1
+Architecture: iphoneos-arm64
+Maintainer: huami&vita
+Installed-Size: 848
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.vt_2.2-1_iphoneos-arm64.deb
+Size: 147724
+MD5sum: 13eb33ed38d4e6a2271575bc4e583204
+SHA1: 5938ec65f4e04e56b8807b2354fcce40005d1eba
+SHA256: 591b5ecd6ef9d1fe4271ec96d2a4768bc0a26e1a2470fdcb59824c8cbc3dda23
+Section: 抖音插件
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY vita改版
+
 Package: com.huami.dyyymoshushi
 Version: 2.1-8
 Architecture: iphoneos-arm64
