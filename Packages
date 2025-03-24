@@ -8934,12 +8934,12 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.HideEdit_1.0_iphoneos-arm64e.deb
-Size: 4004
-MD5sum: 3b3f78cd4039389f7d7764eb69364d76
-SHA1: 745fb78dd5ee7088a340c622eddaedaced9c2250
-SHA256: ea5dc6d6f893068d9b359b1546b3087eb5ac3ab55169e0903c3bf5d7378acc3b
+Size: 4068
+MD5sum: 43afce03d766f935eaf2e3a3ebdca6e0
+SHA1: 5b5ab1e0701c6ff602727646be2f1d34bab0bc22
+SHA256: 8d2637657f89035ba7266880a7d6affba464e93b6ab861d0233afc1e0b9a696e
 Section: Tweaks
-Description: 隐藏负一屏编辑按钮。
+Description: 隐藏负一屏编辑按钮。（支持ios15-16无根隐根）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: HideEdit
@@ -8951,12 +8951,12 @@ Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.HideEdit_1.0_iphoneos-arm64.deb
-Size: 3076
-MD5sum: 96f28959ce452d47119c778727542028
-SHA1: 971638f8de4c4a1ba328eb11c0794585d4c454d3
-SHA256: 31eaff9623f17f8534baab77f6bf433633d91555f4122ab69a6ef0596b854811
+Size: 3100
+MD5sum: 7ad71e2ddd72a905e896f3525a727235
+SHA1: 036ad409deec5dd249ebf739e6f29c3d8a0aa5f1
+SHA256: 6276be62444fe8a910c8165f6da2789283922e697aec464c56ff5aeb4981a8f1
 Section: Tweaks
-Description: 隐藏负一屏编辑按钮。
+Description: 隐藏负一屏编辑按钮（支持ios15-16无根隐根）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: HideEdit
