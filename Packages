@@ -9456,11 +9456,11 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/空包包.deb
-Size: 5924
-MD5sum: 81b117b401bda9c91ec31eeeebc6e17b
-SHA1: 03476c06ede95703756b35ac9be0a55f9762f4d1
-SHA256: bb5ad2e40a1e910d250095f32cd7bf940bd157a50c6c71882046cc40d3f9e415
-Section: jailbreak
+Size: 5936
+MD5sum: 8ea264c70b29a941adc82da8f2adaeef
+SHA1: fc610c4ba3a5d8a26bc825c9f74375fe03b61419
+SHA256: ef5f61ae98cdb11cb7097c9c055781f8186a0d991e31d6aa33fceadc8597c1a8
+Section: Dopamine挂载
 Description: 建源初心。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
