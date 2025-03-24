@@ -338,6 +338,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: Upsidedowned
 Sponsor: k
 
+Package: cn.wkk.cocoatop
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.wkk.cocoatop_0.1_iphoneos-arm64e.deb
+Size: 26712
+MD5sum: ab7fb9bfdf195f01e2227758119de63f
+SHA1: b0b87b7e61dc48af1256924cd8c822d789116d4c
+SHA256: a8cdf89ba6e5e8b5aa46e21912dd18267bd3ee3253da771eec6cb1a8690da68e
+Section: 插件
+Description: CocoaTop汉化，增加几个遗漏处。
+Author: wkk
+Icon: https://susubaby.top/images/CocoaTop.png
+Name: CocoaTop汉化
+
+Package: cn.wkk.cocoatop
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.wkk.cocoatop_0.1_iphoneos-arm64.deb
+Size: 19252
+MD5sum: 4780a86c84f28f6225bd6cbeea48790d
+SHA1: 6dd296c2af544a9f1e70535294e2871d968c6def
+SHA256: 469b1539d3afc81ae4449ec73a19de0ae53b984f72e51d269ab4edf2c9528f49
+Section: 插件
+Description: CocoaTop汉化，增加几个遗漏处。
+Author: wkk
+Icon: https://susubaby.top/images/CocoaTop.png
+Name: CocoaTop汉化
+
 Package: cn.zqbb.appdata
 Version: 1.3.6-9
 Architecture: iphoneos-arm64
