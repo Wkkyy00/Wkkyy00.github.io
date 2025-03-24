@@ -8934,10 +8934,10 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.HideEdit_1.0_iphoneos-arm64e.deb
-Size: 4008
-MD5sum: f466b3d586a4bc0df9bd5456e338f755
-SHA1: 9fcf5f8abedf49421afe7f845c5a55394bc4411a
-SHA256: 63b7cf4d1bdbc5d0330b5ea2457b3d235b3a3bd16726c19f49cad574e1af03fd
+Size: 4004
+MD5sum: 3b3f78cd4039389f7d7764eb69364d76
+SHA1: 745fb78dd5ee7088a340c622eddaedaced9c2250
+SHA256: ea5dc6d6f893068d9b359b1546b3087eb5ac3ab55169e0903c3bf5d7378acc3b
 Section: Tweaks
 Description: 隐藏负一屏编辑按钮。
 Author: wkk
