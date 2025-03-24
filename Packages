@@ -2840,6 +2840,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.2-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.2-6_iphoneos-arm64.deb
+Size: 575328
+MD5sum: fe6f92476e816605151104f714b2f6f7
+SHA1: 7a38181cb5072ef102ad0d5707c9d5daaa7328d3
+SHA256: fc300932b81d9b30601dfcff80f64686c6896560581400c8abd719dca8ee6113
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.betterccbrightness
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -8871,6 +8889,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.png
 Name: Filza美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
+
+Package: com.wkk.HideEdit
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.HideEdit_1.0_iphoneos-arm64e.deb
+Size: 4008
+MD5sum: f466b3d586a4bc0df9bd5456e338f755
+SHA1: 9fcf5f8abedf49421afe7f845c5a55394bc4411a
+SHA256: 63b7cf4d1bdbc5d0330b5ea2457b3d235b3a3bd16726c19f49cad574e1af03fd
+Section: Tweaks
+Description: 隐藏负一屏编辑按钮。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: HideEdit
+
+Package: com.wkk.HideEdit
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.HideEdit_1.0_iphoneos-arm64.deb
+Size: 3076
+MD5sum: 96f28959ce452d47119c778727542028
+SHA1: 971638f8de4c4a1ba328eb11c0794585d4c454d3
+SHA256: 31eaff9623f17f8534baab77f6bf433633d91555f4122ab69a6ef0596b854811
+Section: Tweaks
+Description: 隐藏负一屏编辑按钮。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: HideEdit
 
 Package: com.wkk.SquidExtenderpz
 Version: 1.0
