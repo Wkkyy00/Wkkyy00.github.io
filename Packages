@@ -9275,6 +9275,43 @@ Author: girl
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩
 
+Package: com.wkk.camerapreview
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.camerapreview_1.0_iphoneos-arm64.deb
+Size: 4164
+MD5sum: f1d8eb33d1a322595cd4c8fd18a02af6
+SHA1: 4fc39175cabb9d1f57fcbd6b3d6533766b2d1d9d
+SHA256: bc0d62692ab08c9f1339d1b0480557b6c120bfb09a23007043b2802556b5ecdd
+Section: Tweaks
+Description: 隐藏相机预览。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/26/625c73dceb27fb1a3ad61fda0d615a95.jpeg
+Name: HideCameraPreview
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/camera.json
+
+Package: com.wkk.camerapreview
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.camerapreview_1.0_iphoneos-arm64e.deb
+Size: 5746
+MD5sum: f5a209ce91943135fbac81809699b4ba
+SHA1: 29fa98925355e5d45404b514d3ad7400f33d0fd0
+SHA256: f4b2d6adc41ece24bb540a0d674d464242921a9599567f72f4ed88f746751bfd
+Section: Tweaks
+Description: 隐藏相机预览。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/26/625c73dceb27fb1a3ad61fda0d615a95.jpeg
+Name: HideCameraPreview
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/camera.json
+
 Package: com.wkk.car
 Version: 1.0
 Architecture: iphoneos-arm64
