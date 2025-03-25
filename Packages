@@ -9782,6 +9782,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
 Name: QQ音乐NoAds
 
+Package: com.wkk.roothide
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/RootHide残留.deb
+Size: 5932
+MD5sum: 4efca55e85a609d3289437dbf6d8ae4d
+SHA1: 50b23fd3f9e7c63c96745717b2ba23d3175c37a7
+SHA256: c0535b01bdbf20e97e297132b6ead32c4e466221e01e34a2fbdc6c8dcd033e4d
+Section: Dopamine挂载
+Description: 挂🪜看。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 关于RootHide残留（空包）
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
+
 Package: com.wkk.roothidezd
 Version: 1.0
 Architecture: iphoneos-arm64
