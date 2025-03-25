@@ -5092,6 +5092,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: DYYY vita改版
 
 Package: com.huami.dyyymoshushi
+Version: 2.1-10
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyymoshushi_2.1-10_iphoneos-arm64.deb
+Size: 122820
+MD5sum: ad4a6699671da5def9a8e6f86076de5d
+SHA1: d883a4d5080a3d8e8e5afefd382c4e8780b69cd3
+SHA256: acb66b0e2f70880e96eb93b247fbd7c323dbf14ffc19b038e438a00315080754
+Section: 抖音插件
+Description: 仅更换插件面板UI，基于 @huamidev 的DYYY定制，UI设计代码来自 @iosxuuz；首页双指长按进入，在DYYY基础上增加，进度时长位置、评论区透明、输入框透明、昵称缩放、隐藏头像关注➕、隐藏弹幕按钮、隐藏商店物品、隐藏商店预约、隐藏点击推荐等，代码来自 @wtrwx、@waa404 等大佬的开源。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyymoshushi
 Version: 2.1-8
 Architecture: iphoneos-arm64
 Maintainer: huami
