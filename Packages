@@ -3016,6 +3016,23 @@ Author: fiore & p2kdev & 妖刀
 Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
 Name: CCBorder16
 
+Package: com.ccborder
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Filename: ./debs/com.ccborder_1.2_iphoneos-arm64.deb
+Size: 41128
+MD5sum: b90237ac85d322869ca02ac1a25c010b
+SHA1: 583c9873d603e9fb5ed018f38781d7a703997b92
+SHA256: d46e81e947dd9c61dd83163194e86000f26f5202171bbd59c02012c7f4bf844f
+Section: 控制中心
+Description: iOS18样式的控制中心，基于p2kdev的开源定制。上架备份。
+Author: fiore & p2kdev & 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
+Name: CCBorder16
+
 Package: com.cccellularrate
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -6086,6 +6103,23 @@ Size: 975636
 MD5sum: 8117231940b8e881f2c60e4a22112789
 SHA1: 2833561c5dff50f835623a815e8dd48197cda513
 SHA256: 5a379a111658c536bfe8cbb08f98683a1f758afbe5e705b7643c77775ce7a83a
+Section: 插件
+Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
+Name: 短视频助手
+
+Package: com.lly.shortvideodl
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5076
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lly.shortvideodl_2.0.4_iphoneos-arm64.deb
+Size: 975024
+MD5sum: fcd3079d26b4ee966e2d005242165914
+SHA1: c2cd784e6b0457b2e83ae569094a6f2afaf95c8e
+SHA256: 587fc2bcbd8c551253840c58eda413cb58c92c4a66c2e91cdf31067e9c66d973
 Section: 插件
 Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
 Author: lenglengyu
