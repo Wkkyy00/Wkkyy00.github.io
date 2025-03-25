@@ -9723,12 +9723,12 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.lockmusic_1.0_iphoneos-arm64e.deb
-Size: 4540
-MD5sum: 5d900ff0e0c0db083bbaf81f7605f5f9
-SHA1: 391bf2327a997e2d88825db7e7430427f50b38f9
-SHA256: a0f313d804b98cbc678ef62245cdbffe701dc168fd7992512f3ea62262419fce
+Size: 4574
+MD5sum: 5ce911ce4056fb7cbc94143884b8a0f9
+SHA1: e4c00e4c5e120d00260babba048636e405f7cd9d
+SHA256: 6dfc2a744f24bc55091e808129d9ea725f15e809f5bc22556cb0db433f3c2ab5
 Section: Tweaks
-Description: 隐藏锁屏音乐控件。z神的插件已经失效，亲手做了个。有问题请反馈给我。
+Description: 隐藏锁屏音乐控件。z神的插件已经失效，亲手做了个。支持ios16不支持ios15，有问题请反馈给我。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/26/e30c13abda043be281eed1b5e690023c.png
 Name: HideLockMusic
@@ -9740,12 +9740,12 @@ Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.lockmusic_1.0_iphoneos-arm64.deb
-Size: 3148
-MD5sum: dde4b29f9734387731b41db51862b595
-SHA1: 4213ea006132f39d12185ea84255ae028a8a9ac8
-SHA256: 316357ff45e39a9786192496525a41d1a55ba538f1bcb489929b4eb27dbf6487
+Size: 3164
+MD5sum: ce4da4841a0cf048d93ae0a0a306d101
+SHA1: ee0d14d6aef17306a08da76a490188f2a41d24ba
+SHA256: 6c2611aa093d8f4d6cdced2ec722faa378cbfdf6231d379d4b525c79bb8c5e6d
 Section: Tweaks
-Description: 隐藏锁屏音乐控件。z神的插件已经失效，亲手做了个。有问题请反馈给我。
+Description: 隐藏锁屏音乐控件。z神的插件已经失效，亲手做了个。支持ios16不支持ios15，有问题请反馈给我。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/26/e30c13abda043be281eed1b5e690023c.png
 Name: HideLockMusic
