@@ -4054,6 +4054,23 @@ Author: Developer
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEnhance
 
+Package: com.enhance
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: Developer
+Installed-Size: 1224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.enhance_1.1.7_iphoneos-arm64.deb
+Size: 233156
+MD5sum: 3ee422623618ff7e68fc4bd1066bf9e7
+SHA1: ea073b0faf9cb6ebd3922f30a6b2b4ba01a57f56
+SHA256: 2ba6695c1fd46433a23394a82eb141f24dc773a9b4f5f7b1aa794b3c500cbc03
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Author: Developer
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
 Package: com.ethanrdoesmc.dawn
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -9004,15 +9021,16 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.HideEdit_1.0_iphoneos-arm64e.deb
-Size: 4068
-MD5sum: 43afce03d766f935eaf2e3a3ebdca6e0
-SHA1: 5b5ab1e0701c6ff602727646be2f1d34bab0bc22
-SHA256: 8d2637657f89035ba7266880a7d6affba464e93b6ab861d0233afc1e0b9a696e
+Size: 4518
+MD5sum: 3acdd5b3a5c6c16162e8fb6dd4c189f1
+SHA1: ef131a7e74c8440ddf9913153d8efcb7f2a52af4
+SHA256: 1df72370555c5c50eed128f47dc606a442b115e1f605ff702f418288c08cc2c7
 Section: Tweaks
-Description: 隐藏负一屏编辑按钮。（支持ios15-16无根隐根）
+Description: 隐藏负一屏编辑按钮（支持ios15-16无根隐根）
 Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/03/25/dbdacd5798135a4cbb0a807e4be96505.png
 Name: HideEdit
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/hideedit.json
 
 Package: com.wkk.HideEdit
 Version: 1.0
@@ -9021,15 +9039,16 @@ Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.HideEdit_1.0_iphoneos-arm64.deb
-Size: 3100
-MD5sum: 7ad71e2ddd72a905e896f3525a727235
-SHA1: 036ad409deec5dd249ebf739e6f29c3d8a0aa5f1
-SHA256: 6276be62444fe8a910c8165f6da2789283922e697aec464c56ff5aeb4981a8f1
+Size: 3168
+MD5sum: ba33025ecf792718032324d00f1729be
+SHA1: ae6b759d97fd438d82da886fa1ecf346cc6e2adb
+SHA256: 0ff957a338f2144d402fa3134504f13023ea2dfd8f8e838b79bee74d839b663e
 Section: Tweaks
 Description: 隐藏负一屏编辑按钮（支持ios15-16无根隐根）
 Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/03/25/dbdacd5798135a4cbb0a807e4be96505.png
 Name: HideEdit
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/hideedit.json
 
 Package: com.wkk.SquidExtenderpz
 Version: 1.0
