@@ -8957,6 +8957,41 @@ Author: null
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCTextColor
 
+Package: com.wechat-push-msg-page
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wechat-push-msg-page_0.0.1_iphoneos-arm64e.deb
+Size: 22776
+MD5sum: 15ad75734c2ec6069e40f58f1529566a
+SHA1: 0b3539e7676dfb4e611290995ef39f4195878eac
+SHA256: a64fdda1313487e9ba09fec8e82ed63e4f07ae52e4931acaff9bd76398e72b52
+Section: 微信插件
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题。）锁屏可以，多开微信也可以。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信消息直达
+
+Package: com.wechat-push-msg-page
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wechat-push-msg-page_0.0.1_iphoneos-arm64.deb
+Size: 23248
+MD5sum: 10749336ea8352304455941f1b0e418f
+SHA1: 41bb03cc629cb3a4cef7ce3dcebeccf485d70b9a
+SHA256: 95a91a3947708232ce6578403bdb75bdfaebd8f61712bb2b5d6f38ef14875400
+Section: 微信插件
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题。）锁屏可以，多开微信也可以。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信消息直达
+
 Package: com.wechat.xuanzhuan
 Version: 0.0.1
 Architecture: iphoneos-arm64
