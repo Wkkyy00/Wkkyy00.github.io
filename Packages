@@ -9715,6 +9715,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/02/c85ed126bb63c93315b82176bd21d9ba.png
 Name: 线条旋转注销动画
 
+Package: com.wkk.lockmusic
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.lockmusic_1.0_iphoneos-arm64e.deb
+Size: 4540
+MD5sum: 5d900ff0e0c0db083bbaf81f7605f5f9
+SHA1: 391bf2327a997e2d88825db7e7430427f50b38f9
+SHA256: a0f313d804b98cbc678ef62245cdbffe701dc168fd7992512f3ea62262419fce
+Section: Tweaks
+Description: 隐藏锁屏音乐控件。z神的插件已经失效，亲手做了个。有问题请反馈给我。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/26/e30c13abda043be281eed1b5e690023c.png
+Name: HideLockMusic
+
+Package: com.wkk.lockmusic
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.lockmusic_1.0_iphoneos-arm64.deb
+Size: 3148
+MD5sum: dde4b29f9734387731b41db51862b595
+SHA1: 4213ea006132f39d12185ea84255ae028a8a9ac8
+SHA256: 316357ff45e39a9786192496525a41d1a55ba538f1bcb489929b4eb27dbf6487
+Section: Tweaks
+Description: 隐藏锁屏音乐控件。z神的插件已经失效，亲手做了个。有问题请反馈给我。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/26/e30c13abda043be281eed1b5e690023c.png
+Name: HideLockMusic
+
 Package: com.wkk.logo
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9731,41 +9766,6 @@ Description: 仅支持ios15-16无根越狱，替换重启用户空间的苹果lo
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.jpeg
 Name: 重启用户空间启动logo
-
-Package: com.wkk.lokkmusic
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.lokkmusic_1.0_iphoneos-arm64e.deb
-Size: 4352
-MD5sum: 101ed2d7660aeb68fef31ab8371d86a6
-SHA1: afdea21408c7ce2507bb74caebccc1f98deb9944
-SHA256: ff082a17a7f9a87b9248e1b22d76e832c417d87ecf9a30c45338f3e51c6d4b69
-Section: Tweaks
-Description: 隐藏锁屏音乐。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/03/26/e30c13abda043be281eed1b5e690023c.png
-Name: HideLookMusic
-
-Package: com.wkk.lokkmusic
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.lokkmusic_1.0_iphoneos-arm64.deb
-Size: 3076
-MD5sum: a1deabedd98e1b23c67dd1900a9446c3
-SHA1: bf22e23531e79914a159afbe01fddf70e41a3e6b
-SHA256: 47c3e4b8e05f8ab0e18d656c6a381f03fa7aee7adacbaf76e44204103e1b3ac4
-Section: Tweaks
-Description: 隐藏锁屏音乐。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/03/26/e30c13abda043be281eed1b5e690023c.png
-Name: HideLookMusic
 
 Package: com.wkk.nndxguazai
 Version: 2.0
