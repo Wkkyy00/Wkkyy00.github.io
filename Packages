@@ -8028,24 +8028,6 @@ Name: PowerMenu
 
 Package: com.susu.powermenu
 Version: 1.0.6
-Architecture: iphoneos-arm64e
-Maintainer: 苏苏
-Installed-Size: 356
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.opa334.ccsupport
-Filename: ./debs/com.susu.powermenu_1.0.6_iphoneos-arm64e.deb
-Size: 42208
-MD5sum: 43750cf68b157885ac4aef5ebafb5dd2
-SHA1: ef0424585c8e413fc1472b6c298a9a7c295a973c
-SHA256: c0a4bb021ca5306421f418e24f983cd335e6a42a3c1e3d1a8c0851caec6f47c6
-Section: Control Center (Modules)
-Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。
-Author: 苏苏
-Icon: https://www.susubaby.top/images/powermenu.png
-Name: PowerMenu
-
-Package: com.susu.powermenu
-Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 356
