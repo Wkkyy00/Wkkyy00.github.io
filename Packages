@@ -9630,6 +9630,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
 Name: 高德地图NoAds
 
+Package: com.wkk.iconx
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.iconx_1.0_iphoneos-arm64.deb
+Size: 3796
+MD5sum: d7910588f159e61ad9c37a81041fd0c2
+SHA1: 78072e03d02bfcd0cb15dca5d27c52318ca363d8
+SHA256: 0bae15d2f401aca86d69eccd92fc6329cfd814ebd6ad8a384753a5fb57469435
+Section: Tweaks
+Description: 禁用图标抖动删除按钮，不支持ios15，要卸载app用appdata卸载。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hideiconx
+
+Package: com.wkk.iconx
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.iconx_1.0_iphoneos-arm64e.deb
+Size: 5262
+MD5sum: 8888e3ca4296571ef59af3c75c2ad8cd
+SHA1: c2dea89ae23d492a3f1cf754a30a4d06f952ec5c
+SHA256: ad5afbabf1cf96a75265c620070f785d4299ea2d7a74df22643f64db9263f7a2
+Section: Tweaks
+Description: 禁用图标抖动删除按钮，不支持ios15，要卸载app用appdata卸载。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hideiconx
+
 Package: com.wkk.jptext
 Version: 1.0
 Architecture: iphoneos-arm64
