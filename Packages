@@ -6851,13 +6851,14 @@ Maintainer: opa334
 Installed-Size: 608
 Depends: ldid
 Filename: ./debs/com.opa334.trollstorelite_2.1_iphoneos-arm64.deb
-Size: 212788
-MD5sum: 01dc7ff75cd283ce953e8761a0524974
-SHA1: 9ffc68c179ac89a4b1219e35fd3624ca343ff794
-SHA256: b4bf8c00dac6a2885d1bd86aec5d9bf27b6e6c569c91c15b16bfd39c9a3efc99
+Size: 212752
+MD5sum: d155e4e3bfbc748322833909879ca4ad
+SHA1: c7c48861fb03c104aae813dc11d667d5cd1c1e76
+SHA256: d40a53fe996978e5b3009f277700e9b2ea965bc14798c7bbb69254ee5d2fd938
 Section: 应用程序
 Description: TrollStore for jailbroken iOS
 Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/03/26/73e0fae82d49e6067c6a8d358a4b6b6e.jpeg
 Name: TrollStore Lite
 
 Package: com.p2kdev.quitall
