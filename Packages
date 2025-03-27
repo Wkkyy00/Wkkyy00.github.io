@@ -10969,6 +10969,24 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Hello Snapper
 
+Package: com.zqbb.savephotos
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.zqbb.savephotos_1.1_iphoneos-arm64e.deb
+Size: 6098
+MD5sum: a177c5e0f355cc485fd537b4a291931f
+SHA1: 17e8b06a1b0e5c25fa14ac7c85a5f72b2d23a2ed
+SHA256: 0d4378e4c4d4bfed1e2dc7f06f13fbddca724e53815c49ec37cac30b83d32ff1
+Section: 插件
+Description: Snapper3全屏截图按钮增加(保存至相册)功能，超过7个按钮时UI补全至7个。上架备份。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
+Name: Hello Snapper
+
 Package: cum.0xilis.hidemyvpn
 Version: 1.0.0
 Architecture: iphoneos-arm64
