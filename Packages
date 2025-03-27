@@ -269,23 +269,6 @@ Author: 来了老弟 h_h_x_t
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Flexlist/Flexing汉化
 
-Package: cn.llld.qsyy
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 300
-Depends: mobilesubstrate
-Filename: ./debs/cn.llld.qsyy_0.1_iphoneos-arm64.deb
-Size: 35484
-MD5sum: 11b36de9085cc3627031047e803226b8
-SHA1: 51f2db6d7c3b8281cb5605e558099c462975e1d0
-SHA256: 3944096f8f59bf02ff13f68cfcfd5469b9fcc92a392560add8c0959276878886
-Section: 插件
-Description: 初版，备份。
-Author: 来了老弟
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: FT悬浮汉化工具
-
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
