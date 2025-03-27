@@ -9820,6 +9820,23 @@ Icon: https://s1.imagehub.cc/images/2025/03/02/42f500f95b5633e6011a694165e9dc97.
 Name: 修改原生键盘上文字
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/keyboardtext.json
 
+Package: com.wkk.jydeb
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.jydeb_1.0_iphoneos-arm64.deb
+Size: 1772
+MD5sum: bbbd3a5b50db088a4ff0a003e7972282
+SHA1: 7acf30c95ab3584651711905259322bf0f8000b9
+SHA256: 28451102502de4bae2e99f0aa268d0e81c6ac52db636a10848d5769570feed03
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/deb.sh
+  * 使用方法：运行后，当前目录下所有.deb文件一键式解压。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键解压deb(自用)
+
 Package: com.wkk.kaiguan
 Version: 1.0
 Architecture: iphoneos-arm64
