@@ -9826,10 +9826,10 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.jydeb_1.0_iphoneos-arm64.deb
-Size: 1772
-MD5sum: bbbd3a5b50db088a4ff0a003e7972282
-SHA1: 7acf30c95ab3584651711905259322bf0f8000b9
-SHA256: 28451102502de4bae2e99f0aa268d0e81c6ac52db636a10848d5769570feed03
+Size: 1848
+MD5sum: 62f52430546ad2eca5db5cf5c134bfe4
+SHA1: 38b90e64f5f77210442f24e4be09eafac642a583
+SHA256: 1b28ec96927491f2b65f5c6d123536746dc840be2a6af38e93c70c4ad54f5cda
 Section: 插件配置
 Description: 下载后文件在目录/var/mobile/Documents/deb.sh
   * 使用方法：运行后，当前目录下所有.deb文件一键式解压。
@@ -11014,23 +11014,6 @@ Size: 7120
 MD5sum: d434a227e7e395f13dfa97a35dde1e0f
 SHA1: fea4773421a539b94f37bb01c10612263c115a57
 SHA256: 44413768f72c8ad390d4a7b4d1978c810b49d3fdb54843e1e611ac7a59c14fb8
-Section: Tweaks
-Description: 伪装iOS版本在appstore安装软件（如果有低版本）
-Author: Mineek
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: appstoretroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.6
-Architecture: iphoneos-arm64
-Maintainer: Mineek
-Installed-Size: 344
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/dev.mineek.appstoretroller_0.0.6_iphoneos-arm64.deb
-Size: 14700
-MD5sum: 6b14865203543a4bf616769c7aeac4ad
-SHA1: 15195ddba3714f3ed1e2174d74ca526d551f65d2
-SHA256: 3ffed6bab291a7984adf88a118d861f41edc20733ab01de23cc9d3ef4338e452
 Section: Tweaks
 Description: 伪装iOS版本在appstore安装软件（如果有低版本）
 Author: Mineek
