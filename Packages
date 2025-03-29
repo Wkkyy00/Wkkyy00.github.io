@@ -5108,6 +5108,23 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.dyyy.dao
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 764
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_1.7_iphoneos-arm64.deb
+Size: 135840
+MD5sum: 99b59b8cfe2ce8dad36ba02aa4fc566a
+SHA1: 2373e4ac802d2f01f32adf61999957ec12d28bdd
+SHA256: 4ffa648673425366f81ba4c14992d391359fdc8d62dd0e3409e911059f24c496
+Section: 抖音插件
+Description: 基于DYYY定制，仅更换插件面板UI！仅供学习交流，请在24小时内自觉删除。由刀刀制作源码还是huami的DYYY插件源码，只是更换菜单更加美观更新日志：增加 Hades提供功能代码双指长按呼出功能菜单。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
 Package: com.huami.dyyy.rootless
 Version: 1.7
 Architecture: iphoneos-arm64
