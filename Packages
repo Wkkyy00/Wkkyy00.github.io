@@ -4004,6 +4004,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音助手
 Sponsor: k
 
+Package: com.dyzs
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.dyzs_1.1-7_iphoneos-arm64.deb
+Size: 225908
+MD5sum: 9d4afad196319c01badb91bafc691a6c
+SHA1: b8731cda6e926ca770a953e9f78412594603a8e9
+SHA256: 8cb4c84c12f6c1cf3600b041322c38c63023fdab33e09d3730936c8a465af92b
+Section: 抖音插件
+Description: 学习交流。
+Author: XUUᶻ
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音助手
+Sponsor: k
+
 Package: com.edge.siri
 Version: 3.1.2
 Architecture: iphoneos-arm64
