@@ -6950,6 +6950,24 @@ Depiction: k
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: NetworkManagerReborn
 
+Package: com.nightwind.matchingiconlabelss
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nightwind.matchingiconlabels
+Filename: ./debs/com.nightwind.matchingiconlabelss_0.0.1_iphoneos-arm64.deb
+Size: 3736
+MD5sum: 326e5eb67f1194ce92ef72d1b032c11f
+SHA1: ac593fd3d4f33af58d414b4a2e59e4e8083fd2ec
+SHA256: 0e8d99a147d0730b77c649edd2b6cd13a83c9f6dfbefac70d30a400c92a50ab8
+Section: Tweaks
+Description: 将图标标签的颜色与其图标相匹配。
+Author: Nightwind
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: MatchingIconLabels
+
 Package: com.oleddarkmode
 Version: 0.5.3
 Architecture: iphoneos-arm64
