@@ -6987,6 +6987,25 @@ Author: Nightwind
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: MatchingIconLabels
 
+Package: com.nightwind.matchingiconlabelss
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nightwind.matchingiconlabels
+Filename: ./debs/com.nightwind.matchingiconlabelss_0.0.1_iphoneos-arm64e.deb
+Size: 5170
+MD5sum: 37f07a08d68f9c800f14ec6b338ce13d
+SHA1: 7bcae3d76c172a9811203507a920fe55f31428ab
+SHA256: dbfc43d4495a00c659b45617fd40113c599fa6e6d3bc40fc54984acb8aa70d5b
+Section: Tweaks
+Description: 将图标标签的颜色与其图标相匹配。
+Author: Nightwind
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: MatchingIconLabels
+
 Package: com.oleddarkmode
 Version: 0.5.3
 Architecture: iphoneos-arm64
