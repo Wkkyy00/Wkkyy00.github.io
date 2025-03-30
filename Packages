@@ -5141,6 +5141,25 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.dyyy
+Version: 2.2-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-2_iphoneos-arm64.deb
+Size: 184520
+MD5sum: 3d2e2446852b0eb21e6fe358bfe73649
+SHA1: ef4365db2e48c9be245d7c285c911ad290dfdc01
+SHA256: 13607b8a7f7d88158bb8e2792e47bcabbce7736582e97f2b29c224e7894418b1
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY
+
 Package: com.huami.dyyy.dao
 Version: 1.7
 Architecture: iphoneos-arm64
