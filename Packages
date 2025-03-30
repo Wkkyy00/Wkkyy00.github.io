@@ -5415,6 +5415,24 @@ Author: iamdega
 Icon: https://i.postimg.cc/ncNrx8Mk/mginspector-icon.png
 Name: MGInspector
 
+Package: com.iamdega.mginspector
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iamdega
+Installed-Size: 1644
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.iamdega.mginspector_1.0.0_iphoneos-arm64e.deb
+Size: 4488060
+MD5sum: 0d4ce795f337b8b993b9e581281a44c5
+SHA1: d48aa5d8a0d32896c7e8a2aaebd0016737d14273
+SHA256: f30864e94cb6b1bb073236fba0ed267ac597ac455f7a7817a13b6ecfc527229a
+Section: 应用程序
+Description: 可让您轻松检查设备的MobileGestalt信息（自己问ai作用），由iamdega制作，仅限越狱环境。
+Author: iamdega
+Icon: https://i.postimg.cc/ncNrx8Mk/mginspector-icon.png
+Name: MGInspector
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
