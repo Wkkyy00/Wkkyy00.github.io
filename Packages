@@ -5264,6 +5264,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音魔术师
 
 Package: com.huami.dyyymoshushi
+Version: 2.1-15
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyymoshushi_2.1-15_iphoneos-arm64.deb
+Size: 139092
+MD5sum: 2b30169b57c8f97497edb21660e8ba81
+SHA1: 17fe328605e02fd016fcdf390d38e8da4e08dde3
+SHA256: fc50fbfc79a2cb4134b32d176c810e03f2164b2fd1a69bb81efa6ca3e179dc7c
+Section: 抖音插件
+Description: 仅更换插件面板UI，基于 @huamidev 的DYYY定制，UI设计代码来自 @iosxuuz；首页双指长按进入，在DYYY基础上增加，进度时长位置、评论区透明、输入框透明、昵称缩放、隐藏头像关注➕、隐藏弹幕按钮、隐藏商店物品、隐藏商店预约、隐藏点击推荐等，代码来自 @wtrwx、@waa404 等大佬的开源。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyymoshushi
 Version: 2.1-8
 Architecture: iphoneos-arm64
 Maintainer: huami
@@ -5380,6 +5397,23 @@ Description: 为微信聊天界面标题添加头像。
 Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCNicknameAvatarStyle
+
+Package: com.iamdega.mginspector
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: iamdega
+Installed-Size: 1644
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.iamdega.mginspector_1.0.0_iphoneos-arm64.deb
+Size: 2226080
+MD5sum: eb2e00334519f90a914bba7dc315850c
+SHA1: 92ea606ef2c5df108369a725e25274b3f4a71599
+SHA256: c5ee5726400f4b6a37d3006f7d41c6e8486d8de3d277869557a5d84e409c40b4
+Section: 应用程序
+Description: 可让您轻松检查设备的MobileGestalt信息（自己问ai作用），由iamdega制作，仅限越狱环境。
+Author: iamdega
+Icon: https://i.postimg.cc/ncNrx8Mk/mginspector-icon.png
+Name: MGInspector
 
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
