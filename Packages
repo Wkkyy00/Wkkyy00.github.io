@@ -6437,6 +6437,23 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
 Name: 短视频助手
 
+Package: com.lly.shortvideodl
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 5076
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lly.shortvideodl_2.0.8_iphoneos-arm64.deb
+Size: 1050816
+MD5sum: 41987d36fbf7d1d75bbb7e46c6994138
+SHA1: c815e592dab3516db46accee979a50459eeffb27
+SHA256: 2bc23a39b8d3ed7058b793c9ddaf8ad0b367a65c912e0f67151e7340fb3e4018
+Section: 插件
+Description: 支持快手，贴吧，知乎，抖音，TikTok，推特，Instagram，微视，微博，秒拍，淘宝，拼多多，轻视频，小红书，头条，今日头条，微博国际版，微博极速版，等无水印下载。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/02/22/41916656fc7e781965796ba81af3cca5.png
+Name: 短视频助手
+
 Package: com.lowpowerbannertips
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -9078,6 +9095,23 @@ Size: 3584936
 MD5sum: 5d1a11eca4515656698d6b1e40d53dc5
 SHA1: 48c8ccf245e750c5cc545ef5bffe77ab158e40eb
 SHA256: 1cf5a99c8f7ebf21dcb3b25dc55d89630276ae10d056cfa83eaea7f9e59eebe8
+Section: 微信插件
+Description: 备份。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: ThemeBox
+
+Package: com.tencent.themebox
+Version: 2.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.0.1-1_iphoneos-arm64.deb
+Size: 3619580
+MD5sum: 90b2ce08831cff13c1c7eacf5160507e
+SHA1: befd45389c1e9dc849a053f3e26de34548949716
+SHA256: cb8dc8fe7f7d273c49bec427c0aed63757f50d38c46286bdaacc5a33d9d26119
 Section: 微信插件
 Description: 备份。
 Author: WeChat
