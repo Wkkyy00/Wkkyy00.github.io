@@ -5433,6 +5433,41 @@ Author: iamdega
 Icon: https://i.postimg.cc/ncNrx8Mk/mginspector-icon.png
 Name: MGInspector
 
+Package: com.iamdega.uiscroller
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: iamdega
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.iamdega.uiscroller_1.0.5_iphoneos-arm64e.deb
+Size: 12598
+MD5sum: f5b0013b87bd33e9a422d1839ff8892c
+SHA1: cc98297350be5e8ee676e428dee7b0b4f91d92e4
+SHA256: bf2f4a2e95ec467df693f90d08308c51e65085755cf8718623322245e91aefba
+Section: Tweaks
+Description: 让你的手指休息一下，自动滚动任何页面！
+Author: iamdega
+Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
+Name: UIScroller
+
+Package: com.iamdega.uiscroller
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: iamdega
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.iamdega.uiscroller_1.0.5_iphoneos-arm64.deb
+Size: 9600
+MD5sum: f5095e1de720e16208e9b71940a2f38e
+SHA1: f6e0976c9a85487a8e3a764c75943d640a28b2f5
+SHA256: 354edf3ab4b23126994a45ac59da527566590b1daeb016e99290281f8351919c
+Section: Tweaks
+Description: 让你的手指休息一下，自动滚动任何页面！
+Author: iamdega
+Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
+Name: UIScroller
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.6
 Architecture: iphoneos-arm64
