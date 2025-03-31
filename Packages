@@ -2965,6 +2965,23 @@ Author: Brend0n <brendonjkding@126.com>
 Icon: https://s1.imagehub.cc/images/2025/01/02/53548d6f3c3bff8e8d38f4ca63b36e2f.png
 Name: NoPassAfterRespring
 
+Package: com.c00kiec00k.fuckgif
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: c00kiec00k
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/com.c00kiec00k.fuckgif_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 19804
+MD5sum: d5f036546a8c3bad251e0f256db0d789
+SHA1: f8d77e99ba2e60c385ba6bff08edaa01948816f2
+SHA256: bf03fc34cfe23e9fbc1c58dc59b815798b580adf047b16b2803fddf78376cdb9
+Section: 抖音插件
+Description: 自动保存抖音表情包到相册。
+Author: c00kiec00k
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: FuckGif
+
 Package: com.cameronkatri.quickactions
 Version: 1.0.0-2
 Architecture: iphoneos-arm64
@@ -5432,6 +5449,23 @@ Description: 可让您轻松检查设备的MobileGestalt信息（自己问ai作�
 Author: iamdega
 Icon: https://i.postimg.cc/ncNrx8Mk/mginspector-icon.png
 Name: MGInspector
+
+Package: com.iamdega.uiscroller
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: iamdega
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.iamdega.uiscroller_1.0.5_iphoneos-arm.deb
+Size: 9536
+MD5sum: e5f290a0ec08d32cffa0163959954a65
+SHA1: 5d5b344c5f7d991afd62ad935ed56ddc4dd92650
+SHA256: 00ccb203cd7346b5b219c5fad9a43d1fd64c5fd7ba93b7f043c7f36343accb78
+Section: Tweaks
+Description: 让你的手指休息一下，自动滚动任何页面！
+Author: iamdega
+Icon: https://i.postimg.cc/7Z9SYWZS/UIScroller.png
+Name: UIScroller
 
 Package: com.iamdega.uiscroller
 Version: 1.0.5
