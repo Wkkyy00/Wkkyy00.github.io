@@ -590,6 +590,22 @@ Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
 Name: CCDND
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.0xkuj.filzadirprobe_1.6.2_iphoneos-arm64.deb
+Size: 56632
+MD5sum: 6988ba3f517e6ae3aef3f12e695c0f35
+SHA1: fc0eeaa0940283708e8104354eb94704b074fa0f
+SHA256: b47126e72823ab78d1d7eb93d92c7ed542f04e8305317b8fa58f478b03751bed
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: FilzaDirProbe
+
 Package: com.0xkuj.lockeddnd.rootless
 Version: 1.0
 Architecture: iphoneos-arm64
