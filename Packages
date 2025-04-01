@@ -10811,6 +10811,26 @@ Name: ShadowrocketMute
 
 Package: com.wkk.smartnetwork
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 1272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
+Conflicts: com.eliassfeir.smartnetwork
+Filename: ./debs/com.wkk.smartnetwork_1.0_iphoneos-arm64e.deb
+Size: 345634
+MD5sum: e4d6c60ec017b0312dc2abd297d0a1e8
+SHA1: 2afbfa94e18e538bfebc602d5754d890c17e4b20
+SHA256: 5506f02ac6fdbbb7f6135dc97cff6d23ef790b8da45b000bd7cd8d01d2443788
+Section: 插件
+Description: 可以信任当前网络/蓝牙等，直接解锁手机，其他的功能自己研究。
+Author: elias
+Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.png
+Name: SmartNetwork
+Sponsor: wkk
+
+Package: com.wkk.smartnetwork
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 1272
