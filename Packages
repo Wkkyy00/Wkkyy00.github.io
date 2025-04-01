@@ -6841,6 +6841,26 @@ Name: libMiROShared
 
 Package: com.miro.marker
 Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 704
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.2)
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix, com.miro.swipeselection
+Filename: ./debs/com.miro.marker_2.0.1_iphoneos-arm64e.deb
+Size: 130768
+MD5sum: a4025e2773e33e179c6e5d8e5bafc169
+SHA1: d6f3d6d97fe23f712b630f90f1db1930bb37f34d
+SHA256: 9d3592e0a95bac8bae9492172ae1ba279d51dc4a88668ba3c2dd1c42df2b7232
+Section: Tweaks
+Description: 原生键盘区域自定义且可随意滑动控制光标的左右移动，第三方键盘自测，加入刀老板汉化包，
+Tag: purpose::extension, compatible_min::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://s1.imagehub.cc/images/2025/04/02/da42c37aa8a36c1f12f4cd1b6885d432.jpeg
+Name: Marker
+
+Package: com.miro.marker
+Version: 2.0.1
 Architecture: iphoneos-arm64
 Maintainer: MiRO <tweaks_support@miro92.com>
 Installed-Size: 704
