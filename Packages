@@ -6802,6 +6802,62 @@ Author: Mikoto
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: Mikoto 助手
 
+Package: com.miro.libmiroshared
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4936
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libmiroshared_1.0.2_iphoneos-arm64.deb
+Size: 1020674
+MD5sum: 15215c88cecc802d4eccb93bb307548b
+SHA1: a65bfc3226e539785d206f59f9659737aca430e6
+SHA256: 1def4d59aaba1bfb614f9f8db96c2778558360c22a80f8010d91307cc7871915
+Section: Development
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Name: libMiROShared
+
+Package: com.miro.libmiroshared
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4936
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libmiroshared_1.0.2_iphoneos-arm64e.deb
+Size: 2559706
+MD5sum: f684e66b6fa8a7ac2171e8eabe056993
+SHA1: f1dc0b8cd5c6dfcb8ab850aa6afedb4155fcc89e
+SHA256: 0806e94adbd5e730827714a9c7b8b20684381da860cb5b16dff9c649111890dc
+Section: Development
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Name: libMiROShared
+
+Package: com.miro.marker
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 704
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.2)
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix, com.miro.swipeselection
+Filename: ./debs/com.miro.marker_2.0.1_iphoneos-arm64.deb
+Size: 112276
+MD5sum: 65b236dda26d71acda93d7f5f6adc8d3
+SHA1: 77116da4aabbd26c81595b6b56828afe420ab25e
+SHA256: cef15bc6cbe190ee6034f28fe59424d0fc049a589acd4345b3c22dbae266fe4c
+Section: Tweaks
+Description: 原生键盘区域自定义且可随意滑动控制光标的左右移动，第三方键盘自测，加入刀老板汉化包，
+Tag: purpose::extension, compatible_min::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://s1.imagehub.cc/images/2025/04/02/da42c37aa8a36c1f12f4cd1b6885d432.jpeg
+Name: Marker
+
 Package: com.movenotification16
 Version: 1.0
 Architecture: iphoneos-arm64
