@@ -1103,6 +1103,23 @@ Depiction: k
 Icon: https://axs66.github.io/repo/icon/aimpro.png
 Name: AIM Pro
 
+Package: com.ali7assan.swipeselection.rootless
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Ali7assan
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.ali7assan.swipeselection.rootless.deb
+Size: 14392
+MD5sum: 1f031f88a13ff9891ba3a12ca3f39c7e
+SHA1: 6e9f2596693be5bb3b106f00bbef73e3f2a83c08
+SHA256: 4cd46ef0bb0e9cd25ef11e6cc94faef4076622a7b9798414904defdf6a0ca25e
+Section: Tweaks
+Description: 沿键盘滑动以移动光标并选择文本。
+Author: Kyle Howells
+Icon: https://s1.imagehub.cc/images/2025/04/02/4a8b1d82ef6cde19aafaa5793dbf1909.png
+Name: SwipeSelection
+
 Package: com.alwaysdark
 Version: 1.2.3
 Architecture: iphoneos-arm64
