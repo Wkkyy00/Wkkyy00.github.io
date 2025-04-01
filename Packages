@@ -269,6 +269,61 @@ Author: 来了老弟 h_h_x_t
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Flexlist/Flexing汉化
 
+Package: cn.llld.qsyy
+Version: 2.3.1-2
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 4936
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm.deb
+Size: 1948444
+MD5sum: e0708cc2f5bcef649abbef1762d07f14
+SHA1: 88b5e25761667d8010ca36ddddf45a00741a88fe
+SHA256: c5d4d199e44a4ec3326aec13e0d5bf862df614b5b829aed295c5593f5b2c0b08
+Section: 插件
+Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/04/01/22140f053325217e1c585cd47637a886.png
+Name: FT Plus
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+
+Package: cn.llld.qsyy
+Version: 2.3.1-2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 4964
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64.deb
+Size: 1949060
+MD5sum: 15250dc98cfb6daf2770a30a4c656f0b
+SHA1: c62daea84f8cbab849e4d9282655f54b75826d00
+SHA256: 545ba8ec8d57468356621075a7d625b09726afe264f7a21d41800a2e76da85c0
+Section: 插件
+Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/04/01/22140f053325217e1c585cd47637a886.png
+Name: FT悬浮文本增强替换翻译汉化
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+
+Package: cn.llld.qsyy
+Version: 2.3.1-2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 4964
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64e.deb
+Size: 1955064
+MD5sum: 6a650e1267af685ef634e1688ea95766
+SHA1: 4c1255451ec34a76d8eb7deaa4202567c6e747ee
+SHA256: e3a6c35afc6465ec8b8abca61e3c138a2825b15ba20951a99ae6911a4ded731d
+Section: 插件
+Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/04/01/22140f053325217e1c585cd47637a886.png
+Name: FT悬浮文本增强替换翻译汉化
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
