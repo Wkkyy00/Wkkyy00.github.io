@@ -10148,6 +10148,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
 Name: 高德地图NoAds
 
+Package: com.wkk.hideandfuck
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.wkk.hideandfuck_1.0_iphoneos-arm64.deb
+Size: 5792
+MD5sum: dd622558509f5dfcceb9b2133b3fbffc
+SHA1: 772ee35b2aa743a871839e6d45a3729cca20ec2b
+SHA256: 45e8c9ce9b04865157542522f8bf40a7ffa97fa4617786ab51df8511bfb56db4
+Section: Tweaks
+Description: 老板定制自用且绑定设备。你装必安全模式。（自定义隐藏系统里各种碍眼的地方：20多处）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/01/79644d149f0072fc992ff42c41721645.png
+Name: HideSometings
+
 Package: com.wkk.iconx
 Version: 1.0
 Architecture: iphoneos-arm64
