@@ -10165,6 +10165,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/01/79644d149f0072fc992ff42c41721645.png
 Name: HideSometings
 
+Package: com.wkk.hideiconbadge
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.hideiconbadge_1.0_iphoneos-arm64.deb
+Size: 3212
+MD5sum: 49677d856fdf21379f657ad4ba30f3ef
+SHA1: e498f38493f0b849c5bfe5da63b9ea34d86d930b
+SHA256: f6c365c698df0b350a3c13344c3369e5e068fca7c9af41be1db4a5805a42786b
+Section: Tweaks
+Description: 隐藏App所有角标。（即使来通知也没有，强迫症患者一劳永逸）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/01/9907d147c9ab5cc57a511ed0496cf4d8.jpeg
+Name: HideIconBadge
+
+Package: com.wkk.hideiconbadge
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.hideiconbadge_1.0_iphoneos-arm64e.deb
+Size: 4192
+MD5sum: 564f9be06f1d807d5fd982d0516c883b
+SHA1: fbf48690f15524fa1dda0b9ebb4e8cad6154554b
+SHA256: 14593ff5f1a07c2358d3d09f4a465156c962f1fced67f70304db72c23c0c73c4
+Section: Tweaks
+Description: 隐藏App所有角标。（即使来通知也没有，强迫症患者一劳永逸）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/01/9907d147c9ab5cc57a511ed0496cf4d8.jpeg
+Name: HideIconBadge
+
 Package: com.wkk.iconx
 Version: 1.0
 Architecture: iphoneos-arm64
