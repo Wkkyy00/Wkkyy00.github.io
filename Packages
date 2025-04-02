@@ -10441,12 +10441,12 @@ Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.iconx_1.2_iphoneos-arm64.deb
-Size: 3944
-MD5sum: 71f7dfe3adc0b756d3e76b7bc7449bcd
-SHA1: f22eec4c6403de7437c1ab41937ddd125130074b
-SHA256: 4255be2482a2c8b0935bc9d4a12b4c78668cf407a31e051dcc7a5168f50dd702
+Size: 3968
+MD5sum: 1894fe554315a4aac9caab1ababb1698
+SHA1: c00151b6779d9dfaf9397f11be56aebec654b52b
+SHA256: 6724b3a820cb0a3f88b975513445866f1a61fe2dcbf65e1c1e0b6ddeffaee29f
 Section: Tweaks
-Description: 禁用图标抖动删除按钮。
+Description: 禁用图标抖动删除按钮，支持iOS15-iOS16。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
@@ -10459,12 +10459,12 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.wkk.iconx_1.2_iphoneos-arm64e.deb
-Size: 5414
-MD5sum: 1e4a21cb7217cf2e131f0a4c6222f3e4
-SHA1: b42c0bc86fa728e87ad79fc7c0bfbaf7516dbbe3
-SHA256: 823235f32a27a4d824af72abbd01c113fe376bb8653649ae7879c37680fba49f
+Size: 4920
+MD5sum: b168016cdc1f42244bad41c2ed5732dd
+SHA1: 9ab26df655013d57d1cc741a5f76a93c1b8b8d13
+SHA256: 97dc2ef08b823578d6aebd2569b9078486d50b0ea5dd6036c706181c1ee1d57c
 Section: Tweaks
-Description: 禁用图标抖动删除按钮。
+Description: 禁用图标抖动删除按钮，支持iOS15-iOS16。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
