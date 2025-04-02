@@ -13203,14 +13203,14 @@ Maintainer: r_plus
 Installed-Size: 176
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/jp.r-plus.anykeytrackpad_1.1.1_iphoneos-arm64.deb
-Size: 6824
-MD5sum: 041534cdac0294eae867320d0c42f018
-SHA1: f4eb10e9e7eea4527460ae096b46abcd6b0333c6
-SHA256: b870f340d3932c7601b257b4b3ae5e4d0598fa5769abc90df1b31806e99bd8e2
+Size: 6840
+MD5sum: 6fc014a339fe58ad2a0eda7da40b5d5e
+SHA1: 5b89eba6bb4f0af8a18cfc695e9d80ff3411a1fa
+SHA256: ac4dae0d1d3c000c07037ec78f0bda10142079edd218da5c6ac4fba4c234b6f6
 Section: Tweaks
 Description: 原生键盘长按任意键进入移动光标模式。
 Author: r_plus
-Icon: file:///Library/PreferenceLoader/Preferences/AnyKeyTrackpad@2x.png
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: AnyKeyTrackpad
 
 Package: jp.r-plus.anykeytrackpad
@@ -13221,14 +13221,14 @@ Installed-Size: 176
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/jp.r-plus.anykeytrackpad_1.1.1_iphoneos-arm64e.deb
-Size: 9248
-MD5sum: 65909514c27c339190fc20fa39809379
-SHA1: 928a9f1b85594dd49db2ee176b18c53c6baef4f7
-SHA256: d4a13492713c61f88287174a63a5cafda463e451aa65eb5ea2ad9f1185f5cdb8
+Size: 8076
+MD5sum: fb880c8d5f90ea47cac06cfdbbaeede7
+SHA1: 751a69a62e953d454b83cba5d6af011325a2d8fb
+SHA256: 8002ac191c4bdd8af7cdca66bf50d344163b2ceb6c35e92edc8bf775590dac84
 Section: Tweaks
 Description: 原生键盘长按任意键进入移动光标模式。
 Author: r_plus
-Icon: file:///Library/PreferenceLoader/Preferences/AnyKeyTrackpad@2x.png
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: AnyKeyTrackpad
 
 Package: jp.soh.freepip
