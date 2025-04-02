@@ -146,23 +146,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.
 Name: Griddy
 Sponsor: wkk
 
-Package: apt.passby
-Version: 1.9.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 688
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.passby_1.9.1.deb
-Size: 77600
-MD5sum: 76e5b6299bac14c3544e4c3dccf58e62
-SHA1: 72273d7d46bb743601b64f4ecda9b3c9c41f81a7
-SHA256: 2f4b3022291599c471b7e32a31c52f7065dc48b8b2482a4ed99185dd83941eea
-Section: 控制中心
-Description: 临时绕过人脸，无设置项，控制中心开启。
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: PassBy
-Sponsor: wkk
-
 Package: apt.perfectxtime
 Version: 1.1-3
 Architecture: iphoneos-arm64
