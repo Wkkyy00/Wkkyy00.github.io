@@ -6082,6 +6082,40 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: 禁止APP创建相册
 
+Package: com.lenglengyu.passbycc
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 920
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.lenglengyu.passbycc_1.0.7_iphoneos-arm64.deb
+Size: 198768
+MD5sum: fae79c160f4e746aa1088ced245f7e25
+SHA1: f3b07633f104d6fadfa2d0f396d113b7ba933fd8
+SHA256: 7ed54704ddff72c382899ef0399bf9fcdf97800106d88d8070264050e795907d
+Section: 控制中心
+Description: 临时绕过人脸，绕过密码解锁。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PassByCC
+
+Package: com.lenglengyu.passbycc
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 920
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.lenglengyu.passbycc_1.0.7_iphoneos-arm64e.deb
+Size: 200340
+MD5sum: 9b29c7bd411f6e6d1ffaab71f430346f
+SHA1: 027090195af1fb89779adb1c53172071ffad6af1
+SHA256: 51f8f9f3591c5983f7bc44dd8cf7bd0983d9846c2b7dd46ebe3ff18ab9df160e
+Section: 控制中心
+Description: 临时绕过人脸，绕过密码解锁。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PassByCC
+
 Package: com.liuf.ceshi
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -11901,16 +11935,34 @@ Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/L
 Name: vnodebypass
 
 Package: latchkey
-Version: 5.2.0
+Version: 2.3.3
 Architecture: iphoneos-arm64
 Maintainer: Maxwell Dausch
 Installed-Size: 13476
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/latchkey_5.2.0_iphoneos-arm64.deb
-Size: 423000
-MD5sum: 43c96e0985f44a5ac42ae5ae2cd5f738
-SHA1: 6f52977cac25ae31bfc6f9da8774a5d93d80c017
-SHA256: 1f0ff42730dcc7fc582a956d559456f4c07f779f031f0ed644a1519dc251e792
+Filename: ./debs/latchkey_2.3.3_iphoneos-arm64.deb
+Size: 423024
+MD5sum: 7fb1147ce23678f3bbbfbfd1215c866b
+SHA1: 275da556f3a9bee1460178b93831c0664142445b
+SHA256: 9a771933bbf78317123c272e798f94ed7ccc20a595d933cd43851fd560004695
+Section: 插件
+Description: 自定义锁头最终版本，去掉无用选项
+Author: Maxwell Dausch
+Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
+Name: Latchkey
+
+Package: latchkey
+Version: 2.3.3
+Architecture: iphoneos-arm64e
+Maintainer: Maxwell Dausch
+Installed-Size: 13476
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/latchkey_2.3.3_iphoneos-arm64e.deb
+Size: 439684
+MD5sum: fdf8fca49acc11be667e77a52890b7ba
+SHA1: f2a4dc6eba23140ee7ed7f383a751f071e419c25
+SHA256: 150dd38563021f892701b9aa43028a2974a95c11ca1b3c1f2b887e81472f3c8e
 Section: 插件
 Description: 自定义锁头最终版本，去掉无用选项
 Author: Maxwell Dausch
