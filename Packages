@@ -379,6 +379,25 @@ Name: CocoaTop汉化
 
 Package: cn.zqbb.appdata
 Version: 1.3.6-9
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/cn.zqbb.appdata_1.3.6-9_iphoneos-arm64e.deb
+Size: 99708
+MD5sum: fef78c0d153a13889dd3d23012ca14f2
+SHA1: 8c71007c6be366b055fed368138d54f793f7130b
+SHA256: 22272c331b6c26a66f91eb8f151a324042e6fb526abdb1f4da80db12e1fdf449
+Section: 插件
+Description: 仅备份。
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
+Name: Hello AppData
+
+Package: cn.zqbb.appdata
+Version: 1.3.6-9
 Architecture: iphoneos-arm64
 Maintainer: zqbb
 Installed-Size: 356
@@ -1035,6 +1054,22 @@ Name: 黄白助手
 
 Package: com.Wes.ExplosiveIcons
 Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Wes
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wes.explosiveicons_1.1.1_iphoneos-arm64e.deb
+Size: 46434
+MD5sum: 191633c3aee8e7e3b5c8e4ae915690f6
+SHA1: da9850cb03ad50889a95825ce91bbb2fed8515ae
+SHA256: 7644c30f3fa99307feb39b5a93bd7ba4fdf3f1611bf8760bac5570c99a86c97d
+Section: 插件
+Description: 炫酷吊爆的图标卸载动画，不支持在atria上启用（汉化：lans233）汉化作者源：https://lans233.github.io/
+Author: Wes
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: ExplosiveIcons
+
+Package: com.Wes.ExplosiveIcons
+Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: Wes
 Filename: ./debs/com.Wes.ExplosiveIcons_1.1.1_iphoneos-arm64.deb
@@ -1203,6 +1238,24 @@ Name: Aria
 
 Package: com.autoscroll
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: pxcex
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.pxcex.autoscroll, com.Axs.autoscroll, xyz.cypwn.autoscroll15, byg.iosios.net.autoscroll, com.autoscroll.jb
+Filename: ./debs/com.autoscroll_1.0_iphoneos-arm64e.deb
+Size: 7366
+MD5sum: e0cceabbc41791a8b91950bab4296f0a
+SHA1: 4b38df9d12704e04ffa83685b1e8a709510e09c9
+SHA256: fdcd06a2fa9741f57603fb3f8f833e96e3a18660300c7496bda56adaf91e32b5
+Section: 插件
+Description: 跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置项。
+Author: pxcex
+Icon: https://s1.imagehub.cc/images/2025/03/13/2e6958e882916c6bf4062b6fb0761054.jpeg
+Name: AutoScroll
+
+Package: com.autoscroll
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: pxcex
 Depends: mobilesubstrate
@@ -1352,6 +1405,25 @@ Size: 4224
 MD5sum: 1f6d41d8538b276a6e6f6a272f852321
 SHA1: 7f13c947d41df6dd3994f6bac17643c6c4e30b04
 SHA256: 8d3e3d20ed934a966456a58016e65431f7f78a4a07a86c5c35d8b5cdb91fa1de
+Section: 插件
+Description: APP角标呼吸灯效果，注销生效无设置项。
+Author: Phuc Do
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Badge
+Sponsor: wkk
+
+Package: com.badgebreathing
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.badgebreathing_0.0.1_iphoneos-arm64e.deb
+Size: 5716
+MD5sum: b8cda46e77517c8db54616eeb4f07512
+SHA1: 5054d2690f48f132531b71cecec7cdcaa1be9fd2
+SHA256: 1fca52bc3df9dc97092fcf059e547492103ce700737d2f5d945b49ced8b114a6
 Section: 插件
 Description: APP角标呼吸灯效果，注销生效无设置项。
 Author: Phuc Do
@@ -3055,6 +3127,24 @@ Name: FuckGif
 
 Package: com.cameronkatri.quickactions
 Version: 1.0.0-2
+Architecture: iphoneos-arm64e
+Maintainer: Cameron Katri <me+quickactions@cameronkatri.com>
+Installed-Size: 458
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.cameronkatri.quickactions_1.0.0-2_iphoneos-arm64e.deb
+Size: 51012
+MD5sum: 792c65959b02bbac26862a89b89e24e6
+SHA1: d1d5ff0047e4edd1380ef949350a3fbe2e3da855
+SHA256: 1b91c314fdfd711f72b262bb3239b33ba72cc811c6c5ae6d8c0168ccd891d172
+Section: 插件
+Description: 锁屏相机和手电筒可以设置其他快捷方式的功能。不仅仅再是相机与手电筒！
+Author: Cameron Katri <me+quickactions@cameronkatri.com>
+Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
+Name: QuickActions
+
+Package: com.cameronkatri.quickactions
+Version: 1.0.0-2
 Architecture: iphoneos-arm64
 Maintainer: Cameron Katri <me+quickactions@cameronkatri.com>
 Installed-Size: 458
@@ -4655,6 +4745,26 @@ Icon: https://s1.imagehub.cc/images/2025/02/16/645bce926562f373e092158d903db4ce.
 Name: HapticSleep
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.hapticsleep
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 173
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.hapticsleep_1.0.1_iphoneos-arm64e.deb
+Size: 5038
+MD5sum: 48a3bd981bb3112319cd253bc1cabe45
+SHA1: ae65d424569b5bfe475eb418e4169c858252f143
+SHA256: a3edd67f72bc9aec8cff88edf9d27306314453a5e3052099355f9a093c6a276a
+Section: 插件
+Priority: optional
+Description: 锁屏的时候震动一下，无设置项，支持无根隐根。
+Author: <lucaluca86@aol.com>
+Icon: https://s1.imagehub.cc/images/2025/02/16/645bce926562f373e092158d903db4ce.png
+Name: HapticSleep
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.hauncundaochu
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4671,6 +4781,24 @@ Description: 下载后的文件添加一个导出按钮，测试版本：12.22.0
 Author: lly
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘缓存导出
+
+Package: com.hidenotificationbadge
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.hidenotificationbadge_0.0.1_iphoneos-arm64e.deb
+Size: 4122
+MD5sum: 7edf5b3378ced2f24f811ba96a98a096
+SHA1: d79a679fe1a00d319d1df08d1591fa61abb8223d
+SHA256: eef31ff4723b7b8dc088078fad9c02e1115eb4c9a03ce0a4770083cbd47f0bed
+Section: 插件
+Description: 隐藏通知图标中右下角标。
+Author: SquidForce
+Icon: https://s1.imagehub.cc/images/2025/01/07/6ef6711ca9293ce5daa41999cd7491a4.jpeg
+Name: HideNotificationBadge
+Sponsor: wkk
 
 Package: com.hidenotificationbadge
 Version: 0.0.1
@@ -5676,6 +5804,25 @@ Size: 5620
 MD5sum: 9e0ce117eeb46933b0374ea8f2da0ac7
 SHA1: 5f5584140f692cf319b8cf546b469124bb80b841
 SHA256: 26b447ff9ea10729aa11263fda328ce5e397a08c1c9272a0d5e102ad9bc91017
+Section: 插件
+Description: 一款让你的3Dtouch透明的插件，和源里的PurifyLine搭配，效果还不错。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/01/09/645175730c21b369776c08781b911cf7.png
+Name: 3Dtouch透明
+Sponsor: wkk
+
+Package: com.iwanttranslucent.wkk
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.iwanttranslucent.wkk_0.0.1_iphoneos-arm64e.deb
+Size: 7540
+MD5sum: 1af8a02adaab9a18e0533b2a9e507f6a
+SHA1: 10930d984a2d72d08eb6bba189b5850a3f9dfb99
+SHA256: f311b03777f421184f1380d01f7f36a17203f64462acdafbd44163343a638049
 Section: 插件
 Description: 一款让你的3Dtouch透明的插件，和源里的PurifyLine搭配，效果还不错。
 Author: Luki
@@ -7083,6 +7230,42 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.
 Name: AppData
 
 Package: com.netskao.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.1_iphoneos-arm64e.deb
+Size: 13992062
+MD5sum: 3077f289a522b5b03ff89fb7295a3cd5
+SHA1: 436319724978e4a778cf24587d8b66a8cdecec01
+SHA256: 55c8d278f8100c0e39132014fa93ab735c74448eceef7daba9a32a2264878c21
+Section: 插件
+Description: 备份上架1.4.1版本。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.netskao.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.4_iphoneos-arm64e.deb
+Size: 14517788
+MD5sum: 8d0971676ab1eec79c6876f9dbe2b038
+SHA1: 02a4e7ef5886273e56b1da29862cf5b6804710c8
+SHA256: 29668a498e1b650361ce3ce3f4903d20b3ff451e486b517159595feb4d2cbd28
+Section: 插件
+Description: 备份上架。长按降级。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.netskao.appdata
 Version: 1.4.4
 Architecture: iphoneos-arm64
 Maintainer: Nets
@@ -7509,6 +7692,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
 Name: PanCake
 
 Package: com.pancake
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.pancake_2.2_iphoneos-arm64e.deb
+Size: 111260
+MD5sum: 93081ab8c2a0ab0b434cb6e49fd4ab10
+SHA1: d16960f8252b9f5fa1af6c47c0024e16dcd14809
+SHA256: 344a83f08309f9c6399560282f10e3bb7eb157d944bd233032b714056f302c7f
+Section: 插件
+Description: 仅备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
+Name: PanCake
+
+Package: com.pancake
 Version: 2.3
 Architecture: iphoneos-arm64
 Maintainer: AnthoPak <anthopakdev@gmail.com>
@@ -7518,6 +7718,23 @@ Size: 112916
 MD5sum: 4563e8eda9832347769711c4f7355294
 SHA1: 985f254767ca27731c07ffb415ac1a637694d48b
 SHA256: 17478d8a5b11816a446f583e49d43ccbf05eee0d2bc4e7965c169f44e9298141
+Section: 插件
+Description: 仅备份。已汉化。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
+Name: PanCake
+
+Package: com.pancake
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.pancake_2.3_iphoneos-arm64e.deb
+Size: 127984
+MD5sum: a390579449737e2318919a76cb0fed8a
+SHA1: 6a955dd59f51828d569e3181a4faca7ff4260506
+SHA256: 3a78b99eaf02155601df0a2b491f565fe4e656cef63d8fbff15cadc74fb2e016
 Section: 插件
 Description: 仅备份。已汉化。
 Author: AnthoPak <anthopakdev@gmail.com>
@@ -8447,6 +8664,24 @@ Description: 注销扩展，自备素材，源内有皮卡丘素材，此源仅�
 Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Respring Extension
+
+Package: com.squidforce.snapper3.plugins
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.lclrc.snapper3.plugins
+Filename: ./debs/com.squidforce.snapper3.plugins_1.2_iphoneos-arm64e.deb
+Size: 46364
+MD5sum: dd25e089cc080134a23651de8a09c129
+SHA1: d21316ee0b1686102c9cb65ca6cf15d4b8db063c
+SHA256: 4cf9bd381a9d57761e2c1fad258d8cfa0576210f4c0462472b8410a9827c4d59
+Section: Tweaks
+Description: including iMark and Piiico for now
+Author: SquidForce(乌贼力量)
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
+Name: Plugins For Snapper3
 
 Package: com.squidforce.snapper3.plugins
 Version: 1.2
@@ -9416,6 +9651,30 @@ Size: 3416
 MD5sum: 1e54e6a228a6e9bce2856c71dc0103c2
 SHA1: 66045a2ad01008d8a6a180792f8ee716f68d5ec4
 SHA256: 504b49dfff6eb5add2276bc83b352fc173b20c536ccbf478a29932f283381e5b
+Section: 插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Description: 仅禁用资源库且有回弹效果，无设置项。
+Tag: purpose::extension
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
+Dev: tomaszpoliszuk
+Icon: https://s1.imagehub.cc/images/2025/01/09/b054d8ce681f3bc9c416886d08711a85.png
+Name: App Library Disabler
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.tomaszpoliszuk.applibrarydisabler
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, cy+model.iphone | cy+model.ipod | firmware (>= 15.0)
+Conflicts: com.tomaszpoliszuk.applibraryenabler
+Filename: ./debs/com.tomaszpoliszuk.applibrarydisabler_1.1.1_iphoneos-arm64e.deb
+Size: 4922
+MD5sum: 1ee96b1a0456a3029a67538dbd1d3ba7
+SHA1: c27921b6af89a15af85bb356810177b029595701
+SHA256: 4168e955c1b5c2cd56c27c34ef7e287905f65db5cf162a6b13560523888adce6
 Section: 插件
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applibrarydisablerDp
 Description: 仅禁用资源库且有回弹效果，无设置项。
@@ -12088,6 +12347,26 @@ Size: 53116
 MD5sum: 165dce7480da1f6b7d739365e14126eb
 SHA1: d2f124c8e72309943a5fae191338155a5298fae7
 SHA256: 6cae1ee130ec1176110e3cb09e7cab3d8e7e94a6a1ed4e29f4ab05a6d25d350b
+Section: 插件
+Description: iOS 6 (or custom) charging & lock sounds
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
+Icon: https://s1.imagehub.cc/images/2025/01/02/db0552c3269c402cf762bc2ffda80f7f.png
+Name: Canna
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
+
+Package: me.luki.canna
+Version: 0.9.0
+Architecture: iphoneos-arm64e
+Maintainer: Luki
+Installed-Size: 288
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/me.luki.canna_0.9.0_iphoneos-arm64e.deb
+Size: 70254
+MD5sum: c640845fdefdef96a657f762ee45715b
+SHA1: 66a0d8b5ea36c92091cd7878fe81be33283d99c9
+SHA256: 6a9512a682db2d4ab50aa0f0d964e577b903fc5112493d0f7376b7a941b30be6
 Section: 插件
 Description: iOS 6 (or custom) charging & lock sounds
 Author: Luki
