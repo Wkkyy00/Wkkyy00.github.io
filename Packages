@@ -11681,12 +11681,12 @@ Maintainer: Nightwind & thetimeloop
 Installed-Size: 1502
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/con.wkk.jade_1.0.5_iphoneos-arm64.deb
-Size: 307660
-MD5sum: 0ff6fb98909c4d33fad5ebd1907c4c9a
-SHA1: 4042f61852edf8c377f21527e08723e16191564f
-SHA256: 3739dfba5e79004b2f97af6bf2ff68c55af4ce528bb6d742e46529659bf495a3
-Section: 越狱插件
-Description: 控制中心
+Size: 307840
+MD5sum: 549b1dda9e116352ebfc865387f11c57
+SHA1: 0cfaab08914a3f17aa00058abb258e1a4c6d19c4
+SHA256: 9d387fc1351a44a67beb139065f374e3186a65ea5b37a1b7f5799d64ff7fbc5d
+Section: 控制中心
+Description: 控制中心插件。
 Author: Nightwind & thetimeloop
 Icon: https://sini921.github.io/repo/sileodepiction/icon/jade.png
 Name: Jade
