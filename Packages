@@ -8584,6 +8584,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: FLEXing
 Sileodepiction-Unused: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
+Package: com.picsewpro
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 120
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.picsewpro_1.0.0_iphoneos-arm64e.deb
+Size: 25976
+MD5sum: 40ac108979910965a153e5d72756fa9f
+SHA1: ff18cdee1bdedefd00d9745efe1c553b7a536462
+SHA256: da47bf5f3c531c0e11e060ab09a3dd7597013221a4236b1037e7806724e040bc
+Section: 插件
+Description: Picsew Pro 不支持注入。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/picsewpro.png
+Name: PicsewPro
+
+Package: com.picsewpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.picsewpro_1.0.0_iphoneos-arm64.deb
+Size: 25060
+MD5sum: e8c119be97babdd1fc3c6b79e8fda819
+SHA1: ae8dfebff00c64a29a1564a721d3edfd4c687000
+SHA256: de2fed7afab9794779c058c2488d8be8c0167e0c48f48912d5371b671c768294
+Section: 插件
+Description: Picsew Pro 不支持注入。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/picsewpro.png
+Name: PicsewPro
+
 Package: com.pingfan.wechat
 Version: 2.2-1
 Architecture: iphoneos-arm64
