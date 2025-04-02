@@ -13770,6 +13770,82 @@ Author: poqw312
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 禁用通知中心下拉手势
 
+Package: se.geometric.graphite
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Geometric Software
+Installed-Size: 656
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware(>=13.0), mobilesubstrate, firmware(<<17.0)
+Conflicts: com.muris.libgraphite
+Filename: ./debs/se.geometric.graphite_2.0_iphoneos-arm64e.deb
+Size: 121756
+MD5sum: c5f158b32738529715836a4261bde6d0
+SHA1: 6d577828a72f0ef2fffb1c0c1e314a96c234ad0d
+SHA256: e0f7d002845a66c88486322549e762bbf686cd5327aa9dd9a5b07601da2dc22e
+Section: Development
+Description: powerful library for iOS development
+Tag: purpose::library role::developer
+Author: Geometric Software
+Depiction: https://store.geometricsoftware.se/packages/se.geometric.graphite
+Name: Graphite Library
+Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.graphite/depiction
+
+Package: se.geometric.graphite
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Geometric Software
+Installed-Size: 656
+Depends: firmware(>=13.0), mobilesubstrate, firmware(<<17.0)
+Conflicts: com.muris.libgraphite
+Filename: ./debs/se.geometric.graphite_2.0_iphoneos-arm64.deb
+Size: 89466
+MD5sum: b0e802494257b03e24281ca7d1c38f47
+SHA1: d68cea6f0cfda7126e82fd6ecdf5436d9633864f
+SHA256: 063dcdff8e996bfa6c77df2c19092a84a8c7a7cc3f17bae8dd5fa9e383da6e2f
+Section: Development
+Description: powerful library for iOS development
+Tag: purpose::library role::developer
+Author: Geometric Software
+Depiction: https://store.geometricsoftware.se/packages/se.geometric.graphite
+Name: Graphite Library
+Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.graphite/depiction
+
+Package: se.geometric.intelligentpass5
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: kkkk
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>= 15.0),firmware (<< 17),preferenceloader,se.geometric.graphite
+Filename: ./debs/se.geometric.intelligentpass5_1.0.1_iphoneos-arm64e.deb
+Size: 93660
+MD5sum: 3f3873011e41b4bed9f01f183273ccb1
+SHA1: 256523c194f656962ba3914520a388cae8177137
+SHA256: b2ad924376f3add8aa7f783892042c239f81782dff869ff8feca4bd317313164
+Section: Tweaks
+Description: 最好用的跳过密码插件。
+Author: Geometric Software
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: IntelligentPass 5
+
+Package: se.geometric.intelligentpass5
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: kkkk
+Installed-Size: 444
+Depends: mobilesubstrate,firmware (>= 15.0),firmware (<< 17),preferenceloader,se.geometric.graphite
+Filename: ./debs/se.geometric.intelligentpass5_1.0.1_iphoneos-arm64.deb
+Size: 82720
+MD5sum: 7de69428f58754155b8281b1c30ee94c
+SHA1: 3af1e0e2c700617a441100df0bfe89886b4b7180
+SHA256: 1642af1175a4ded559c6dd7b7d2ac3ecac0480fa64557772039787faa35aea76
+Section: Tweaks
+Description: 最好用的跳过密码插件。
+Author: Geometric Software
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: IntelligentPass 5
+
 Package: uncar
 Version: 0.0.1-6
 Architecture: iphoneos-arm64e
