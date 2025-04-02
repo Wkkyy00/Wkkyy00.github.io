@@ -13196,6 +13196,41 @@ Author: Adolfoi_
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SimpleHome
 
+Package: jp.r-plus.anykeytrackpad
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: r_plus
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/jp.r-plus.anykeytrackpad_1.1.1_iphoneos-arm64.deb
+Size: 6824
+MD5sum: 041534cdac0294eae867320d0c42f018
+SHA1: f4eb10e9e7eea4527460ae096b46abcd6b0333c6
+SHA256: b870f340d3932c7601b257b4b3ae5e4d0598fa5769abc90df1b31806e99bd8e2
+Section: Tweaks
+Description: 原生键盘长按任意键进入移动光标模式。
+Author: r_plus
+Icon: file:///Library/PreferenceLoader/Preferences/AnyKeyTrackpad@2x.png
+Name: AnyKeyTrackpad
+
+Package: jp.r-plus.anykeytrackpad
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: r_plus
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/jp.r-plus.anykeytrackpad_1.1.1_iphoneos-arm64e.deb
+Size: 9248
+MD5sum: 65909514c27c339190fc20fa39809379
+SHA1: 928a9f1b85594dd49db2ee176b18c53c6baef4f7
+SHA256: d4a13492713c61f88287174a63a5cafda463e451aa65eb5ea2ad9f1185f5cdb8
+Section: Tweaks
+Description: 原生键盘长按任意键进入移动光标模式。
+Author: r_plus
+Icon: file:///Library/PreferenceLoader/Preferences/AnyKeyTrackpad@2x.png
+Name: AnyKeyTrackpad
+
 Package: jp.soh.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
