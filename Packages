@@ -11674,6 +11674,23 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Hello Snapper
 
+Package: con.wkk.jade
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Nightwind & thetimeloop
+Installed-Size: 1502
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/con.wkk.jade_1.0.5_iphoneos-arm64.deb
+Size: 307660
+MD5sum: 0ff6fb98909c4d33fad5ebd1907c4c9a
+SHA1: 4042f61852edf8c377f21527e08723e16191564f
+SHA256: 3739dfba5e79004b2f97af6bf2ff68c55af4ce528bb6d742e46529659bf495a3
+Section: 越狱插件
+Description: 控制中心
+Author: Nightwind & thetimeloop
+Icon: https://sini921.github.io/repo/sileodepiction/icon/jade.png
+Name: Jade
+
 Package: cum.0xilis.hidevpn
 Version: 1.1
 Architecture: iphoneos-arm64e
