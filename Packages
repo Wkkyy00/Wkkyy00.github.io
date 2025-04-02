@@ -10399,6 +10399,76 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
 
+Package: com.wkk.iconx
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.iconx_1.1_iphoneos-arm64.deb
+Size: 3824
+MD5sum: e9bf9e7743b1f8fca9387a65b87fb07c
+SHA1: 55f00afa3c67ed5bd1c7671342caab28ac0492e7
+SHA256: a41682c840f59aa9200a9f5d3061c659c0950906bffbd0815442b96db9be80bf
+Section: Tweaks
+Description: 禁用图标抖动的删除按钮。（支持iOS15-iOS16）如果你安装了电话助手，移步1.0版本。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hideiconx
+
+Package: com.wkk.iconx
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.iconx_1.1_iphoneos-arm64e.deb
+Size: 5176
+MD5sum: 22e6cc2014145bb056dff9fa64d5cfdd
+SHA1: 644c510287d00bca0180d01be71ea3498412e894
+SHA256: bcf03d9f72ef58f25f52f863f82d12a4db71985e8b160cc5230a09e4d8f39b35
+Section: Tweaks
+Description: 禁用图标抖动删除按钮。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hideiconx
+
+Package: com.wkk.iconx
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.iconx_1.2_iphoneos-arm64.deb
+Size: 3944
+MD5sum: 71f7dfe3adc0b756d3e76b7bc7449bcd
+SHA1: f22eec4c6403de7437c1ab41937ddd125130074b
+SHA256: 4255be2482a2c8b0935bc9d4a12b4c78668cf407a31e051dcc7a5168f50dd702
+Section: Tweaks
+Description: 禁用图标抖动删除按钮。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hideiconx
+
+Package: com.wkk.iconx
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.iconx_1.2_iphoneos-arm64e.deb
+Size: 5414
+MD5sum: 1e4a21cb7217cf2e131f0a4c6222f3e4
+SHA1: b42c0bc86fa728e87ad79fc7c0bfbaf7516dbbe3
+SHA256: 823235f32a27a4d824af72abbd01c113fe376bb8653649ae7879c37680fba49f
+Section: Tweaks
+Description: 禁用图标抖动删除按钮。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hideiconx
+
 Package: com.wkk.jptext
 Version: 1.0
 Architecture: iphoneos-arm64
