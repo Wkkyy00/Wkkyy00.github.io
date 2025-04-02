@@ -9392,6 +9392,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.png
 Name: 双指下滑截图
 
+Package: com.swipedownscreenshot
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.swipedownscreenshot_1.0_iphoneos-arm64e.deb
+Size: 5762
+MD5sum: fd4b4b2a7fa20bc62dbbd306cfa53800
+SHA1: ae274b4619b3e46ad4796420f474a37adfdcceb3
+SHA256: 3caaea2e6f111f601ffb900799f977e1daf8b4999fdab10fcde6557e8430261c
+Section: 插件
+Description: 双指从任意地方的手机屏幕顶部下滑，即启用截图，无设置项。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.png
+Name: 双指下滑截图
+
 Package: com.swipeshiftcaret
 Version: 1.11
 Architecture: iphoneos-arm64
