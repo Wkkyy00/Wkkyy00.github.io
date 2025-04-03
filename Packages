@@ -8405,6 +8405,24 @@ Name: TrollStore Helper
 
 Package: com.opa334.trollstorelite
 Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 608
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: ldid
+Filename: ./debs/com.opa334.trollstorelite_2.1_iphoneos-arm64e.deb
+Size: 248576
+MD5sum: bbcfab8d634f711dcd0122e398f15771
+SHA1: 9428991b637a8fb65cdb4541565b0c75b0a2c3bf
+SHA256: eb3abf6489e7f8d8b8c63846433629a7896875e448e2b61cd6d8991c1955a746
+Section: 应用程序
+Description: TrollStore for jailbroken iOS
+Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/03/26/73e0fae82d49e6067c6a8d358a4b6b6e.jpeg
+Name: TrollStore Lite
+
+Package: com.opa334.trollstorelite
+Version: 2.1
 Architecture: iphoneos-arm64
 Maintainer: opa334
 Installed-Size: 608
