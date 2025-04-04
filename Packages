@@ -12445,6 +12445,43 @@ Author: xybp888
 Icon: https://s1.imagehub.cc/images/2025/01/21/f7e8524cadd87aea8e3d1915eb4c4e49.png
 Name: 一键锁屏
 
+Package: com.yan.anitime
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: yan
+Installed-Size: 1488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.anitime_1.0_arm64e.deb
+Size: 447624
+MD5sum: 00870bab108a3574b2ee6d734653ca40
+SHA1: 42766a2c4ffa9d075776a01fd0f80e8a9982552f
+SHA256: c1717ecc1d01ce53fbf32fd94d72e0e3bf5616dca743f565274b6811d3665903
+Section: Tweaks
+Description: Animated anime characters as your clock digits
+Author: yan
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AniTime
+Sponsor: yan
+
+Package: com.yan.anitime
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1488
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.yan.anitime_1.0_arm64.deb
+Size: 392512
+MD5sum: 5891c468dcb35121c13437f2e6cc71f1
+SHA1: 469421c7a409e62ffe8060b5e18c0d9a33ec903e
+SHA256: 466b1093b22aba377d82c85fca4473a274da58b2844d883a966d1b5644a0c49a
+Section: Tweaks
+Description: Animated anime characters as your clock digits
+Author: yan
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AniTime
+Sponsor: yan
+
 Package: com.yan.stella
 Version: 1.0.3
 Architecture: iphoneos-arm64
