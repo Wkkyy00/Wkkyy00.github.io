@@ -1369,6 +1369,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/1f71c54f9809168bb6d406ca93090b84.
 Name: AlwaysDark
 Sponsor: wkk
 
+Package: com.alwaysdark
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.alwaysdark_1.2.3_iphoneos-arm64e.deb
+Size: 39152
+MD5sum: 12b1aad098856bbd43f0282832d6e57f
+SHA1: 4b53b6e783d54e8748c2365bfd1f8fef245d51d1
+SHA256: d63da079b72cad0c49ca0da25554610562fa63e416baaa8c5647d2cd8cc4a297
+Section: 插件
+Description: 始终在深色/明亮模式下运行可特定应用程序。
+Author: KingPuffdaddi
+Icon: https://s1.imagehub.cc/images/2025/01/08/1f71c54f9809168bb6d406ca93090b84.jpeg
+Name: AlwaysDark
+Sponsor: wkk
+
 Package: com.anthopak.addtofolder-rootless
 Version: 1.4
 Architecture: iphoneos-arm64
