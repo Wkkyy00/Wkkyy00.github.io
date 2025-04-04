@@ -9107,6 +9107,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: killapps
 Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.killapps.json
 
+Package: com.spark.libsparkapplist
+Version: 1.1.0~rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64e.deb
+Size: 33376
+MD5sum: a65ae8efe46f57e8e1987a720d4eaac5
+SHA1: 5b60390ed86a273b30d7ff357caa4835a1d072b6
+SHA256: 279870ce573b0e242608ed8dad196c884a96c1e120f3283860b4c33fb12f5019
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
 Package: com.spark.snowboard
 Version: 1.5.13-Beta3-rootless
 Architecture: iphoneos-arm64
