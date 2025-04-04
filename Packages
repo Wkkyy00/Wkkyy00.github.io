@@ -3309,6 +3309,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.3-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.3-1_iphoneos-arm64.deb
+Size: 548824
+MD5sum: 6e4d817086881729ac68b30166e35f20
+SHA1: f60afaa95381e4edd4564471952aefd3c2a77459
+SHA256: 36a1ad551dcb915f8add3718368dc9c3516bedcb8a84015b2d194c3bcd4a1b8f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.betterccbrightness
 Version: 1.0.2
 Architecture: iphoneos-arm64
