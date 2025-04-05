@@ -3549,6 +3549,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.3-7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.3-7_iphoneos-arm64.deb
+Size: 554728
+MD5sum: 1f8e3bb2adfe6cf212bc5eb2c26a71c3
+SHA1: 8dee0d618c53c3d13c01056e8d332cc23eecd22c
+SHA256: 25924bb27d38d7c1f73a149b08d170b297fce5d83c5478f5b63deeb053ef7f77
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.3-7
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.3-7_iphoneos-arm64e.deb
+Size: 1476794
+MD5sum: 4870ada303ea54f25cbff5cf22f29011
+SHA1: e758e5c527951a8660c62f76d73e409dd4395afc
+SHA256: c3d93126cb7d985c041109d0d6ff87e5dc69e3d9759027e2ab90a3cdc36c8e8f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.betterccbrightness
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -9733,6 +9770,41 @@ Description: 商店内头像处点击，快速切换/删除AppStore账号。
 Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: StoreSwitcher 2
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.6
+Architecture: iphoneos-arm64e
+Maintainer: sunshinesong
+Installed-Size: 13648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64e.deb
+Size: 10120982
+MD5sum: 8d71bcaf227902b129e40d1d22fb4ed8
+SHA1: f205dad202ffffde99ca4792aa58c7cf627100c7
+SHA256: 6d7963c18d9d2f7180c307c5d8da5b51a3b731e4613392b900dd9ec32280449e
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13648
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
+Size: 5177798
+MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
+SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
+SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
