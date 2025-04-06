@@ -8060,6 +8060,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCMyPageInfoCenter
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.2-2_iphoneos-arm64.deb
+Size: 66508
+MD5sum: 4648e4b1a38e5cab06c8f3fc38fb317b
+SHA1: 95183d568797ee8ece8f67add258fd0aae2545c6
+SHA256: 7c19a6156fe232edcf14a9f66306834c22d4e19439fc50c05b730b0847f79ad7
+Section: 微信插件
+Description: 微信我的页面资料居中。单插件有开关。仅备份。仅支持8.0.31及以上。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCMyPageInfoCenter
+
 Package: com.netskao.wctimelinemessagetails
 Version: 1.1-1
 Architecture: iphoneos-arm64
