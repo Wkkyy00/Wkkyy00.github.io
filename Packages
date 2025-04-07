@@ -76,6 +76,39 @@ Author: Misaka
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: MisakaHelper
 
+Package: Wen.cpu.RlPNDlP
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: RlPNDlP
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/Wen.cpu.RlPNDlP_2.0_iphoneos-arm64e.deb
+Size: 2544
+MD5sum: 65697396b3d457b0845f82cf3c6d1fa1
+SHA1: 8d888ecc4b841b80a8f3a8f03c57f7f6c751f7a7
+SHA256: 6799154ca8f04521150b6ea089ee0385b4a865d960092bed413176708fa5c3a2
+Section: 插件
+Description: 威锋网友：一铭劉學珄，打包deb越狱自动运行虚拟内存.sh
+Author: RlPNDlP
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 虚拟内存优化
+
+Package: Wen.cpu.RlPNDlP
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: RlPNDlP
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/Wen.cpu.RlPNDlP_2.0_iphoneos-arm64.deb
+Size: 1960
+MD5sum: bc89019f9852daa0b3d5fc21885c1b4f
+SHA1: 593c5bb4f5f4f3ca4997b6f60cdfaa8ae903f406
+SHA256: 229a8c16f8e8c2c753776ddacab9ff982d154bd4a4a38a343a733406949fec21
+Section: 插件
+Description: 威锋网友：一铭劉學珄，打包deb越狱自动运行虚拟内存.sh
+Author: RlPNDlP
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 虚拟内存优化
+
 Package: alias20.fakesignalbar
 Version: 0.1
 Architecture: iphoneos-arm64e
