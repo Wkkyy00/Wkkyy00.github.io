@@ -7691,6 +7691,24 @@ Author: JunesiPhone <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/movenotification16.png
 Name: MoveNotification16
 
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 52936
+MD5sum: ff12f08e00d6f90e845f174f51cd41cb
+SHA1: 5939f63f906c5e4b988c3845ae7bada20a746d28
+SHA256: e900e8e51235a28d51e38e67f2c06d894ca31ebe2752603408712b31e244909d
+Section: Development
+Description: Developing a universal library, such as Settings Revamp, requires reliance on this; Conversion supports roothide.
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
 Package: com.mtac.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64e
