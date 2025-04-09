@@ -9112,6 +9112,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
 Name: Shuffle
 
+Package: com.simplycode.PostBox
+Version: 0.8.1-4
+Architecture: iphoneos-arm64e
+Maintainer: PostBox Team <getpostboxapp@gmail.com>
+Filename: ./debs/com.simplycode.PostBox_0.8.1-4_iphoneos-arm64e.deb
+Size: 4091012
+MD5sum: d8d07129d4fd226ca6f57d0945b5e977
+SHA1: ff0dfa52fb5690af316a0042a2f7879e565970be
+SHA256: 456c7b566a5419086b85c2b2a1470d17585832f76bdbf6138a0e08d43198aa89
+Section: 应用程序
+Homepage: https://postbox.news
+Description: News, package lists, and repo lists, all community centered.
+Author: PostBox Team <getpostboxapp@gmail.com>
+Depiction: https://postbox.news/depicts/app
+Icon: https://postbox.news/depicts/app/icon.png
+Name: PostBox
+Sileodepiction: https://postbox.news/depicts/app/fancydeps.json
+
 Package: com.sini.centra
 Version: 1.0
 Architecture: iphoneos-arm64
