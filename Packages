@@ -1492,6 +1492,68 @@ Icon: https://s1.imagehub.cc/images/2025/01/08/1f71c54f9809168bb6d406ca93090b84.
 Name: AlwaysDark
 Sponsor: wkk
 
+Package: com.amywhile.aemulo
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulotrial
+Filename: ./debs/com.amywhile.aemulo_1.2.5_iphoneos-arm64.deb
+Size: 626204
+MD5sum: a7c97f4b1e762b4dd630eb7366b1ca59
+SHA1: 3cf32a6071a4269562601f11d54e982930bc65e3
+SHA256: 4470fa37a3b9508f42f1c1d3fdd8239e776177d274099e36662d22ebca07789e
+Section: 应用程序
+Description: NFC Frickery
+Author: Amy While <support@anamy.gay>
+Depiction: NFC付费纯净砸壳。
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
+Name: Aemulo
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+
+Package: com.amywhile.aemulo
+Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulotrial
+Filename: ./debs/com.amywhile.aemulo_1.2.5_iphoneos-arm64e.deb
+Size: 1573746
+MD5sum: ce7daf712a1e4e39efedc6ab1510d6e2
+SHA1: 1a0dc5d8008d2dfb464a7d04b124cf50d6304371
+SHA256: f3b7001e937f149b87dc6a97819ac80e428cfd697f8f447b998ad3d6f08ecd27
+Section: 应用程序
+Description: NFC Frickery
+Author: Amy While <support@anamy.gay>
+Depiction: NFC付费纯净砸壳。
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
+Name: Aemulo
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+
+Package: com.amywhile.aemulo
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: Amy While <support@anamy.gay>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulotrial
+Filename: ./debs/com.amywhile.aemulo_1.2.5_iphoneos-arm.deb
+Size: 625020
+MD5sum: 62db5a2b0f3e861b89ccde3ed21dae36
+SHA1: 8341a46a7e6924fd210cf0c45541b13aeb5d1fa4
+SHA256: f0e8da5a4fd139ce9e212cb39075903f923b6a412b145a10011ceee53d9043d1
+Section: 应用程序
+Description: NFC Frickery
+Author: Amy While <support@anamy.gay>
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
+Name: Aemulo
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+
 Package: com.anthopak.addtofolder-rootless
 Version: 1.4
 Architecture: iphoneos-arm64
