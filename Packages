@@ -12611,25 +12611,6 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/38a5b0741717e85ef57dfc2154f6fd78.
 Name: Tinge
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Tinge.json
 
-Package: com.wkk.tinge
-Version: 1.2.1
-Architecture: iphoneos-arm64e
-Maintainer: P2KDev
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn, ws.hbang.alderis
-Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
-Filename: ./debs/com.wkk.tinge_1.2.1_iphoneos-arm64e.deb
-Size: 51074
-MD5sum: 643462060e0edb1dc8281fef5ec641d0
-SHA1: 77b526f7972c470f09169b2c44676ec662955c8b
-SHA256: cd02bd90ce4fdf16da4e9c4360f3a890c235c7ee04cf080a428e6d74d603af14
-Section: 插件
-Description: 角标的自定义。
-Author: P2KDev
-Icon: https://s1.imagehub.cc/images/2025/02/28/38a5b0741717e85ef57dfc2154f6fd78.jpeg
-Name: Tinge
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Tinge.json
-
 Package: com.wkk.tixingsheng
 Version: 1.0
 Architecture: iphoneos-arm64
