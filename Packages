@@ -1172,6 +1172,23 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Single VPN
 
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.touchvis_3.12_iphoneos-arm64e.deb
+Size: 1822416
+MD5sum: e57ce6b34115a604a8941fd025c1108e
+SHA1: 0695e9a0083bd459ff480726fd0438a648949278
+SHA256: c094202dde6a30c3cd1771a24e14339a318225e27f9df02f1e61a31f22a0bc69
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -6960,6 +6977,24 @@ Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
 Name: InstaLauncher 2
 
+Package: com.jontelang.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 2269678
+MD5sum: f2f361b983d97b012a8bdce934b7c5b3
+SHA1: a430b5a86c9b7b48a4706366e36583fb819920b4
+SHA256: f3b608079faada8733c5237980d3c9494ddf29e24d0e3db6a3a8f1751f5e7c10
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Name: Snapper 3
+
 Package: com.jyzpbtbschyd
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7869,6 +7904,23 @@ Description: 使你的dock栏可以像ipad一样抽插出资源库并且可以�
 Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/01/23/24ddefd0dcdb523948386b3f0ccbe1f7.png
 Name: ipad dock
+
+Package: com.nahtedetihw.n95
+Version: 4.4
+Architecture: iphoneos-arm64e
+Maintainer: Ethan Whited
+Installed-Size: 15096
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.nahtedetihw.n95_4.4_iphoneos-arm64e.deb
+Size: 28338150
+MD5sum: d1411ef7596914374413acf8f7ba8213
+SHA1: feacb5ce59940018e2fe67d681d773ef9b21d1b7
+SHA256: 6fa43fb46dc31b5925330aa105b81ad9a8cfee9093a115dd8d5742830c8f6443
+Section: Tweaks
+Description: Mask album artwork images in Apple Music!
+Author: Ethan Whited
+Name: N95
 
 Package: com.nahtedetihw.nowidgetlabels
 Version: 1.0
@@ -9283,6 +9335,23 @@ Author: dvntm & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
 Name: ShowMyTouches
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
+
+Package: com.snail.always120.global
+Version: 1.1.7
+Architecture: iphoneos-arm64e
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 760
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/com.snail.always120.global_1.1.7_iphoneos-arm64e.deb
+Size: 228842
+MD5sum: 77cdf07b145e9f08bc471f2bf7acafe7
+SHA1: 18f88e846c213901ad6bda6a42658057a8852531
+SHA256: 8d39847ad67cfe0656a81344206a4c5f7eb8dc767e64e362168fc93199401c4b
+Section: Tweaks
+Description: Make iOS 15/16 ProMotion Devices auto-adpat/reach to 120Hz. // 使iOS 15/16越狱高刷机型自适应/锁定120HZ。
+Author: Snail <mu514983786@gmail.com>
+Name: Always120
 
 Package: com.snail.easynotify
 Version: 1.0.0
@@ -14138,6 +14207,23 @@ Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Saily
 Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 4.9
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5696
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/wiki.qaq.colorfulwallpaperx_4.9_iphoneos-arm64e.deb
+Size: 3738660
+MD5sum: 2264af4852329828d7d0661a6c6aae5b
+SHA1: bf7ab942a9c85a590a2b0b0a63e6c8ec8820912b
+SHA256: f0ad4de37dd1bed89561cbde2b9222c9e52aeb5aaaa96710d516354cfcd2951c
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
 
 Package: wkk.skitty.lightsout
 Version: 1.2
