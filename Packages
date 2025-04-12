@@ -8534,6 +8534,43 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
 
+Package: com.p2kdev.tinge
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.tinge_1.2.2_iphoneos-arm64e.deb
+Size: 51036
+MD5sum: 163c09ae9b0cba600d7261eaeb2df9ef
+SHA1: f7628e83981a1d20b9867ff6ccd4c5edb688220c
+SHA256: b1d9b4805a0f01c861fe1f4bfc142a752148c9eae88623640b86561cf99aeaf3
+Section: Tweaks
+Description: Color your badges with Perfection!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/28/38a5b0741717e85ef57dfc2154f6fd78.jpeg
+Name: Tinge
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Tinge.json
+
+Package: com.p2kdev.tinge
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.tinge_1.2.2_iphoneos-arm64.deb
+Size: 41052
+MD5sum: 1092ed878bc4ba941ad20c63d7821c4d
+SHA1: 3bf913be5374c607b16069a671fd88d719a4a20e
+SHA256: e4fcaa80879e07c5a3a30c0b3ad0e0cbac3efc6fcb90f418f87e095cf5a0c3f9
+Section: Tweaks
+Description: Color your badges with Perfection!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/28/38a5b0741717e85ef57dfc2154f6fd78.jpeg
+Name: Tinge
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Tinge.json
+
 Package: com.p2kdev.twitternoads
 Version: 1.2.5
 Architecture: iphoneos-arm64
@@ -12592,24 +12629,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/02/deb70850b50b43bd729b7657dc690c23.png
 Name: 控制中心计时器
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kzzxtimer.json
-
-Package: com.wkk.tinge
-Version: 1.2.1
-Architecture: iphoneos-arm64
-Maintainer: P2KDev
-Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn, ws.hbang.alderis
-Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
-Filename: ./debs/com.wkk.tinge_1.2.1_iphoneos-arm64.deb
-Size: 41056
-MD5sum: f392639e0b1d3a6a02c6a858a959efe8
-SHA1: 2eeb88c67c044b8ff3037aeefe098a1a34f3d521
-SHA256: 86ae73e8f3c32512799853188d8e51fe1ff10a617caae03ebfde6b44dd130aaf
-Section: 插件
-Description: 角标的自定义。
-Author: P2KDev
-Icon: https://s1.imagehub.cc/images/2025/02/28/38a5b0741717e85ef57dfc2154f6fd78.jpeg
-Name: Tinge
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Tinge.json
 
 Package: com.wkk.tixingsheng
 Version: 1.0
