@@ -6727,6 +6727,40 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.kbstyle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.huami.kbstyle_1.0_iphoneos-arm.deb
+Size: 35208
+MD5sum: 3041360a1c1634db2aa875251a98740a
+SHA1: 6f23937efa7835c36a5975866f2644828519e1ec
+SHA256: 64b934a326de2dae60868210cb26b31d250916949eed30706f0e88e9b0014cba
+Section: Tweaks
+Description: 自定义键盘颜色等，由huami制作，仅限越狱环境。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: KBStyle
+
+Package: com.huami.kbstyle
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.huami.kbstyle_1.0_iphoneos-arm64.deb
+Size: 35152
+MD5sum: cd823eaca8b26bb24553545d4d44e601
+SHA1: d9e93e3549d4885008ca1f59e0a3765c1398a190
+SHA256: 5c6b4563ed9a42a4becd4a01ad9e3b78ccfa83e27fdc989a934c028b340da7ce
+Section: Tweaks
+Description: 自定义键盘颜色等，由huami制作，仅限越狱环境。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: KBStyle
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64
