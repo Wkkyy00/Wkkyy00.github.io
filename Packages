@@ -8159,6 +8159,39 @@ Name: StepUp
 Someotherentrytocontrol: True
 Tags: compatible_min::ios13.0, compatible_max::ios16.4
 
+Package: com.nan.debd2
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: zhaonan
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq
+Filename: ./debs/com.nan.debd2_0.1_iphoneos-arm64e.deb
+Size: 5724
+MD5sum: e05647e1d90ec753d72a440285c3c2fd
+SHA1: 888e67ccf0e558c0d61ae0648aca33bbb0762f56
+SHA256: 04ac004b6fdd3c16e52dc74b284ab6cef62a48f0af153289d3983d690d8d47e5
+Section: 插件配置
+Description: 轻量deb下载工具，不支持付费才能下的插件（此为备份且修改自用，默认下载目录改为var/mobile/Documents/搭配快捷指令下载deb插件快人一步！）
+Author: zhaonan <invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+Name: debd（自用）
+
+Package: com.nan.debd2
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq
+Filename: ./debs/com.nan.debd2_0.1_iphoneos-arm64.deb
+Size: 4684
+MD5sum: a26ca1bd6eaa043ae29153d7fc5d4b28
+SHA1: 0b32bfceee43a5669ae219ac27d4a186141adbbd
+SHA256: 629277fbec3aa3600498ab4c7fc6882b3d1b8abf389ca871f2a2239e8c1ae124
+Section: 插件配置
+Description: 轻量deb下载工具，不支持付费才能下的插件（此为备份且修改自用，默认下载目录改为var/mobile/Documents/搭配快捷指令下载deb插件快人一步！）
+Author: zhaonan <invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+Name: debd（自用）
+
 Package: com.netskao.appdata
 Version: 1.4.1
 Architecture: iphoneos-arm64
