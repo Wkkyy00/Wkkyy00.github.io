@@ -4839,6 +4839,22 @@ Author: Curtin
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: PKC
 
+Package: com.curtin.pkc
+Version: 0.7-3
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-3_iphoneos-arm64.deb
+Size: 830940
+MD5sum: 8859762be2f7226d0b88e88532daf3c8
+SHA1: adc154766e55f7325a9216994708585e6a1b7198
+SHA256: c9c552d7674a90a9918252187c193c0b358a3a0b902345465929ddea17851481
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: PKC_无根
+
 Package: com.cutestatusbar
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -6692,6 +6708,25 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.dyyy
+Version: 2.2-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-4_iphoneos-arm64.deb
+Size: 335392
+MD5sum: 182e6ac98864226535655a3377881dc5
+SHA1: 691918598b1731d9323821e66832e1a9c57d29f5
+SHA256: 300e47f0ef1eec1ea13cc3f0a99fa8aae16921eae1451ecbb95dbc0f7b376cb8
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYYY
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -6787,6 +6822,23 @@ Size: 44108
 MD5sum: df5cbb22dd7a13ae0e0439489e7e4f89
 SHA1: ea304e9759c4d668386a23a589f92e52b9aec397
 SHA256: 18615e43ff1099ec7eeb8b59ca37db141d447b391f36b0911443353b6fe33573
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCNicknameAvatarStyle
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 256
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_2.1_iphoneos-arm64.deb
+Size: 47736
+MD5sum: b33bff155d8f9400f0af7b60a3c79d1f
+SHA1: b33aa35232f14fd1fc0cb8c981b42f48027233d2
+SHA256: dcaa60bf2f77f0833a89223fd5e55dd03622643756fda6f9bbe4bbd792217c58
 Section: 微信插件
 Description: 为微信聊天界面标题添加头像。
 Author: huami
@@ -7694,6 +7746,24 @@ Description: 锁屏时间增加秒数。
 Author: b4db1r3
 Icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
 Name: LSTimeSeconds
+
+Package: com.lxcloud.WCEhance
+Version: 1.1-0
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.1-0_iphoneos-arm64.deb
+Size: 60588
+MD5sum: 42c02bd81d4c34761378b54882220c2f
+SHA1: bb40aed56c574c11987c5ed02f0235812ffa4821
+SHA256: 8b5a6c77fcb88890df80f53659080d673d232f3bf6ca5df2ed4c28b60466f13a
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+Sileodepiction: https://api.lxink.cn/WCEhanceLog.json
 
 Package: com.marie
 Version: 1.0.6
@@ -11563,6 +11633,23 @@ Description: 微信插件，弥补点击微信通知无法跳转到聊天界面�
 Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信消息直达
+
+Package: com.wechat.enhance
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 1960
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.2-8_iphoneos-arm64.deb
+Size: 432548
+MD5sum: 01f0f479d97599e8b55d9f59124a377b
+SHA1: 5673c004ff5f53a46f1ec42abb8911aa3bc77dfb
+SHA256: fece4a8c323829cf85db80fbdde9dc8feb87ba824489f524058865b243a65c62
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
 
 Package: com.wechat.xuanzhuan
 Version: 0.0.1
