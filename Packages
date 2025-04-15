@@ -1274,6 +1274,41 @@ Author: Doki
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 微信输入法DIY颜色
 
+Package: com.FakeFollow
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.FakeFollow_2.0_iphoneos-arm64e.deb
+Size: 364232
+MD5sum: e9a2e154a96b36250d1d1fdf2445ff98
+SHA1: 34185d40b87d98285102e6919865973ea3c8c333
+SHA256: 2bca1b4cd9e17f29f04e3f540584622748b1fa1f840e5f65accad368405d2e27
+Section: 微信插件
+Description: 备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChat强制关注
+
+Package: com.FakeFollow
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.FakeFollow_2.0_iphoneos-arm64.deb
+Size: 243500
+MD5sum: f957f544803e5022b4a8603de46ebf73
+SHA1: 101eafeef542ca4cb306fd855913d1aa1181ce2d
+SHA256: 6c6692a48be7f1cfa8060ce2cd028ad3bafb32552813283c7f0bc11f81282c52
+Section: 微信插件
+Description: 备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChat强制关注
+
 Package: com.FirstAppicon
 Version: 0.3
 Architecture: iphoneos-arm64
