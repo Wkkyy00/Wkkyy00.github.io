@@ -633,6 +633,26 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
 Name: Hello Folder
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
 
+Package: cn.zqbb.orzfolder
+Version: 1.3.3-2
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 2564
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/cn.zqbb.orzfolder_1.3.3-2_iphoneos-arm64e.deb
+Size: 2158350
+MD5sum: 2558f021fc11faf440e35fdbfb25842c
+SHA1: c5fe120fe5edd084831406c82c632bcc15864aab
+SHA256: 2d9579317a64471135a8ca296939ed0a8b00099d0451fc10f33cfdf0437a6847
+Section: Tweaks
+Description: Folder Layout Customization Tool
+ - 文件夹颜值 ? 美 : 丑
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
+Name: Hello Folder
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
+
 Package: cn.zqbb.phonekey.reset
 Version: 1.0.0-1
 Architecture: iphoneos-arm64
