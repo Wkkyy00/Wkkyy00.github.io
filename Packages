@@ -4284,6 +4284,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.wechat-pop-vc
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.wechat-pop-vc_0.0.1_iphoneos-arm64.deb
+Size: 20576
+MD5sum: 0bb48d7b49ee888622107203cf9b6e36
+SHA1: 03be06230b7b650bbd16aff3b1918ca651acdeb3
+SHA256: 1a6ea2ada707ec2feefeb6b129e0d9e52da1c2632a61ecfc256bad6a6ab1cb75
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatPopVC
+
+Package: com.be-huge.wechat-pop-vc
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.wechat-pop-vc_0.0.1_iphoneos-arm64e.deb
+Size: 27164
+MD5sum: a45b497f3590f785d21db718ab2dacec
+SHA1: 38c01b580f22a4de09d5965a0c8d8e38eee96e77
+SHA256: b59dff6ea9cde432ca229ce7ac2d7edc99d7e1d68775f7f606bf6aa63b65cb67
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatPopVC
+
 Package: com.betterccbrightness
 Version: 1.0.2
 Architecture: iphoneos-arm64
