@@ -6172,6 +6172,41 @@ Author: lly
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘缓存导出
 
+Package: com.hbb
+Version: 6.2
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hbb_6.2_iphoneos-arm64.deb
+Size: 2292760
+MD5sum: cb2e97259553f04ead05c16e351321c1
+SHA1: dc684a672c1fb842ac69061d428eb8672ffbd433
+SHA256: 5bebb2cb900df982010ceaddecbef743b0d87d0cde78d88c1330bfce68d4bca6
+Section: 微信插件
+Description: 学习交流。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: HBB无后台推送
+
+Package: com.hbb
+Version: 6.2
+Architecture: iphoneos-arm64e
+Maintainer: null
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hbb_6.2_iphoneos-arm64e.deb
+Size: 6414822
+MD5sum: 59d6579847472ae69dd1e62c1a863556
+SHA1: 5ff49099bec363464acb4e58026fc6deccfaa71c
+SHA256: 35f4d3e4efa1cf404dc786536abc7c53bc21dcbc8aac059c5c6a5d3c76ef759d
+Section: 微信插件
+Description: 学习交流。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: HBB无后台推送
+
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64e
