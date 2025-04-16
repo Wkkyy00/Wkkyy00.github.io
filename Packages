@@ -271,6 +271,57 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 系统优化合集
 Sponsor: wkk
 
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39252
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ch.xxtou.xxtouch_5.1_iphoneos-arm64e.deb
+Size: 9653712
+MD5sum: d1123d507e0cea0282a4a72d74c882c8
+SHA1: 3ddbdcff5cd33cc741cf7546246c503d085b62ef
+SHA256: 7f40a409b77294162080268d551e8d8dda4be945e3df3a5a5cdb28508c363a17
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39268
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ch.xxtou.xxtouch_5.1_iphoneos-arm64.deb
+Size: 9646248
+MD5sum: 84ad41bdfdef2d8648cef028814a4ef7
+SHA1: 7b2cd6b202e225dcca9f66bbe21e9a496358e1c4
+SHA256: 7b092df18f849c4f9040308e4bf72fd3ce1263b9ad88f787bf2cedd9dfe13cfc
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39184
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ch.xxtou.xxtouch_5.1_iphoneos-arm.deb
+Size: 9651264
+MD5sum: 8af55e697f4cf700812485bad43937fc
+SHA1: ca7ead991d382cfc2f1b569079fd93d31d0e0cce
+SHA256: eed65e4519352313a2d0e1038e8fbe6c8f629ff4b4384c3387455438e1987ce0
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
 Package: cn.Bswbw.fixsets
 Version: 1.1
 Architecture: iphoneos-arm64e
