@@ -11796,6 +11796,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信消息直达
 Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
 
+Package: com.wechat-push-msg-page
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wechat-push-msg-page_0.0.3_iphoneos-arm64e.deb
+Size: 30784
+MD5sum: d1e0b0831bafbecb598eece94219410b
+SHA1: 2a4b4af9ae1010284c83b04a0184486f769b0ea7
+SHA256: 2a0415798e2cbb274256463abf637ed9a0a49a0e1dff26a760cf7f8cfb0e8eb4
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信消息直达
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wechat-push-msg-page_0.0.3_iphoneos-arm64.deb
+Size: 23328
+MD5sum: e9265efa24dbdacb5a27be52b0e3ffef
+SHA1: dc93ef56a3c9c2d287a6b35cf3577890f2c5d142
+SHA256: 14cb309668a8664e6695cb669a187fb0d5df67bbe61c1d9b6f4a8e820f3ec431
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信消息直达
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
 Package: com.wechat.enhance
 Version: 1.2-8
 Architecture: iphoneos-arm64
