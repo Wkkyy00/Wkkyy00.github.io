@@ -278,11 +278,11 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 39252
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Filename: ./debs/ch.xxtou.xxtouch_5.1_iphoneos-arm64e.deb
-Size: 9653712
-MD5sum: d1123d507e0cea0282a4a72d74c882c8
-SHA1: 3ddbdcff5cd33cc741cf7546246c503d085b62ef
-SHA256: 7f40a409b77294162080268d551e8d8dda4be945e3df3a5a5cdb28508c363a17
-Section: Tweaks
+Size: 9652152
+MD5sum: 0142fbfaa866b7e54b0534acac369f82
+SHA1: 79a3031e7d9eca06b3655899bc3dce810e208ade
+SHA256: 5ddaaa9fba4df143cd57d3c5002da564626f842a4b326f71f91d32b70b7774e8
+Section: 应用程序
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
@@ -295,11 +295,11 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 39268
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Filename: ./debs/ch.xxtou.xxtouch_5.1_iphoneos-arm64.deb
-Size: 9646248
-MD5sum: 84ad41bdfdef2d8648cef028814a4ef7
-SHA1: 7b2cd6b202e225dcca9f66bbe21e9a496358e1c4
-SHA256: 7b092df18f849c4f9040308e4bf72fd3ce1263b9ad88f787bf2cedd9dfe13cfc
-Section: Tweaks
+Size: 9651468
+MD5sum: f5f70e258ed29ed8d8b13423e3f4e222
+SHA1: ae91da1a57b7c30fdc3505f4376743eabc462f8c
+SHA256: fed57a84bed92326f02da2723712f6abc3ce9733690d2b706905c0381644368c
+Section: 应用程序
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
@@ -312,11 +312,11 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 39184
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Filename: ./debs/ch.xxtou.xxtouch_5.1_iphoneos-arm.deb
-Size: 9651264
-MD5sum: 8af55e697f4cf700812485bad43937fc
-SHA1: ca7ead991d382cfc2f1b569079fd93d31d0e0cce
-SHA256: eed65e4519352313a2d0e1038e8fbe6c8f629ff4b4384c3387455438e1987ce0
-Section: Tweaks
+Size: 9651876
+MD5sum: 9688e966ffd74c900deff1ba7acaaf06
+SHA1: d7b3126f665e0ec4a8b8aaa5c1e0bd2b75d1bb25
+SHA256: 705ec0ad4b76bfab18a8d298ff97bfeb5b85256c18fcb36615d5b1d66dfe3f95
+Section: 应用程序
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
@@ -8901,6 +8901,23 @@ Size: 1915728
 MD5sum: 05068da15bb0a2edf3d678d670a2c076
 SHA1: 1d46cbc92d292a97ce20aa22502c389d3b948596
 SHA256: c9b9111a462208ead923bc736a5616ddfe69ff9ae5c9bf7c82399dacc4a483ee
+Section: 应用程序
+Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
+Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/01/21/e16a2f8fe58b0bdadf3641c868a71141.jpeg
+Name: TrollStore Helper
+
+Package: com.opa334.trollstorehelper
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 4400
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm64e.deb
+Size: 4593662
+MD5sum: f2bd35ec3887ae10518adc107373fe3d
+SHA1: 59a6a44c1740bc14e6877a342ee7711376fa0ff0
+SHA256: 70f2da63b4052960fd6f3f795a52710a57202b4225977cc3bbded216ee71b495
 Section: 应用程序
 Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
 Author: opa334
