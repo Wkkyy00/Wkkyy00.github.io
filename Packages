@@ -10064,6 +10064,27 @@ Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.
 Name: SnowBoard
 
 Package: com.spark.snowboard
+Version: 1.5.37-Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 3268
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64e.deb
+Size: 2590902
+MD5sum: c5e698b1e95c2dc8c5f0724b8da78197
+SHA1: e400264a1ff028b600c9268614487289a908e626
+SHA256: c601121df56e565f2a808356740b0f8ca89e0a2a94abd6c029b92257f7ac4622
+Section: SnowBoard
+Description: Snowboard本体，所有扩展都将依赖此插件，单独使用可以更换桌面图标（抖动后双击）等其他功能，此源仅作备份与注释。
+Author: Spark & Dennis D. Bednarz
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard
+
+Package: com.spark.snowboard
 Version: 1.5.9-Beta3-rootless
 Architecture: iphoneos-arm64
 Maintainer: Spark
