@@ -7258,13 +7258,31 @@ Package: com.huami.wcnicknameavatarstyle
 Version: 2.0-1
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 256
+Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.huami.wcnicknameavatarstyle_2.0-1_iphoneos-arm64.deb
-Size: 44108
-MD5sum: df5cbb22dd7a13ae0e0439489e7e4f89
-SHA1: ea304e9759c4d668386a23a589f92e52b9aec397
-SHA256: 18615e43ff1099ec7eeb8b59ca37db141d447b391f36b0911443353b6fe33573
+Size: 44136
+MD5sum: 0b456368e70cd42cc5acf5b40e752f3d
+SHA1: c7c11b9c4e8e787d102adab13a7378667781a7d5
+SHA256: 172a615da2f669dc634bd3f9d99d1fe9f836b0c0644be8c17d70cd1330b84d87
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCNicknameAvatarStyle
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 2.0-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_2.0-1_iphoneos-arm64e.deb
+Size: 60872
+MD5sum: 162bb5cdd463e4cbe105a0cd9e7c623c
+SHA1: dae0a5b0c34daf78c2b60c48a99d5dac0b01aa33
+SHA256: 5ad4914540172bb5d6825c28e9dc149d4a67101874f16b2a5dc9edeac72309de
 Section: 微信插件
 Description: 为微信聊天界面标题添加头像。
 Author: huami
