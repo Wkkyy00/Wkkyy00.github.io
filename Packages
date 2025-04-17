@@ -8847,6 +8847,24 @@ Name: WCTimeLineMessageTail
 
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 2336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64e.deb
+Size: 1470412
+MD5sum: 442414d5d83633f042a66e6beb086347
+SHA1: b9b05230ee050e701d016ea1d2c54f332e39ec3b
+SHA256: 242aab21a25431588cf6ebce163b65e48ca53e135d1c0a995dbbc704eeedb536
+Section: 微信插件
+Description: 微信通知从图标改为显示为头像。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatNotiAvatar
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 2336
