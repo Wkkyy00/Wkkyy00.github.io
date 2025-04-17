@@ -14843,6 +14843,54 @@ Author: z
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 锁屏来电拒接
 
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 2832
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/love.litten.rose_1.1.0_iphoneos-arm64.deb
+Size: 430356
+MD5sum: f85719ba8b314ca8da52d1c2844f482b
+SHA1: 6da68968e589ceb5ebefb3d290b9450ee23a703a
+SHA256: 6a2aa0020b9c35bf9e42c2acb58f241e592d2621e07b2acda1ea8ebe1cda43d9
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Name: Rose 🌹
+
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Litten
+Installed-Size: 2816
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/love.litten.rose_1.1.0_iphoneos-arm64e.deb
+Size: 428982
+MD5sum: 30d81a4689e4770a2b6919c60ac8b47b
+SHA1: 86e0cb9b38a69154a6af0648cdc313b964aff8f2
+SHA256: bd7b7dceff2a58f35e82f4064689551f5eb665be9c9a03210e0eb22ad995be53
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Name: Rose 🌹
+
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2864
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/love.litten.rose_1.1.0_iphoneos-arm.deb
+Size: 431430
+MD5sum: 77ce6fa9fe9065da98dc3bf364417603
+SHA1: bfab5914aebcb2a379b362c6253199592218c8d2
+SHA256: 6726ddcfa719717c68ac4ebf2a5d91917ca50ae465b614be9d78cc12cc16faed
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Name: Rose 🌹
+
 Package: me.aleksilassila.redditundoscrollup
 Version: 0.0.2
 Architecture: iphoneos-arm64
