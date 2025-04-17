@@ -1514,6 +1514,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.8.2_iphoneos-arm64.deb
+Size: 11091700
+MD5sum: 1cba9d52e8d141694be771f73cba8849
+SHA1: db6603fdbfb7cfd3ccac96c38c3f854941d87bb2
+SHA256: 08a652be51be0914afb89fc2101a759a7b7ffc436b01ca3948795e6d94da0c6d
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
 Package: com.Wes.ExplosiveIcons
 Version: 1.1.1
 Architecture: iphoneos-arm64e
