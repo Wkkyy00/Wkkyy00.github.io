@@ -12511,6 +12511,25 @@ Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.
 Name: Filza美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
 
+Package: com.wkk.Filzamh
+Version: 1.1-end
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.filzamh_1.1-end_iphoneos-arm64e.deb
+Size: 124144
+MD5sum: b1578fbd0b0f94191417f767acbaaea3
+SHA1: c5e42baae5e916023f0a3f230c1888c1ed75496c
+SHA256: be143770849ba690c736fed7f2eaada8c5e89d7b092c79b9d8b34e2fb1eb6d2e
+Section: 一切美化的东西都是垃圾
+Description: Filza美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.png
+Name: Filza美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
+
 Package: com.wkk.HideEdit
 Version: 1.0
 Architecture: iphoneos-arm64e
