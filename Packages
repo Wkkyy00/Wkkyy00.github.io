@@ -15129,6 +15129,47 @@ Depiction: nebula
 Icon: https://s1.imagehub.cc/images/2025/02/01/35cc41ac1e924657c3e222247af3a198.png
 Name: Ding
 
+Package: netskao.wcpureextension-rootless
+Version: 4.2-6
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 19660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Provides: netskao.wechatpurification-rootless
+Filename: ./debs/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64e.deb
+Size: 19253578
+MD5sum: 962a2c7479750c7a00613a8a5608c9ca
+SHA1: c33ed2f1a4023b2f5fb5302b5e9c5e8ae3f4ffd9
+SHA256: 837c8c60cbf4964efdcf82096f6b05119dd634729c86a1ff45717a57b4ae1867
+Section: 微信插件
+Description: 无期限的红包版本。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信净化红包版
+
+Package: netskao.wcpureextension-rootless
+Version: 4.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Provides: netskao.wechatpurification-rootless
+Filename: ./debs/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64.deb
+Size: 7089284
+MD5sum: 710612bcf7797b5d33e6dc6c24715eac
+SHA1: 047e4da2bea011e7f701ed87b081f33a9ee9b4a4
+SHA256: 5f4517514d08c8a833d9edbade2b2864f58c477d447f12a967f1c56263b3a715
+Section: 微信插件
+Description: 无期限的红包版本。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信净化红包版
+
 Package: netskao.wechatpurification
 Version: 4.2-6-END
 Architecture: iphoneos-arm64e
