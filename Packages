@@ -1192,6 +1192,23 @@ Author: smokin1337
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 3DTools
 
+Package: com.82flex.iconrestore
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64e.deb
+Size: 29780
+MD5sum: f915f66744d4f64dd7af1ed65ba70a15
+SHA1: 5541cecfba92c861c8071f20b97e93a242998f3c
+SHA256: 136815a89cd0e60698783a8369a93c90182eee0d457ea77ced455bdd37771638
+Section: Tweaks
+Description: Save and restore the layout of your icons.
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Icon Restore
+
 Package: com.82flex.noredirect
 Version: 1.3
 Architecture: iphoneos-arm64
