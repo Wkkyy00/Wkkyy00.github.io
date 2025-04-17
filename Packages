@@ -12787,10 +12787,10 @@ Installed-Size: 114
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Filename: ./debs/com.wkk.center_4.0_iphoneos-arm64e.deb
-Size: 221548
-MD5sum: f5d22d6dfcb8bac769035e908711dad6
-SHA1: 54bc33ce87d08905b9de06cbb6482e765356a2eb
-SHA256: 000fda05adf498dfe98f1941a3beb05bcc971e41f36988d03b1357069dd1faf1
+Size: 221476
+MD5sum: 71de422d27484b36c8e826b486f709df
+SHA1: 9385f53c4f0d9257673103c2deb13bcf1d393644
+SHA256: b35b478b753ab613998003fbc6fcf880924ee6d728585549f1a8774328e83532
 Section: 控制中心
 Description: 自用。
 Author: wkk
