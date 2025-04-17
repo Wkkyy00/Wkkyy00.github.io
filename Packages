@@ -11073,6 +11073,80 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.reachplayer
+Version: 3.8.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1216
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.8.4_iphoneos-arm64.deb
+Size: 531614
+MD5sum: f629f2d9be35671091a1a54822711f65
+SHA1: e0263a76e648fbb65f4765ee4dadfd67eadc871f
+SHA256: 4e332931ccb768dff47df9d0ba45176382a568ac6950537b4ee53621b00a42fc
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.8.4
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 1216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.8.4_iphoneos-arm64e.deb
+Size: 578174
+MD5sum: 1c7d08944981f0fcaeb64f34b4d9e0e5
+SHA1: 2b728a0d2f722ce1255e4be9b9603d88f5a053d2
+SHA256: 4e3c901a9b23430945551084f0efb507cff57e52d24fc8c65596729dd7850e28
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.8.5
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 1216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.8.5_iphoneos-arm64e.deb
+Size: 576942
+MD5sum: 3b89c8cb4df7cc45628d53bb31ab14c7
+SHA1: 4a19eacc48e74738f42f85ce4fec48141f118a43
+SHA256: 8e895d8c9733c0dbe9b049bdc6be37d6aeb8df2b1140469bb2697baebc67a7a1
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.8.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1216
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.8.5_iphoneos-arm64.deb
+Size: 530374
+MD5sum: e5e621ff3bb654704174d2556c86c38f
+SHA1: fa4c0decdcc494db2efbd82c81efe7df5ccab1ee
+SHA256: df568cb507e42c93bd08f6f4a34639f1ce8d44ff8c003b5709131c93f3c6ebcb
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
 Package: com.susu.springanimation
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -12102,6 +12176,24 @@ Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
 
 Package: com.wechat.enhance
 Version: 1.2-8
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 1960
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.2-8_iphoneos-arm64e.deb
+Size: 649986
+MD5sum: eeafd5b42597e176ae924907ed6533ce
+SHA1: 8f848516ee00f7ba343800eedf1122776a20286f
+SHA256: 12d8ab3485dc2d9226b7b186d9891fbab4ae75c2b313d2a95544f12e3e402882
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.2-8
 Architecture: iphoneos-arm64
 Maintainer: 愫 茶
 Installed-Size: 1960
@@ -12128,6 +12220,42 @@ Size: 436504
 MD5sum: 234ff25fa92dc2dd80aea24cbb808434
 SHA1: 6c8bd69c087dbd0d2d5b1a074ad9dd00c6b171ec
 SHA256: 27eef5fcf108b543eff33f89917cdf211b6548d6fe1f449a304cd3e9a7cac37e
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.2-9
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 1960
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.2-9_iphoneos-arm64e.deb
+Size: 680664
+MD5sum: db7e1b40d071150773d76b1c3af5919b
+SHA1: 1b8164c2a35221135c7f244eeee9903e80d742b9
+SHA256: 9de4bc938d2e62f80ad46ef133b01642b5ea1f40718d9e3be6c65f6f27197c3b
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.3-0
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 1960
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3-0_iphoneos-arm64e.deb
+Size: 664726
+MD5sum: 82d718a7144c3f29749810327c8bbf51
+SHA1: a3b93a4cfce7c799bb13320d26f439a989cde1ef
+SHA256: b4ef8ee33b2d72b766292b804243f86ec40ad159dd80c5b121b48e7ffbbf0ac2
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
