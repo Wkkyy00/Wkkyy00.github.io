@@ -11287,6 +11287,23 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/springanimations.png
 Name: SpringAnimation
 
+Package: com.susu.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 212
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.susu.storeswitcher2_1.0.7_iphoneos-arm64.deb
+Size: 14996
+MD5sum: 113bb7a80a40fc2e54607ab337e83dd4
+SHA1: c997e1e33f801bf98cb26ff3a9dea154acc5b63e
+SHA256: 7600c8322e83fb9bb53cf3bb0bce61fbe3ac3f327aef6ae9619ed8a361c1ca2f
+Section: 插件
+Description: App Store 账户快速切换。苏苏修改编译，优化了账号切换逻辑
+Author: 苏苏
+Icon: https://www.susubaby.top/images/appstore.png
+Name: StoreSwitcher2
+
 Package: com.susu.suawemehook
 Version: 1.2-4
 Architecture: iphoneos-arm64
