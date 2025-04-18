@@ -15767,6 +15767,26 @@ Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Name: Cephei Tweak Support
 Support: https://hashbang.productions/support/
 
+Package: ws.hbang.common
+Version: 2.0-28
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 2728
+Depends: firmware (>= 15.0)
+Filename: ./debs/ws.hbang.common_2.0-28_iphoneos-arm64e.deb
+Size: 304536
+MD5sum: c441112ba6858a032174b126f3f49f8d
+SHA1: 152bdabe291c9cad7db127f0f7d0119d3f185d5a
+SHA256: 0f29dd5a0cf11485c03e4d73d37b5920b1c75c17d43b4f3cb90f4894e5edfab4
+Section: Development
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Name: Cephei Tweak Support
+Support: https://hashbang.productions/support/
+
 Package: ws.hbang.newterm3
 Version: 3.0~beta1
 Architecture: iphoneos-arm64
