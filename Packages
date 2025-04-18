@@ -1762,27 +1762,6 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
 Name: AddToFolder
 
-Package: com.anthopak.appaze3
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Installed-Size: 1802
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
-Conflicts: com.anthopak.appaze, com.anthopak.appaze2
-Filename: ./debs/com.anthopak.appaze3_1.0.1_iphoneos-arm64e.deb
-Size: 936322
-MD5sum: 416cde9b3d6588a7a7f84e95f9eec588
-SHA1: 28b7510f6007dac82c8a666c48b2fbf78536c9bf
-SHA256: 1c890ad1f24627a9059217b7dae8983cdbddeb17b6615f43dd7c2fed394a8cf2
-Section: Tweaks
-Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://chariz.com/buy/appaze3
-Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
-Name: Appaze 3
-
 Package: com.anthopak.quickprefs
 Version: 1.3.3
 Architecture: iphoneos-arm64e
@@ -15426,6 +15405,26 @@ Size: 16136
 MD5sum: fe6fffd3c5c799c1cad59b107130e675
 SHA1: 3f9fcedb866174b00ed73ea0dd789503bd7fd30b
 SHA256: e9c99e6a9c4256a44adc6eb62a960f594f4c54cc2fee032612d840b2a714c61f
+Section: System
+Description: 插件页置顶，仅备份。
+Author: Dustin Howett
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PreferenceLoader - rootless (top)
+
+Package: preferenceloader.rootless.top
+Version: 2.2.6.6
+Architecture: iphoneos-arm64e
+Maintainer: zp,Dustin Howett
+Installed-Size: 337
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: preferenceloader, preferenceloader.rootless
+Replaces: preferenceloader
+Provides: preferenceloader (= 2.2.6)
+Filename: ./debs/preferenceloader.rootless.top_2.2.6.6_iphoneos-arm64e.deb
+Size: 22160
+MD5sum: eb37ebc0a0260c9184f5a397351dada3
+SHA1: 1ec3134ce41cbe3fe015353bcbc6fa4c60bec70a
+SHA256: 3487671644e15fcf671cee2c0a61b6876db67bb75213e22f361d96a08a58a493
 Section: System
 Description: 插件页置顶，仅备份。
 Author: Dustin Howett
