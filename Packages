@@ -7995,6 +7995,45 @@ Author: FoxfortMobile
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: KrashKop
 
+Package: com.lazycursor
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 385
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.lazycursor_1.0.3_iphoneos-arm64.deb
+Size: 39576
+MD5sum: 26901a3d8b714f79f76569aa91940b9a
+SHA1: 603909d24d55d2a56ab41ec376a1705744a52084
+SHA256: 30bf971011809a4c7163e600ef3c7157cccd8416a38017c36f8ce50696963502
+Section: 插件
+Priority: optional
+Description: 光标移除闪烁动画，自定义光标颜色。
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
+Name: LazyCursor
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.lazycursor
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 385
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.lazycursor_1.0.3_iphoneos-arm64e.deb
+Size: 44378
+MD5sum: b67143d2f664b5868497d107e06d7898
+SHA1: e692d25e7c7725165c03e8c46243c69d905a734b
+SHA256: 555e9bf3c6cfac2b30a1262f86e5f0e459167728e907de738e110853de5cf0ec
+Section: 插件
+Priority: optional
+Description: 光标移除闪烁动画，自定义光标颜色。
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
+Name: LazyCursor
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64e
@@ -9253,6 +9292,45 @@ Author: sharedRoutine
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: OneHandWizard2
 
+Package: com.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: k
+Installed-Size: 1084
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/com.onesettings_2.2_iphoneos-arm64e.deb
+Size: 224848
+MD5sum: 4132e08793da04e580d38d898462f020
+SHA1: 6bbb3f72dfb205db10f6291303f62fe91b16e189
+SHA256: dd09c4631879dae7f7e24f6ca65ceb2ac66beb3a4af697d07a707cd771356739
+Section: 插件
+Description: 如题。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
+Name: OneSettings插件归类
+Sponsor: k
+
+Package: com.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: k
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/com.onesettings_2.2_iphoneos-arm64.deb
+Size: 216388
+MD5sum: 48dfd0725c374502a4dd829f3a11df92
+SHA1: 60e103a3226165ff17fff4f6904867f17a3d957b
+SHA256: 1936ee6447b8ddd4e5ff251843c0b47d4c756e1fa4fc3cdf2c12d3c27338d025
+Section: 插件
+Description: 如题。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
+Name: OneSettings插件归类
+Sponsor: k
+
 Package: com.opa334.trollstorehelper
 Version: 2.0.13
 Architecture: iphoneos-arm64
@@ -10032,6 +10110,23 @@ Sileodepiction: https://postbox.news/depicts/app/fancydeps.json
 
 Package: com.sini.centra
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Sini921
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.centra_1.0_iphoneos-arm64e.deb
+Size: 63264
+MD5sum: 6313c09339ed67b830d9b0c7e46c1a4f
+SHA1: 3fa3e0a7bf4129376892c77989d51dfc2cbb7266
+SHA256: bbeb755927fea8f08efeb1e731f9a38441beda4a23d89af58e3b31b8f9c020f6
+Section: 控制中心
+Description: 自定义控制中心中模块的大小。
+Author: Hitori
+Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
+Name: Centra
+
+Package: com.sini.centra
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Sini921
 Depends: mobilesubstrate, preferenceloader
@@ -10045,101 +10140,6 @@ Description: 自定义控制中心中模块的大小。
 Author: Hitori
 Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
 Name: Centra
-
-Package: com.sini.centra
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: Sini921
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.sini.centra_1.0_iphoneos-arm64e.deb
-Size: 63282
-MD5sum: edbada5823263a640c4d136b6698b2c0
-SHA1: 2b3055fb3a1ff6dd291c2503494d9405378c4c84
-SHA256: b51e3b74c8c148c0e0a97d823d74587218ca2af3306fab7b8e56ae779e83679b
-Section: 控制中心
-Description: 自定义控制中心中模块的大小。
-Author: Hitori
-Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
-Name: Centra
-
-Package: com.sini.lazycursor
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 385
-Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.lazycursor_1.0.3_iphoneos-arm64.deb
-Size: 39544
-MD5sum: da2191bc3e249df1748de2d4667a5ca1
-SHA1: f49ac5e4eb5210dd0564d6651cfeddd022f2c5a6
-SHA256: 380c85086f8175f0490ed0f8921f0ef81ecb4ac133e09ea382082a32c6e8ac30
-Section: 插件
-Priority: optional
-Description: 光标移除闪烁动画，自定义光标颜色。
-Author: CydiaGeek <lucaluca86@aol.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
-Name: LazyCursor
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.sini.lazycursor
-Version: 1.0.3
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 385
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.sini.lazycursor_1.0.3_iphoneos-arm64e.deb
-Size: 44374
-MD5sum: 813d973d29169acc52a4e4ecae06453d
-SHA1: ff93176dd698112a7ecbc1c007fcc4048f7bc2ce
-SHA256: b4b4a9b0f75c20cc539ed781da925a2173717034333eb68b691f67418483ea26
-Section: 插件
-Priority: optional
-Description: 光标移除闪烁动画，自定义光标颜色。
-Author: CydiaGeek <lucaluca86@aol.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
-Name: LazyCursor
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.sini.onesettings
-Version: 2.2
-Architecture: iphoneos-arm64e
-Maintainer: sini921
-Installed-Size: 1084
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
-Filename: ./debs/com.sini.onesettings_2.2_iphoneos-arm64e.deb
-Size: 296484
-MD5sum: 3770fc42d8865902754212a37c48284c
-SHA1: c893a602d86ed0056307a81a90e6d17cf88d65e4
-SHA256: 1a07cbac32ed30a535bfc348bd28f68f1e41655b3425173410b8443edebca05b
-Section: 插件
-Description: 如题。需要配置看qq空间说说。qq1772773799。
-Author: Nightwind
-Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
-Name: OneSettings插件归类
-Sponsor: sini921
-
-Package: com.sini.onesettings
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: sini921
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
-Filename: ./debs/com.onesettings_2.2_iphoneos-arm64.deb
-Size: 216864
-MD5sum: 22dd3234df3f1085f9fa515e0f78663c
-SHA1: b1dc048399d02f8ba060c1bd0c52e4865e59fdd2
-SHA256: 331aaaef9b89a42f4286ee4cf14bab104f58aeb14520579bc18d6b8500542f65
-Section: 插件
-Description: 如题。需要配置看qq空间说说。qq1772773799。
-Author: Nightwind
-Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
-Name: OneSettings插件归类
-Sponsor: sini921
 
 Package: com.sini921.showmytouches
 Version: 1.2.0
@@ -10182,11 +10182,11 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.snail.easynotify.rootless_1.0.deb
-Size: 8120
-MD5sum: c5b8cba7e8ac1f8863973f26ef66c876
-SHA1: 1f2401928c8f6558d8fcf18896d32112f6852518
-SHA256: 00ba98b919980418d1cc093e64f3931e7f1156f5978aaaaa831602eba1dad1e7
+Filename: ./debs/com.snail.easynotify_1.0.0_iphoneos-arm64.deb
+Size: 8116
+MD5sum: d625178b7d7083501f72e70b9c88228b
+SHA1: 6319357aa085f66066664f04282d7ebb3a53c72a
+SHA256: aa2192b8fb70be1843720b130ccbd2284c316e4f9f91760d6afea0fef18518d5
 Section: 插件
 Description: 按压APP图标3DTouch菜单快速设置开关消息通知。
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
