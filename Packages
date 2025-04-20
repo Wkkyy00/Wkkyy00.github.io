@@ -14290,6 +14290,25 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
 Name: 闲鱼NoAds
 
+Package: com.wkk.yourudid
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.yourudid_1.0_iphoneos-arm64e.deb
+Size: 4712
+MD5sum: 21cd1ad1ca5ca0283e813220330a2f3d
+SHA1: 24f2c83c8608b474dfcc1835179897bb5994fe0a
+SHA256: 8e8a5601240be85c5e9e3a6e4d30e22d10816423e755eaf98c2cb21bd70755d2
+Section: 插件
+Description: 设置-通用-关于本机页面查看本机UDID
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 获取本机UDID
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/udid.json
+
 Package: com.wkk.zhihuhook
 Version: 1.0
 Architecture: iphoneos-arm64
