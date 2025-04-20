@@ -610,6 +610,51 @@ Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.
 Name: Hello AppData
 
 Package: cn.zqbb.fix120hz
+Version: 1.2.0-30
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 1388
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debs/cn.zqbb.fix120hz_1.2.0-30_iphoneos-arm64e.deb
+Size: 442872
+MD5sum: 5d8c88e0a3e87a8f436ecd88aa3aed81
+SHA1: 9646ed996f09876dd8d5dbc177e51bd1856ac680
+SHA256: 02ff11e471180adbcad1c0252a87c62a301400a55df4fb752c0dcc1f06ffb1f4
+Section: Tweaks
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+Name: 120Hz Fix (iOS15~16)
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.fix120hz
+Version: 1.2.0-30
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debs/cn.zqbb.fix120hz_1.2.0-30_iphoneos-arm64.deb
+Size: 316988
+MD5sum: f3af77d15da05313f18226016e5cd0ef
+SHA1: f3c566b6dc5bb068caf0ba8818324b97eab954ad
+SHA256: 6f05244d85901e1747689ee78c47ea5b6cd10299e8fb05de0d234a4d347d636a
+Section: Tweaks
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+Name: 120Hz Fix (iOS15~16)
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.fix120hz
 Version: 3.2.0-1
 Architecture: iphoneos-arm64e
 Maintainer: zqbb
