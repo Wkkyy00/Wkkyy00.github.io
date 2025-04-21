@@ -1289,6 +1289,57 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/b4214b8460d298d8cfae18fcb327106d.png
 Name: No Redirect
 
+Package: com.82flex.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.ohmyinsets_1.2_iphoneos-arm64e.deb
+Size: 208900
+MD5sum: 96d2e82676d4525b7df8c36ee5a4373b
+SHA1: 467d73f53c4ef3be656930f103616c2c33aabd63
+SHA256: da7ab9a5928774cd88dce908d3310a8e1a52f6fafb7c8c3a997fcd6922e77482
+Section: 控制中心
+Description: 控制中心五列。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Oh My Insets
+
+Package: com.82flex.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.ohmyinsets_1.2_iphoneos-arm.deb
+Size: 210552
+MD5sum: cb680814a983fcf46da01c0304d4a722
+SHA1: 99b0f4d91fcd43f36bc343f4d8b3e9c84542414b
+SHA256: 7e8afd30738dae396fa474fdff1b4fb80938016d769a5dfcee08a2acfcc3959a
+Section: 控制中心
+Description: 控制中心五列。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Oh My Insets
+
+Package: com.82flex.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.ohmyinsets_1.2_iphoneos-arm64.deb
+Size: 209904
+MD5sum: 1fe5d8dca13453e3afa57a47ae2536f9
+SHA1: 0647eb3535fb56f7d2028ea16820c5f1fe217fc2
+SHA256: cda7b238a03edf17a5221323e94c0ad830558e100501e0edf40877cb6f80a0ee
+Section: 控制中心
+Description: 控制中心五列。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Oh My Insets
+
 Package: com.82flex.removewidgetbgs
 Version: 1.7
 Architecture: iphoneos-arm64
