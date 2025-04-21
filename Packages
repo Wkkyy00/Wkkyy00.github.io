@@ -4650,6 +4650,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.5-2
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.5-2_iphoneos-arm64e.deb
+Size: 1595296
+MD5sum: fc9b0b0c7fde858332e5c24db5078d74
+SHA1: d7e6f667d4951054974135cfd1f9b1b912d08b5d
+SHA256: 73c6b280ec687e5b98c7d6aa84e0b0cb5063ed56fca89658886c7e072503b3e8
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.5-2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.5-2_iphoneos-arm64.deb
+Size: 595520
+MD5sum: d15c0860e50a430a1ea6c969fe1e5733
+SHA1: 15329137d9bd345ff7ee67c10fef6cb802deee61
+SHA256: ae6106633e152476e869a96f41cfd039e7b7824af57b2e5b2224850690e05e56
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -12517,6 +12554,23 @@ Description: 打开vpn时wifi或者数据变色。
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator
+
+Package: com.vincent.polyphian.depths
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Vincent
+Depends: com.spark.snowboard
+Filename: ./debs/com.vincent.polyphian.depths_1.4.1_iphoneos-arm64.deb
+Size: 27951464
+MD5sum: e548503dfba2b8acb25270fbfece49a0
+SHA1: a65f1affc2d21962a3f8d6970bd10d9f15e2595a
+SHA256: c13a9b1ddd6861bf8150609498576c0f40346930d9e3ad501c4b290cad03790c
+Section: 一切美化的东西都是垃圾
+Description: 高度可定制的3D风格的图标主题，由某网友补充中国大陆常用软件图标。
+Author: Polyphian, Vincent
+Icon: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/Icon.png
+Name: Depths
+Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/js.json
 
 Package: com.vita.awemespeedx
 Version: 0.1-1-3
