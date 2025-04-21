@@ -4949,6 +4949,39 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 控制中心切换双卡流量
 Sponsor: wkk
 
+Package: com.centra
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Sini921
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.centra_1.0_iphoneos-arm64e-1.deb
+Size: 63240
+MD5sum: ca4d4a5510f6a796b987832341d0a2b5
+SHA1: ac7af501c77dc0a09607c2ccdc5b944d975884e5
+SHA256: e7bca96e24d1bd1b709344b9b255eec4fb766da4fe9ff02d0c05408e52ee6053
+Section: 控制中心
+Description: 自定义控制中心中模块的大小。
+Author: Hitori
+Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
+Name: Centra
+
+Package: com.centra
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Sini921
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.centra_1.0_iphoneos-arm64.deb
+Size: 54528
+MD5sum: 682edf4a7215f84fc61e8a84336c7fa4
+SHA1: eb158322e7692a553bf680f0cc1f67cdbff89238
+SHA256: 96c8e9fea4adb8db351f76a47dc028cb7cdaa521666f9f166d3661fd0d9e990e
+Section: 控制中心
+Description: 自定义控制中心中模块的大小。
+Author: Hitori
+Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
+Name: Centra
+
 Package: com.christopher.everest
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -10108,39 +10141,6 @@ Icon: https://postbox.news/depicts/app/icon.png
 Name: PostBox
 Sileodepiction: https://postbox.news/depicts/app/fancydeps.json
 
-Package: com.sini.centra
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: Sini921
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.centra_1.0_iphoneos-arm64e.deb
-Size: 63264
-MD5sum: 6313c09339ed67b830d9b0c7e46c1a4f
-SHA1: 3fa3e0a7bf4129376892c77989d51dfc2cbb7266
-SHA256: bbeb755927fea8f08efeb1e731f9a38441beda4a23d89af58e3b31b8f9c020f6
-Section: 控制中心
-Description: 自定义控制中心中模块的大小。
-Author: Hitori
-Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
-Name: Centra
-
-Package: com.sini.centra
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Sini921
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.centra_1.0_iphoneos-arm64.deb
-Size: 54540
-MD5sum: 0b6b167d730f399731251fcc85bf89b8
-SHA1: 201069d39a47c77a55cdf18e55071d082d0adbd2
-SHA256: 806ab7ff470ec7108b29201772d3b79569abe53c1160b9996d28d554f2774354
-Section: 控制中心
-Description: 自定义控制中心中模块的大小。
-Author: Hitori
-Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
-Name: Centra
-
 Package: com.sini921.showmytouches
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -12634,6 +12634,41 @@ Size: 1079318
 MD5sum: 3fcd759dc97f028452d00ac85ed4fe5b
 SHA1: 09cb2d5e558c509327bead951e4309414cdca526
 SHA256: c63069e7951139b3b4cbb6a220eb8486428a4ad7eaf41757629c3033fe82e85a
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.3-2
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 1960
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3-2_iphoneos-arm64.deb
+Size: 448844
+MD5sum: 6256e618570afc68f5ea4a8ec3b8938f
+SHA1: ad9021135a25f24b64e6885dc28e27a2b8ac381c
+SHA256: 264659f3dc43dbc8086df86ff4177ddae85598c97bcc73aa92981f615b7dae00
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.3-2
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 1960
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3-2_iphoneos-arm64e.deb
+Size: 1085850
+MD5sum: 5bbdc11cb24b62eaa0838179b5eb0ee5
+SHA1: 2786c40785d9c78b3bc0526ad774e288dd606427
+SHA256: e3d5c587353e1ebca6271fc651ad6e9a24f81de5354f2f86f1abb3bcf2345892
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
