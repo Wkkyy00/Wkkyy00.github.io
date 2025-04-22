@@ -1237,6 +1237,54 @@ Author: smokin1337
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 3DTools
 
+Package: com.82flex.artworkspinner
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.0_iphoneos-arm64.deb
+Size: 24464
+MD5sum: 7aa83a483164417a42feaa98abaef8d1
+SHA1: 5b85e7a53565b6016c4ddb37427c3c1834c783c1
+SHA256: 405f4b6cfb2e37e61f108b9e23460ab52f9158bae0b23878867dbc221187b4b1
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.0_iphoneos-arm.deb
+Size: 24404
+MD5sum: 904c7daca56e1edf498096d56b6b3a07
+SHA1: 25f8c1858248342ceeadd53edecb1eff5b872535
+SHA256: eaf5e3baffaa000d3c2b32bc9eeb6230a087c599d6b6e9eb799cc4bf9069e8c9
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.0_iphoneos-arm64e.deb
+Size: 24412
+MD5sum: c56757230a9f7051baa0d8c9fedffe89
+SHA1: c89e08f580bc9d6d495f9a17f96591d817efb114
+SHA256: f55590192ca6eeb3614f88834483f7a43bd672e3defc88214074a093fbaaf06d
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
 Package: com.82flex.iconrestore
 Version: 1.7
 Architecture: iphoneos-arm64e
@@ -11811,6 +11859,43 @@ Size: 1109474
 MD5sum: cef7bfc6cf82f80a106dbdef7d275c82
 SHA1: 5ca6a798ea079c8d744ca5389521ca42365b658e
 SHA256: 55c701d472192bb4759ad769d9119567eaed9ae92989c559a0b7674e3628130c
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.9.1
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 1820
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.9.1_iphoneos-arm64e.deb
+Size: 1113936
+MD5sum: 67c08143c8219383548ade1313d3cfbd
+SHA1: 6b7d13bad5688b0cfa2a020820728fbf18fa5e6c
+SHA256: 5baef176fab525e772ce0465d916b488421747e059254dea1b21a7e3745c2d83
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 3.9.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 1820
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_3.9.1_iphoneos-arm64.deb
+Size: 1048976
+MD5sum: ac2c19a91ce40145147720145592069a
+SHA1: 716420c6ca0053f1968e886a364c512b7a6c0129
+SHA256: ffd4c82c6fced1cc14cd8a7db5caebd8e59421c8411e9988002c47ac449c204e
 Section: 插件
 Description: ReachPlayer便捷访问音乐专辑
 Author: 苏苏
