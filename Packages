@@ -8951,6 +8951,22 @@ Author: uz.ra
 Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
 Name: MutePlay
 
+Package: com.nahtedetihw.closeall
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 208
+Filename: ./debs/com.nahtedetihw.closeall_1.0_iphoneos-arm64.deb
+Size: 21836
+MD5sum: 0b7d7c2ea30a36550c8584bd3080f362
+SHA1: afec109f17cbd06683aac49c2e4f323db1ebaf3e
+SHA256: 7f7769b5e6bd5d0ead6d43438007ff510c0bb8da04a1b602f1b7c47390a16102
+Section: Tweaks
+Description: 点后台右上角closeall按钮，关闭所有后台。
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: CloseAll
+
 Package: com.nahtedetihw.doodle
 Version: 1.2
 Architecture: iphoneos-arm64
