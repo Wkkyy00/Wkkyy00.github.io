@@ -8566,6 +8566,24 @@ Author: lclrc(SquidForce)
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hammer It
 
+Package: com.lclrc.hammerit.k
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit.k_1.7.1_iphoneos-arm64e.deb
+Size: 980308
+MD5sum: 6b3bfd08e3da19ead1a4fc0c699ab911
+SHA1: 10d55d6394c722d291d112a17f323244f8e72073
+SHA256: 6c5faea25493cfde87fe25b929a2dbf53bea845e33c8afe6a0153b024f98d510
+Section: 插件
+Description: 去除CCSupport依赖，改版自用，没有需要不要安装。
+Author: lclrc(SquidForce)
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Hammer It（自用改版）
+
 Package: com.lclrc.hidepullover
 Version: 0.0.1
 Architecture: iphoneos-arm64
