@@ -10501,6 +10501,72 @@ Author: PoomSmart
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: RecordPause
 
+Package: com.rpetrich.powercuff
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpetrich.powercuff_1.4_iphoneos-arm64.deb
+Size: 12800
+MD5sum: a4ec387a0ddfa973aeff9848685b7d24
+SHA1: 0438b60361f3c28e55351daf79ffd0a0ce39035f
+SHA256: 4750bafeada14760ff2c5348f5b05634e1413264930f81496fa90258e9f706b0
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/powercuff.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.powercuff
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpetrich.powercuff_1.4_iphoneos-arm64e.deb
+Size: 12736
+MD5sum: 59c13fc843cdb6bf64f9d8f6bfb02be8
+SHA1: 888f7921780560264073e9f703ce75503322f68e
+SHA256: 003a5b272e940c9de377c79846f1d58a2f4482d2736b82756a0873cacdca497a
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/powercuff.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.powercuff
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpetrich.powercuff_1.4_iphoneos-arm.deb
+Size: 12728
+MD5sum: a314636b5fe724bf4762865566348ec9
+SHA1: edd77deb7bfd236ad6feb83888ab51c0859ec838
+SHA256: a036c4dfee4b9794a9016c3f9a090db07c6b03b79d93c1fe54d5efc1be25961c
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Depiction: http://rpetri.ch/cydia/powercuff/
+Dev: rpetrich
+Name: Powercuff
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/powercuff.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.satella
 Version: 1.9.0-1
 Architecture: iphoneos-arm64
