@@ -609,6 +609,37 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
 Name: Hello AppData
 
+Package: cn.zqbb.editpre
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/cn.zqbb.editpre_0.0.1_iphoneos-arm64e.deb
+Size: 38498
+MD5sum: 3b3350de35839c16be857a4c1d52cb39
+SHA1: 5d5ed0a427a7af0eeae88b48d2db597f4df198f4
+SHA256: 3cd7df200bfb72d46233430cbf520b82df797421927249e7120adc5e5855e8f3
+Section: Utilities
+Description: An awesome application!
+Author: zqbb
+Name: editPre
+
+Package: cn.zqbb.editpre
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 144
+Filename: ./debs/cn.zqbb.editpre_0.0.1_iphoneos-arm64.deb
+Size: 32928
+MD5sum: fc62a2393ab6b98b4f8bb6969801edd4
+SHA1: eeb6f2af39a137d3da99c25f4e2b770b6bfa7ec8
+SHA256: ad1b0646a9e89f37bc3929b6f523ddb14f9d69d066c371656b18a5e83f3ede52
+Section: Utilities
+Description: An awesome application!
+Author: zqbb
+Name: editPre
+
 Package: cn.zqbb.fix120hz
 Version: 1.2.0-30
 Architecture: iphoneos-arm64e
