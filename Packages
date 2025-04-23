@@ -13941,45 +13941,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatStroke
 
-Package: com.wkk.albummanager
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: NoisyFlake <support@noisyflake.com>
-Installed-Size: 690
-Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy
-Filename: ./debs/com.wkk.albummanager_1.0.2_iphoneos-arm64.deb
-Size: 42728
-MD5sum: d99d3b2ca6965b497f46be2051df0100
-SHA1: dc6381e8f7220bb9e485ad99b7ee69f9e13d45e9
-SHA256: 2c1f9ce281f43fe692e7730c84290688422a38eb2fb8beda0ab541d8edbcc7b0
-Section: Tweaks
-Description: 相册加锁，去掉多余项已汉化。
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: NoisyFlake <support@noisyflake.com>
-Depiction: https://chariz.com/buy/albummanager
-Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
-Name: AlbumManager
-
-Package: com.wkk.albummanager
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: NoisyFlake <support@noisyflake.com>
-Installed-Size: 690
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy
-Filename: ./debs/com.wkk.albummanager_1.0.2_iphoneos-arm64e.deb
-Size: 56360
-MD5sum: 2940fe06c4e30d193d2a41011ff3153a
-SHA1: 1fdb8c9b8cbb0dcb298ee8e3c973ef840211b2e2
-SHA256: a623486e761eab1b53c57a00e30494751e4f6048a9ae3c3f404d8b7c48b3fd39
-Section: Tweaks
-Description: 相册加锁，去掉多余项已汉化。
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: NoisyFlake <support@noisyflake.com>
-Depiction: https://chariz.com/buy/albummanager
-Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
-Name: AlbumManager
-
 Package: com.wkk.baiduwangpanhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -13996,45 +13957,6 @@ Description: 去开屏广告，测试版本：12.22.0
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
-
-Package: com.wkk.betteralarm
-Version: 1.4.1
-Architecture: iphoneos-arm64e
-Maintainer: NoisyFlake <support@noisyflake.com>
-Installed-Size: 748
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.wkk.betteralarm_1.4.1_iphoneos-arm64e.deb
-Size: 298536
-MD5sum: 2bc4ce6417a8cabb23ebc2ef234a70de
-SHA1: d11a4db55c7ad1dc2fca60812571f1cbfa893a86
-SHA256: e342c2e134a13374032bdc4a2547df563c7072b83d08aac674cf9d5ac1731104
-Section: Tweaks
-Description: A beautiful timer and alarm screen
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: NoisyFlake <support@noisyflake.com>
-Depiction: https://chariz.com/buy/betteralarm
-Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
-Name: betterAlarm
-
-Package: com.wkk.betteralarm
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: NoisyFlake <support@noisyflake.com>
-Installed-Size: 748
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.wkk.betteralarm_1.4.1_iphoneos-arm64.deb
-Size: 295444
-MD5sum: 84c1d3cff6e658bdab9bfe322dd729e9
-SHA1: 7290ae08fde63005fafab6b77b4650cd8f0432d8
-SHA256: 705ff7fc2a3062b1ba56abad0a185d9f0a7233b272fd23f8dc6a8f84827cdea3
-Section: Tweaks
-Description: A beautiful timer and alarm screen
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: NoisyFlake <support@noisyflake.com>
-Depiction: https://chariz.com/buy/betteralarm
-Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
-Name: betterAlarm
 
 Package: com.wkk.bhmh
 Version: 1.0
