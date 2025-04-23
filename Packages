@@ -447,6 +447,40 @@ Icon: https://s1.imagehub.cc/images/2025/04/01/22140f053325217e1c585cd47637a886.
 Name: FT悬浮文本增强替换翻译汉化
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
 
+Package: cn.llld.shelly
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.llld.shelly_0.0.2_iphoneos-arm64.deb
+Size: 14644
+MD5sum: 44e893b4ed7a2b058cc7c1dfa292f6f0
+SHA1: deb39a01a9654116ffc613a62b799d937914adbd
+SHA256: d990ae31993e2895b7b6a96170dfb0bd348b5bcd1766d1a0050709c67f0c1e4b
+Section: 插件
+Description: Shelly简体中文包
+Author: 来了老弟 h_h_x_t
+Icon: https://s1.imagehub.cc/images/2025/04/24/3339eb96fecac68a17b7434a62ee3c36.png
+Name: shelly汉化
+
+Package: cn.llld.shelly
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.llld.shelly_0.0.2_iphoneos-arm64e.deb
+Size: 14864
+MD5sum: 8e13f5549bff4a4149027af908776a8e
+SHA1: a91804c01fede7dabcb22a2ea9c94505a37144ef
+SHA256: 6b8f91bd0f193f14ef71badc6092c1475dc41b45828f202389b43a7b8444968d
+Section: 插件
+Description: Shelly简体中文包
+Author: 来了老弟 h_h_x_t
+Icon: https://s1.imagehub.cc/images/2025/04/24/3339eb96fecac68a17b7434a62ee3c36.png
+Name: shelly汉化
+
 Package: cn.llld.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
