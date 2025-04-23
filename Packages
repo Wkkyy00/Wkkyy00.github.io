@@ -1381,6 +1381,54 @@ Description: Rotate the album artwork!
 Author: Lessica
 Name: ArtworkSpinner
 
+Package: com.82flex.artworkspinner
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.3_iphoneos-arm64e.deb
+Size: 28752
+MD5sum: 5c7ebf376de050dee93d354e42b1d462
+SHA1: 657492b6e274e25d10871c6895314d4c69bea2f5
+SHA256: b0c4be34b3b80bab521d341373abe0d00a7050b3d83a3f4f296ad3230080dc68
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.3_iphoneos-arm.deb
+Size: 28758
+MD5sum: 510a435150b9b48655613ffd4516ed39
+SHA1: e0e8894cbd2e27ea91de6fe6766acd90767cab40
+SHA256: 3fe9850890158fa6e564357cc6ca226372cf2459857e168b2adf69d53e8c0e98
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.3_iphoneos-arm64.deb
+Size: 28822
+MD5sum: 7bd9443960110ed6eb24fa52ced7c8c6
+SHA1: 6f59974034881998e5428f08c023db10c5832c11
+SHA256: a480d83e7175f6561a3130377996948a7b05838e9d161cbe06f74420a9144525
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
 Package: com.82flex.iconrestore
 Version: 1.7
 Architecture: iphoneos-arm64e
@@ -13300,6 +13348,41 @@ Size: 1085850
 MD5sum: 5bbdc11cb24b62eaa0838179b5eb0ee5
 SHA1: 2786c40785d9c78b3bc0526ad774e288dd606427
 SHA256: e3d5c587353e1ebca6271fc651ad6e9a24f81de5354f2f86f1abb3bcf2345892
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.3-4
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 1960
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3-4_iphoneos-arm64e.deb
+Size: 1086784
+MD5sum: 88f0fbd65514dce4c3ddfc9d6b4ec6e6
+SHA1: 277c6106f439f159576b3ebd5e9c0623fcae6b75
+SHA256: 996ee90b31f507acb711313cca7bc6545f1fbf598141c354bb098bfe766f0b52
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.3-4
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 1960
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3-4_iphoneos-arm64.deb
+Size: 449460
+MD5sum: c5efa8699271c1a08c37e8d2367a9fee
+SHA1: 1c7f4fa1d9638467401ae34c21964a23648f32a6
+SHA256: 9e792c860d099bc58b5c09ca6625c37e8aa07d45dee692ca0b729962c70c5759
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
