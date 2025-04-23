@@ -7383,14 +7383,14 @@ Maintainer: huami
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.huami.dyenablepanelmodernstyle_1.1_iphoneos-arm64.deb
-Size: 3516
-MD5sum: 5299f7d5623d702ca9cd3ef012ad08be
-SHA1: 0035f26bb9c2fb091bcb4f7b33ff656883063542
-SHA256: ca3c9ca3c38357630b1b67543a8aaad5357b28aa43aa5d93e8bb84879302c0fc
+Size: 3512
+MD5sum: 8cd1491b6f0b4c650352f2be8e5bf81f
+SHA1: ec146b8df6fa8422a1935f19127e3f7e02b0ede8
+SHA256: 29f8150f6317ef406cbd1d309a86af4fe4db55e7a48da81b1da3c038b0adc5f8
 Section: 抖音插件
 Description: 强制启用新版抖音长按 UI（现代风）
 Author: huami
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYEnablePanelModernStyle
 
 Package: com.huami.dyyy
