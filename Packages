@@ -10427,6 +10427,26 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.qiop1379.swipeextenderx.k
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: ./debs/com.qiop1379.swipeextenderx.k_1.6.2_iphoneos-arm64e.deb
+Size: 645772
+MD5sum: a2545bcc942913fe9ab5557fa5a9fd24
+SHA1: 5274c7e996a29541f6060ee82dd9375fd9ab1f16
+SHA256: 1fc6945f391c5260ef378cd46eac66aebbb874c7af903ffc869deb7cbe766f5f
+Section: Tweaks
+Description: 去除libcolorpicker依赖，加入老弟汉化包，没有需要不要乱安装。
+Tag: compatible_min::ios14.0
+Author: MiRO ＆ wkk
+Depiction: https://chariz.com/get/swipeextenderx
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX（自用改版）
+
 Package: com.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64e
