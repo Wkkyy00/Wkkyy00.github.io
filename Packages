@@ -151,11 +151,11 @@ Maintainer: k
 Installed-Size: 832
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: com.midnightchips.bettersettings, me.luki.april, com.hk.april, com.qms.april
-Filename: ./debs/apt.april-3.1.deb
+Filename: ./debs/apt.april_3.1_iphoneos-arm64.deb
 Size: 392900
-MD5sum: d880a6764d4a419ee0e1b68b1364bea6
-SHA1: 3327daa46b69a9a16b814d815a63074327776cf3
-SHA256: 9589c756e0f590775018a78789232c94f99ed2f9bc7348b51fb9a31385075a01
+MD5sum: dd46bdc7229e14ba7196b5103c9aa157
+SHA1: bbd4409c1a0b598ad8acd7e330f2e6e5af250c4f
+SHA256: 9e9b22b664fc1f758b3264872f4b7827ee2ca67cb74f93f963a39ac4b907c22c
 Section: 插件
 Description: 可以设置设置App的背景图。
 Author: Luki
@@ -259,11 +259,11 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 372
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/apt.wkk.xtyh.2.0.deb
-Size: 46164
-MD5sum: e93e9266cfcb6c13c17f5af9ceaf7110
-SHA1: 2143d34963b6b73cc6b027518e07baee39b7c487
-SHA256: 319b77cf033726737c4644a3c69c497ec726718c1f2ab4c1df169789aae44a45
+Filename: ./debs/apt.wkk.xtyh_2.0_iphoneos-arm64.deb
+Size: 46156
+MD5sum: 9ec7d1cfdc2ab2d951a4dc4b0698e9f4
+SHA1: 7635fa4f142e9039319ee56f3d05bf9e3877b665
+SHA256: 645d6dde00adc7924a13bc170b17180ea39ae71ab4836f714867dd5338155d0a
 Section: 插件
 Description: 无设置项，安装即生效。介意勿下。隐藏通知中心没有更早的通知文本。隐藏Dock栏磨砂背景。隐藏主屏幕翻页小白点。隐藏状态栏旋转。隐藏锁屏相机、手电筒。禁用主屏幕通知中心和锁屏搜索栏。隐藏勿扰模式横幅。无翻页点。去除负一屏编辑背景。文件夹透明。通知中心手势左滑清除消息，右滑打开应用。禁用锁屏左滑相机。去除底部横条。wkk优化小bug。
 Author: wkk
@@ -2176,11 +2176,11 @@ Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 600
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.yourepo.lenglengyu.adsspeed
-Filename: ./debs/acreson.cj.adsspee.rootless_1.1.deb
-Size: 104384
-MD5sum: 30672d3c47a4fabd4326aefa57076c90
-SHA1: 1e625abd413181d0dbec4a428db423496e64c419
-SHA256: 9605fdbf8100f4c2c9d0bae8ae0cb87e307403d47008d49db63073bc4c658562
+Filename: ./debs/com.adspeed_1.1.1_iphoneos-arm64.deb
+Size: 104436
+MD5sum: 0a478dcbedd7f145c55714b6fec489a3
+SHA1: 3ecb96671736095ff286da09b834674a756070f0
+SHA256: 62717d264ff07714910dd13a9fe0d15cc6462248a81942f29fb7fa1b996692da
 Section: 插件
 Description: 自定义app的快速跳过激励视频广告，上架备份。
 Author: lenglengyu
@@ -2246,11 +2246,11 @@ Version: 1.2.3
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
-Filename: ./debs/com.alwaysdark-rootless_1.2.deb
-Size: 33888
-MD5sum: 5d7ab789d9a8c30b4dd64567b2018ad9
-SHA1: f0910061d70593de6e41cdd637c401adbbd7f589
-SHA256: a06a3f5ff0a5317e390bfa59c88af3aed1a7e6e7f92b7b41cdc53f6de2a7f891
+Filename: ./debs/com.alwaysdark_1.2.3_iphoneos-arm64.deb
+Size: 33892
+MD5sum: 639c194731d68977d359c4c87a289b72
+SHA1: 213240fafae2d5a1084abb867b3bbb744c1d6222
+SHA256: 0b9d91fea34cfb80a6230f7a62bdf824f0dfe4c89250800872942e2bc470c19b
 Section: 插件
 Description: 始终在深色/明亮模式下运行可特定应用程序。
 Author: KingPuffdaddi
@@ -2477,11 +2477,11 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 88
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.awemeclearlikes.deb
+Filename: ./debs/com.awemeclearlikes_1.1-2_iphoneos-arm64.deb
 Size: 19932
-MD5sum: 857083c48435a39c782517eaaa5abaff
-SHA1: 1fa428c23c78d84678f396916c3b8581dbfd2db9
-SHA256: 2a97c0aed6d1415adc6ce02369c85b9d9f8fa137acec9080b8ab1075260adde4
+MD5sum: f0eeb9aed48108be37c67ef041540d98
+SHA1: aa206412d5ad5db2315ebdc7a4ef7396188fb32d
+SHA256: d776ab93ae6f84034e2bdebf01336610704f87ce3e8a8d07c86e6ea62b624696
 Section: 抖音插件
 Description: Netskao开发，在抖音我的喜欢界面，摇晃一下手机即可一键清空之前点赞的作品，我测试版本为30.3.0！
 Author: Netskao
@@ -5559,11 +5559,11 @@ Architecture: iphoneos-arm64
 Maintainer: k
 Installed-Size: 616
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.cccellularrate.deb
-Size: 89696
-MD5sum: 060cef656dca187030145c58003357d1
-SHA1: ca94e2e70bedcc5b539a2608d952e54d9f06c893
-SHA256: 1e4f554828620027133ad6a531eb8e075df60433e23b72ca68bfb251b343cd8d
+Filename: ./debs/com.cccellularrate_1.1-1_iphoneos-arm64.deb
+Size: 90008
+MD5sum: 9839ab2938a4f64f3ff37c0a9ac0d007
+SHA1: 279beb0747d07460fa47d143afd3d16f7818c7f0
+SHA256: 3ece0b62d598b379446b54ab8e53b8311388579c6bea0116aa709362e89886fd
 Section: 控制中心
 Description: 控制中心快速开启2/3/4/5G
 Author: Netskao
@@ -5668,11 +5668,11 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 132
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.ccswitchdata-rootless.deb
-Size: 20800
-MD5sum: 9816000d4a3b4d6fa71aa150aa8e26e7
-SHA1: 88fcd7b05023762734b54ef93eb1c7ed0aca38eb
-SHA256: b64440d35493fa08ebb78af79a2e87b04b95ab5096e3c01ebc65b1025b2460c4
+Filename: ./debs/com.ccswitchdata-rootless_1.1-4_iphoneos-arm64.deb
+Size: 20820
+MD5sum: 78c7f53a537a3cd745559eef05a2f16e
+SHA1: 851eee48cf06e17370019415354b9bf30d37dd30
+SHA256: 4727e33eaa12e4b9caefdae9a09e15f64367499c79c9b7506d0b600567d4a277
 Section: 插件
 Description: 如题。
 Author: Netskao
@@ -6053,24 +6053,6 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: PKC_无根
-
-Package: com.cutestatusbar
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 336
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.cutestatusbar_1.0.deb
-Size: 25192
-MD5sum: feb68963a813caab0027aec0a383bcb7
-SHA1: 5042ab27d271d93c640c28e8f2596a63c56e5094
-SHA256: 94788d284ec4a8f5ab7ea1b31e14a4a7fc4a42b981b10854c4e34e827c877015
-Section: 插件
-Description: 桌面上一只随意拖动的猫，毫无卵用。丑化必备。
-Author: wgp
-Icon: https://s1.imagehub.cc/images/2025/01/08/d38cd5684f91f7053d3fe3a770b1a140.png
-Name: 猫
-Sponsor: wkk
 
 Package: com.cydiageek.gyration
 Version: 1.1.5
@@ -10605,6 +10587,24 @@ Author: ichitaso
 Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
 Name: PrimalFolder2
 
+Package: com.ps.apppad.susu
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 172
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Filename: ./debs/com.ps.apppad.susu_1.1.4_iphoneos-arm64.deb
+Size: 6592
+MD5sum: 23cf58e195383eacdb99e65559e48cc0
+SHA1: af6d57f613cb2349cde6fb53efb6666bacd57b5b
+SHA256: a959db66387371d4953c4979c0bde997dedff4ba7f4a832a9f9c68875e09280e
+Section: 插件
+Description: 在ipad上任意应用强制全屏/强制竖横屏 还可作用于分屏插件的随机bug
+Author: PoomSmart
+Icon: https://www.susubaby.top/images/apppad.PNG
+Name: AppPad
+
 Package: com.ps.smoothcursorios13
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -14249,11 +14249,11 @@ Architecture: iphoneos-arm64
 Maintainer: 百度主题
 Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.bhmh_1.0.deb
+Filename: ./debs/com.wkk.bhmh_1.0_iphoneos-arm64.deb
 Size: 326944
-MD5sum: bf34569bee000a9d4710c52f203553de
-SHA1: 39dec6a35f69b22b60f8f2a93445e344ee92a05d
-SHA256: 08c3ec5b541dd671cb77276e9dc7ec0ab3af9dbb492dd7bc6d66da63c1dd0d39
+MD5sum: ae1de98da3501753887cbe9ed9872fea
+SHA1: 1c8947b8bfc47e39e46d97fc8eca3d22588f3fbf
+SHA256: f69a33a8d57c4a5344ba505ae923164b331ba71a10e435ae91a7b741e59792e0
 Section: 一切美化的东西都是垃圾
 Description: 拨号键盘美化。
 Author: 百度主题
@@ -14462,15 +14462,14 @@ Name: 滴滴出行NoAds
 
 Package: com.wkk.dockshowlabels
 Version: 0.0.1
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: ./debs/com.wkk.dockshowlabels_0.0.1_iphoneos-arm64e.deb
-Size: 5260
-MD5sum: d8ca1a0a6408333138e2388a48f3ea68
-SHA1: 8a4e21f311cbf08ad80525dca6b46efb8dca1bfb
-SHA256: 6996886e0b86369a052f2bd76a79b57a9a2657f5556697a2f5a630997239fe1b
+Filename: ./debs/com.wkk.dockshowlabels_0.0.1_iphoneos-arm64.deb
+Size: 3864
+MD5sum: 417e69630c6a058f9b2c7d52cb0abed3
+SHA1: 546c19588d3c289a21f1167970c737f8608b9532
+SHA256: b9b1026dd06f3077e2d1afc42496a1872189e0b296aa8015c0d3a923c292871a
 Section: 插件
 Description: 在Dock栏下面显示软件名称，无设置项。
 Author: CydiaGeek
@@ -14480,14 +14479,15 @@ Sponsor: wkk
 
 Package: com.wkk.dockshowlabels
 Version: 0.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: ./debs/dockshowlabels_1.0.deb
-Size: 3868
-MD5sum: 8c625daf275e9d638a1ee54111face1a
-SHA1: 5979df172985cf5bb7cd7ecaf0ebc705ed6b89eb
-SHA256: 78a8fa948faf065738d4123802f50c77f548131f70d9865e33c58998afaf14d2
+Filename: ./debs/com.wkk.dockshowlabels_0.0.1_iphoneos-arm64e.deb
+Size: 5260
+MD5sum: d8ca1a0a6408333138e2388a48f3ea68
+SHA1: 8a4e21f311cbf08ad80525dca6b46efb8dca1bfb
+SHA256: 6996886e0b86369a052f2bd76a79b57a9a2657f5556697a2f5a630997239fe1b
 Section: 插件
 Description: 在Dock栏下面显示软件名称，无设置项。
 Author: CydiaGeek
@@ -15233,10 +15233,10 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/RootHide残留.deb
-Size: 5932
-MD5sum: 4efca55e85a609d3289437dbf6d8ae4d
-SHA1: 50b23fd3f9e7c63c96745717b2ba23d3175c37a7
-SHA256: c0535b01bdbf20e97e297132b6ead32c4e466221e01e34a2fbdc6c8dcd033e4d
+Size: 5940
+MD5sum: 051a80db9b4cde9e97d69a35c9ab8b4d
+SHA1: 49affe25a5b3de80d48c463c5cb1e281aaf153f4
+SHA256: fa5b3fdcde496fe86647a6c2bca537038f390adc289a1fe5dd17c7ffc92c2567
 Section: Dopamine挂载
 Description: 挂🪜看。
 Author: wkk
@@ -16895,11 +16895,11 @@ Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 386
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/preferenceloader_2.2.7.deb
+Filename: ./debs/preferenceloader_2.2.7_iphoneos-arm64.deb
 Size: 17616
-MD5sum: 02222d0f3bd67c36d699d540407e6fff
-SHA1: b9fec76f4f85356109d99a8f91274a4d5fab02c7
-SHA256: ac8a23dea5ae70be07262f2afce1b93b5b50befb960f5ed0281110c437ae050c
+MD5sum: 347a10b762716b7326a0f6bc2f8b2f3f
+SHA1: 7f8b5509c699d3ce9730fe533611a9a98c5e8fcb
+SHA256: 38b9a4a92106867b1731c4f7e942462b951511a3a561690d4909c3c82522ad5d
 Section: System
 Description: load preferences in style
 Author: Dhinak G
