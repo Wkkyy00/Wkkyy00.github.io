@@ -1072,6 +1072,24 @@ Author: 0xkuj
 Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
+Package: com.25mao.doutu.rootless
+Version: 3.1-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.doutu.rootless_3.1-6_iphoneos-arm64.deb
+Size: 1051668
+MD5sum: 669a25e105382ccb12cb1097ae164b24
+SHA1: e897bf567e50aebed6c59c161a37ec4dc22ddc7e
+SHA256: 426a0bfb9bc6052c6209c85fd49777148ca683e51ac67a16940b6f65b694edba
+Section: 微信插件
+Priority: optional
+Description: 斗图助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 斗图助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
 Architecture: iphoneos-arm64
