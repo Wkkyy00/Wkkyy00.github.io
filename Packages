@@ -186,11 +186,11 @@ Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: mikifp
 Depends: mobilesubstrate
-Filename: ./debs/com.griddy_1.0.5.deb
+Filename: ./debs/apt.griddy_1.0.5_iphoneos-arm64.deb
 Size: 19656
-MD5sum: 370233660a33588e1eb8978b1877bead
-SHA1: 75b7d26da33d516639b297fd7f660ccd635c09d2
-SHA256: bf0bc72644495d2a957caee9ecf74059778255ee4248164f9d51917515c9acb6
+MD5sum: 76484dd8e90982eee5bcf9ab2626757f
+SHA1: 5fbe172757d14585cb3243501b38920a02ce83a9
+SHA256: 5bcae099c0bb45bb78cbaaa79b8ad0deb7f09aee127117f7e395b6474f367a81
 Section: 插件
 Description: 应用图标随意摆放，付费版本纯净砸壳上架备份。
 Author: mikifp
@@ -218,6 +218,24 @@ Sponsor: wkk
 
 Package: apt.perfectxtime
 Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/apt.perfectxtime_1.1-3_iphoneos-arm64.deb
+Size: 8600
+MD5sum: 270d386c2c35c1415208e5c8430b0571
+SHA1: 35696acd9e4acb7bf87658541a67c27446f92290
+SHA256: f095ca4c850b77301dd341c61643238aca224a493fbaa8dfb42068f41c01fe37
+Section: 插件
+Description: 状态栏时间之后+星期，无设置项。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PerfectXTime
+Sponsor: wkk
+
+Package: apt.perfectxtime
+Version: 1.1-3
 Architecture: iphoneos-arm64e
 Maintainer: Nets
 Installed-Size: 168
@@ -228,24 +246,6 @@ Size: 11506
 MD5sum: 7dd5c903a838eeaf06038efd7a4276c3
 SHA1: d0d3a26c120376a77964f1c713c00c84e1070af3
 SHA256: c9bd545563a484cb299a33a26a62ce86de488e0e120df0a6542b46b158b8b7f4
-Section: 插件
-Description: 状态栏时间之后+星期，无设置项。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: PerfectXTime
-Sponsor: wkk
-
-Package: apt.perfectxtime
-Version: 1.1-3
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.perfectxtime.deb
-Size: 8620
-MD5sum: 45605259e70087f2e096f59e3aea5b18
-SHA1: cc4db1704602597250d3e8e53fabd61eff269052
-SHA256: 3dcaf36693712c591abbad5f804d7d5c40e0eb7d020434d232286e096ae1b199
 Section: 插件
 Description: 状态栏时间之后+星期，无设置项。
 Author: Netskao
@@ -1077,11 +1077,11 @@ Version: 1.0-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
-Filename: ./debs/com.25mao.leftpan.rootless.deb
-Size: 44256
-MD5sum: d16572d86d68b0651cebe5b075928a12
-SHA1: fff9fada16d84740baa0ad425ef04241d97ec9ea
-SHA256: 88add2078d939a2079f574ccab0709cf7d78d1c24717f7cfdb561258c8cd50b3
+Filename: ./debs/com.25mao.leftpan.rootless_1.0-6_iphoneos-arm64.deb
+Size: 44288
+MD5sum: bc439e39a28a4f6f10481c6855477696
+SHA1: 7090a3a92fbe86f9511efa5f2082ecb25389d2fc
+SHA256: ed8c9391fbb2fedf16dbbbf5556fcaa503cfb80ef3206292f89d2d05613fd03a
 Section: 插件
 Priority: optional
 Description: 左滑返回上一页面
@@ -1094,11 +1094,30 @@ Version: 3.8-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.miyou.rootless_3.deb
-Size: 10146132
-MD5sum: 4593c6cecf1782827ddc09fdaf67eed9
-SHA1: f65f241ae471015353964f53ce29ac5bb9556515
-SHA256: 1ccb64e160cafc1153ee61c0aae0a06eb6abcdc65c7737c37bd616f3edcb2c06
+Filename: ./debs/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64.deb
+Size: 10146804
+MD5sum: b97abfec789d270fef00090b22ce5c9b
+SHA1: 2db7787b9c43166d24fa0eb03f5e1305ec953f55
+SHA256: e317a508c5ce6e8dc31922f4a9aedec38e325a042376c9c3c5f81fd7c620a68b
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-0
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64e.deb
+Size: 20124276
+MD5sum: 3becbd254b327401453d2ae5884e8ebe
+SHA1: 216546ccf3eb10014c30f9bc9dda7b7613482b7c
+SHA256: 43ef922089b13502af0bfb4f5a6369e5461ac6e1804f188d789568b104aec239
 Section: 微信插件
 Priority: optional
 Description: 微信助手
@@ -1126,6 +1145,25 @@ Name: 微信助手
 Sponsor: admin@25mao.com
 
 Package: com.25mao.miyou.rootless
+Version: 3.8-1
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-1_iphoneos-arm64e.deb
+Size: 24679906
+MD5sum: 366bc9a2657f92db4d9c294b0ad6a7d2
+SHA1: 5a1365799713b71594d8fb6396c4efb259226ce2
+SHA256: e9145ce6de8a41799121c252f48b1bfc5fcca8b10a30bd7f0785b1a972fdd683
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
 Version: 3.8-2
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
@@ -1135,6 +1173,25 @@ Size: 8967804
 MD5sum: b00c1a647398a7b0267e9b076c71f788
 SHA1: 59a3a19a3947d7db7a91718886087b55e944a1b0
 SHA256: 5a859becceacdf058e3030562097f8daaaa8668cf76550f8672875d00953b424
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-2
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-2_iphoneos-arm64e.deb
+Size: 24494594
+MD5sum: 41f3b5d0fa94458f79bf1df6bf4fd9c9
+SHA1: fa4cfe888c0a88848444ef478c4e1cd38be0d350
+SHA256: a5e4231587c6d2f4469e0d8637cd60473ba8624e137cc1f22bea6093156f84cf
 Section: 微信插件
 Priority: optional
 Description: 微信助手
@@ -1162,6 +1219,25 @@ Name: 微信助手
 Sponsor: admin@25mao.com
 
 Package: com.25mao.miyou.rootless
+Version: 3.8-3
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64e.deb
+Size: 24697384
+MD5sum: 7fd04fb4ce343897ce02374776e97e53
+SHA1: 7eed9e799c42c3716215a1d1e278f1494be332a2
+SHA256: 7491ae8a9daa1ad99d0c9ee2cfbf6442374567e3c2a36996dfee2360e099a7ab
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
 Version: 3.8-4
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
@@ -1171,6 +1247,25 @@ Size: 9291800
 MD5sum: b4cb0f07763ff0972899addc5ed067b9
 SHA1: 0617dcfe647ba1e84b507e87df6037ae840cd268
 SHA256: 54a6a0eaae3bf9ffc10a657d5cdcdc338913452d6b90f50656a3973966fb8988
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-4
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64e.deb
+Size: 25584540
+MD5sum: d7c9dcf5f7effa7541d11d83c4fdb613
+SHA1: 9123fc62b9b893c5fad9826e882244cd59ab44b8
+SHA256: 0900b0d8bba4ddc0534438970da88d846e209992761ec063a2ffe32d4c819e36
 Section: 微信插件
 Priority: optional
 Description: 微信助手
@@ -1217,11 +1312,11 @@ Version: 0.2-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.wxurlexpand.rootless_0.2.deb
-Size: 34004
-MD5sum: 44dc8bae0bae459c8012124d8790a362
-SHA1: 3c0b8e90a930f475645ab7df31a16541dc2dae7c
-SHA256: 26f8ae2b60b09a97ab2e8af264083547a37605e059a1df1ccd7e01e6715b4310
+Filename: ./debs/com.25mao.wxurlexpand.rootless_0.2-0_iphoneos-arm64.deb
+Size: 34000
+MD5sum: b3e0d3f53ccad0fbf9d3b6d8ef83534b
+SHA1: 29fc8d7b4ae3d250ec3b0754b7208e33a2bfdb2b
+SHA256: 286c2cc9124da32f513b70913f372e04e9b5fd58c783eccc4bb23c0cd20e7cbd
 Section: 微信插件
 Priority: optional
 Description: 扩展微信URLScheme接口，方便从外部调用。
@@ -2434,11 +2529,11 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 384
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/抖音全屏.deb
-Size: 161696
-MD5sum: d4831458b690dc748a77fa955c80487f
-SHA1: 29255f152b4fce928d87d438197d16df6f6ef748
-SHA256: 00ca01d7ff4d4ecb21a169377afba2772bcecd07c6bfa2cacfe3b36695862d47
+Filename: ./debs/com.awemefullscreen_1.2-3_iphoneos-arm64.deb
+Size: 161464
+MD5sum: 2e618b6c3b6ead1a2b6d69abab091947
+SHA1: 66a468f1262d5aded1fda50a5c4a721d16583f17
+SHA256: d7a58daf8369a5e7ed4d5966d026e873a10eda219a5ad83d40428f70351aed1d
 Section: 抖音插件
 Description: 测试版本32.4.0，插件设置位于抖音设置内：AwemeFullScreen
 Author: Netskao
@@ -2543,11 +2638,11 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.badgebreathing_0.0.1.deb
-Size: 4224
-MD5sum: 1f6d41d8538b276a6e6f6a272f852321
-SHA1: 7f13c947d41df6dd3994f6bac17643c6c4e30b04
-SHA256: 8d3e3d20ed934a966456a58016e65431f7f78a4a07a86c5c35d8b5cdb91fa1de
+Filename: ./debs/com.badgebreathing_0.0.1_iphoneos-arm64.deb
+Size: 4220
+MD5sum: c8f6fb276bb47b1046388060d0ee0e2e
+SHA1: f0da1339e5aecdeef605d8e464384e734e2c5cf2
+SHA256: 1b5089dccde5b7ba5f1f47a14cfc41e9e0e96bc2da8c4d72a2704dcc7bdcfccf
 Section: 插件
 Description: APP角标呼吸灯效果，注销生效无设置项。
 Author: Phuc Do
@@ -5522,11 +5617,11 @@ Maintainer: wkk
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
-Filename: ./debs/com.realcc_1.1.deb
-Size: 5628
-MD5sum: 9aeae54e5b208d952d3856ef62ab88d2
-SHA1: 868aaf68d48a2f1b56998837dd20ae9c98622651
-SHA256: 9f610ab6d64992b2e9edfbbf8920308a010cdce0a82cc8460653045495c82890
+Filename: ./debs/com.cconandoff_1.1.0_iphoneos-arm64.deb
+Size: 5636
+MD5sum: d1bc61dd1c86afe4c872e26f951ec847
+SHA1: 19ac616685098d5997b66036e3ff424edb090c64
+SHA256: fd81010bc9ddf62fefd5d52eb56b32e152fbef8b31178baff23fb08f1c2da5b3
 Section: 插件
 Description: 控制中心完全关闭WiFi和蓝牙，不会假关闭！
 Author: PoomSmart
@@ -7050,11 +7145,11 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 2756
 Depends: mobilesubstrate
-Filename: ./debs/com.gesturesxv_1.6.1.deb
-Size: 2160292
-MD5sum: dea7eff76ff5f281c9309b8d71e19f58
-SHA1: e1f5a62287a376c70cd8f67254e7f43ef7ae8b87
-SHA256: a0fa9a6f3a87a7a2a34ea4e58cbf8d27196a5adabf61fdf614b9e6da24cb0d28
+Filename: ./debs/com.gesturesxv_1.6.1_iphoneos-arm64.deb
+Size: 2160388
+MD5sum: 3d3cd3f842fb4302ad52a03e5f2a8e1e
+SHA1: 09da83e491c32d521a05a966cb8ecb5f721b3e71
+SHA256: 5d9c5e6e9abf67619f29ba353d1eb6334a94587ee5bb8f39c2c07541fa8ccd37
 Section: 插件
 Description: 为旧设备提供全面屏X手势。
 Author: Ethan Whited
@@ -7164,16 +7259,15 @@ Name: XHSHelper
 
 Package: com.hapticsleep
 Version: 1.0.1
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 173
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/com.hapticsleep_1.0.1_iphoneos-arm64e.deb
-Size: 5038
-MD5sum: 48a3bd981bb3112319cd253bc1cabe45
-SHA1: ae65d424569b5bfe475eb418e4169c858252f143
-SHA256: a3edd67f72bc9aec8cff88edf9d27306314453a5e3052099355f9a093c6a276a
+Filename: ./debs/com.hapticsleep_1.0.1_iphoneos-arm64.deb
+Size: 3636
+MD5sum: 6ea158bd46f494497814fd23b0e220e9
+SHA1: 6997a62444f21afd40e0f4fab131c53b5af8ebf1
+SHA256: 98860b3a7d2bedd4414005c0e2f0d791ed7bf7819aead064f6f5541503b64b17
 Section: 插件
 Priority: optional
 Description: 锁屏的时候震动一下，无设置项，支持无根隐根。
@@ -7184,15 +7278,16 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.hapticsleep
 Version: 1.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 173
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/com.hapticsleep_1.0.1.deb
-Size: 3636
-MD5sum: dabeff7580d8ee6589ecc08166f83584
-SHA1: 73dd98445fdd09a761ae3dfd2f5410d209d3cd40
-SHA256: 2e67ce89853fec9f9cbb28ab085504839e9421e0ed5f6782472cf843c9a87b07
+Filename: ./debs/com.hapticsleep_1.0.1_iphoneos-arm64e.deb
+Size: 5038
+MD5sum: 48a3bd981bb3112319cd253bc1cabe45
+SHA1: ae65d424569b5bfe475eb418e4169c858252f143
+SHA256: a3edd67f72bc9aec8cff88edf9d27306314453a5e3052099355f9a093c6a276a
 Section: 插件
 Priority: optional
 Description: 锁屏的时候震动一下，无设置项，支持无根隐根。
@@ -7258,11 +7353,11 @@ Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
-Filename: ./debs/com.hidenotificationbadge_0.0.1.deb
-Size: 2904
-MD5sum: c3fe1fb1d055a95135de7f06c8f35456
-SHA1: dc812a58594823e590ef3a0e8dcc3ba28b1590e0
-SHA256: 6520879009450eb0e6e6e1a322bc9db78ce34bce7ff899994b7433cc18f46b61
+Filename: ./debs/com.hidenotificationbadge_0.0.1_iphoneos-arm64.deb
+Size: 2908
+MD5sum: 9a3b8100593a961b4d8592127e5d8fae
+SHA1: 18551bc18544c291af5e6484dc4fb4f855e44176
+SHA256: 923eec240dc89bce0dfea5a25b45c236cef82939eb9a884186b9684339eab8b0
 Section: 插件
 Description: 隐藏通知图标中右下角标。
 Author: SquidForce
@@ -8543,11 +8638,11 @@ Version: 1.2.2-3
 Architecture: iphoneos-arm64
 Maintainer: k
 Depends: mobilesubstrate, ws.hbang.alderis
-Filename: ./debs/精美tvos弹窗无根.deb
-Size: 31416
-MD5sum: 3f7bd4c0f3e373a6cdfb2c657a5bf940
-SHA1: 9b8f949586e3fac46715b37bfd1475864e645036
-SHA256: fb0adf0baefe9f8ac0d73c0bf6c1e320177d0fc9f6f8dc97e78f5f56bb6b76ea
+Filename: ./debs/com.k.blurryalerts_1.2.2-3_iphoneos-arm64.deb
+Size: 31456
+MD5sum: 61c1f33aac511ab7ce6b4e930a1df140
+SHA1: 23bf81801bc1f0d32eb5516bf3e6c8adb82aa391
+SHA256: 195d39068c6375facba789b9587303cbd99db9c3f60c742d55da68ee3d027117
 Section: 插件
 Description: 精美TVOS弹窗，支持无根隐根。
 Author: SlyFabi
@@ -10553,11 +10648,11 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 168
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.pullclearnc_1.0.deb
-Size: 6876
-MD5sum: a59f088e5d960436cadac844f9a3a7ed
-SHA1: caecc4375d38294c60ab567cc9d7c3a6a9c2ad49
-SHA256: c179ce39fa1592cc76e0378f01c8f34cec8f61a5e8a50ae3818e3dbe0f7a50c1
+Filename: ./debs/com.pullclearnc_1.1-8_iphoneos-arm64.deb
+Size: 6868
+MD5sum: 47e2e6adedd4e48106c1553384e4c4db
+SHA1: 710edc07575fcc3c689fd1faea6167b6ef5cf646
+SHA256: 8e03bffff24c85bc97f24d30d4d7e39b55df85d27fdc6d77659a825ecff844ba
 Section: 插件
 Description: 通知栏快速下拉即可清理通知，并显示清理成功几条。
 Author: Netskao
@@ -15606,11 +15701,11 @@ Version: 0.1-2
 Architecture: iphoneos-arm64
 Maintainer: xybp888
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/一键锁屏.deb
-Size: 30708
-MD5sum: bfb5bedcbd998ff88509cc4b0f04f184
-SHA1: 6140fd242cc5171a29ff667522cafcc28afa2e28
-SHA256: 542a74378d0ec99183c6bff22c13dfa90f76f57f5e7b9becbf51af7a4d767738
+Filename: ./debs/com.xybp888.lockbutton_0.1-2_iphoneos-arm64.deb
+Size: 30720
+MD5sum: 9717449ea04a401094089e2384278390
+SHA1: 7eaac7b84d2c817ddcb96674ac3f9465afc017ed
+SHA256: 07326a062d25046bc7bef263807cdd502b0772b91b05896497aba10a68732718
 Section: 应用程序
 Priority: optional
 Description: 安装后在桌面显示一个图标，点击图标就能快速锁屏。
@@ -15898,11 +15993,11 @@ Version: 0.9.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: mobilesubstrate
-Filename: ./debs/zaire-rootless_0.9.deb
+Filename: ./debs/com.zaire-rootless_0.9.0_iphoneos-arm64.deb
 Size: 5360
-MD5sum: 91b18f1d5e78b8d2c7371ebf878ab9c0
-SHA1: ac377ec1b5c0e1691f6fa67f3863627a40bad6f7
-SHA256: 226e1601a1a52d7315fdd3d5b7bfad4a683054366431b0e103007f20b8544b60
+MD5sum: 0f20340c45b9cd0b9bed8037d8ad797d
+SHA1: 920e29b97871bbdee5a2f367512f38cf2b7b5fc6
+SHA256: 89ac77476c4177ad7690cac47abc079436b990c93dd2536ef128cc591bcb0662
 Section: 插件
 Description: 显示存储页面中已安装的应用程序的数量。
 Author: Luki
@@ -17112,11 +17207,11 @@ Version: 1.4.2
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
 Provides: com.alexzielenski.zeppelin
-Filename: ./debs/zeppelinreborn_1.4.deb
-Size: 2980552
-MD5sum: 45551f5f3115948c8751598edcf96a67
-SHA1: 48af2d62a8b9ca9ee9450faf496861cb0394180c
-SHA256: a783a032ca03f9cd9c79220535390504c3e81439acfd365e18ee6a8eef450923
+Filename: ./debs/wkk.zeppelinreborn_1.4.2_iphoneos-arm64.deb
+Size: 2980660
+MD5sum: 6c3dc09693583a0b6d025ef47f0a5407
+SHA1: cc690f60360242ba3bb3def49719b10defc11b6d
+SHA256: 45a42a146ca668461c48e5014e5d720872c44d22cd0cabd70a0a815b208f1ca1
 Section: 插件
 Description: 在运营商文本或时间旁边添加图像或GIF
 Author: Hitori
