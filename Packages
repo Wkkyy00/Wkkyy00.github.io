@@ -1162,16 +1162,15 @@ Name: 微信助手
 Sponsor: admin@25mao.com
 
 Package: com.25mao.miyou.rootless
-Version: 3.8-3
-Architecture: iphoneos-arm64e
+Version: 3.8-4
+Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64e.deb
-Size: 24697378
-MD5sum: ac60a0ffc943c1c44b59d1acb3597daa
-SHA1: 806059fac8df1e6bad95e6cfd11873ec9ab645db
-SHA256: 5a8269b2fed70a45ceb7f9bc336b35e93d9b6adb131a7013540e22164f0dc1f2
+Filename: ./debs/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64.deb
+Size: 9291800
+MD5sum: b4cb0f07763ff0972899addc5ed067b9
+SHA1: 0617dcfe647ba1e84b507e87df6037ae840cd268
+SHA256: 54a6a0eaae3bf9ffc10a657d5cdcdc338913452d6b90f50656a3973966fb8988
 Section: 微信插件
 Priority: optional
 Description: 微信助手
