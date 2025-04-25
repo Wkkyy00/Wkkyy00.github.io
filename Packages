@@ -11014,6 +11014,43 @@ Author: PoomSmart
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: RecordPause
 
+Package: com.rexinxuegao.WCElite
+Version: 1.2-6b2
+Architecture: iphoneos-arm64
+Maintainer: 热心网友＆xuegao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.rexinxuegao.WCElite_1.2-6b2_iphoneos-arm64.deb
+Size: 379640
+MD5sum: 5b38c90e3ad81b8a38b11fd794ab5413
+SHA1: 1b3ff7f5a4048ce7bea650c56a0df852a152882e
+SHA256: fb9ce98cbef26669f3865f412169f991fa9de26bfcf5e48b44b2654dbd45991c
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于茶愫1.1-9开源版优化，此版本由热心网友与Xuegao维护。
+Author: 愫 茶
+Depiction: k
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCElite
+
+Package: com.rexinxuegao.WCElite
+Version: 1.2-6b2
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友＆xuegao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.rexinxuegao.WCElite_1.2-6b2_iphoneos-arm64e.deb
+Size: 553140
+MD5sum: 34d6a49248b1e7f33dbe572834d6f61d
+SHA1: 987c8acfc29595546b70715f8c7ebfd1a3e8a7f3
+SHA256: a36bf632d00f99380698f8eba11ee8b071b7b1d15a64386b7619a18625ffc2dc
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于茶愫1.1-9开源版优化，此版本由热心网友与Xuegao维护。
+Author: 愫 茶
+Depiction: k
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCElite
+
 Package: com.rpetrich.powercuff
 Version: 1.4
 Architecture: iphoneos-arm
@@ -15868,6 +15905,24 @@ Description: 下载后文件在目录/var/mobile/Documents/皮卡丘注销动画
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画1.0
+
+Package: com.xuuz.douyinhelper
+Version: 1.2-0
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 1192
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.xuuz.douyinhelper_1.2-0_iphoneos-arm64.deb
+Size: 236056
+MD5sum: f63334810b557ef4d9689f0b3e694ac0
+SHA1: a8ce28a7c53af60f1fb6ee8c6699ad583bc47a53
+SHA256: a789f8c019d5e673221f1f5b490e1ed88526b16c5c6c4cfc052a0349c275110b
+Section: 抖音插件
+Priority: optional
+Description: 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音助手
 
 Package: com.xybp888.lockbutton
 Version: 0.1-2
