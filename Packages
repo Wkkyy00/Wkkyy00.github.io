@@ -7364,6 +7364,41 @@ Author: null
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: HBB多开无后台推送详情
 
+Package: com.hbb
+Version: 7.0
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hbb_7.0_iphoneos-arm64.deb
+Size: 259452
+MD5sum: b005cab3354b63d40ba00999b4c459bc
+SHA1: a2c4a71d48c6611d8e7de8f57e3b72632d66011f
+SHA256: 6822eaab9163b06d926bde79a2e2f8c4b276b889a2dd26178605f39faa4817be
+Section: 微信插件
+Description: 学习交流。功能自测。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: HBB多开无后台推送详情+ck
+
+Package: com.hbb
+Version: 7.0
+Architecture: iphoneos-arm64e
+Maintainer: null
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hbb_7.0_iphoneos-arm64e.deb
+Size: 351564
+MD5sum: b77427fb0b004ae6c68d5ba5e92e333b
+SHA1: 74105cf3be8134598c2facbcfa91feed32e86c9e
+SHA256: 1848c97100d85e8aa2118574b01cb2274e8cf304da3eaad529028c59934bd805
+Section: 微信插件
+Description: 学习交流。功能自测。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: HBB多开无后台推送详情+ck
+
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64
