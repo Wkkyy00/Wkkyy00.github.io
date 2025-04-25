@@ -14207,61 +14207,6 @@ Icon: https://s1.imagehub.cc/images/2025/03/11/93c5ac92ef7458d85ca58ab57c58b613.
 Name: Desa
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Desa.json
 
-Package: com.wkk.Filzamh
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.filzamh_1.0_iphoneos-arm64.deb
-Size: 118896
-MD5sum: 12c37f4a11b2cbdf4965710cb301917c
-SHA1: e6f9ba613a2cd39019a68e61c1fb7104b38b51c4
-SHA256: 32a330d05cbecdaf64b920ae2a0585058e845a7a7e92f5ea2128772df519b47e
-Section: 插件
-Description: Filza美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.png
-Name: Filza美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
-
-Package: com.wkk.Filzamh
-Version: 1.1-end
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.Filzamh_1.1-end_iphoneos-arm64.deb
-Size: 122176
-MD5sum: eaca4b0f2788220186f1634a66262ad1
-SHA1: 85ebad5dc41e852bb5fd1609355a4b76abb52c7e
-SHA256: ada90a605b1c19dd38b57078fba1b311df828c6ccce2698a49a9ebaca4c3a996
-Section: 一切美化的东西都是垃圾
-Description: Filza美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.png
-Name: Filza美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
-
-Package: com.wkk.Filzamh
-Version: 1.1-end
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.filzamh_1.1-end_iphoneos-arm64e.deb
-Size: 124144
-MD5sum: b1578fbd0b0f94191417f767acbaaea3
-SHA1: c5e42baae5e916023f0a3f230c1888c1ed75496c
-SHA256: be143770849ba690c736fed7f2eaada8c5e89d7b092c79b9d8b34e2fb1eb6d2e
-Section: 一切美化的东西都是垃圾
-Description: Filza美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/03/04/6c40e2f9e95f8b14ac5be4bc7b11fabc.png
-Name: Filza美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Filza.json
-
 Package: com.wkk.HideEdit
 Version: 1.0
 Architecture: iphoneos-arm64
