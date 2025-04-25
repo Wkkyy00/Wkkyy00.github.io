@@ -9532,6 +9532,23 @@ Author: Muirey03
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Cr4shed
 
+Package: com.muirey03.libimagepicker
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64e.deb
+Size: 13226
+MD5sum: af8ac2e38cf13b03f4d1835782bb59dd
+SHA1: ded828456a2d557a435233df528a5debd1d6091e
+SHA256: 81c5d564e373a10c20cbb6e3f93972ffaaab2960ac54cd1fa61ea76ca7f1ba43
+Section: Development
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Author: Muirey03
+Name: libimagepicker
+
 Package: com.muteplay
 Version: 1.0
 Architecture: iphoneos-arm64
