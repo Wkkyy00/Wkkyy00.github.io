@@ -7371,15 +7371,15 @@ Maintainer: null
 Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hbb_7.0_iphoneos-arm64.deb
-Size: 259452
-MD5sum: b005cab3354b63d40ba00999b4c459bc
-SHA1: a2c4a71d48c6611d8e7de8f57e3b72632d66011f
-SHA256: 6822eaab9163b06d926bde79a2e2f8c4b276b889a2dd26178605f39faa4817be
+Size: 2390696
+MD5sum: c4bd4020d3ffadd119f5d3fb3f9468e7
+SHA1: d8a8475af5dc917c52da5bfdcb4e5d0ab3e123b3
+SHA256: 4491ef0dbae22b9b7ad4c3701d227a1dc7cd7413a23e3d149dcebd26ec2cfb22
 Section: 微信插件
-Description: 学习交流。功能自测。
+Description: 学习交流。
 Author: null
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: HBB多开无后台推送详情+ck
+Name: HBB多开无后台推送详情
 
 Package: com.hbb
 Version: 7.0
@@ -7389,15 +7389,50 @@ Installed-Size: 400
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hbb_7.0_iphoneos-arm64e.deb
-Size: 351564
-MD5sum: b77427fb0b004ae6c68d5ba5e92e333b
-SHA1: 74105cf3be8134598c2facbcfa91feed32e86c9e
-SHA256: 1848c97100d85e8aa2118574b01cb2274e8cf304da3eaad529028c59934bd805
+Size: 6692772
+MD5sum: 2594c4d442fcda7a4a044ffdd56cdc3d
+SHA1: 76396181ba2205e9077a77c0858c3fa3a5b412eb
+SHA256: fed435434c2ba1abaa65b26301c8017389e3e80a96227a1f8af6daf21c8dd8e6
+Section: 微信插件
+Description: 学习交流。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: HBB多开无后台推送详情
+
+Package: com.hbb.ck
+Version: 7.0
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hbb.ck_7.0_iphoneos-arm64.deb
+Size: 259264
+MD5sum: 37084be849af6a4fa97845b7cbea4c3c
+SHA1: a3d2bdff709612410d5d0008c8a26189c3b97dbf
+SHA256: 6915eb0ea386b2e33fc2f37c4298a3305a3ade9aa6850ddd0b8dfc21dbe52a83
 Section: 微信插件
 Description: 学习交流。功能自测。
 Author: null
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: HBB多开无后台推送详情+ck
+Name: HBB多开无后台Callkit
+
+Package: com.hbb.ck
+Version: 7.0
+Architecture: iphoneos-arm64e
+Maintainer: null
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hbb.ck_7.0_iphoneos-arm64e.deb
+Size: 351518
+MD5sum: 68edc02e6aee6f6c80f31d5ec853f85d
+SHA1: 439e935da9ba42b99b0718bca4e139ebdbe9464c
+SHA256: 8eb9fac69e0874892a6e8e373695aae6e1a756ab0434407c6b4caf0004c86408
+Section: 微信插件
+Description: 学习交流。功能自测。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: HBB多开无后台Callkit
 
 Package: com.hidenotificationbadge
 Version: 0.0.1
