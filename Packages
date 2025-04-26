@@ -11017,6 +11017,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCElite
 
 Package: com.roothide.manager
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 896
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.roothide.manager_1.2_iphoneos-arm64e.deb
+Size: 730790
+MD5sum: 5bfb51d431737afb08685dbfe66206aa
+SHA1: a8d60793bc10a989404c5b6c336a938a4266029d
+SHA256: 3fc4c80d09cab6c207339a6dd596f135b49a8f27e94a7dc87ead57ca8598cc6f
+Section: System
+Description: Configuare RootHide's Features
+Author: roothide
+Depiction: https://github.com/roothide/RootHideManagerApp
+Name: RootHide Manager
+Support: https://github.com/roothide/RootHideManagerApp
+
+Package: com.roothide.manager
 Version: 1.3.1
 Architecture: iphoneos-arm64e
 Maintainer: roothide
