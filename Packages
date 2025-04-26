@@ -12990,6 +12990,43 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.reachplayer
+Version: 4.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 2064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_4.0.2_iphoneos-arm64e.deb
+Size: 1227788
+MD5sum: adb537acf54ca1ab462cee80bab1203e
+SHA1: 829ad2abc97de149dd045d95f2b8dc20ebf305e3
+SHA256: e122dfe8efe2aa3d5aef68e15a0b912a094130dd3219254f0e12d4a701469d22
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 4.0.2
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 2064
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_4.0.2_iphoneos-arm64.deb
+Size: 1092986
+MD5sum: 05b48108c2d5d9f4f2f987033550266e
+SHA1: bfad352a02cb7893926d692e81571155fae5f653
+SHA256: c6125cbb4d3c169bebfe4f1416a8266c8a18727b9a121ca471bf904e4c3e68f3
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
 Package: com.susu.springanimation
 Version: 1.0.4
 Architecture: iphoneos-arm64
