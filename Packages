@@ -7725,6 +7725,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCFullSwipe
 
+Package: com.huami.WCPluginsOrder
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPluginsOrder_1.0.1_iphoneos-arm64e.deb
+Size: 14892
+MD5sum: a942f06e758deea422db253d45068ef9
+SHA1: 4da41a9803cb6eccd37fe8dc80b4bafbfa255a55
+SHA256: d6734117e62c988f0f501d0a4413183635c41b9258bffd2a9b5fd60b9126ba32
+Section: 微信插件
+Description: 微信插件管理排序。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPluginsOrder
+
+Package: com.huami.WCPluginsOrder
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPluginsOrder_1.0.1_iphoneos-arm64.deb
+Size: 11252
+MD5sum: dcb646697ac25595019792b85d1469b0
+SHA1: 1fec9150036506539bf01161ea20bc481f290796
+SHA256: 63f1844091fb0174f9c264759ebd83e6a3af7f18b178bc405f1129e0808b6177
+Section: 微信插件
+Description: 微信插件管理排序。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPluginsOrder
+
 Package: com.huami.dyenablepanelmodernstyle
 Version: 1.1
 Architecture: iphoneos-arm64
