@@ -271,6 +271,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 系统优化合集
 Sponsor: wkk
 
+Package: caom.griddy
+Version: 1.0.3-3
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./debs/caom.griddy_1.0.3-3_iphoneos-arm64.deb
+Size: 14528
+MD5sum: 7cfe469122add8ac9b801555d9ceb595
+SHA1: 7d89673e70e4aa0ba82c84539884f3f118c03ee9
+SHA256: 66f21e8f4d5893cb9422c66b1d01c21dd707d8192fd1f72d1ba6ce0529751fa7
+Section: Tweaks
+Description: 解决与hello文件夹冲突的版本。
+Author: mikifp
+Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
+Name: Griddy
+
 Package: ch.xxtou.xxtouch
 Version: 5.1
 Architecture: iphoneos-arm64
@@ -7271,6 +7288,23 @@ Description: 桌面晃动手机图标则会抖动下落。
 Author: Kritanta
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/gravitation.png
 Name: Gravitation
+
+Package: com.griddy
+Version: 1.0.3-3
+Architecture: iphoneos-arm64e
+Maintainer: mikifp
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: ./debs/com.griddy_1.0.3-3_iphoneos-arm64e.deb
+Size: 13644
+MD5sum: d6da86134fbf7bb2f1c51d19d5cdbdb0
+SHA1: b70f3ca89e832ffb579a6314092efaffdbce65d0
+SHA256: dbe52a39795ab82f11ec040ba8c395e3b7a458e00856e36d53cb9f6c23a6c371
+Section: Tweaks
+Description: 解决与hello文件夹冲突的版本。
+Author: mikifp
+Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
+Name: Griddy
 
 Package: com.h7ang0.xhsnowatermark
 Version: 1.0.0-2+debug
