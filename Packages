@@ -181,41 +181,6 @@ Author: Luki
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: April
 
-Package: apt.griddy
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: mikifp
-Depends: mobilesubstrate
-Filename: ./debs/apt.griddy_1.0.5_iphoneos-arm64.deb
-Size: 19656
-MD5sum: 76484dd8e90982eee5bcf9ab2626757f
-SHA1: 5fbe172757d14585cb3243501b38920a02ce83a9
-SHA256: 5bcae099c0bb45bb78cbaaa79b8ad0deb7f09aee127117f7e395b6474f367a81
-Section: 插件
-Description: 应用图标随意摆放，付费版本纯净砸壳上架备份。
-Author: mikifp
-Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
-Name: Griddy
-Sponsor: wkk
-
-Package: apt.griddy
-Version: 1.0.5
-Architecture: iphoneos-arm64e
-Maintainer: mikifp
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/apt.griddy_1.0.5_iphoneos-arm64e.deb
-Size: 25876
-MD5sum: 15746b0d4ebc3bf2adcd7f2093ca02d9
-SHA1: 8e886e55998e98273a2e5d828f8548db4759a31a
-SHA256: 0860dcd389433e8c79d6af204b8bb6ddc7b06893e71194f132bce4017f4dc542
-Section: 插件
-Description: 应用图标随意摆放，付费版本纯净砸壳上架备份。
-Author: mikifp
-Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
-Name: Griddy
-Sponsor: wkk
-
 Package: apt.perfectxtime
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -270,23 +235,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 系统优化合集
 Sponsor: wkk
-
-Package: caom.griddy
-Version: 1.0.3-3
-Architecture: iphoneos-arm64
-Maintainer: mikifp
-Installed-Size: 92
-Depends: mobilesubstrate
-Filename: ./debs/caom.griddy_1.0.3-3_iphoneos-arm64.deb
-Size: 14528
-MD5sum: 7cfe469122add8ac9b801555d9ceb595
-SHA1: 7d89673e70e4aa0ba82c84539884f3f118c03ee9
-SHA256: 66f21e8f4d5893cb9422c66b1d01c21dd707d8192fd1f72d1ba6ce0529751fa7
-Section: Tweaks
-Description: 解决与hello文件夹冲突的版本。
-Author: mikifp
-Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
-Name: Griddy
 
 Package: ch.xxtou.xxtouch
 Version: 5.1
@@ -7326,23 +7274,6 @@ Author: Kritanta
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/gravitation.png
 Name: Gravitation
 
-Package: com.griddy
-Version: 1.0.3-3
-Architecture: iphoneos-arm64e
-Maintainer: mikifp
-Installed-Size: 92
-Depends: mobilesubstrate
-Filename: ./debs/com.griddy_1.0.3-3_iphoneos-arm64e.deb
-Size: 13644
-MD5sum: d6da86134fbf7bb2f1c51d19d5cdbdb0
-SHA1: b70f3ca89e832ffb579a6314092efaffdbce65d0
-SHA256: dbe52a39795ab82f11ec040ba8c395e3b7a458e00856e36d53cb9f6c23a6c371
-Section: Tweaks
-Description: 解决与hello文件夹冲突的版本。
-Author: mikifp
-Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
-Name: Griddy
-
 Package: com.h7ang0.xhsnowatermark
 Version: 1.0.0-2+debug
 Architecture: iphoneos-arm64
@@ -9491,6 +9422,43 @@ Author: Luki
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Marie
 Sponsor: wkk
+
+Package: com.mikifp.griddys
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: mikifp
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/com.mikifp.griddys_1.0.5_iphoneos-arm64e.deb
+Size: 20976
+MD5sum: 1d00c369b1f47159976f76d5477cf35d
+SHA1: 645becb8d01cf0120cc023a7285eb279b53935da
+SHA256: 8a079db168c51d4fc0f5c6831be7b5fbe0bbba2c3f90035c1685510231c34ffb
+Section: Tweaks
+Description: Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
+Name: Griddy
+
+Package: com.mikifp.griddys
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/com.mikifp.griddys_1.0.5_iphoneos-arm64.deb
+Size: 19916
+MD5sum: c9a33eb58f7942b3cb6e71aa1c56c937
+SHA1: 22e00f39be76d141c0f8d5c5b311b654e5ac4bb4
+SHA256: 9877a4a7c44eee788220d1d99c03e724f5dd2bdee69d3dc2a9106d03ca57e497
+Section: Tweaks
+Description: Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
+Name: Griddy
 
 Package: com.mikotohelper.wechat
 Version: 1.3.6-V1
