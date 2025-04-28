@@ -14689,6 +14689,23 @@ Author: girl
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩
 
+Package: com.wkk.blblnoads
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.blblnoads_1.0_iphoneos-arm64.deb
+Size: 2948
+MD5sum: d09f6e75f13dbdf62f0cae4da303dc4d
+SHA1: 6cc37c0e6fce9e5a904836d25c3f1a1fe94e2413
+SHA256: 1106a7d8fb4c6a9c30fcddc6bad276cd6559b6a91d926ac76c991350c8c381a2
+Section: 去广告
+Description: 8.23.0版本去开屏广告。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/28/0f68c35f9a66821bd57f63b01a3060aa.png
+Name: 哔哩哔哩NoAds
+
 Package: com.wkk.camerapreview
 Version: 1.0
 Architecture: iphoneos-arm64
