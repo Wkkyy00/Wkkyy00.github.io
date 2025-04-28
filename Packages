@@ -13067,6 +13067,43 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.reachplayer
+Version: 4.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 2216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_4.0.4_iphoneos-arm64e.deb
+Size: 1886986
+MD5sum: c2e40d200002cf4933160dbc12fd4af5
+SHA1: c6bdae5859dedd17e610ecaeb7aac483187d3d8e
+SHA256: 99a0fb6cbc6bb3882fccdbc10c3d05ff69f7c26224a7b50f108e01f7a5907c51
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 4.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 2216
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_4.0.4_iphoneos-arm64.deb
+Size: 1117052
+MD5sum: 7ebdf1a8e22ade2ff6c15c34f06d1a37
+SHA1: 4362b2f56d1ab2e7905d54442237d921be5dd6cf
+SHA256: 867b74514569d65f90d53a31af05c75961e6978d75cab7bf3f9fbcb92bebe19c
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
 Package: com.susu.springanimation
 Version: 1.0.4
 Architecture: iphoneos-arm64e
@@ -14688,23 +14725,6 @@ Description: 去开屏广告，精简一系列杂项。测试版本：8.23.0
 Author: girl
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩
-
-Package: com.wkk.blblnoads
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.blblnoads_1.0_iphoneos-arm64.deb
-Size: 2948
-MD5sum: d09f6e75f13dbdf62f0cae4da303dc4d
-SHA1: 6cc37c0e6fce9e5a904836d25c3f1a1fe94e2413
-SHA256: 1106a7d8fb4c6a9c30fcddc6bad276cd6559b6a91d926ac76c991350c8c381a2
-Section: 去广告
-Description: 8.23.0版本去开屏广告。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/04/28/0f68c35f9a66821bd57f63b01a3060aa.png
-Name: 哔哩哔哩NoAds
 
 Package: com.wkk.camerapreview
 Version: 1.0
