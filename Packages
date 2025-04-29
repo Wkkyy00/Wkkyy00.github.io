@@ -15099,6 +15099,38 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: HiceIconName
 
+Package: com.wkk.fuckltads
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fuckltads_1.0_iphoneos-arm64.deb
+Size: 3292
+MD5sum: b4429f7a0450626ab9141f22aa550bd0
+SHA1: 24cb46cd5bb54cd2a8f6cf46faa17f19ccc5a063
+SHA256: c2193aad9dd6b25baa7a0d0458aef3e8b44e012ba2ce428bafe97822e6182825
+Section: 去广告
+Description: 去开屏广告，版本：11.9 群友测试最新版也可以（开源代码：🐝🐶）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.png
+Name: 中国联通NoAds
+
+Package: com.wkk.fuckydads
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fuckydads_1.0_iphoneos-arm64.deb
+Size: 3176
+MD5sum: a75315fc3a55ade43716337215cd7c6d
+SHA1: 3c4ff4ee4f91c3c59d7424fa4b3e8ab7db73afde
+SHA256: 893057f22bdf2c73a5988e84e97a6890d90ad58c428a481bf50fb2827ddd0f55
+Section: 去广告
+Description: 去开屏广告，版本：11.6.0 群友测试最新版也可以（开源代码：🐝🐶）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
+Name: 中国移动NoAds
+
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64
