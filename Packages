@@ -15013,22 +15013,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/92c71257062850129b513726de475e60.png
 Name: 番茄小说NoAds
 
-Package: com.wkk.floatingView
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.floatingView_1.0_iphoneos-arm64.deb
-Size: 5572
-MD5sum: 219e9eeafe4ae442a19ff283a22c158e
-SHA1: 67807a9c590a47644e5d764baa22f1d0497102bc
-SHA256: b8f567054a20affcb4e49da89d46e69bd73d15d1ecda7f558829c712ff6785d0
-Section: 插件配置
-Description: 自用备份。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: floatingView配置(自用)
-
 Package: com.wkk.ftpz
 Version: 1.0
 Architecture: iphoneos-arm64e
