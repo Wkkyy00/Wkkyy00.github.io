@@ -5522,6 +5522,59 @@ Author: Bandar Alruwaili
 Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
 Name: BHTwitter中文版
 
+Package: com.bhtwitter
+Version: 4.3-6
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: ./debs/com.bhtwitter_4.3-6_iphoneos-arm64e.deb
+Size: 21405578
+MD5sum: 4f0f18703d49c6001266ba200ef00df0
+SHA1: a431fbd4edb3498eda9ebd507372d840b8391de2
+SHA256: c9d859ed21649c983432ac6d8c738ba0ff42e1aab0160a0b785d7f8fb7081efd
+Section: 去广告
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。测试版本：10.79.2，只能说牛逼puls！
+Author: Bandar Alruwaili
+Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
+Name: BHTwitter中文版
+
+Package: com.bhtwitter
+Version: 4.4-1
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: ./debs/com.bhtwitter_4.4-1_iphoneos-arm64e.deb
+Size: 21411186
+MD5sum: 9155684a1b60d794bd49fc8c51ae8642
+SHA1: 78c83b566846a260287ec520a7ab3ef188a7b806
+SHA256: c3973c98605f733aa8e9016f7bc89f7e0504f0066ae0b8dd1da613686732b8d8
+Section: 去广告
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。测试版本：10.79.2，只能说牛逼puls！
+Author: Bandar Alruwaili
+Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
+Name: BHTwitter中文版
+
+Package: com.bhtwitter
+Version: 4.4-1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: ./debs/com.bhtwitter_4.4-1_iphoneos-arm64.deb
+Size: 7610548
+MD5sum: 53d6cc410f9e22cd3ca1682cc798aadd
+SHA1: 6da3f1e27c4d25efd8dac6b32f2c8338df31f32a
+SHA256: 1f4b46d9f5dc4eff2a306c09c7f0cddee3a2ba2f5e190d3c56a955144735748a
+Section: 去广告
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。测试版本：10.79.2，只能说牛逼puls！
+Author: Bandar Alruwaili
+Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
+Name: BHTwitter中文版
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
