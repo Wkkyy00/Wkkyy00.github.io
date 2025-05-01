@@ -15378,6 +15378,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
 Name: 瑞幸咖啡NoAds
 
+Package: com.wkk.fucmkrxkfads
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 余亿
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fucmkrxkfads_1.1_iphoneos-arm64.deb
+Size: 4432
+MD5sum: ed9cc3716ac5cb4f8b6a7fb59510d9fc
+SHA1: 1f67ae1440b17fe5bb30eacc692da19f9c5e4204
+SHA256: 71c0161b838d26c8286df85fe6df3cb3bff832863b408aa54f66f67dc8365a95
+Section: 去广告
+Description: 去开屏广告。测试版本：5.3.50（感谢代码指点）
+Author: 余忆
+Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
+Name: 瑞幸咖啡NoAds
+
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64
