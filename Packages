@@ -15345,6 +15345,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
 Name: 中国移动NoAds
 
+Package: com.wkk.fucmkrxkfads
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fucmkrxkfads_1.0_iphoneos-arm64.deb
+Size: 3304
+MD5sum: cb3c5563bcb51f231ef6b7444020ab6d
+SHA1: 45b53c576d69a8ef876bc81d635b88fcdf2fd6c2
+SHA256: 0eb7f04b7fafee9a33754aacfd243ebbccfb6a12a612786ba1443a75092f6188
+Section: 去广告
+Description: 去开屏广告。测试版本：5.3.50。进入后划不动点一下空白继续操作即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
+Name: 瑞幸咖啡NoAds
+
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64
