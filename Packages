@@ -9637,6 +9637,41 @@ Author: huami&Lxcloud
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信增强
 
+Package: com.lxcloud.WCEhance
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: Lxcloud
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.1-5_iphoneos-arm64e.deb
+Size: 2781490
+MD5sum: 6a2f4105ccd396b293da1a22179d8bb9
+SHA1: e35b22209492dad43f51053f954981e015934fe5
+SHA256: ef3a3536b97b1c8da1716555572d153ba986c7377a17185a34e8e1807524d77d
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.lxcloud.WCEhance
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.1-5_iphoneos-arm64.deb
+Size: 997644
+MD5sum: 54aef256f94c4fbe5baf8d9e20d58192
+SHA1: e120349924c588cb453d7a56f0c57d9dd8cbb789
+SHA256: b6005c7d7a20db3986eb8f6d0aa5cf3b3e330553f4802a70b6c88d2cc29f9292
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
 Package: com.marie
 Version: 1.0.6
 Architecture: iphoneos-arm64
