@@ -11685,6 +11685,38 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
 Name: ShowMyTouches
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
 
+Package: com.skypain.flexloader
+Version: 5.25.19-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 3080
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.skypain.flexloader_5.25.19-1_iphoneos-arm64.deb
+Size: 934908
+MD5sum: ad8f615cdbef299a0199cdd93d18ddf4
+SHA1: a3be05be8a704cc174f3f62f3201b9da1e209e9f
+SHA256: 7ed6a5417c95fddd946ef67e8e8e0ffd2adf9c499678586aac12fc166f6dca45
+Section: Tweaks
+Description: Flex 用于 iOS 开发调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: FlexLoader
+
+Package: com.skypain.flexloader
+Version: 5.25.19-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 3080
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.skypain.flexloader_5.25.19-1_iphoneos-arm64e.deb
+Size: 935244
+MD5sum: 89aa6ba30709d7a5d33a4ecb6f5ff93c
+SHA1: 0d4942f3ed694998a5d7d524e7948b02c3d4e491
+SHA256: 6c70149fc1d8d3221e54b4eb73852632443abae1eed72e9e5ed9e1903eb53c68
+Section: Tweaks
+Description: Flex 用于 iOS 开发调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: FlexLoader
+
 Package: com.snail.easynotify
 Version: 1.0.0
 Architecture: iphoneos-arm64
