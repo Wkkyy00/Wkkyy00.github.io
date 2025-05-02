@@ -16419,6 +16419,23 @@ Author: XUUᶻ
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音助手
 
+Package: com.xx.xhshook
+Version: 1.1.6-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 4488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.6-3_iphoneos-arm64.deb
+Size: 1521516
+MD5sum: 2506352d4a7c5198d1a1e853c2ca4340
+SHA1: dd53f5b231f66a7458ea7b50ffba8df5d1831b97
+SHA256: e1c7bbf0589884215a26e9cd0fe0ed5321a1c33e6f3d89733cae7f417a92a320
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
+Author: x✨
+Icon: https://s1.imagehub.cc/images/2025/05/02/8d8474811dcf0b53c2a353639c522568.png
+Name: 小红薯
+
 Package: com.xybp888.lockbutton
 Version: 0.1-2
 Architecture: iphoneos-arm64
