@@ -15707,6 +15707,41 @@ Author: wkk
 Icon: https://axs66.github.io/repo/icon/kbapp.png
 Name: Add app below keyboard
 
+Package: com.wkk.kkkk
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kkkk_1.0_iphoneos-arm64.deb
+Size: 15312
+MD5sum: 6c2564596c7c582b88ff96dd61aa0e9e
+SHA1: 212c76d95e56abe902b9f9b05cd4caa1af9668a1
+SHA256: eb1a08597e65632b27223286f5baa23e9f4b80e49b084ea6e9978fa311dfa8ad
+Section: 一切美化的东西都是垃圾
+Description: snowboard开关 修改版 直装 需要扩展 源里有
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SnowBoard开关-闪电
+
+Package: com.wkk.kkkk
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kkkk_1.0_iphoneos-arm64e.deb
+Size: 16202
+MD5sum: da3a6e63bac9ab36f446aade4c795947
+SHA1: 7532faac51d574f4a6adf5bdd234233e7b0d4de8
+SHA256: 85ad6f8312e97abb70de8b15a0ee2071b90f6b15a642128371e19e0d5353aec8
+Section: 一切美化的东西都是垃圾
+Description: snowboard开关 修改版 直装 需要扩展 源里有
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SnowBoard开关-闪电
+
 Package: com.wkk.kongbao
 Version: 1.0
 Architecture: iphoneos-arm64
