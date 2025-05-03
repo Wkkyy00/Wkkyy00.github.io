@@ -16489,6 +16489,24 @@ Author: XUUᶻ
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音助手
 
+Package: com.xuuz.douyinhelper
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 1192
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.xuuz.douyinhelper_1.2-1_iphoneos-arm64.deb
+Size: 236708
+MD5sum: cea9bb2ae740df5199ecf594f675bde9
+SHA1: 1354726a420fd6cbb94275f24f5b264fd45b7359
+SHA256: 756d077df6d3b12977908f9eb394f24c808d610dbb2b4b1f5b4820f6bc2a4602
+Section: 抖音插件
+Priority: optional
+Description: 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音助手
+
 Package: com.xx.xhshook
 Version: 1.1.6-3
 Architecture: iphoneos-arm64
