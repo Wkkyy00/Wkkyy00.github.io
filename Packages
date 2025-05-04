@@ -8434,63 +8434,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: DYYY
 
 Package: com.huami.dyyy
-Version: 2.2-4-176
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.huami.dyyy_2.2-4-176_iphoneos-arm64.deb
-Size: 360644
-MD5sum: 4b24a5c5b5ae1e0bef4ce0f0dcecc132
-SHA1: ede5739093af3dde6a73589514e3b1680f8e8877
-SHA256: 715fa9f9d5822e965c363999fed8851f6d37b5a0450de808bcaac1fa50fa5758
-Section: 抖音插件
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.2-4-374
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.huami.dyyy_2.2-4-374_iphoneos-arm64.deb
-Size: 367564
-MD5sum: 546b87589ee0c4f7c1e5b9d902d3b6fd
-SHA1: ae8a7cf153d3d1d7c4d36a0f6d9c04026ab47264
-SHA256: dda55bf2b38852ed9972e261b531f85fea7742b0d20c5fd71141edb1216546dd
-Section: 抖音插件
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.2-4-382
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.huami.dyyy_2.2-4-382_iphoneos-arm64.deb
-Size: 369404
-MD5sum: 65b5a4457cb562713ecee28b2f8afc79
-SHA1: 36a7a208590e3600c84e1e7d543490dbcdede15a
-SHA256: cffa19786ec24241258154eef4da081ce537d7c59f76e7f4a4fd2f766260a70e
-Section: 抖音插件
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: DYYY
-
-Package: com.huami.dyyy
 Version: 2.2-5
 Architecture: iphoneos-arm64
 Maintainer: huami
