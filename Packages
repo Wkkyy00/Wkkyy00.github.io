@@ -10918,6 +10918,23 @@ Author: opa334
 Icon: https://s1.imagehub.cc/images/2025/03/26/73e0fae82d49e6067c6a8d358a4b6b6e.jpeg
 Name: TrollStore Lite
 
+Package: com.p2kdev.facebooknoads
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.facebooknoads_1.3_iphoneos-arm64.deb
+Size: 5436
+MD5sum: 73fddf790f2d67d40a69811e5e045214
+SHA1: 615a0febdcfbbd83a252b7e63ef58049f34bc729
+SHA256: 39ab8504c096af2b605b50baf715cabcc099396d0d3f7ef1638b46af839e64e0
+Section: 去广告
+Description: Facebook NoAds 去广告插件
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/facebook.png
+Name: FacebookNoAds
+
 Package: com.p2kdev.quitall
 Version: 1.0
 Architecture: iphoneos-arm64e
