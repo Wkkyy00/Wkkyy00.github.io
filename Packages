@@ -15001,6 +15001,22 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信头像旋转
 Sponsor: wkk
 
+Package: com.wkk.-1
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.-1_1.0_iphoneos-arm64.deb
+Size: 1284
+MD5sum: c37796aaa1cb99613a2e59e7e70e82ba
+SHA1: 958f0a132dbc24ee3dbcb96bc86f21ac3691d075
+SHA256: a95790517cc990fe9098dcd33edbcd1939aa15c55e2f08bad32f859f605e8b1b
+Section: 插件配置
+Description: 如果当前目录deb文件前是(1) (2) (3)... -1 -2 -3等，点一下脚本去除这些多余数字恢复原deb命名。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 清理deb后缀(自用)
+
 Package: com.wkk.12306hook
 Version: 1.0
 Architecture: iphoneos-arm64
