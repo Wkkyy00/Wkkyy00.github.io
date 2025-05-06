@@ -8733,6 +8733,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音魔术师
 
+Package: com.huami.dyyy.dao
+Version: 2.2-5-0507
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-5-0507_iphoneos-arm64e.deb
+Size: 1130942
+MD5sum: ff693436fda030cb9106056159f39309
+SHA1: 55af9cb1f5c56243962d9ada7f9004f9b75ac4e4
+SHA256: 1b1127014960c3715949f8edabba72bb9e07d8840336d3ec45107e20f9c27150
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy.dao
+Version: 2.2-5-0507
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1996
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-5-0507_iphoneos-arm64.deb
+Size: 405504
+MD5sum: 508a1a364eb425e2269f304a1bbb6562
+SHA1: c0ecc2f6127705b3b91e71df7f372918817754c1
+SHA256: 5ec5c86021780102b2a09219fee3b11709953bed3848e0dc2c3d04d8031d7ae3
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
 Package: com.huami.kbstyle
 Version: 1.0
 Architecture: iphoneos-arm
