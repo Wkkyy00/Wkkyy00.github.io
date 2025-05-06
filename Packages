@@ -7151,6 +7151,23 @@ Author: aReo
 Icon: https://s1.imagehub.cc/images/2025/04/22/fabb2dc7e24cafae87b8a5728e44bcc3.png
 Name: AppTools15-16(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2240
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_1.4.0_iphoneos-arm64e.deb
+Size: 563836
+MD5sum: f4b7d60eb3f8456d80fe30a8b9e32ae6
+SHA1: 82e93ccc5296ce56775e996f248ef984bb5be0d7
+SHA256: 65f81875604d17fde79ac63a6800f5a797420653075c7cd34d7d3c568d195fec
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Icon: https://s1.imagehub.cc/images/2025/04/22/fabb2dc7e24cafae87b8a5728e44bcc3.png
+Name: AppTools15-16(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 1.3.9
 Architecture: iphoneos-arm64
@@ -7162,6 +7179,23 @@ Size: 575492
 MD5sum: 6e5ce7c178d8126034fcd27853d6ef68
 SHA1: 21c8abb831d9400677072550d103e33e17f550fe
 SHA256: e75a92c01248f892e4ebcb31a5b79e63b336136e6da107ce2a71c710b1e53021
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Icon: https://s1.imagehub.cc/images/2025/04/22/fabb2dc7e24cafae87b8a5728e44bcc3.png
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2336
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_1.4.0_iphoneos-arm64.deb
+Size: 577920
+MD5sum: 2d6cf7fdee4e8fb52673825a49f19771
+SHA1: fa3d567c09c3111ab7e11db0d1a38ad21b781e39
+SHA256: 9a7a4282e58ddb7ebab6934516bd9913ce19a45ab02a8f3e4992a2a485762876
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
