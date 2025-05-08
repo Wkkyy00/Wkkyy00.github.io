@@ -13698,24 +13698,6 @@ Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
 Package: com.susu.springanimation
 Version: 1.0.4
-Architecture: iphoneos-arm64e
-Maintainer: 苏苏
-Installed-Size: 180
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.4_iphoneos-arm64e.deb
-Size: 13898
-MD5sum: 8b9731be9bae66a4b8d97938dc87132a
-SHA1: f9cbb212b9e83487f63541764737f3e49c3848d6
-SHA256: 8483a2f8130913fd69909b1618f36d0a84d8e7955153638cdb1c399ff23131b9
-Section: 插件
-Description: 桌面交互动画，激活联系QQ:2914115314($14.99软妹币)
-Author: 苏苏
-Icon: https://www.susubaby.top/images/springanimations.png
-Name: SpringAnimation
-
-Package: com.susu.springanimation
-Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 180
