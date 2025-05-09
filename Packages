@@ -18760,18 +18760,19 @@ Name: Cephei Tweak Support
 Support: https://hashbang.productions/support/
 
 Package: ws.hbang.newterm3
-Version: 3.0~beta1
-Architecture: iphoneos-arm64
+Version: 3.0~beta1-1042+debug
+Architecture: iphoneos-arm64e
 Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 14899
+Installed-Size: 31496
 Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
 Conflicts: ws.hbang.newterm, ws.hbang.newterm2
 Replaces: ws.hbang.newterm, ws.hbang.newterm2
-Filename: ./debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm64.deb
-Size: 3836124
-MD5sum: 1a45832058bb3d0cdf2ad36a0a81f82a
-SHA1: 8f2d36995a9faca9e527bbcb06a10571f8c1c08e
-SHA256: 6782c0f0a30efd3e7f1e888d4c453dda7f97318712d155ca7b3a110b09f70ff4
+Filename: ./debs/ws.hbang.newterm3_3.0~beta1-1042+debug_iphoneos-arm64e.deb
+Size: 5628144
+MD5sum: 4ea4c83478649ae8169cc7b2f59ba82c
+SHA1: 3577571c435f038c78f5555d6c6bd5fbd46921fa
+SHA256: ac909d1d2e806a26f0bc17e22d9ec95452baae87a1daf0349f530bda5345ad08
 Section: 应用程序
 Description: Powerful terminal app for iOS
 Tag: compatible_min::ios14.0
