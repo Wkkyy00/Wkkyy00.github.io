@@ -13696,6 +13696,43 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.reachplayer
+Version: 4.1.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 3200
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_4.1.0_iphoneos-arm64.deb
+Size: 1229926
+MD5sum: 5306a0dae3f0c160f9571cae84f752b4
+SHA1: 03c1b4aff67be8f33e867576bb6cb61cd2771370
+SHA256: 51dd52151efbda217bcb51a666679f8365780cbdd6861bbddf1279273c8127fa
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
+Package: com.susu.reachplayer
+Version: 4.1.0
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 3200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.susu.reachplayer_4.1.0_iphoneos-arm64e.deb
+Size: 2749634
+MD5sum: 3eeff0e4dd91a255053541ded2f9eeef
+SHA1: c6c903ad885edbee00d58c91ba90994eef9e92e0
+SHA256: a698d00b905eae6f7980803e173360fb54fd5f7dfd6ff870b8e40070e0339660
+Section: 插件
+Description: ReachPlayer便捷访问音乐专辑
+Author: 苏苏
+Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
+
 Package: com.susu.springanimation
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -17522,6 +17559,42 @@ Description: 隐藏状态栏一切vpn，支持无根隐根。（根据开源修�
 Author: Snoolie K&wkk
 Icon: https://s1.imagehub.cc/images/2025/02/27/b15bc0d82eb3578fcc1afab7a9d2b991.png
 Name: HideVPN
+
+Package: de.finngaida.daynightswitchs
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: de.finngaida.daynightswitch
+Filename: ./debs/de.finngaida.daynightswitchs_1.1_iphoneos-arm64.deb
+Size: 68484
+MD5sum: a1454437130bbec614a94fbb2e86118b
+SHA1: 905dd2248e383577160b46ca3a400095c86d3c4c
+SHA256: c69ad4c00af66f74510e7e004c6fb3de1543c43cda16eaac8ebafc0af46fb266
+Section: 插件
+Description: 为您的设置开关添加一些日月风格
+Author: Finn Gaida
+Icon: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/icon.png
+Name: DayNightSwitch
+
+Package: de.finngaida.daynightswitchs
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: de.finngaida.daynightswitch
+Filename: ./debs/de.finngaida.daynightswitchs_1.1_iphoneos-arm64e.deb
+Size: 66844
+MD5sum: a233ce5845f4ee7f3e73fb09922d40e0
+SHA1: 4023603cebff9633f1251b6c9396dfb903c87e1b
+SHA256: 1807e889a142da1ff1cb76d8a2b91cdd33f0a6948ea187ff6cb8a396b08dc8be
+Section: 插件
+Description: 为您的设置开关添加一些日月风格
+Author: Finn Gaida
+Icon: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/icon.png
+Name: DayNightSwitch
 
 Package: denyphotoalbumsllld.rootless
 Version: 9.9.9
