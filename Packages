@@ -950,6 +950,41 @@ Author: Alexandra Aurora Göttlicher
 Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
 Name: Kayoko
 
+Package: codes.aurora.kayoko
+Version: 2.9
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.9_iphoneos-arm64e.deb
+Size: 180948
+MD5sum: fa1995dd079213e5969abe51ecbfa012
+SHA1: 1bcb26bce8e0f86d12c9a2dbecff97d8a898543c
+SHA256: 02c0ae37b1737ea50f9df091d5be0b182fd87bc056870b4e64813329b7697fe5
+Section: 插件
+Description: 乌龙工作室修复维护支持ios16。剪贴板插件完全免费。上架备份。
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.9_iphoneos-arm64.deb
+Size: 128576
+MD5sum: 7dc3f0eaf6664ffd2ae7ac6af6ed6e3a
+SHA1: e5a57bbe99076dbbf0957e903fd0d0adac774833
+SHA256: d3f41849bf418e178919caab419617a1adc52a4a0cd82aeab428a19ff2cea660
+Section: 插件
+Description: 乌龙工作室修复维护支持ios16。剪贴板插件完全免费。上架备份。
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
+Name: Kayoko
+
 Package: com.0xkuj.ccadsbegone.rootless
 Version: 1.5
 Architecture: iphoneos-arm64
