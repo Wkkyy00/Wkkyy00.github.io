@@ -2159,22 +2159,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 黄白助手
 
 Package: com.HBWechatHelper.ailun
-Version: 1.8-5
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8-5_iphoneos-arm64.deb
-Size: 11193456
-MD5sum: aa908736cf8a4b7d1c811e731f5bfd76
-SHA1: 257be9e02aa3d6a846494f14fff3cb8b429f4da7
-SHA256: 5b7611fe496519c24848dc62d87b33a43541260d2c81b09e3bfdb3b274c9aae8
-Section: 微信插件
-Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 黄白助手
-
-Package: com.HBWechatHelper.ailun
 Version: 1.8.0
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
@@ -2248,6 +2232,22 @@ Size: 11155444
 MD5sum: 04113a7ce638e5bb87e42eae9b706726
 SHA1: 2b9b716aca7357673d901ce01716a145835b0cdd
 SHA256: 1b657687b356faff3a425d4f1824214a41cc12d33577b0642e7447dfda4577d0
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
+Package: com.HBWechatHelper.ailun
+Version: 1.8.5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.8.5_iphoneos-arm64.deb
+Size: 11192100
+MD5sum: b85ac437e1ccbc61b7f127199b594105
+SHA1: aabc88fec14304dff17c2f948aedd95c730e0460
+SHA256: 73b8ae4e240dd2ef0722205c76c0c553a165ddeb9c8450beb18d631e9f99117e
 Section: 微信插件
 Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
 Author: HuangBai <QQ:1343309363@qq.com>
