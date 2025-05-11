@@ -8214,6 +8214,24 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPluginsOrder
 
+Package: com.huami.WCPulse
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-1_iphoneos-arm64.deb
+Size: 28988
+MD5sum: 5a9e5e48550c07c35f81d539b27c47cc
+SHA1: 34caff85ad8f32e9dfd048dff4fa51dc449057e7
+SHA256: ed042ba5c1dfef0c884837cf9477aa1e88a8207b69e32437d912e12f163f70fd
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
 Package: com.huami.dyenablepanelmodernstyle
 Version: 1.1
 Architecture: iphoneos-arm64
