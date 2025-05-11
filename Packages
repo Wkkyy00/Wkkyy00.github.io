@@ -6363,6 +6363,23 @@ Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksett
 
 Package: com.curtin.pkc
 Version: 0.7-0
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-0_iphoneos-arm64e.deb
+Size: 2209142
+MD5sum: d40ebcd2570ee1574ed1822f5bb501fc
+SHA1: 17315dad37c4073d4cf1566b9f8014ebd74dc1eb
+SHA256: 64350cab0cae3aedd8f62d330b785f5dfa33ec6d5fda1c54f50fe9f8ff9046af
+Section: 微信插件
+Priority: optional
+Description: 学习交流。
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.7-0
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.curtin.pkc_0.7-0_iphoneos-arm64.deb
@@ -6394,6 +6411,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: PKC
 
 Package: com.curtin.pkc
+Version: 0.7-1
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-1_iphoneos-arm64e.deb
+Size: 2214180
+MD5sum: 975633382190ec3375d5f72abb7d95a9
+SHA1: 7783dcb0d01ffdcfa4868951a693776a691e51b5
+SHA256: cc706ddd212556f02461022ad4f6ed8534abc17dfffa4cdbc98c2532d98c96ad
+Section: 微信插件
+Priority: optional
+Description: 学习交流。
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: PKC
+
+Package: com.curtin.pkc
 Version: 0.7-2
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0)
@@ -6402,6 +6436,23 @@ Size: 819316
 MD5sum: e88196e497abbc27e552ebcde986ff96
 SHA1: af6792b254fc050f5c8a781a4c384a8df0b2906f
 SHA256: 9eef1f7e1b2d0b4114ef32ac68ea33dc93ff464822eb39393e7e1bebb01dc6ca
+Section: 微信插件
+Priority: optional
+Description: 学习交流。
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.7-2
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-2_iphoneos-arm64e.deb
+Size: 2216694
+MD5sum: 8680955c5ef6e05a99c1c22a2f7efc54
+SHA1: cfe774d16ea37081c95481b47edfdcc1411fe55f
+SHA256: 7e5a9e3421ee7d7b8c0aa7513cad2fb4cf00ceea313948922ea0e805230dfee2
 Section: 微信插件
 Priority: optional
 Description: 学习交流。
@@ -6424,6 +6475,56 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: PKC_无根
+
+Package: com.curtin.pkc
+Version: 0.7-3
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-3_iphoneos-arm64e.deb
+Size: 2252670
+MD5sum: 9aa1b11b3e6d012fe14a520bcf77513a
+SHA1: 2e0aa45e68d8be1d5cf9a7248d8e06726516feca
+SHA256: 48aaa36672799ac135d6d2a3288485b13ac3708085ad7cc7cf3670cb8819a28b
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: PKC_无根
+
+Package: com.curtin.pkc
+Version: 0.7-4
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-4_iphoneos-arm64.deb
+Size: 833680
+MD5sum: 2f77eacd34080e02c58719c82a939628
+SHA1: 1b3b12bc51c432e1706e20539537ac40de3cb1b5
+SHA256: 6c7372d4b0b42af346b09d78c2126620c33a46c9e139c67d659a61f5429e2d40
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.7-4
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-4_iphoneos-arm64e.deb
+Size: 2255748
+MD5sum: e6dd83753f6dc936a2af528492bc8bc7
+SHA1: 8a5fbdf15b6dc2c533f3ee6720068e2fa291930a
+SHA256: 4cdbe9628de880d21b9446e9f5bc44caaeb769ebe34f987d25e92f828d2abdc3
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: PKC
 
 Package: com.cydiageek.gyration
 Version: 1.1.5
