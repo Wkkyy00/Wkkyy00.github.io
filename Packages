@@ -8250,6 +8250,62 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCPulse
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
 
+Package: com.huami.WCPulse
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-1_iphoneos-arm64e.deb
+Size: 39608
+MD5sum: 90971499ebe8ad49602027d63f6195bf
+SHA1: 4bb66cc2dd85544bb5163438ebb3a9463727de42
+SHA256: 79ee207abab6dab5339bc91396f4d6f3ce32702b1aef12aa7e5fc546d17708fe
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-3_iphoneos-arm64e.deb
+Size: 55100
+MD5sum: d6741353a83551968eb324762ad5585a
+SHA1: 0c1d1563b6e4ab5e98bae871f6ee08987289f4c3
+SHA256: 35203bc7570718664b7e238903d5d0401d85801902e2b0505cf3c2cf6bd9a9a3
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-3_iphoneos-arm64.deb
+Size: 39912
+MD5sum: ec74bf755ba3e79b665e418bb55f956a
+SHA1: 4696f9aa2631ae498418d8e9cd85265572457cec
+SHA256: 6f5e9a129da146b6d048e8bd0677c6511990bd4a3573681e55b076e41ca5fd70
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
 Package: com.huami.dyenablepanelmodernstyle
 Version: 1.1
 Architecture: iphoneos-arm64
