@@ -409,6 +409,24 @@ Name: FixSet
 
 Package: cn.fuckwechatadblocker
 Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: null
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.fuckwechatadblocker_0.0.1-2+debug_iphoneos-arm64e.deb
+Size: 22730
+MD5sum: 970b8b77aea90a0db7fa32e4182101eb
+SHA1: 5dad79f783d8cdabd42f26a38839afad233a1ace
+SHA256: 3009695418c3a402cb772ad473cc07522eb38046e6829f5f03576b03e8ccd244
+Section: 微信插件
+Description: 微信去广告。FuckWeChatAd.dylib的打包版本。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: FuckWeChatAdBlocker
+
+Package: cn.fuckwechatadblocker
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Maintainer: null
 Installed-Size: 104
@@ -15148,6 +15166,43 @@ Size: 23328
 MD5sum: e9265efa24dbdacb5a27be52b0e3ffef
 SHA1: dc93ef56a3c9c2d287a6b35cf3577890f2c5d142
 SHA256: 14cb309668a8664e6695cb669a187fb0d5df67bbe61c1d9b6f4a8e820f3ec431
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信消息直达
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wechat-push-msg-page_0.0.4_iphoneos-arm64e.deb
+Size: 31058
+MD5sum: e354737be9b0e7535e7e7635812aea41
+SHA1: 699c777ef975047fbce31e0b3cd1ecc5d50d0372
+SHA256: 9e048ad9ebd6ee70802d0c1dcba8b000587e7ee2fcd2953bc1a07030d6f66896
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信消息直达
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wechat-push-msg-page_0.0.4_iphoneos-arm64.deb
+Size: 23448
+MD5sum: 9ebe4b093455abb17e64036509556706
+SHA1: a8b89fa1f8b707bc166fd4e94b4975e45c0ad244
+SHA256: e610a1ad44b085a4c91d97e0d859dad31aac386fece6101ed526ca272c8823cb
 Section: 微信插件
 Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
 Author: be-huge
