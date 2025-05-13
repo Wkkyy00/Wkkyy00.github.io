@@ -14809,11 +14809,11 @@ Architecture: iphoneos-arm64
 Maintainer: WeChat
 Installed-Size: 6132
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.tencent.themebox_2.0.deb
-Size: 3969948
-MD5sum: 5362d3c7c47bca411ceaa3a4c637bfcb
-SHA1: 84c2b79bf599319b179ef2067bce9890e572575b
-SHA256: ff25f3e5737bad63e922dba03c43e0755d4ac372d3881d77475f83120eacba45
+Filename: ./debs/com.tencent.themebox_2.0.6-1_iphoneos-arm64.deb
+Size: 3970644
+MD5sum: 69893eecd758c139f33f9677a8b632b0
+SHA1: 491575829d80ee09fb8be9828e682bda23e57199
+SHA256: 879d79720ea7c799922ffd116bb0bb24a22201ea31c24bdd464bfeb26312dc8e
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
