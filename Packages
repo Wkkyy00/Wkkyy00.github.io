@@ -17589,42 +17589,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画1.0
 
-Package: com.xuuz.douyinhelper
-Version: 1.2-0
-Architecture: iphoneos-arm64
-Maintainer: XUUᶻ
-Installed-Size: 1192
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.xuuz.douyinhelper_1.2-0_iphoneos-arm64.deb
-Size: 236056
-MD5sum: f63334810b557ef4d9689f0b3e694ac0
-SHA1: a8ce28a7c53af60f1fb6ee8c6699ad583bc47a53
-SHA256: a789f8c019d5e673221f1f5b490e1ed88526b16c5c6c4cfc052a0349c275110b
-Section: 抖音插件
-Priority: optional
-Description: 双指长按或设置页面调出
-Author: XUUᶻ
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音助手
-
-Package: com.xuuz.douyinhelper
-Version: 1.2-1
-Architecture: iphoneos-arm64
-Maintainer: XUUᶻ
-Installed-Size: 1192
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.xuuz.douyinhelper_1.2-1_iphoneos-arm64.deb
-Size: 236708
-MD5sum: cea9bb2ae740df5199ecf594f675bde9
-SHA1: 1354726a420fd6cbb94275f24f5b264fd45b7359
-SHA256: 756d077df6d3b12977908f9eb394f24c808d610dbb2b4b1f5b4820f6bc2a4602
-Section: 抖音插件
-Priority: optional
-Description: 双指长按或设置页面调出
-Author: XUUᶻ
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音助手
-
 Package: com.xx.xhshook
 Version: 1.1.6-3
 Architecture: iphoneos-arm64e
