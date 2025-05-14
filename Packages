@@ -7515,22 +7515,37 @@ Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.
 Name: Snapper3 美化（2）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
 
-Package: com.gamegod.igg.rootless
+Package: com.gamegod.igg.roothide
 Version: 0.4.5
+Architecture: iphoneos-arm64e
+Maintainer: iGameGod
+Installed-Size: 100412
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gamegod.igg.roothide_0.4.5_iphoneos-arm64e.deb
+Size: 17907010
+MD5sum: a9516e1f4f8827daac4ec0fc4a4f836a
+SHA1: 2ae7ec60eaf06018299bd6e49800194ff98f5f53
+SHA256: fd8b24fc89f3192fe7e36d6e43cb37e6f62984a5d2845e335cafdcf512a4e182
+Section: Utilities
+Description: Be the god of your games!
+Author: iGameGod
+Name: iGameGod Roothide
+
+Package: com.gamegod.igg.rootless
+Version: 0.4.6
 Architecture: iphoneos-arm64
 Maintainer: iGameGod
 Installed-Size: 100096
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.gamegod.igg.rootless_0.4.5_iphoneos-arm64.deb
-Size: 21922948
-MD5sum: 2faa2ba0daf5df154416bf19be20a8f8
-SHA1: c58d7ed5261536c25cfcdb5ed9380363cdb6b181
-SHA256: 89616f6ee3ca3ca2863c1e8eeeeffb49c0245f3666ae537ca33e16c21f6bbba1
-Section: 插件
-Description: 神器。只支持无根。
+Depends: mobilesubstrate (>= 0.9.5000), ldid, fakeroot, odcctools
+Filename: ./debs/com.gamegod.igg.rootless_0.4.6_iphoneos-arm64.deb
+Size: 17947930
+MD5sum: b2a843df9e90c78fc0249f6757cc41e2
+SHA1: 82289f41183e94634235880b74720030fb8a65ed
+SHA256: 78337cadc62f8de0b694152f55f197c39ed11f91c6bd09c826780069cbd23496
+Section: Utilities
+Description: Be the god of your games!
 Author: iGameGod
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: iGameGod
+Name: iGameGod Rootless
 
 Package: com.gesturesxv
 Version: 1.6.1
