@@ -2643,23 +2643,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音清除点赞
 Sponsor: wkk
 
-Package: com.awemedownloadmedia
-Version: 1.1-8
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 456
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.awemedownloadmedia_1.1-8_iphoneos-arm64.deb
-Size: 146812
-MD5sum: 2be36eb9deff2001f58e60248b89a35f
-SHA1: cbbe4fd8adbc2020fb65339ec53023087387d1b7
-SHA256: bc34e8ed3523f971f989b208cb33eea17a37294d0133b6b2bef64f3ed3bbd216
-Section: 抖音插件
-Description: 抖音视频无水印下载，插件设置入口位于设置内，开启后在分享按钮下方有一个下载按钮，测试版本：32.9.0
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: AwemeDownloadMedia
-
 Package: com.awemefullscreen
 Version: 1.2-6
 Architecture: iphoneos-arm64
@@ -10973,23 +10956,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
 Name: AutoFaceUnlock
 
-Package: com.netskao.awemenoads
-Version: 1.1-3
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 140
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.awemenoads_1.1-3_iphoneos-arm64.deb
-Size: 32744
-MD5sum: ce37c1c328816a428a567a2e7735afda
-SHA1: e7f10228c8fd2dc5d95e510a3c207d3cd0613780
-SHA256: a2c58356c79e52dd7faa0d7b7e12a98480d55e01fb6ec20110ff72814c9eac4d
-Section: 抖音插件
-Description: 去除视频流广告，去除启动广告，去除每日青少年提示，小程序跳过广告，单独开关控制，内存清理功能，单独开关控制，由Netskao制作，网友付费定制插件。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: AwemeNoAds
-
 Package: com.netskao.dumpdecrypter
 Version: 1.5-1
 Architecture: iphoneos-arm64e
@@ -14069,24 +14035,6 @@ Author: Polyphian, Vincent
 Icon: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/Icon.png
 Name: Depths
 Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/js.json
-
-Package: com.vita.awemespeedx
-Version: 0.1-1-3
-Architecture: iphoneos-arm64
-Maintainer: vita
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.vita.awemespeedx_0.1-1-3_iphoneos-arm64.deb
-Size: 30312
-MD5sum: 3348ceeef6a385e27f1e7110015d2081
-SHA1: 679d244ef91adc909060506b4bf700448051f2e2
-SHA256: e38eb0b35a3b0119ee1d8021cdabc947433c8fcd96771ab9f8fcf86758d10ecd
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流，请在 24 小时内自觉删除。（添加一个快捷倍速按钮）
-Author: vita
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: AwemeSpeedX
 
 Package: com.waqt
 Version: 1.4
