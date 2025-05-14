@@ -2275,6 +2275,39 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
+Package: com.Purifyads
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.Purifyads_1.0_iphoneos-arm64.deb
+Size: 5244
+MD5sum: e642e1a44ebf2f55f5f082b459d21c6c
+SHA1: 2f93771ea43218e5d41a8a10688de2afd511f3cd
+SHA256: 996a4a67ce7ada5c167acb007a60bb8d63f7120de642c70e0a737f4d4105f2c5
+Section: 微信插件
+Description: 31/33版本去广告的友好版本。（只针对这俩版本）
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: Purifyads
+
+Package: com.Purifyads
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: null
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.Purifyads_1.0_iphoneos-arm64e.deb
+Size: 6618
+MD5sum: 968e73a3659f79e28830db6324ac5241
+SHA1: 5b75cc3702370cdcda73aa9e71ab8dd45290da7f
+SHA256: d08b2744ce107c8132b283aa80707d28033b58965a84f7cf3b21e83665759f95
+Section: 微信插件
+Description: 31/33版本去广告的友好版本。（只针对这俩版本）
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: Purifyads
+
 Package: com.Wes.ExplosiveIcons
 Version: 1.1.1
 Architecture: iphoneos-arm64
