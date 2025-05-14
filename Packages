@@ -8394,6 +8394,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCPulse
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
 
+Package: com.huami.WCPulse
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-5_iphoneos-arm64.deb
+Size: 51120
+MD5sum: b001957b339e8ec9311dc013a9e406c5
+SHA1: 2f446b974255375e1b29c59c121d40840461cc75
+SHA256: 14bb2f37483baa3988769538006a94a18b5a57a2811740827396f7f773f10df2
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.0-5
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-5_iphoneos-arm64e.deb
+Size: 71096
+MD5sum: 9990f3503ee14aa6ffaae7888fc8149f
+SHA1: a2ad1697cbfbefd9891219b50f0d53c4d7532357
+SHA256: 64b67b4e03df620d510d5f01c2d558d3ec995cb03a7c966154b3ba4867878275
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
 Package: com.huami.dyenablepanelmodernstyle
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -9357,6 +9394,41 @@ Size: 1157738
 MD5sum: 8843c723a072ec40f3b49dfff21e55bc
 SHA1: d2caecc73889ed4644f40426b5efe7df85fc085d
 SHA256: 0e884bc780a1f9f82af8afd6bc7d74a45ee735749c235c290f5ab4d24bc9efc4
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy.dao
+Version: 2.2-7-0514
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-7-0514_iphoneos-arm64e.deb
+Size: 1143526
+MD5sum: ff22c9b00b7dad4b8cac3537c7883686
+SHA1: f528aa8c0170e234c3df07cd58680416fb5a8cb1
+SHA256: 2fb9ddbc2ad274ddcb34bcc54a508b92cc3b6467476fc0da4ea6e6d5333f2334
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy.dao
+Version: 2.2-7-0514
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1996
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-7-0514_iphoneos-arm64.deb
+Size: 423604
+MD5sum: 1d8e98a09b5e35e609820bf38d0a376e
+SHA1: e09bb6afe17f2576868ab7bfb8260dddf22b04a9
+SHA256: 9bb5a0f4ce14ff2eef19c1275539056c89d6f3bb255d66a4738bbd2dbe14f9c5
 Section: 抖音插件
 Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
