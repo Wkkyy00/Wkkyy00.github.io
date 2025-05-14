@@ -2058,54 +2058,6 @@ Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/01/24/a9cc7431956ac6dec7d92f7d9260cc64.png
 Name: 语音转文字免跳转
 
-Package: com.BeanbunsHelpers.DB
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: Beanbuns
-Depends: mobilesubstrate
-Filename: ./debs/com.BeanbunsHelpers.DB_1.0-2_iphoneos-arm64.deb
-Size: 424160
-MD5sum: dffdb9cf66c749386de3824d2713c4c9
-SHA1: a9d341d712d8009a37f96c018772d4fac9fd0c3b
-SHA256: 1479ff4bb85f7949835247ada10dc7e878e395a846ccb85455c8517699ddb4ef
-Section: 抖音插件
-Description: 挺不错的，设置入口在抖音设置内，测试版本：33.0.0
-Author: Beanbuns
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音豆包助手
-
-Package: com.BeanbunsHelpers.DB
-Version: 1.0-3
-Architecture: iphoneos-arm64
-Maintainer: Beanbuns
-Depends: mobilesubstrate
-Filename: ./debs/com.BeanbunsHelpers.DB_1.0-3_iphoneos-arm64.deb
-Size: 456972
-MD5sum: 43d6e478865774e1e40853f405f61a4a
-SHA1: 2a8caa9071a54489a7fa13ff9afbc6d4502a2424
-SHA256: 7c8a68e752ec1c87a174ab9aabe65f2dc29e71d720f8f98ff5d63fc546f0e509
-Section: 抖音插件
-Description: 仅供学习交流，设置入口在抖音设置内，测试版本：33.0.0
-Author: Beanbuns
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音豆包助手
-
-Package: com.BeanbunsHelpers.DB
-Version: 1.0-4
-Architecture: iphoneos-arm64
-Maintainer: Beanbuns
-Depends: mobilesubstrate
-Filename: ./debs/com.BeanbunsHelpers.DB_1.0-4_iphoneos-arm64.deb
-Size: 639220
-MD5sum: d8f90c38e249b7a496b5f6e6c03e9fae
-SHA1: 0668dabd524c7ea889cc746e86984658732a3b71
-SHA256: f9007d92e2cc8bad448d7d3103171c57c7595f87ffea024e60f0b8de39b521fd
-Section: 抖音插件
-Description: 仅供学习交流，设置入口在抖音设置内，测试版本：33.0.0
-Author: Beanbuns
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音豆包助手
-
 Package: com.Doki.kbstyle
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -2691,23 +2643,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音清除点赞
 Sponsor: wkk
 
-Package: com.awemedisablebar
-Version: 1.1-6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 708
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/com.awemedisablebar_1.1-6_iphoneos-arm64.deb
-Size: 304856
-MD5sum: 2b8c3f1b18dd99c8eef48ebc5c706b93
-SHA1: 3a4873c9da1214c70dff2ed1f49d36bd85039f3b
-SHA256: 1ee3b837185b6efc025dbde0772f422cb2bc3591cc498e469958daa83287983d
-Section: 抖音插件
-Description: 抖音禁用底部朋友，+号，消息，禁用首页顶部，禁用视频右侧按钮，插件设置入口位于设置内，测试版本：32.9.0
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: AwemeDisableBar
-
 Package: com.awemedownloadmedia
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -2726,24 +2661,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: AwemeDownloadMedia
 
 Package: com.awemefullscreen
-Version: 1.2-3
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 384
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/com.awemefullscreen_1.2-3_iphoneos-arm64.deb
-Size: 161464
-MD5sum: 2e618b6c3b6ead1a2b6d69abab091947
-SHA1: 66a468f1262d5aded1fda50a5c4a721d16583f17
-SHA256: d7a58daf8369a5e7ed4d5966d026e873a10eda219a5ad83d40428f70351aed1d
-Section: 抖音插件
-Description: 测试版本32.4.0，插件设置位于抖音设置内：AwemeFullScreen
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音全屏
-Sponsor: wkk
-
-Package: com.awemefullscreen
 Version: 1.2-6
 Architecture: iphoneos-arm64
 Maintainer: wkk
@@ -2760,23 +2677,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音全屏
 Sponsor: wkk
-
-Package: com.awemevideotime
-Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 124
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.awemevideotime_1.1-2_iphoneos-arm64.deb
-Size: 31692
-MD5sum: 2047d51607b275b15b134258f284079c
-SHA1: d3f910dacd50ed4b2847a753a41459f193267849
-SHA256: af267aa28e38e2fd6438a54cb3ec897699922b915aaae8ae5975e4d247550664
-Section: 抖音插件
-Description: 抖音视频显示精准时长，插件入口位于设置内，测试版本：32.9.0。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: AwemeVideoTime
 
 Package: com.axon
 Version: 1.5.5
@@ -5766,76 +5666,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/dfd2f1f3615c35fe920fb6a4415e46fb.
 Name: BetterCCBrightness
 Sponsor: wkk
 
-Package: com.bhtwitter
-Version: 4.3-6
-Architecture: iphoneos-arm64e
-Maintainer: Bandar Alruwaili
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: ./debs/com.bhtwitter_4.3-6_iphoneos-arm64e.deb
-Size: 21405578
-MD5sum: 4f0f18703d49c6001266ba200ef00df0
-SHA1: a431fbd4edb3498eda9ebd507372d840b8391de2
-SHA256: c9d859ed21649c983432ac6d8c738ba0ff42e1aab0160a0b785d7f8fb7081efd
-Section: 去广告
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。测试版本：10.79.2，只能说牛逼puls！
-Author: Bandar Alruwaili
-Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
-Name: BHTwitter中文版
-
-Package: com.bhtwitter
-Version: 4.3-6
-Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: ./debs/com.bhtwitter_4.3-6_iphoneos-arm64.deb
-Size: 7614088
-MD5sum: 881366d8aee156028b80472a0880a2a3
-SHA1: 0e5e22a9637d8ae3ecc6688dbc460fca24689e76
-SHA256: 8b1d331247d192f0e00d719a49b56b4f24dd7fad8e6f89cac75f7cefe79b38b4
-Section: 去广告
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。测试版本：10.79.2，只能说牛逼puls！
-Author: Bandar Alruwaili
-Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
-Name: BHTwitter中文版
-
-Package: com.bhtwitter
-Version: 4.4-1
-Architecture: iphoneos-arm64e
-Maintainer: Bandar Alruwaili
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: ./debs/com.bhtwitter_4.4-1_iphoneos-arm64e.deb
-Size: 21411186
-MD5sum: 9155684a1b60d794bd49fc8c51ae8642
-SHA1: 78c83b566846a260287ec520a7ab3ef188a7b806
-SHA256: c3973c98605f733aa8e9016f7bc89f7e0504f0066ae0b8dd1da613686732b8d8
-Section: 去广告
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。测试版本：10.79.2，只能说牛逼puls！
-Author: Bandar Alruwaili
-Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
-Name: BHTwitter中文版
-
-Package: com.bhtwitter
-Version: 4.4-1
-Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: ./debs/com.bhtwitter_4.4-1_iphoneos-arm64.deb
-Size: 7610548
-MD5sum: 53d6cc410f9e22cd3ca1682cc798aadd
-SHA1: 6da3f1e27c4d25efd8dac6b32f2c8338df31f32a
-SHA256: 1f4b46d9f5dc4eff2a306c09c7f0cddee3a2ba2f5e190d3c56a955144735748a
-Section: 去广告
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。测试版本：10.79.2，只能说牛逼puls！
-Author: Bandar Alruwaili
-Icon: https://s1.imagehub.cc/images/2025/02/09/15e5b2e9f1900f0a552c3a3ec2009829.png
-Name: BHTwitter中文版
-
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -5870,23 +5700,6 @@ Description: 在注销前是解锁状态的情况下，注销后自动跳过人�
 Author: Brend0n <brendonjkding@126.com>
 Icon: https://s1.imagehub.cc/images/2025/01/02/53548d6f3c3bff8e8d38f4ca63b36e2f.png
 Name: NoPassAfterRespring
-
-Package: com.c00kiec00k.fuckgif
-Version: 1.0.0-2+debug
-Architecture: iphoneos-arm64
-Maintainer: c00kiec00k
-Installed-Size: 236
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/com.c00kiec00k.fuckgif_1.0.0-2+debug_iphoneos-arm64.deb
-Size: 19804
-MD5sum: d5f036546a8c3bad251e0f256db0d789
-SHA1: f8d77e99ba2e60c385ba6bff08edaa01948816f2
-SHA256: bf03fc34cfe23e9fbc1c58dc59b815798b580adf047b16b2803fddf78376cdb9
-Section: 抖音插件
-Description: 自动保存抖音表情包到相册。
-Author: c00kiec00k
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: FuckGif
 
 Package: com.cameronkatri.quickactions
 Version: 1.0.0-2
@@ -8430,23 +8243,6 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
-
-Package: com.huami.dyenablepanelmodernstyle
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.huami.dyenablepanelmodernstyle_1.1_iphoneos-arm64.deb
-Size: 3512
-MD5sum: 8cd1491b6f0b4c650352f2be8e5bf81f
-SHA1: ec146b8df6fa8422a1935f19127e3f7e02b0ede8
-SHA256: 29f8150f6317ef406cbd1d309a86af4fe4db55e7a48da81b1da3c038b0adc5f8
-Section: 抖音插件
-Description: 强制启用新版抖音长按 UI（现代风）
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: DYEnablePanelModernStyle
 
 Package: com.huami.dyyy
 Version: 1.9
@@ -11203,23 +10999,6 @@ Description: 面容识别成功自动解锁无需滑动，原生函数更为节�
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
 Name: AutoFaceUnlock
-
-Package: com.netskao.awemefullscreen
-Version: 1.2-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 400
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/com.netskao.awemefullscreen_1.2-5_iphoneos-arm64.deb
-Size: 165148
-MD5sum: 5ec2b03222513429e12bd4fc2b041170
-SHA1: a7d9b15c169b78de8b4d0afccc08c9c272ddc698
-SHA256: e2f29ab8dde736a23227d1c95ed8e3be560bb2e436664d50b2a1be40f1c77ee5
-Section: 抖音插件
-Description: 抖音主页全屏播放，测试版本：31.9.0
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: AwemeFullScreen
 
 Package: com.netskao.awemenoads
 Version: 1.1-3
