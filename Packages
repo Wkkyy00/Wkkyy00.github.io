@@ -2676,24 +2676,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音清除点赞
 Sponsor: wkk
 
-Package: com.awemefullscreen
-Version: 1.2-6
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 384
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/com.awemefullscreen_1.2-6_iphoneos-arm64.deb
-Size: 167580
-MD5sum: 48794a89b127eaef72104e0a6572844d
-SHA1: ddefdee3ec5c4ec697a72bcf4282a021b3190c49
-SHA256: ff9e571479af326982ec6eb423a131d52f365c0ea428034f9aab5b432dafa5cc
-Section: 抖音插件
-Description: 测试版本32.4.0，插件设置位于抖音设置内：AwemeFullScreen
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: 抖音全屏
-Sponsor: wkk
-
 Package: com.axon
 Version: 1.5.5
 Architecture: iphoneos-arm64e
