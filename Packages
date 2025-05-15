@@ -11583,6 +11583,41 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/06/94cb0d60b93edaf171b34044f9b754ab.png
 Name: TwitterNoAds
 
+Package: com.p2kdev.twitternoads
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.2.6_iphoneos-arm64.deb
+Size: 8176
+MD5sum: 6fd1c175b8aae7ced0f118cf02bb0a6b
+SHA1: 452b34ddc7da46827b66c2ec2c3fa98ab3f36c3e
+SHA256: 5811aa18c6de1379cbe492c553c7ad8e9db0a73b1ce1ef54e7c9900e9c489bc5
+Section: 去广告
+Description: 去除X广告。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/06/94cb0d60b93edaf171b34044f9b754ab.png
+Name: TwitterNoAds
+
+Package: com.p2kdev.twitternoads
+Version: 1.2.6
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.2.6_iphoneos-arm64e.deb
+Size: 10760
+MD5sum: be41c2733c43e335f815b0c40c620fcd
+SHA1: 936143c2c5bc2c50751539c00f176e9363fe79a9
+SHA256: d51cc7a8a9087aec698ce989083cfedbc28ca818a77342d05be8a252a2af392b
+Section: 去广告
+Description: 去除X广告。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/06/94cb0d60b93edaf171b34044f9b754ab.png
+Name: TwitterNoAds
+
 Package: com.pancake
 Version: 2.2
 Architecture: iphoneos-arm64e
