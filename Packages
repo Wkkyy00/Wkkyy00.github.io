@@ -2007,6 +2007,25 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
 Name: 移除小部件背景
 
+Package: com.82flex.removewidgetbgs
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Conflicts: com.82flex.removewidgetbg
+Filename: ./debs/com.82flex.removewidgetbgs_1.7_iphoneos-arm64e.deb
+Size: 36938
+MD5sum: ea6fbf110fd8ecd92d6184b629a60063
+SHA1: cc0f541f5182ddad1dc499162f5552c887d9102d
+SHA256: 67745d7e9a9d2bc28e11c6d1b51f84b53a7082483aa15e07658702485aa6ab03
+Section: 插件
+Description: 小组件的背景透明。上架备份。
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
+Name: 移除小部件背景
+
 Package: com.82flex.singlemute
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -15928,6 +15947,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 微信输入法皮肤（自用备份）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/weixxinsrf.json
+
+Package: com.wkk.wyyhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.wyyhook_1.0_iphoneos-arm64e.deb
+Size: 30912
+MD5sum: 0b0a129bb466353cb99f9d5e9538fd9d
+SHA1: 40c899bfa5ddcf286a090f74d6290a0298c98950
+SHA256: 408c31fe6d48e75b91a9ecd39bd0df083d6eb40d98c36cab98fa1eca21e05413
+Section: 去广告
+Description: 9.3.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
+Name: 网易云音乐NoAds
+
+Package: com.wkk.wyyhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.wyyhook_1.0_iphoneos-arm64.deb
+Size: 23868
+MD5sum: f9fe45fd688a73ed8ec48c96fb3124f2
+SHA1: 62f1582067c9f4e59fbbb0f6a809321c5621fffd
+SHA256: cadf10d01c84e677fbd816678d68454f64f1c370f4d8cad86e0333c42a6c16d6
+Section: 去广告
+Description: 9.3.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
+Name: 网易云音乐NoAds
 
 Package: com.wkk.wyyxhook
 Version: 1.0
