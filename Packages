@@ -5541,6 +5541,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.tie-gesture_1.0.0_iphoneos-arm64.deb
+Size: 102168
+MD5sum: c8294b1fbdc3006e65263df2c96e3f43
+SHA1: 59c4bc0c1c20c79bae52b7a02df7503dc18e5fa0
+SHA256: 6fc121976450ef917fbbd49d915b788f389b8e2d852c03381b2a70502947448b
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/05/18/75441c9cdb4f9d4e3d979909d2a8a6f1.png
+Name: TieGesture
+
+Package: com.be-huge.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 672
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.tie-gesture_1.0.0_iphoneos-arm64e.deb
+Size: 132184
+MD5sum: 1118a546f2d0e3786934d4267d725044
+SHA1: 5fb7f034b91952b5ab2e0b0b15347a716d493106
+SHA256: dee307d98953219220ff93ecee1de00477233903cf6d39ec26e2800c78423792
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/05/18/75441c9cdb4f9d4e3d979909d2a8a6f1.png
+Name: TieGesture
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64e
