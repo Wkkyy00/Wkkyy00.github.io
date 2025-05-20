@@ -7205,6 +7205,57 @@ Author: DumpApp
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 锤子助手
 
+Package: com.dvntm.fbo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.fbo_0.0.1_iphoneos-arm.deb
+Size: 3280
+MD5sum: ab3d1b47b5dd8ff6450b93f1434d4a73
+SHA1: 3043864c1cb260214c948aa0c22c8d703f291564
+SHA256: ba1941d29c429b31ac86fc75d06684d9fa969c0c004932dcb6dfca3b031072a0
+Section: Tweaks
+Description: 隐藏自带文件App的底部最近/共享。
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/05/20/4bd06b9a5e82a6f8d920bec3feb93c13.jpeg
+Name: FilesBrowsingOnly
+
+Package: com.dvntm.fbo
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.fbo_0.0.1_iphoneos-arm64.deb
+Size: 3348
+MD5sum: 7be5b65e8d874011c8b8d40b2cde9384
+SHA1: c7394a8a1bae8545d297e76f0ae3bf1ebbf42940
+SHA256: dde07abd91857b6ea560804d2e0d41471b2b1a80c388a1d86d2cd71f2655acfa
+Section: Tweaks
+Description: 隐藏自带文件App的底部最近/共享。
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/05/20/4bd06b9a5e82a6f8d920bec3feb93c13.jpeg
+Name: FilesBrowsingOnly
+
+Package: com.dvntm.fbo
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.fbo_0.0.1_iphoneos-arm64e.deb
+Size: 3288
+MD5sum: 2eb7792581ad30386ff9b4516fee9e28
+SHA1: 415ef1628036e46d9e6bb10631f0b0b67dedce29
+SHA256: 146bea110837b8e3631797fbddd42bed869149e7766370380821cb4c1c11604d
+Section: Tweaks
+Description: 隐藏自带文件App的底部最近/共享。
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/05/20/4bd06b9a5e82a6f8d920bec3feb93c13.jpeg
+Name: FilesBrowsingOnly
+
 Package: com.dvntm.silentnotifs
 Version: 0.0.2
 Architecture: iphoneos-arm64e
