@@ -6646,16 +6646,15 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.5
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 178
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64e-2.deb
-Size: 6354
-MD5sum: 97237439a65db4d77421e33d688fe80a
-SHA1: 83b3df2a72e13cffece87e410aad99564940333b
-SHA256: e27f1e333173f28d599e86893662ab630d93675e0b016bb361576cf83ebcfb31
+Filename: ./debs/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64.deb
+Size: 4912
+MD5sum: 45750f89f8697228f7d193c2d7ccae69
+SHA1: 14d93caca863ef7b570ebbd5ec7255523adf3507
+SHA256: 338242dc4d90c10d94b8f3c2537f233b15c45dbc7b60dadb2f0d19588d4c9d66
 Section: 插件
 Priority: optional
 Description: 为通知增加更多的行，显示更多的通知！
@@ -6667,15 +6666,16 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 178
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64.deb
-Size: 4912
-MD5sum: 45750f89f8697228f7d193c2d7ccae69
-SHA1: 14d93caca863ef7b570ebbd5ec7255523adf3507
-SHA256: 338242dc4d90c10d94b8f3c2537f233b15c45dbc7b60dadb2f0d19588d4c9d66
+Filename: ./debs/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64e.deb
+Size: 6354
+MD5sum: 97237439a65db4d77421e33d688fe80a
+SHA1: 83b3df2a72e13cffece87e410aad99564940333b
+SHA256: e27f1e333173f28d599e86893662ab630d93675e0b016bb361576cf83ebcfb31
 Section: 插件
 Priority: optional
 Description: 为通知增加更多的行，显示更多的通知！
@@ -9542,16 +9542,34 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: 抖音魔术师
 
 Package: com.huami.dyyy.dao
-Version: 2.2-7-0520
+Version: 2.2-7-0521
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-7-0521_iphoneos-arm64e.deb
+Size: 1298436
+MD5sum: 4be539e349f9e038b19d61dcb6d4c4af
+SHA1: 06d4b7aa8bb01bc118b88432de6ba4c235f0763d
+SHA256: 3095829f38d1a190dbe6f64c7e60bfdec61dcae97206bfba773108de21cfd95e
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy.dao
+Version: 2.2-7-0521
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 1996
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.huami.dyyy.dao_2.2-7-0520_iphoneos-arm64.deb
-Size: 460300
-MD5sum: 775b130a0c8c9c89fe3fe509cc67904e
-SHA1: 9cb6447397073f149358fb6824e103b73f19dd3b
-SHA256: c9f2f2ed3b2d23a98ac680144bce0816f230c06cc8d6a976e4672c88f766897d
+Filename: ./debs/com.huami.dyyy.dao_2.2-7-0521_iphoneos-arm64.deb
+Size: 459788
+MD5sum: 0f3f7d99afac96ad952ded1cd1729527
+SHA1: 32fed7e6ba6989c42f6c604450921aaeb0c61e95
+SHA256: 24297bdd1463761b8b9416a179b36497d38343b66835bd7ecc4a9fef7bf28e5e
 Section: 抖音插件
 Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
@@ -17176,6 +17194,21 @@ Description: 删除“今日视图”和“应用程序库视图”。
 Author: Adolfoi_
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SimpleHome
+
+Package: jp.akusio.milkyway2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: akusio <akusio-report@neko2.net>
+Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debs/jp.akusio.milkyway2-rootless_1.0_iphoneos-arm64.deb
+Size: 49188
+MD5sum: c8ffbabeff6ff8f88559c67025915b2f
+SHA1: 8d67fc0ff3467bd2b8ca8dc4f7586a9e1c84f4ae
+SHA256: c34ba547997cc46572d3cf800506ec9e83faed51a75d527dbae7555c807c0963
+Section: Tweaks
+Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.
+Author: akusio <akusio-report@neko2.net>
+Name: MilkyWay2
 
 Package: jp.r-plus.anykeytrackpad
 Version: 1.1.1
