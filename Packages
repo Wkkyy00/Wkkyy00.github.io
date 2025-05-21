@@ -11852,6 +11852,39 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: FLEXing
 Sileodepiction-Unused: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
+Package: com.photospluss
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: k
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.photospluss_1.0_iphoneos-arm64e.deb
+Size: 5396
+MD5sum: 24bf45c79a06a08619c880017e06b917
+SHA1: a7984513f4b4f8775d217fbe9b6f38b8e80be368
+SHA256: 5a5ac9df1602352af11d8e106db73a998588befdf121e6d8b235d8659ec3f240
+Section: 插件
+Description: 去除相册一堆无用项目。精简相册。
+Author: iOSign
+Icon: https://www.susubaby.top/images/photos.png
+Name: 相册增强
+
+Package: com.photospluss
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.photospluss_1.0_iphoneos-arm64.deb
+Size: 3988
+MD5sum: 7e4c6e4daf5f2b9b0d141311abcdcc95
+SHA1: c85057273c7d31e891c14a74dd931d6c831a6c4d
+SHA256: d39d205472b38e5eb09e5a3294a2b530edf1ff59361cde2a8f65002d2fe3694b
+Section: 插件
+Description: 去除相册一堆无用项目。精简相册。
+Author: iOSign
+Icon: https://www.susubaby.top/images/photos.png
+Name: 相册增强
+
 Package: com.picsewpro
 Version: 1.0.0
 Architecture: iphoneos-arm64
