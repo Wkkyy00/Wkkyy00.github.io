@@ -12761,6 +12761,23 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
+Package: com.spark.libsparkcolourpicker
+Version: 1.0.3-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.libsparkcolourpicker_1.0.3-rootless_iphoneos-arm64e.deb
+Size: 97402
+MD5sum: f15202e656d2836a42b439e3a7ff74bd
+SHA1: 57574bf5a4e6ce7da4119744a002db5b3107e44b
+SHA256: 228e2e9f30f2d04908c7a463e9412f7eb1ccd18e2cd9b4789c6de49b45548741
+Section: System
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Tag: role::developer
+Author: Spark
+Name: libsparkcolourpicker
+
 Package: com.spark.snowboard
 Version: 1.5.13-Beta3-rootless
 Architecture: iphoneos-arm64
@@ -17194,6 +17211,21 @@ Description: 删除“今日视图”和“应用程序库视图”。
 Author: Adolfoi_
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SimpleHome
+
+Package: jp.akusio.milkyway2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: akusio <akusio-report@neko2.net>
+Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debs/jp.akusio.milkyway2_1.0_iphoneos-arm64e.deb
+Size: 48640
+MD5sum: 7811f99f990d92d7be36a1368bf29f41
+SHA1: baca65451199b14a3d1772431df7db44eebe4a71
+SHA256: 7a08f830f6a9bf48f765d991584d32be09e31f79e2e844e447ebab9bc7235b4f
+Section: Tweaks
+Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.
+Author: akusio <akusio-report@neko2.net>
+Name: MilkyWay2
 
 Package: jp.akusio.milkyway2
 Version: 1.0
