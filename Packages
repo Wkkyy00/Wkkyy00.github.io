@@ -18039,6 +18039,27 @@ Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
+Package: ru.rj.ftt
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 1300
+Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64.deb
+Size: 355682
+MD5sum: 6e19f3c351ac0e15390372337d2bf640
+SHA1: d2253738bb5a4bbfb223b63f23a8540699e596e7
+SHA256: ad0746ccac4ef7cd811e6f9a0d24eb7f5d7e61c10251e09b65a6d5c19301f4be
+Section: Utilities
+Homepage: https://theemeraldisle.family
+Description: First made by iPadkid358 - then updated by myself. Change Flex 3 patches into Theos projects using simple terminal commands.
+  
+ - Use 'ftt -?' For a full list of options.
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex To Theos
+
 Package: sbapplication
 Version: 1.0
 Architecture: iphoneos-arm64
