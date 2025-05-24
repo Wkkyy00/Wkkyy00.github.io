@@ -16714,6 +16714,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
 Name: 一刻相册NoAds
 
+Package: com.wkk.ykxchook2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.ykxchook2_1.0_iphoneos-arm64.deb
+Size: 5272
+MD5sum: 0ea11ace862bec50c7508c9f0e814b7d
+SHA1: 4e8f33ce0812d130bb65dab0caff0c889bb49ffd
+SHA256: 15a10f2c7e2faa7ce86b15a1eebdffcca131fe832ea642d5643aeb7eabaeeca5
+Section: 去广告
+Description: （1和2版本自己选择）去开屏广告+去应用内豆腐块广告+去开屏摇一摇（摇一摇代码来自：huami）测试版本：6.17.1
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
+Name: 一刻相册NoAds2
+
 Package: com.wkk.zhihuhook
 Version: 1.0
 Architecture: iphoneos-arm64
