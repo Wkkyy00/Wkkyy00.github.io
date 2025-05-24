@@ -16283,6 +16283,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
 Name: QQ音乐NoAds
 
+Package: com.wkk.qsyyhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.qsyyhook_1.0_iphoneos-arm64e.deb
+Size: 4494
+MD5sum: 5eb7913ec33964d96a06fe3c1bab5abe
+SHA1: 403592f99252f8a3dc73d7f4a6c7649b6d85b7ea
+SHA256: 44880ef37992947c9f356f35fb8020de924dbd012d0b843e1f5264e50bed3ba6
+Section: 去广告
+Description: 精简汽水音乐底栏。测试版本：13.5.1
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoBottombar
+
+Package: com.wkk.qsyyhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.qsyyhook_1.0_iphoneos-arm64.deb
+Size: 3148
+MD5sum: ca1dab96383b31afa205062238674581
+SHA1: d30a35c930a9481cd3d74605d7c2e9e17974a06b
+SHA256: e6a7af931f8230b349d58a1f180e5daaebefdacb2591749738c09d8370aa3134
+Section: 去广告
+Description: 精简汽水音乐底栏。测试版本：13.5.1
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoBottombar
+
 Package: com.wkk.roothide
 Version: 1.0
 Architecture: iphoneos-arm64
