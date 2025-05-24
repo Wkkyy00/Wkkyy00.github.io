@@ -15081,6 +15081,39 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.
 Name: SquidExtender配置
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/SquidExtender.json
 
+Package: com.wkk.SquidExtenderpz26
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SquidExtenderpz26_1.0_iphoneos-arm64.deb
+Size: 10624
+MD5sum: f032c6bbd4a46f03ad162ec7083a3b1b
+SHA1: 85e32bc2d75f55fdeac83c63ca51eb2381484922
+SHA256: b24e713f49ca7908ca5a0288815b098e77ad17ed1a786638b6bbb152e28a172a
+Section: 插件配置
+Description: 26键最新备份（以后不会再更新了），新增了一些自用脚本，默认都是自用，移除了默认大量脚本，其他脚本都在脚本设置里（未删）需要的话手动添加（动作设置-全选-添加子动作）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Name: SquidExtender26键
+
+Package: com.wkk.SquidExtenderpz26
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SquidExtenderpz26_1.0_iphoneos-arm64e.deb
+Size: 13758
+MD5sum: e4ed8f71fa4aad6b767c27681bb4ad1b
+SHA1: 0d263c94076a342dce1791f28b2c9f565e45a6ee
+SHA256: 2a2cb5b3ad6a68de10ebf8d2346fae1f41ef7f69b630c85642f5257774d06f24
+Section: 插件配置
+Description: 26键最新备份（以后不会再更新了），新增了一些自用脚本，默认都是自用，移除了默认大量脚本，其他脚本都在脚本设置里（未删）需要的话手动添加（动作设置-全选-添加子动作）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Name: SquidExtender26键
+
 Package: com.wkk.SquidExtenderpz269
 Version: 1.0
 Architecture: iphoneos-arm64e
