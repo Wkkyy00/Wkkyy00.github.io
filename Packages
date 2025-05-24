@@ -17382,6 +17382,26 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.
 Name: Photo pro
 Sponsor: wkk
 
+Package: denyphotoalbumsllld.rootless
+Version: 9.9.9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 709
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/denyphotoalbumsllld.rootless_9.9.9_iphoneos-arm64e.deb
+Size: 89716
+MD5sum: 4bec62d3c009ea59056c4271860538b7
+SHA1: 2f698bc20bdcbcf65ffa366b397c6acf23b18cee
+SHA256: 5e2172f271120ff77e805f6d57e8d200217585f156e2512d375c05b0b34378c0
+Section: 插件
+Priority: optional
+Description: 系统照片增强汉化版自用修改版本
+Author: CydiaGeek
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
+Name: Photo pro
+Sponsor: wkk
+
 Package: dev.mineek.appstoretroller
 Version: 0.0.5
 Architecture: iphoneos-arm64
