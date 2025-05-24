@@ -528,6 +528,21 @@ Author: 来了老弟 h_h_x_t
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Flexlist/Flexing汉化
 
+Package: cn.llld.ftt
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/cn.llld.ftt_0.1_iphoneos-arm64e.deb
+Size: 44228
+MD5sum: da6f9cf9761314272e1c0ee984ad0a8c
+SHA1: fd6e08142be560fb2e0099bd9cd2dba5c3827fd4
+SHA256: 761dd0fce4aeb70cdb73ae9d2d98d7a3b44a4d17e5fbe7ff253bd1762266bb10
+Section: 工具
+Description: This is just the Chinese version of "ftt", the English version in（ https://github.com/randy-420/ftt ）Download。。。。工具作用：把Flex3补丁转换为Theos项目，原版(https://github.com/Randy-420/ftt)，补丁路径：/var/mobile/Library/Application Support/Flex3/patches.plist或前面加/var/jb
+Author: iPadKid358 Randy420
+Name: ftt中文版
+
 Package: cn.llld.qsyy
 Version: 2.3.1-2
 Architecture: iphoneos-arm
@@ -12422,6 +12437,27 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ通知头像
 
+Package: com.randy420.tools
+Version: 2.3.9
+Architecture: iphoneos-arm64e
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 2392
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: com.randy420.encrypt
+Filename: ./debs/com.randy420.tools_2.3.9_iphoneos-arm64e.deb
+Size: 1309190
+MD5sum: b81b2839a8a60ca4cd34a9aa965649ad
+SHA1: 20123ea3230e52939f316f741bc14566ef21719c
+SHA256: 98e3e4c17a5227f77874c6bec4c308d16393a445a9e3fb406c9d167161bfbd14
+Section: System
+Homepage: https://theemeraldisle.family
+Description: 420Tools holds the preferences for all my tweaks as well as shared files for my tweaks.
+Tag: role::hacker
+Author: Randy420 <randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
+Name: 420 Tools
+
 Package: com.recordntorch
 Version: 1.8.4
 Architecture: iphoneos-arm64
@@ -18146,11 +18182,33 @@ Installed-Size: 1300
 Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
 Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64.deb
-Size: 355682
-MD5sum: 6e19f3c351ac0e15390372337d2bf640
-SHA1: d2253738bb5a4bbfb223b63f23a8540699e596e7
-SHA256: ad0746ccac4ef7cd811e6f9a0d24eb7f5d7e61c10251e09b65a6d5c19301f4be
-Section: Utilities
+Size: 354932
+MD5sum: 310c983b90a840f4c31fb4b1432c30c7
+SHA1: 642a1d7d24366d6fec29d585d935ffb0aff2dd47
+SHA256: 3a0240229e8abb1b9293fede0678770f5a5bd3ecef48d7246f5948e6d6f091b4
+Section: 工具
+Homepage: https://theemeraldisle.family
+Description: First made by iPadkid358 - then updated by myself. Change Flex 3 patches into Theos projects using simple terminal commands.
+  
+ - Use 'ftt -?' For a full list of options.
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex To Theos
+
+Package: ru.rj.ftt
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 1300
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64e.deb
+Size: 356940
+MD5sum: eeb81fac773af6a9225dd3551ab4aa18
+SHA1: 54ae6d301d1c66e67db03753087a57d10154ab0a
+SHA256: 43babb7e6efb0d6c3997941cf09127521e3762abdc0e2701594e8cdc164da1d7
+Section: 工具
 Homepage: https://theemeraldisle.family
 Description: First made by iPadkid358 - then updated by myself. Change Flex 3 patches into Theos projects using simple terminal commands.
   
