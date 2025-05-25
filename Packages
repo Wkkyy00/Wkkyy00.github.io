@@ -14410,6 +14410,36 @@ Depiction: https://chariz.com/get/popoutbuttons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Name: PopOutButtons
 
+Package: com.tgextra
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: waruhachi
+Conflicts: com.choco.tg
+Filename: ./debs/com.tgextra_1.2-1_iphoneos-arm64.deb
+Size: 4653576
+MD5sum: 451255151aea79a054a80bd1e2d446a4
+SHA1: 237532f606660e69f1192e4b90dae7207225190b
+SHA256: bbb33f56db0ed23dab3c2bf181342ab78354fdaa0b299f9b8c47d5916b689837
+Section: 插件
+Description: 支持Telegram、Swiftgram的功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮「Telegram官方客服」打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: TGExtra
+
+Package: com.tgextra
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: waruhachi
+Conflicts: com.choco.tg
+Filename: ./debs/com.tgextra_1.2-1_iphoneos-arm64e.deb
+Size: 4648844
+MD5sum: 1a44cc76abd400d1932b461d78866de9
+SHA1: 5c78862b9fabc2539723cf2b8167f6a313271ac6
+SHA256: 3b398cd636c1d5d3fe47f8ba898cc4d9bb61093bb603f476b5258dbfb04a3da9
+Section: 插件
+Description: 支持Telegram、Swiftgram的功能插件，能保存频道限制下载文件、禁用广告等；底部「设置」—>长按倒数第三个按钮「Telegram官方客服」打开插件；如果打不开插件设置，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: TGExtra
+
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
 Architecture: iphoneos-arm64
