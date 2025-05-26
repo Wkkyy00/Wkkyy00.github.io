@@ -17026,6 +17026,25 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画2.0
 
+Package: com.wkk.zhuxiaoguazai3
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.zhuxiaoguazai3_3.0_iphoneos-arm64e.deb
+Size: 771144
+MD5sum: 23b40322ff6785878571fb9942b5a5b5
+SHA1: 4eaeee7acd936651681f5ece3c874c7f024407b4
+SHA256: 8f6514fe5ab065a0f6853e1ba044a4d02fdff331e859b0c4e644dd363f8470a5
+Section: Dopamine挂载
+Description: 仅支持RootHide越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，重启Springboard后随便找个带注销功能的插件点注销看效果。
+  * 注意：支持ios16，我没有ios15设备，ios15自测。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
+Name: 皮卡丘注销动画3.0
+
 Package: com.wkkyy0.pikaqiuzhuxiao
 Version: 1.0
 Architecture: iphoneos-arm64
