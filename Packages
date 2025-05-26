@@ -14012,6 +14012,41 @@ Author: 苏苏
 Icon: https://www.susubaby.top/images/surespringcc.png
 Name: SuRespringCC
 
+Package: com.susu.surespringcc2
+Version: 1.0.5k
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.surespringcc2_1.0.5k_iphoneos-arm64e.deb
+Size: 19410
+MD5sum: 6a857edda979c1ab825caf35f056a8de
+SHA1: 28c5ccb285962893aeca3647d1cf6a63b4ff43ad
+SHA256: d7506d79d585fb44358099acd51ccc94f7b8d497f43f0c98be34970fdadf706b
+Section: 控制中心
+Description: 控制中心杀后台注销SpringBoard，单一模块只有注销功能，带小彩蛋。（改版 有人需要）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/surespringcc.png
+Name: SuRespringCC（1*2）
+
+Package: com.susu.surespringcc2
+Version: 1.0.5k
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 180
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.surespringcc2_1.0.5k_iphoneos-arm64.deb
+Size: 15980
+MD5sum: c1f059c365e3522f18df298b06b456fd
+SHA1: d51eecc50fb80df7fae7c5311ae854012a04f1cc
+SHA256: 4cc4a6fff8a59f83f47f5392e241b1b60d3619850d0859511d0f2c0eba0446e2
+Section: 控制中心
+Description: 控制中心杀后台注销SpringBoard，单一模块只有注销功能，带小彩蛋。（改版 有人需要）
+Author: 苏苏
+Icon: https://www.susubaby.top/images/surespringcc.png
+Name: SuRespringCC（1*2）
+
 Package: com.susu.suxhshook
 Version: 1.0
 Architecture: iphoneos-arm64
