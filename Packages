@@ -13977,6 +13977,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: SuAwemeHook
 Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
 
+Package: com.susu.surespringcc
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.surespringcc_1.0.5_iphoneos-arm64e.deb
+Size: 16992
+MD5sum: f8adb83ec667e20bfe27afe1ddcd6658
+SHA1: 973b838720d7ae0df2b914964cb099367ae7c1ab
+SHA256: 4d2f3f67c20d530c0b2a06a486e3496d70c9ab873871df751759ed3a8530f169
+Section: 控制中心
+Description: 控制中心杀后台注销SpringBoard，单一模块只有注销功能，带小彩蛋。
+Author: 苏苏
+Icon: https://www.susubaby.top/images/surespringcc.png
+Name: SuRespringCC
+
+Package: com.susu.surespringcc
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 180
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.susu.surespringcc_1.0.5_iphoneos-arm64.deb
+Size: 15856
+MD5sum: a3784ba7ab9cde33001c298782661b9e
+SHA1: b95428688175e77f0a1b47d8dc7fa1c6009cee9c
+SHA256: 9b8b9268d9c0f542df72b0474f9fb45a2c70cb0534d4a891622774710989f96d
+Section: 控制中心
+Description: 控制中心杀后台注销SpringBoard，单一模块只有注销功能，带小彩蛋。
+Author: 苏苏
+Icon: https://www.susubaby.top/images/surespringcc.png
+Name: SuRespringCC
+
 Package: com.susu.suxhshook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -15478,6 +15513,45 @@ Size: 195592
 MD5sum: 678c6c7202b919d705a79d6b731d475b
 SHA1: c07ec766372e0d3a936d3af60a4def6b244b1a00
 SHA256: 4830ab1198472b912884a1a61d9a9ccd9826ec8f1fb82a32d950596b98ff4e87
+Section: 控制中心
+Description: 自用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
+Sponsor: wkk
+
+Package: com.wkk.center
+Version: 4.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 114
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.wkk.center_4.2_iphoneos-arm64e.deb
+Size: 469770
+MD5sum: 90d9f20024e07e17d13d3ff9d6ed4635
+SHA1: 12999e7eba63684d985053c9e56b53c50a79c7bb
+SHA256: ae54c07ec1a66c01bc32f3636eb775cbc83b6cab3c930c98929f1cd626c2e2f0
+Section: 控制中心
+Description: 自用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
+Sponsor: wkk
+
+Package: com.wkk.center
+Version: 4.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.wkk.center_4.2_iphoneos-arm64.deb
+Size: 208800
+MD5sum: 2c89ddd3ad3f8ecd8d298cd6aaa79690
+SHA1: f8f72bbe1c8e640b1a16908a342742e7119c03ca
+SHA256: f913bc88340b3acf7960a32b250f34f4af34ac125cde52dc12b45f9dfc251e33
 Section: 控制中心
 Description: 自用。
 Author: wkk
