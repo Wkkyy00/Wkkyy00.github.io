@@ -6110,23 +6110,6 @@ Sponsor: wkk
 
 Package: com.centra
 Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: Sini921
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.centra_1.0_iphoneos-arm64e-1.deb
-Size: 63240
-MD5sum: ca4d4a5510f6a796b987832341d0a2b5
-SHA1: ac7af501c77dc0a09607c2ccdc5b944d975884e5
-SHA256: e7bca96e24d1bd1b709344b9b255eec4fb766da4fe9ff02d0c05408e52ee6053
-Section: 控制中心
-Description: 自定义控制中心中模块的大小。
-Author: Hitori
-Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
-Name: Centra
-
-Package: com.centra
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Sini921
 Depends: mobilesubstrate, preferenceloader
@@ -6135,6 +6118,23 @@ Size: 54528
 MD5sum: 682edf4a7215f84fc61e8a84336c7fa4
 SHA1: eb158322e7692a553bf680f0cc1f67cdbff89238
 SHA256: 96c8e9fea4adb8db351f76a47dc028cb7cdaa521666f9f166d3661fd0d9e990e
+Section: 控制中心
+Description: 自定义控制中心中模块的大小。
+Author: Hitori
+Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
+Name: Centra
+
+Package: com.centra
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Sini921
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.centra_1.0_iphoneos-arm64e.deb
+Size: 63240
+MD5sum: ca4d4a5510f6a796b987832341d0a2b5
+SHA1: ac7af501c77dc0a09607c2ccdc5b944d975884e5
+SHA256: e7bca96e24d1bd1b709344b9b255eec4fb766da4fe9ff02d0c05408e52ee6053
 Section: 控制中心
 Description: 自定义控制中心中模块的大小。
 Author: Hitori
@@ -12826,6 +12826,41 @@ Author: SGWC
 Icon: https://s1.imagehub.cc/images/2025/02/07/2e759b7639963ed967fa1888a9113c58.png
 Name: Events
 
+Package: com.shtm.flexibleexpression
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 992
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.shtm.flexibleexpression_1.1.0_iphoneos-arm64e.deb
+Size: 398846
+MD5sum: a01c3f3cc8f6cc8f0d26f8fd7c00e3a3
+SHA1: cc3458beb5457f470e31d3fd4825da1df576e780
+SHA256: 038da92b15d46fdd01fa3f06bc418a493e239181db7661599b19754cdcf2360d
+Section: Tweaks
+Description: 灵动空间，灵动岛不再枯燥。
+Author: SHTM
+Icon: https://orig.shtm.best/logo.png
+Name: FlexibleExpression
+
+Package: com.shtm.flexibleexpression
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.shtm.flexibleexpression_1.1.0_iphoneos-arm64.deb
+Size: 362336
+MD5sum: 72b70f3ad6b53aedd03d039108d23c85
+SHA1: e1e0c70352aae0da5f3861adc7ae0ea7601c4d81
+SHA256: dca483472c1fb7e3bb305b29d2a12b19350a8d4c7a95f0ec9d0e4c5224b23eff
+Section: Tweaks
+Description: 灵动空间，灵动岛不再枯燥。
+Author: SHTM
+Icon: https://orig.shtm.best/logo.png
+Name: FlexibleExpression
+
 Package: com.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64e
@@ -15069,24 +15104,6 @@ Installed-Size: 2060
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wechat.enhance_1.4-2_iphoneos-arm64e.deb
-Size: 1084686
-MD5sum: f9c372fc108329eefc664be372a5a579
-SHA1: b9b886ba501bf362c343e286d2e67371b5ae6827
-SHA256: 33dcc2771c76f9162cf77a6b0316a87383738b4a55e338224bed4ef43aeece70
-Section: 微信插件
-Description: 微信插件，支持聊天按钮布局自定义等。
-Author: 愫 茶
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: WeChatEnhance
-
-Package: com.wechat.enhance
-Version: 1.4-2
-Architecture: iphoneos-arm64e
-Maintainer: 愫 茶
-Installed-Size: 2060
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechat.enhance_1.4-2_iphoneos-arm64e-1.deb
 Size: 1084720
 MD5sum: 2ca25d2c5c7f2477b2d2f74d4db34a57
 SHA1: 6494413d81f72dc3702f49fdb5bea3454b82c76c
@@ -18163,7 +18180,7 @@ Installed-Size: 886
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: ./debs/me.lau.atria_1.4.1_iphoneos-arm64e-1.deb
+Filename: ./debs/me.lau.atria_1.4.1_iphoneos-arm64e.deb
 Size: 274624
 MD5sum: 6271d311dd6f9861d2ee947aa834b466
 SHA1: e566579d05a1df1f2526593ab58d772412b4fb0e
