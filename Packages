@@ -9840,6 +9840,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音魔术师
 
+Package: com.huami.dyyy.dao
+Version: 2.2-7-0528
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-7-0528_iphoneos-arm64e.deb
+Size: 1296454
+MD5sum: e42bf759fb6d5b4ead1fcb71ce68a98c
+SHA1: 7758e5bd4a2c813915ee4e18601d30fd5bdcfdc1
+SHA256: 9642f9e65f7d7be5a25ac16ce2fd51432060ac3faa2868e6d02de1e358b6f655
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy.dao
+Version: 2.2-7-0528
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1996
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-7-0528_iphoneos-arm64.deb
+Size: 458960
+MD5sum: 3a4a683a0132ef9bc6aaf1e48138a73c
+SHA1: 0d04d13a92170fc9412c657c7774b10c61ba0468
+SHA256: f75565426ea31c3aee65af52f4d1122e0d850225cfe38e07e69db1a5fefd44de
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
 Package: com.huami.kbstyle
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -15037,6 +15072,43 @@ Size: 23448
 MD5sum: 9ebe4b093455abb17e64036509556706
 SHA1: a8b89fa1f8b707bc166fd4e94b4975e45c0ad244
 SHA256: e610a1ad44b085a4c91d97e0d859dad31aac386fece6101ed526ca272c8823cb
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信消息直达
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wechat-push-msg-page_0.0.5_iphoneos-arm64e.deb
+Size: 30970
+MD5sum: 92b28127e92a1bb929d3eddee4187a9f
+SHA1: 1ad7e6b8a52c4cef83ec1d188edae4f636f60004
+SHA256: ef26864462016e270bdba1df6cc364015d7a62e7cb7d61841e944d77b7dc0c80
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信消息直达
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wechat-push-msg-page_0.0.5_iphoneos-arm64.deb
+Size: 23404
+MD5sum: 5c42c46506d0501a8f5768d196871305
+SHA1: 6fd505af9806017ae6f8c57bd204fa2d3ec91d74
+SHA256: b7eba5515ddf527cbf938492d89b7cc605033627b4d867c1e840053e64a61e73
 Section: 微信插件
 Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
 Author: be-huge
