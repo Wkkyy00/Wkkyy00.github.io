@@ -7612,6 +7612,54 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
 Name: Filza Crack
 
+Package: com.flex.lib
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: pxx917144686
+Installed-Size: 4340
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.flex.lib_1.0_iphoneos-arm64.deb
+Size: 1197312
+MD5sum: af827a420a90af16a4ea244bae6e6b00
+SHA1: c7fc5e2c224fbdbba5d97e5a12b25e556d164304
+SHA256: 7977f9ad6653b7c6c5e9b40a9f05785470a00a3722e261b16e7d940fb9c37282
+Section: Development
+Description: FLEX (中文版) - 支持iOS 9.0及以上设备
+Author: FLEX Team & pxx917144686
+Name: FLEX 调试工具
+
+Package: com.flex.lib
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: pxx917144686
+Installed-Size: 5284
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.flex.lib_1.0_iphoneos-arm.deb
+Size: 1565892
+MD5sum: e2716740bc889a46c0d988988f628034
+SHA1: b92f1f30a0887ee523481e5f77f72f2c150a29b6
+SHA256: 2d3c3e4c854e1e1200f7410e6beec8d7670a8072b85156711ec2ab24fca3f23c
+Section: Development
+Description: FLEX (中文版) - 支持iOS 9.0及以上设备
+Author: FLEX Team & pxx917144686
+Name: FLEX 调试工具
+
+Package: com.flex.lib
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: pxx917144686
+Installed-Size: 4340
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.flex.lib_1.0_iphoneos-arm64e.deb
+Size: 1196700
+MD5sum: 63423e9fb911e45578cb3f35c14101f5
+SHA1: 7b8eea5f90cc445595fcd2ffd88fcf5edfe455a7
+SHA256: ac6dd1eac944277c5e22782b902243cfd987d815b5f4bb3060a69f502de422a1
+Section: Development
+Description: FLEX (中文版) - 支持iOS 9.0及以上设备
+Author: FLEX Team & pxx917144686
+Name: FLEX 调试工具
+
 Package: com.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
@@ -15215,6 +15263,41 @@ Size: 449928
 MD5sum: 886047110d2278dc7ea4ed90212ba2b8
 SHA1: 7ccff6514dae499a8450f5021775d6b227374e72
 SHA256: 2d17fc602abf1e73084097f760e8b3bc8dc06cce260e4c05b74636bd874efcc0
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-4_iphoneos-arm64.deb
+Size: 473552
+MD5sum: 3a71d0b7487dc8f4ffb0831e6dfae3b6
+SHA1: 9621a83c53f6df5ad52b762e0c1185849a3db22e
+SHA256: 2a108b385e24ef6f7d722aafd0db87902dece79eac41db466436c434d4e6dfb1
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.4-4
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-4_iphoneos-arm64e.deb
+Size: 1391354
+MD5sum: 54a619668f2e5ebd153388f904d0838d
+SHA1: ff2984573e98c8c3e735f61663a64a401264cf2e
+SHA256: 7c21371ca4c47ff0b3a3e45374636b268a93e097955c4d176c0382658099596d
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
