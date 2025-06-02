@@ -12981,6 +12981,39 @@ Author: SHTM
 Icon: https://orig.shtm.best/logo.png
 Name: FlexibleExpression
 
+Package: com.shtm.flexibleexpression
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.shtm.flexibleexpression_1.2.0_iphoneos-arm64e.deb
+Size: 7366880
+MD5sum: 32e8916639660f35f1ad86cba3862da4
+SHA1: 3e3e1bdf704aa156c713765e174ff16559ae73c0
+SHA256: 4a56ee54d04aa63108cc932144cb0eebc17597e5b6787103e299ed065a1e008a
+Section: Tweaks
+Description: 灵动空间，灵动岛不再枯燥。
+Author: SHTM
+Icon: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/FlexibleExpression.png
+Name: FlexibleExpression
+
+Package: com.shtm.flexibleexpression
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.shtm.flexibleexpression_1.2.0_iphoneos-arm64.deb
+Size: 3648820
+MD5sum: 4e259de6ec11cacb235bd0eb6b04329d
+SHA1: 4a02577bbcc9beeef23c9137ca926c76e008f1ca
+SHA256: 5bfc244e485fafe64fb3a89c1edd9815db5f6b2beeae2437c8845be27f0e111f
+Section: Tweaks
+Description: 灵动空间，灵动岛不再枯燥。
+Author: SHTM
+Icon: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/FlexibleExpression.png
+Name: FlexibleExpression
+
 Package: com.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64e
