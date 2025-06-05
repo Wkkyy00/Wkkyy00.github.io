@@ -16414,6 +16414,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
 Name: 瑞幸咖啡NoAds
 
+Package: com.wkk.fucmkrxkfads
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fucmkrxkfads_1.3_iphoneos-arm64.deb
+Size: 4140
+MD5sum: 9ccc535bc8754201cc81780f3d2cf23f
+SHA1: 9dc8dda54c820edfa206ab4cf77567d799472714
+SHA256: cc60bbe6aa64d65b0587342a543e77034356c8a2101206f88630a1f3b7652ea4
+Section: 去广告
+Description: 更加丝滑的去开除屏广告和更新提示。测试版本：5.3.55
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
+Name: 瑞幸咖啡NoAds
+
+Package: com.wkk.fucmkrxkfads
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fucmkrxkfads_1.3_iphoneos-arm64e.deb
+Size: 5718
+MD5sum: e89dbf8f895035f5e708f7c8510753d1
+SHA1: 57f523ca087da984c94a8627ec30973afc218559
+SHA256: 5023f2b3bd2e5cff5c6fec650498e314db3e1d92ef12c8bb76271a64f762227e
+Section: 去广告
+Description: 更加丝滑的去开除屏广告和更新提示。测试版本：5.3.55
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
+Name: 瑞幸咖啡NoAds
+
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64
