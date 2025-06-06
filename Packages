@@ -12737,6 +12737,41 @@ Author: c1d3r
 Icon: https://s1.imagehub.cc/images/2025/01/21/7dd8ed70cad1d12060d8f9319d5bdb14.png
 Name: PullOver Pro
 
+Package: com.pxx917144686.gps
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: pxx917144686
+Installed-Size: 1340
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.pxx917144686.gps_0.1_iphoneos-arm64.deb
+Size: 267340
+MD5sum: 7a84eb0554181e00acffdf73874eacbc
+SHA1: 549a5dcc960103563461644cd6b4bd98bfc8d86b
+SHA256: 1e09c05d725bd72294d8dc34d671e911425aeb28938309132d21b5f4ca7ab033
+Section: Tweaks
+Description: 功能强大的iOS位置工具，任意空白面板，双指轻点弹出菜单。
+Author: pxx917144686
+Icon: https://s1.imagehub.cc/images/2025/06/07/c250e60cee5a1085971b9222420ade8a.png
+Name: GPS++
+
+Package: com.pxx917144686.gps
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: pxx917144686
+Installed-Size: 1340
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.pxx917144686.gps_0.1_iphoneos-arm64e.deb
+Size: 269308
+MD5sum: 774510bf0fcbbfb837e157776d73f85a
+SHA1: 94837474d7f7ed1af773505e581d75dafea77163
+SHA256: 596bdae7f391f289848c4e81a9e4842f51154381c77978b067529942474c3d65
+Section: Tweaks
+Description: 功能强大的iOS位置工具，任意空白面板，双指轻点弹出菜单。
+Author: pxx917144686
+Icon: https://s1.imagehub.cc/images/2025/06/07/c250e60cee5a1085971b9222420ade8a.png
+Name: GPS++
+
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.1~2
 Architecture: iphoneos-arm64
@@ -13914,6 +13949,23 @@ Description: 商店内头像处点击，快速切换/删除AppStore账号。
 Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: StoreSwitcher 2
+
+Package: com.sttt.easybikenoads
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sttt.easybikenoads_1.0.5_iphoneos-arm64.deb
+Size: 3548
+MD5sum: 5912527e2b97f498eb5e546316b17972
+SHA1: 83e94142e3246d8d4726f6e950f6cc98c789476d
+SHA256: 59dfc1a1500b5541405e1a81f11b4ddf8a08122b11ec3a656a3a128b96e24d29
+Section: 去广告
+Description: 哈啰去广告，版本：6.88.5
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/haluo.png
+Name: EasyBikeNoAds
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
