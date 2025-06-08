@@ -14008,6 +14008,23 @@ Author: SquidForce(乌贼力量)
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Plugins For Snapper3
 
+Package: com.starry6.lunanoad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: liwhs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.starry6.lunanoad_1.0_iphoneos-arm64.deb
+Size: 4552
+MD5sum: ab087daa09edb744fde9aa36cfc1ffcf
+SHA1: 42f79cb33cc6ece11535ecb4de2c6d818a2d95d7
+SHA256: 5cc151395871274b548d3988ca80e3bd47c87389f934e72db5e9784d4819a51a
+Section: 去广告
+Description: 去开屏广告，秒过激励式视频。
+Author: starry6
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoAds
+
 Package: com.storeswitcher2
 Version: 1.0.5
 Architecture: iphoneos-arm64
