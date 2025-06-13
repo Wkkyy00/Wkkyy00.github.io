@@ -6948,6 +6948,39 @@ Author: Curtin
 Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC
 
+Package: com.curtin.pkc
+Version: 0.7-7
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-7_iphoneos-arm64.deb
+Size: 919400
+MD5sum: df4b04ebab9522c08b63ab2f20171544
+SHA1: 481e9fe8a9b7c37859c173a913c1e71c5994770b
+SHA256: 70d6f32bd8bdc8b424d7ebb5036d81cd5cf8c99afd93e5605fa6b23e2d805e27
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.7-7
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-7_iphoneos-arm64e.deb
+Size: 2497658
+MD5sum: 91ee34b48d7ea9993e88f33337696384
+SHA1: 6e6992190a561462936d121e35e9e58da0bf387b
+SHA256: e764530aadf25e4596d984856aab0c93a0017395a73ab73d6b4e22fc9f197dba
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
 Package: com.cydiageek.gyration
 Version: 1.1.5
 Architecture: iphoneos-arm64
@@ -10316,6 +10349,41 @@ Size: 1323104
 MD5sum: 333a270e3e8198d8a44037ad843df948
 SHA1: e4651e44ed5f04b65d8a0cddfbf9b97711a2af6f
 SHA256: eddf13e7879843ba7eefd69add8dfbceb6eb4b018ff93bf3696ae51f74df1618
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy.dao
+Version: 2.2-8-0612
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-8-0612_iphoneos-arm64e.deb
+Size: 1328622
+MD5sum: 01f304ed5ccdc73bd5a9eced5f6cbd1f
+SHA1: 3941ff939323163d55090594abae51aea8eaa966
+SHA256: fd8917f6fa11ce7baf148c7fd0adc9507071e550eeb3f11386a40bda5d54d4ef
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy.dao
+Version: 2.2-8-0612
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1996
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy.dao_2.2-8-0612_iphoneos-arm64.deb
+Size: 477776
+MD5sum: fbc5eb7df552317143a78bfe98198e6b
+SHA1: fd675a6e5f0b28ae380f1e6ef824b85cbd7e541b
+SHA256: f73d88d4ba22da9b820cab10d3cc856b3456453241af1cb51a0bd8ca90fdc0f9
 Section: 抖音插件
 Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
