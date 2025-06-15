@@ -18007,6 +18007,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
 Name: 一刻相册NoAds2
 
+Package: com.wkk.zdmhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.zdmhook_1.0_iphoneos-arm64e.deb
+Size: 6944
+MD5sum: c2b969b8ca21bdf031c7ccfedcc8f25d
+SHA1: 62a938dc07fba8572323f2cdcc5245d7f2b0bcc6
+SHA256: bcbf09b5427031a9c7afd16807e07655c72532c381a499f294cfd42dc2a28fa5
+Section: 去广告
+Description: 去开屏，版本：11.1.15
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/06/15/b316043d10ba63ae984e22bc0c193efd.png
+Name: 什么值得买NoAds
+
+Package: com.wkk.zdmhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.zdmhook_1.0_iphoneos-arm64.deb
+Size: 5128
+MD5sum: 48d71fe241f575aeca3e9e7a045e8cc5
+SHA1: f36a2a50f22672adce606821786dffabe38d5f0b
+SHA256: bbe95f32c7de7d7e3cc8cc11957fcce9286889258a6e683bdb6dc989e05132a1
+Section: 去广告
+Description: 去开屏，版本：11.1.15
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/06/15/b316043d10ba63ae984e22bc0c193efd.png
+Name: 什么值得买NoAds
+
 Package: com.wkk.zhihuhook
 Version: 1.0
 Architecture: iphoneos-arm64
