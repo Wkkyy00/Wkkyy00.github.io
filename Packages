@@ -2485,6 +2485,39 @@ Author: null
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: Purifyads
 
+Package: com.Talkatonehook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: mull
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.Talkatonehook_1.0_iphoneos-arm64.deb
+Size: 2620
+MD5sum: 6f7d3d390af4b483e1c27157fb6f400d
+SHA1: 8b797343b216b2a810ddce9778c31e4fc86e1b0b
+SHA256: 6b54de1f8593f7eecfa7afbff85d3433aeb5677f1d8acd4d6a854e3035f54fcd
+Section: 去广告
+Description: 无广体验Talkatone，激活设置页面的“Remove Ads”，去除底部的飘浮广告，通话记录和信息顶部飘浮的官方广告没去除，点右上角“X”关闭。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/06/15/57b69ab9edb5fe7970bc3d47268389fc.png
+Name: TalkatoneNoAds
+
+Package: com.Talkatonehook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: mull
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.Talkatonehook_1.0_iphoneos-arm64e.deb
+Size: 3886
+MD5sum: b6caf08cf0deff033b84c7815622bf83
+SHA1: 390c15368b93175088d6d75746b34f8b8882764e
+SHA256: a81fd58dae866a03c8dc734d217e86101d4e6145f3e3244e60831f39e0f1b1a3
+Section: 去广告
+Description: 无广体验Talkatone，激活设置页面的“Remove Ads”，去除底部的飘浮广告，通话记录和信息顶部飘浮的官方广告没去除，点右上角“X”关闭。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/06/15/57b69ab9edb5fe7970bc3d47268389fc.png
+Name: TalkatoneNoAds
+
 Package: com.Wes.ExplosiveIcons
 Version: 1.1.1
 Architecture: iphoneos-arm64e
