@@ -17288,6 +17288,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画3.0
 
+Package: com.wkk.zzhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.zzhook_1.0_iphoneos-arm64e.deb
+Size: 4544
+MD5sum: fd07bcf326beb0a0f11f39975042c454
+SHA1: 0a2522b96b92a20323e34cd9748dffc5332fea36
+SHA256: 9b3238f98812be7f0bb1e771f2bf72eba75bdef2772e0de6308514d1291d4029
+Section: 去广告
+Description: 去开屏，版本：11.12.5
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/06/16/4d8b76fc09393fdae4119792925bf6da.png
+Name: 转转NoAds
+
+Package: com.wkk.zzhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.zzhook_1.0_iphoneos-arm64.deb
+Size: 3212
+MD5sum: 64f1ddb078dc3a72ffcd025a43711ec1
+SHA1: 7f0133b1b45901bece0e4cd80530042cd44a6866
+SHA256: aa616454de38ffedb5ce588895d1a0065d674681abc3dcab9a3fafa7d79b09ef
+Section: 去广告
+Description: 去开屏，版本：11.12.5
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/06/16/4d8b76fc09393fdae4119792925bf6da.png
+Name: 转转NoAds
+
 Package: com.wkkyy0.pikaqiuzhuxiao
 Version: 1.0
 Architecture: iphoneos-arm64
