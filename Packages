@@ -11365,6 +11365,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: StoreSwitchAccounts
 
+Package: com.netskao.wcabtestlocalbackup
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcabtestlocalbackup_1.1-1_iphoneos-arm64.deb
+Size: 2672
+MD5sum: 8d72eabeaf4ff1d35565abe6413e2e62
+SHA1: f5416e652c3300fc7f691d93c58e16aa32963b09
+SHA256: ab2f2f082d5c28a95a5eb86f9f9f25354412580aa3ba4661b70b3803ac7d42c2
+Section: 微信插件
+Description: 微信支持AB测试的本地备份，仅8.0.50+
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCABTestLocalBackup
+
+Package: com.netskao.wcabtestlocalbackup
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcabtestlocalbackup_1.1-1_iphoneos-arm64e.deb
+Size: 3802
+MD5sum: bc998c6e4b5b49618cc2e99b9098641a
+SHA1: 97ac4575e2363575c28749cb8094e7544698eb27
+SHA256: fc37ee9666b8f822f6347d45291caa9cb1f7c1ef7b6709d566e88a17454024f3
+Section: 微信插件
+Description: 微信支持AB测试的本地备份，仅8.0.50+
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCABTestLocalBackup
+
 Package: com.netskao.wcdisablehotupdatess
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -11521,6 +11556,41 @@ Author: NoisyFlake, Nixuge
 Depiction: k
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: NetworkManagerReborn
+
+Package: com.nightwind.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.nightwind.horizontalsliders_0.0.1_iphoneos-arm64e.deb
+Size: 13954
+MD5sum: f6c18b545c626957ce614470452ab96d
+SHA1: cf9559b9a67d0ee3bb28938420d0bed743c09102
+SHA256: 9acda5e640159a50b675cd16c77fdb55446a8ee09f769a62655aa84bcfc6b8e7
+Section: 控制中心
+Description: 使控制中心的亮度和音量滑块水平。
+Author: Nightwind
+Icon: https://github.com/NightwindDev/HorizontalSliders/blob/main/Images/Icon.png?raw=true
+Name: HorizontalSliders
+
+Package: com.nightwind.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.nightwind.horizontalsliders_0.0.1_iphoneos-arm64.deb
+Size: 10592
+MD5sum: 9918a607bff63315082d935d015311b5
+SHA1: 31ab622ce535659d41cc2bc5d6fe9a78e6660a5b
+SHA256: 82632ac54622bb23a513cace4f6a6abd6ca30e44838f3049cd01378704f29191
+Section: 控制中心
+Description: 使控制中心的亮度和音量滑块水平。
+Author: Nightwind
+Icon: https://github.com/NightwindDev/HorizontalSliders/blob/main/Images/Icon.png?raw=true
+Name: HorizontalSliders
 
 Package: com.nightwind.matchingiconlabelss
 Version: 0.0.1
@@ -14527,6 +14597,41 @@ Size: 3970644
 MD5sum: 69893eecd758c139f33f9677a8b632b0
 SHA1: 491575829d80ee09fb8be9828e682bda23e57199
 SHA256: 879d79720ea7c799922ffd116bb0bb24a22201ea31c24bdd464bfeb26312dc8e
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.0.7-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.0.7-1_iphoneos-arm64e.deb
+Size: 10641378
+MD5sum: 9b6031be75343a5ffac50fbef35fbdee
+SHA1: 1c06759cdd63e49544c984c25bede0af1d341f3b
+SHA256: 70932ff248449d93917a1b782a270bc6fa1a7a0e6bb3f48bd270bd799e197b44
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.0.7-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.0.7-1_iphoneos-arm64.deb
+Size: 3978752
+MD5sum: 37fab7f85141fefcd03e872d839e52b5
+SHA1: f4ab1c66b2db0dcc4b13ce95ae1fa7f1b6c97dfd
+SHA256: 41a2edd2a2a165e6d9e8e7fc61f45d17aa4fea930107f5db52caf8e53d09ecc2
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
@@ -17898,6 +18003,43 @@ Size: 66844
 MD5sum: a233ce5845f4ee7f3e73fb09922d40e0
 SHA1: 4023603cebff9633f1251b6c9396dfb903c87e1b
 SHA256: 1807e889a142da1ff1cb76d8a2b91cdd33f0a6948ea187ff6cb8a396b08dc8be
+Section: 插件
+Description: 为您的设置开关添加一些日月风格
+Author: Finn Gaida
+Icon: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/icon.png
+Name: DayNightSwitch
+
+Package: de.finngaida.daynightswitchs
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Finn Gaida
+Installed-Size: 584
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: de.finngaida.daynightswitch
+Filename: ./debs/de.finngaida.daynightswitchs_1.2_iphoneos-arm64e.deb
+Size: 79200
+MD5sum: 5d0b46126f3c1bbdf10a34f9ab129b1e
+SHA1: f3c99f07e9a6ad84176150e4a65c283ac66db63a
+SHA256: 308376a8daa2d3bdb1a3cb1bff500eda79a64b772403494468479f011880f93e
+Section: 插件
+Description: 为您的设置开关添加一些日月风格
+Author: Finn Gaida
+Icon: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/icon.png
+Name: DayNightSwitch
+
+Package: de.finngaida.daynightswitchs
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: de.finngaida.daynightswitch
+Filename: ./debs/de.finngaida.daynightswitchs_1.2_iphoneos-arm64.deb
+Size: 69192
+MD5sum: 8074cad8131bc2bc4680a06612a10596
+SHA1: e143fdbd5d23c5cadc8c0f2df9b33e3beb282e5c
+SHA256: ad6ba1373a2164f2872e12f1a07e8a5dd4c79c47277cf01454f5633aa140e8d7
 Section: 插件
 Description: 为您的设置开关添加一些日月风格
 Author: Finn Gaida
