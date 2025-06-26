@@ -15834,6 +15834,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Car解压终端(自用)
 
+Package: com.wkk.ccborder15
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.ccborder15_1.1.2_iphoneos-arm64.deb
+Size: 14596
+MD5sum: 50938a62e63170bedc938f9e84ad69c4
+SHA1: 275c20f99cc3ecff7cc1ac19a6ba43c021c3f57c
+SHA256: 6735e84b76178b519f51d3e3283014d7a69e8e0bf9ca7dc5a426269fce687580
+Section: 插件
+Description: 不支持iOS16！iOS16用源里的另一款。类似iOS18样式的控制中心。
+Author: fiore
+Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
+Name: CCBorder15
+
 Package: com.wkk.center
 Version: 4.0
 Architecture: iphoneos-arm64e
