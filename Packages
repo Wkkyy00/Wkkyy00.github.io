@@ -1244,6 +1244,41 @@ Author: 0xkuj
 Icon: https://susubaby.top/images/tongzhi.png
 Name: NotificationsGroupCount
 
+Package: com.0xkuj.safarix
+Version: 1.9.9
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 928
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9_iphoneos-arm64.deb
+Size: 315072
+MD5sum: ef06283c4656dce9bf5d9c3d8eb5a75b
+SHA1: 3d416db04e1cc94ed3dbe55acc22f807abcdf7bc
+SHA256: b50e9d4573e78dbc3829e08fb86d10ad27c6124f1d048b96cee19cd820088c72
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
+Name: SafariX
+
+Package: com.0xkuj.safarix
+Version: 1.9.9
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 928
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9_iphoneos-arm64e.deb
+Size: 360100
+MD5sum: 0e0bc6f019da610d42956c241c79d6d0
+SHA1: 817e3a5436ead15bc112e01a25c82ede726f700a
+SHA256: 4ce06357846011be571cd7fe68baa010030a5bdae8f853fa1dbd995e80b53c44
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
+Name: SafariX
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-6
 Architecture: iphoneos-arm64
@@ -1493,6 +1528,43 @@ Size: 24556714
 MD5sum: 3194a4f23d0e56286444252b24fed89b
 SHA1: e96cbfac67c43dc1cc487e5e965049a15767040d
 SHA256: 82d4d72681589db32b14ada4e450df66846d5e3df468fe8bb3a30fb5f46d973e
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-6
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-6_iphoneos-arm64e.deb
+Size: 24817856
+MD5sum: 94ff98a26da70c4b58f119d5b1607d39
+SHA1: e7327ef7e42d79e9373fc3e7393b461dbec9850d
+SHA256: 16f5197666100571dc36b3fab4c27c8f8a1b5b5b96605ecbe2dd18e62125fb29
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-6_iphoneos-arm64.deb
+Size: 9084904
+MD5sum: 607d9cf89f9f8c12b1d6135e0754b5e8
+SHA1: 2bd89fc3cbaa814f1d14c692c06fd918cafdca22
+SHA256: 1bf5fc4b9a22d20939199456042adefc3027469213603886ccb984677ab82c05
 Section: 微信插件
 Priority: optional
 Description: 微信助手
