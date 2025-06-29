@@ -16013,6 +16013,43 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Car解压终端(自用)
 
+Package: com.wkk.cc26
+Version: 1.0
+Architecture: iphoneos-arm64e
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.wkk.cc26_1.0_iphoneos-arm64e.deb
+Size: 14500
+MD5sum: 473c8b36372a3bf3c8201db2c847b291
+SHA1: e5b4e140fb7060c0a3b0da15c07114b4dc783b3f
+SHA256: 9e6ab245609eb600bf9acf90caae162579be137507903f7fe18cb04992a989e1
+Section: 控制中心
+Description: 修改版自用，不喜欢就去安装作者源的。
+Author: therealhoodboy
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: CC26
+
+Package: com.wkk.cc26
+Version: 1.0
+Architecture: iphoneos-arm64
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.wkk.cc26_1.0_iphoneos-arm64.deb
+Size: 10908
+MD5sum: 3d58a913d38cda784667ac40b9bede83
+SHA1: 3a4b72c79d06a216e611748c42c073ddd95c3dfe
+SHA256: eb3cc9184d50b54482ace4ba0466ab82ca88078547ed387c68f53b432d224cb2
+Section: 控制中心
+Description: 修改版自用，不喜欢就去安装作者源的。
+Author: therealhoodboy
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: CC26
+
 Package: com.wkk.ccborder15
 Version: 1.1.2
 Architecture: iphoneos-arm64
