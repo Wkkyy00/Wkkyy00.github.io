@@ -8178,6 +8178,38 @@ Description: FLEX (中文版) - 支持iOS 9.0及以上设备
 Author: FLEX Team & pxx917144686
 Name: FLEX 调试工具
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 1796
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.0.0_iphoneos-arm64e.deb
+Size: 428782
+MD5sum: bbca6047a102868d83b04ac371c1cee4
+SHA1: 120fade170ddd7bcd1938aca368994365bda63f0
+SHA256: 75b7be4995534746c660dbcc1f1e323e7e3f736a9bccf8e7246e5fb4a7b23ef5
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 1828
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.0.0_iphoneos-arm64.deb
+Size: 435484
+MD5sum: 40e2268636fed5c4d5014af0325ed792
+SHA1: 56b5aa6a06cfb82edf45d2b186d15c09aeaffcf4
+SHA256: 155ef2af212e6b3206cdad7bc41fe02f84ee68de8fe8e96b957186b4cffdef08
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
 Package: com.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
