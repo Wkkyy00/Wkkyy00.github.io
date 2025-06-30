@@ -16817,6 +16817,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 一键解压deb(自用)
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/jydeb.json
 
+Package: com.wkk.kaiguan
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0_iphoneos-arm64.deb
+Size: 3277908
+MD5sum: 243733c4a6f9c9b1295f7e46bc225705
+SHA1: caae783c37eb67d1f2922b3cdbf2c15fe43f649e
+SHA256: 588608002e0975d972b37f172c69f560d21547d9c879478ed895473573fcb74c
+Section: 一切美化的东西都是垃圾
+Description: 54款开关大集合！直装！告别四处求爷爷告奶奶的日子，需要snowboard扩展。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: snowboard开关集合
+Sponsor: wkk
+
+Package: com.wkk.kaiguan
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0_iphoneos-arm64e.deb
+Size: 6649436
+MD5sum: 08f37a7185e3dfa8131fd8f44b15a4c6
+SHA1: 2a31e97d3fec7de8a037553e073fd0d26e6701fb
+SHA256: 04ea5e80fa0d3be06963697226295861cd693a4fb092e1572ccb0334137c2067
+Section: 一切美化的东西都是垃圾
+Description: 54款开关大集合！直装！告别四处求爷爷告奶奶的日子，需要snowboard扩展。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: snowboard开关集合
+Sponsor: wkk
+
 Package: com.wkk.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
