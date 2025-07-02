@@ -15812,6 +15812,41 @@ Author: 愫 茶
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEnhance
 
+Package: com.wechat.enhance
+Version: 1.5-0
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.5-0_iphoneos-arm64e.deb
+Size: 1462782
+MD5sum: 3eba3e28a99c42cad2e9ccc2305a2414
+SHA1: c691174e8833d55cca3c7af2abc660e85724a390
+SHA256: 03584f3355bf60f7b6492bec09cd0a1fd4b45d37355218a5a1a3ad4896950a63
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.5-0
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.5-0_iphoneos-arm64.deb
+Size: 500104
+MD5sum: 43b47291808e959490266349033e5178
+SHA1: 5330c32c834f0fea76a665c2afc7abff1e42899d
+SHA256: 36d77a921e8b8ce0e93a669313c47d0d8dd8c20b836ea8131ca017f3ea460b30
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
 Package: com.wechat.xuanzhuan
 Version: 0.0.1
 Architecture: iphoneos-arm64
