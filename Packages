@@ -17729,6 +17729,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
 Name: 百款精选提醒声
 
+Package: com.wkk.tpphook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.tpphook_1.0_iphoneos-arm64.deb
+Size: 2992
+MD5sum: 1234211817659bacd7a88235d9a69d86
+SHA1: 1f4733558b4bd622a8c8021d02351e2fe6a45e9a
+SHA256: bfccde191eb5a0c831539588a842096030f4decedd5158bd2bca07c0f854f3fe
+Section: 去广告
+Description: 去开屏，版本：11.17.6
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+Name: 淘票票NoAds
+
+Package: com.wkk.tpphook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.tpphook_1.0_iphoneos-arm64e.deb
+Size: 4278
+MD5sum: f00cac3b3fca0d36ba223745c6e68d9a
+SHA1: d06ac63e0e325b0a16efe934ada09508a75bf8da
+SHA256: 4efa251db45d4eba58d61fa344eda283772708a3e5e1344974cdbf030a95f355
+Section: 去广告
+Description: 去开屏，版本：11.17.6
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+Name: 淘票票NoAds
+
 Package: com.wkk.txsphook
 Version: 1.0
 Architecture: iphoneos-arm64
