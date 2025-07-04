@@ -18072,6 +18072,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/06/15/b316043d10ba63ae984e22bc0c193efd.png
 Name: 什么值得买NoAds
 
+Package: com.wkk.zgdxhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zgdxhook_1.0_iphoneos-arm64e.deb
+Size: 4526
+MD5sum: dd080bf98d277e5b9d2fe5b812cbd7d8
+SHA1: ed86e15f37d08b90c3fdc87bd16b56777383c7b2
+SHA256: e818fdc7cf3453209b4fa479be23744f0bf6cecafe5978ee07131b54bf032045
+Section: 去广告
+Description: 自用9.0版本（推荐），最新版我测试不完美（也能用）不想用最新版（9.0不支持注入）。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/a5778ca861ddac510494241b6e58cb06.jpeg
+Name: 中国电信NoAds
+
+Package: com.wkk.zgdxhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zgdxhook_1.0_iphoneos-arm64.deb
+Size: 3116
+MD5sum: 9ab0322467c71941a3369c628f1bc64f
+SHA1: e953f4f380c0f4a75e5bdd51c87bfd9063120385
+SHA256: e41135cc22f6a8e26e7dc70a48f860a79bd40bcabc75a66658d7e740a41f4be4
+Section: 去广告
+Description: 自用9.0版本（推荐），最新版我测试不完美（也能用）不想用最新版（9.0不支持注入）。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/a5778ca861ddac510494241b6e58cb06.jpeg
+Name: 中国电信NoAds
+
 Package: com.wkk.zhihuhook
 Version: 1.0
 Architecture: iphoneos-arm64
