@@ -17264,6 +17264,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.jpeg
 Name: 重启用户空间启动logo
 
+Package: com.wkk.mtwmhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mtwmhook_1.0_iphoneos-arm64.deb
+Size: 3724
+MD5sum: c1e524e77da704c3cf252191a6b99e2e
+SHA1: 38be397efae3ef108b9b595dbc68e4bb36e73f02
+SHA256: a25e3137cbbbbf6523450a22161fcad0544420e0718862976bab729d43493e54
+Section: 去广告
+Description: 去开屏广告+小优化（无法注入 app无框架），测试版本：8.53.0（源内相同类插件对应的app不建议升级 找准对应测试版本降级即可 这类的app可以用就行了 小学生勿扰）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
+Name: 美团外卖NoAds
+
+Package: com.wkk.mtwmhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mtwmhook_1.0_iphoneos-arm64e.deb
+Size: 5342
+MD5sum: 429347c377103f7533e69328ca714389
+SHA1: 7b495b0a0648dbfe9adbf840ac806aa8e4f46c8a
+SHA256: c6d688a191e3aee56ddd559eb8b3992a0cb9f3456b2f4c50fe24b3231c2171f8
+Section: 去广告
+Description: 去开屏广告+小优化（无法注入 app无框架），测试版本：8.53.0（源内相同类插件对应的app不建议升级 找准对应测试版本降级即可 这类的app可以用就行了 小学生勿扰）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
+Name: 美团外卖NoAds
+
 Package: com.wkk.nndxguazai
 Version: 2.0
 Architecture: iphoneos-arm64
