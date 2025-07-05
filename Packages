@@ -12658,41 +12658,6 @@ Author: PoomSmart
 Icon: https://www.susubaby.top/images/apppad.PNG
 Name: AppPad
 
-Package: com.ps.githubweblegacycompat
-Version: 2.3.2
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 2180
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), firmware (<< 16.4), com.ps.polyfills (>= 2.1.0)
-Filename: ./debs/com.ps.githubweblegacycompat_2.3.2_iphoneos-arm64.deb
-Size: 324928
-MD5sum: 66eb4f8ce0818613c9730fb538dfefca
-SHA1: 53577f906130d60ae3514f61b0b4c2dabe733a6b
-SHA256: ec6bc2be4ebd17bb962f451d8aac3812f4c5eb67fe417698c4385aeee9379673
-Section: Tweaks
-Description: 通过注入JS和CSS并删除不支持的语法,使GitHub网站在iOS16.3及更低版本上更易于访问。
-Author: PoomSmart
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: GitHubWebLegacyCompat
-
-Package: com.ps.githubweblegacycompat
-Version: 2.3.2
-Architecture: iphoneos-arm64e
-Maintainer: PoomSmart
-Installed-Size: 2180
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), firmware (<< 16.4), com.ps.polyfills (>= 2.1.0)
-Filename: ./debs/com.ps.githubweblegacycompat_2.3.2_iphoneos-arm64e.deb
-Size: 842594
-MD5sum: 14c772dd854072a4bda75f3229dfc77d
-SHA1: 1ac562274d7afaba8bd4183ac31c43b37d249da3
-SHA256: a279ba74d7218ef307cf98a8c9d8217b5c726d80fe228b16b5fb7acc50117ae9
-Section: Tweaks
-Description: 通过注入JS和CSS并删除不支持的语法,使GitHub网站在iOS16.3及更低版本上更易于访问。
-Author: PoomSmart
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: GitHubWebLegacyCompat
-
 Package: com.ps.smoothcursorios13
 Version: 0.0.1
 Architecture: iphoneos-arm64e
