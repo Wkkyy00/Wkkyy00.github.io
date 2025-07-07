@@ -14099,6 +14099,40 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/haluo.png
 Name: EasyBikeNoAds
 
+Package: com.sudo.debra
+Version: 2.9.9
+Architecture: iphoneos-arm
+Maintainer: Sudo
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.sudo.debra_2.9.9_iphoneos-arm.deb
+Size: 22784
+MD5sum: ecbf5208b0a15997c21d012281348efe
+SHA1: 938b05aea4d6459b48662c45e1cb6dd81fa0f8d1
+SHA256: b3b491b268abe2bd88f0a18013486b5d66458e1900fa6439ad6cb585b6f06c78
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Author: Sudo
+Depiction: https://sudo9000.github.io/depictions/debra/index.html
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
+Name: Debra
+
+Package: com.sudo.debra
+Version: 2.9.9
+Architecture: iphoneos-arm64
+Maintainer: Sudo
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), gzip, sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.sudo.debra_2.9.9_iphoneos-arm64.deb
+Size: 24316
+MD5sum: b97e9db16f43f66b17e72a2707277616
+SHA1: a10cb219666b4591c2e14e531495ebdd8db84a9f
+SHA256: 9d8dd39bab8f3e336b7fd3cc73ac6c2dd5a3b38c2f136b6cee6dd0e31cfb7d23
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal.
+Author: Sudo
+Depiction: https://sudo9000.github.io/depictions/debra/index.html
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
+Name: Debra
+
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
 Architecture: iphoneos-arm64
