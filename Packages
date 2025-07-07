@@ -13224,6 +13224,41 @@ Author: SGWC
 Icon: https://s1.imagehub.cc/images/2025/02/07/2e759b7639963ed967fa1888a9113c58.png
 Name: Events
 
+Package: com.shiftcmdk.bookmarkicons
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: shiftcmdk
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0-1+debug_iphoneos-arm64.deb
+Size: 16908
+MD5sum: 61e9266e82a62bc2d2e07d9762d38cbd
+SHA1: 786eeb4b8f0b03ba51afd8dd7cdf95db7466e603
+SHA256: 5d5a2190ed1c87d7e62c8570ef58d614114b5f127ebfbcd71292e5967c3eb542
+Section: 插件
+Description: 为Safari浏览器书签设置自定义图标。
+Author: shiftcmdk
+Icon: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/icon.png
+Name: SafariBookmarkIcons
+
+Package: com.shiftcmdk.bookmarkicons
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: shiftcmdk
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0-1+debug_iphoneos-arm64e.deb
+Size: 22830
+MD5sum: c15891992e3b71c2b71ff950ff824c92
+SHA1: ca8af481497d18be31bb0505867270b1f6bb374b
+SHA256: f05a65db684bfea39b209da68731703989bd9acffbd2bb5326dcd0a420de24e8
+Section: 插件
+Description: 为Safari浏览器书签设置自定义图标。
+Author: shiftcmdk
+Icon: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/icon.png
+Name: SafariBookmarkIcons
+
 Package: com.shtm.flexibleexpression
 Version: 1.1.0
 Architecture: iphoneos-arm64e
