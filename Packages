@@ -8920,6 +8920,45 @@ Author: null
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: HBB多开无后台Callkit
 
+Package: com.hg13.reboothelper
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: hg13 <hg13bs@gmail.com>
+Installed-Size: 528
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.hg13.reboothelper_2.0.0_iphoneos-arm64e.deb
+Size: 67064
+MD5sum: 5b7428f6b69ddefff054ecce90435f1d
+SHA1: 3f89edcdb475d01c0d2a0763cba2cab822dd1f30
+SHA256: 01c047eb39debda84484a3034133064b196b5020c6fc46b23c0c29a9d4dd034f
+Section: Tweaks
+Description: 调整/定时以自动化常见的越狱操作，如注销和用户空间重启等，并使用按钮序列。
+Tag: compatible_min::ios13.0
+Author: hg13 <hg13bs@gmail.com>
+Depiction: https://chariz.com/get/reboothelper
+Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
+Name: Reboot Helper (Beta)
+
+Package: com.hg13.reboothelper
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: hg13 <hg13bs@gmail.com>
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.hg13.reboothelper_2.0.0_iphoneos-arm64.deb
+Size: 64480
+MD5sum: e93198410b7524cda4e136569b6a94fe
+SHA1: 050f9a7c1cfea86a6b1db26c1c9663d5d64d045d
+SHA256: fc67d1cb0961ce4d29dd89355acf0bfadba315980990ba32d3fb837f1eb25201
+Section: Tweaks
+Description: 调整/定时以自动化常见的越狱操作，如注销和用户空间重启等，并使用按钮序列。
+Tag: compatible_min::ios13.0
+Author: hg13 <hg13bs@gmail.com>
+Depiction: https://chariz.com/get/reboothelper
+Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
+Name: Reboot Helper (Beta)
+
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64
