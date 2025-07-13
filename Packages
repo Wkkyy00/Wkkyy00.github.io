@@ -17538,6 +17538,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.jpeg
 Name: 重启用户空间启动logo
 
+Package: com.wkk.luping
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: null
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.luping_1.0_iphoneos-arm64e.deb
+Size: 39660
+MD5sum: 4309fc2cf800acd5103df4fb70d5a712
+SHA1: 4a26a6bf60c656b0048e241353f0649d2d8ee241
+SHA256: d16bafe52e5608a1ff8bfe288f5e0fbe4b0b76621e7596fb27d2069d1ef3cd6f
+Section: Dopamine挂载
+Description: 隐根挂载后直装，重新越狱也不会失效。
+  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+Author: null
+Icon: https://www.susubaby.top//images/luping.png
+Name: 灵动岛录屏写轮眼
+
 Package: com.wkk.mtwmhook
 Version: 1.0
 Architecture: iphoneos-arm64
