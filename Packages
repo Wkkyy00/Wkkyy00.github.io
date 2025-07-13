@@ -17544,10 +17544,10 @@ Architecture: iphoneos-arm64e
 Maintainer: null
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.wkk.luping_1.0_iphoneos-arm64e.deb
-Size: 41660
-MD5sum: 9e933470514af4c699848c92145a16eb
-SHA1: b9bab98c39f35a754f518388fa1995faee5bd671
-SHA256: 55d66491d1acc295f964e09cc59c13218c57b1194a74a75f6f9fdb4808618174
+Size: 41672
+MD5sum: ce191117ff1173d1467c880ecfda8c62
+SHA1: a1cc621ad128f12e4d91e33771091337ae2236e2
+SHA256: ab243f68fb6cbda993693c472c8558de6e901faef1995e33fac489f393534096
 Section: Dopamine挂载
 Description: 隐根挂载后直装，重新越狱也不会失效。
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
