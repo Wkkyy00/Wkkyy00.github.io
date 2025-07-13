@@ -16401,6 +16401,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
 Name: SquidExtender26&9
 
+Package: com.wkk.apptoolsmh
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.apptoolsmh_1.0_iphoneos-arm64e.deb
+Size: 109444
+MD5sum: d0ce982255788256691f664615a93191
+SHA1: 6332e870303b5b07b918f46e9c4877d80dadc521
+SHA256: 317cdaeb2bb5b3dc29796b2cc3b54db6dccdf3f886c99a9b22480cbfdff88861
+Section: 一切美化的东西都是垃圾
+Description: 安装Apptools插件后直装。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Apptools美化
+
+Package: com.wkk.apptoolsmh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.apptoolsmh_1.0_iphoneos-arm64.deb
+Size: 108932
+MD5sum: 27dc9dcafc465d66641d5fb24b9f9e3e
+SHA1: 22ad90a046582a92db20bf140a7b1d779c277f05
+SHA256: 8c7a7c6e8ee5602ac92a74f9006a55ac1adb5f7f03fd21751ebe3a9e24c129cb
+Section: 一切美化的东西都是垃圾
+Description: 安装Apptools插件后直装。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Apptools美化
+
 Package: com.wkk.baiduwangpanhook
 Version: 1.0
 Architecture: iphoneos-arm64
