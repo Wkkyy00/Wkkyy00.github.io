@@ -17544,10 +17544,10 @@ Architecture: iphoneos-arm64e
 Maintainer: null
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.wkk.luping_1.0_iphoneos-arm64e.deb
-Size: 41672
-MD5sum: ce191117ff1173d1467c880ecfda8c62
-SHA1: a1cc621ad128f12e4d91e33771091337ae2236e2
-SHA256: ab243f68fb6cbda993693c472c8558de6e901faef1995e33fac489f393534096
+Size: 38612
+MD5sum: 8fba196cd99e7330c09dfd1dd7c4fba8
+SHA1: 2b08e2e45ac3ee0625f058ff13bcf31d1db02ce6
+SHA256: 5b9cea51cab14f03e54d38baf67f72922357440acd66bbe8deed8e982f416c06
 Section: Dopamine挂载
 Description: 隐根挂载后直装，重新越狱也不会失效。
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
@@ -18415,6 +18415,24 @@ Description: 去知乎开屏广告，测试版本：10.0.0.高版本自测，自
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
 Name: 知乎NoAds
+
+Package: com.wkk.zhuanjixuanzhuan
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0_iphoneos-arm64e.deb
+Size: 5466
+MD5sum: c3471f1998a310e014a3a4f9b9d01242
+SHA1: 40e675e2115bbc587f7f14493349e06be6379c9a
+SHA256: 0acd1f82d5ac7382151a33f93a2665b5371da0a2d4adc96d20196c87fc78c55b
+Section: Dopamine挂载
+Description: 仅支持ios16无根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+  * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
+Name: 灵动岛音乐专辑旋转
 
 Package: com.wkk.zhuanjixuanzhuan
 Version: 1.0
