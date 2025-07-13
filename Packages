@@ -15553,6 +15553,40 @@ Icon: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/
 Name: Depths
 Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/js.json
 
+Package: com.vita.cnnoad
+Version: 0.1-2-2
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.cnnoad_0.1-2-2_iphoneos-arm64.deb
+Size: 6200
+MD5sum: 72e8d95a734a345f0f027a1a0843ca67
+SHA1: 9a8d41665bf71c873e0c370fcb4b30451be99b6d
+SHA256: 0ce822b5705e30e50d59b4da72a168acb6092b4a81a5486f15e6425208c9133e
+Section: 去广告
+Priority: optional
+Description: 菜鸟去广告 by Vita
+Author: vita
+Name: CNNoAd
+
+Package: com.vita.cnnoad
+Version: 0.1-2-3
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.cnnoad_0.1-2-3_iphoneos-arm64e.deb
+Size: 6136
+MD5sum: 616caa38ecc4428b3c8147da275dfb49
+SHA1: 1ca96e52cd053b35d1acbe29d37633c9ecd00e09
+SHA256: 3700ec7a6eed7a3217b1333fbc4580e56f23858cd34c5bff1af10f513a48c89f
+Section: 去广告
+Priority: optional
+Description: 菜鸟去广告 by Vita
+Author: vita
+Name: CNNoAd
+
 Package: com.waqt
 Version: 1.4
 Architecture: iphoneos-arm64
