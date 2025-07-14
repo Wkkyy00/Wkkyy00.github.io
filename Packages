@@ -15587,6 +15587,41 @@ Description: 菜鸟去广告 by Vita
 Author: vita
 Name: CNNoAd
 
+Package: com.vita.cnnoad
+Version: 0.1-3-1
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.cnnoad_0.1-3-1_iphoneos-arm64.deb
+Size: 6308
+MD5sum: 164855cb3a1d6eb87cd515ba361e4ca8
+SHA1: 1e831549df47e75ea7b5921172e0115d2881d434
+SHA256: 651c2a92fa465feae2a9ffd8805993353e7949cde2262be8412eebd665793ba4
+Section: 去广告
+Priority: optional
+Description: 菜鸟去广告 by Vita
+Author: vita
+Name: CNNoAd
+
+Package: com.vita.cnnoad
+Version: 0.1-3-1
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.cnnoad_0.1-3-1_iphoneos-arm64e.deb
+Size: 8218
+MD5sum: ecf2e56150611cf5436ba2703d28d855
+SHA1: 3df4cdb50767b0ad0793292f34548deec0cff745
+SHA256: dddb88748a3f13baf5ab5ac830c2582df6cbf14a04e1ea390603d42fb91f21ca
+Section: 去广告
+Priority: optional
+Description: 菜鸟去广告 by Vita
+Author: vita
+Name: CNNoAd
+
 Package: com.waqt
 Version: 1.4
 Architecture: iphoneos-arm64
