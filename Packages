@@ -461,6 +461,57 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.2.3
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55828
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/ch.xxtou.xxtouch_5.2.3_iphoneos-arm64.deb
+Size: 19340984
+MD5sum: 131411040503db2f9cba2ca305d6bb9b
+SHA1: 6f41f0cd2e38f64ef924adace507e73e9df943db
+SHA256: 94a4e1247a35083bc6cbdbbec4e03cd682e69c62c121f4261ba43b4424e2da0c
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2.3
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55832
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/ch.xxtou.xxtouch_5.2.3_iphoneos-arm64e.deb
+Size: 19339448
+MD5sum: 9fb75de2ff220abdfc8c2da86d465a14
+SHA1: 9495621f29db515ca5be4f09a2139c5f943d1a56
+SHA256: fad5a00a4b184b19cd52ecfceb6f5db5933ff9b6c247aa12e5048686a26ec0da
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2.3
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55728
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/ch.xxtou.xxtouch_5.2.3_iphoneos-arm.deb
+Size: 19340476
+MD5sum: 5a729d9d17f34138d62fa031e9a927a4
+SHA1: 828d060ce9d70745736a3adc3845336f3b868889
+SHA256: 31aab15de9d32d74b60b70d94460b6c2d83f7daad908beacacc4b643cc5cc15b
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
 Package: cn.Bswbw.fixsets
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -16220,6 +16271,41 @@ Size: 1462782
 MD5sum: 3eba3e28a99c42cad2e9ccc2305a2414
 SHA1: c691174e8833d55cca3c7af2abc660e85724a390
 SHA256: 03584f3355bf60f7b6492bec09cd0a1fd4b45d37355218a5a1a3ad4896950a63
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.5-3
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.5-3_iphoneos-arm64.deb
+Size: 530256
+MD5sum: f969b91886f2becd18c139511c96c9fb
+SHA1: 69fc92de87d1422d17c7931d31e25a5c22efcc4d
+SHA256: 5f3164931472c82b4c30037b1e80f4ba546f3b88277f87bd4a11ed9486ceaf11
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEnhance
+
+Package: com.wechat.enhance
+Version: 1.5-3
+Architecture: iphoneos-arm64e
+Maintainer: 愫 茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.5-3_iphoneos-arm64e.deb
+Size: 1573802
+MD5sum: 74c46600248a95731ea814aca2b8abca
+SHA1: 2ac33272679e84bb34a8053df18ec56c2a392c60
+SHA256: ab737b290780d0243f78ae7833fc50070838e0b068468d29f44d7fcfb0d1b846
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
