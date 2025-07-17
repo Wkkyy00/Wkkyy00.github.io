@@ -14469,20 +14469,36 @@ Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
 Package: com.susu.springanimation
-Version: 1.0.4
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.springanimation_1.0.1_iphoneos-arm64e.deb
+Size: 4268
+MD5sum: 25464d60eac7b7c7ea9a2397f9f63429
+SHA1: 71fb4ecd906ad81e666ad6c24d32e10c5fe38d4a
+SHA256: 0e7478f3d1fb9616c0e60ad50689d309361406b9bf69290dcfbeb2437c8a296b
+Section: 插件
+Description: 神奇的交互动画双0.1模式，也是自用。
+Author: 苏苏
+Name: SpringAnimation
+
+Package: com.susu.springanimation
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 苏苏
-Installed-Size: 180
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.springanimation_1.0.4_iphoneos-arm64.deb
-Size: 10744
-MD5sum: 9d6d17a0e1df93ee0f48529ea4206b35
-SHA1: 168931f6bb3fe2cadbe5c1509e335db889cfb316
-SHA256: ae528087e918b513f0bf3cc10a6d2d7019b81e048849abe069ffa6375f460385
+Filename: ./debs/com.susu.springanimation_1.0.1_iphoneos-arm64.deb
+Size: 3536
+MD5sum: 8a5d975d2e9db339470b135597cb29dd
+SHA1: 064570133b8000cfc2be53072744565bd541269b
+SHA256: 6d8e69237156e4f15d9db104645855b739d1341ca026873fa29dcc02bee00e7c
 Section: 插件
-Description: 桌面交互动画，激活联系QQ:2914115314($14.99软妹币)
+Description: 神奇的交互动画双0.1模式，也是自用。
 Author: 苏苏
-Icon: https://www.susubaby.top/images/springanimations.png
 Name: SpringAnimation
 
 Package: com.susu.storeswitcher2
