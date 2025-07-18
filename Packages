@@ -14409,6 +14409,39 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
 Name: NoPreferencesTips
 
+Package: com.susu.photos
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.photos_1.0.0_iphoneos-arm64e.deb
+Size: 4916
+MD5sum: 0b41fa5ce2f349c2f3e1e81ca26e1737
+SHA1: bbd91f0b85b622ed44e009f9d222b89c46f565eb
+SHA256: 041fc2d881659030153c60cd973213823c533cbdc68c7642591a336147c18668
+Section: Tweaks
+Description: 删除原生相册无用的窗口
+Author: 苏苏
+Name: SuPhotos
+
+Package: com.susu.photos
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.photos_1.0.0_iphoneos-arm64.deb
+Size: 3572
+MD5sum: 15876d7e90c6c0442e3cb0da12b13a8c
+SHA1: 48340c8563e703b16df105e0299e800d0544d5a6
+SHA256: 07c09914ecae84784017cba4b945caa4cd4be10332f18dfc89009fdb10b8cb9d
+Section: Tweaks
+Description: 删除原生相册无用的窗口
+Author: 苏苏
+Name: SuPhotos
+
 Package: com.susu.powermenu
 Version: 1.0.6
 Architecture: iphoneos-arm64
