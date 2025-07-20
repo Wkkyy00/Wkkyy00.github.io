@@ -3155,6 +3155,41 @@ Author: baiy <QQ：961666883>
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: qq输入框圆角
 
+Package: com.be-huge.custom-notification-sound
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.custom-notification-sound_1.0.0_iphoneos-arm64.deb
+Size: 59236
+MD5sum: e12b7d4768c9b2f59201426edc3a7748
+SHA1: a036849fd874a88cf7393b44b1145f39dc6d1caa
+SHA256: e54c744ea305c4a34111eeba57673da9abb4318f096d899ca8117fc90be58c96
+Section: 微信插件
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: CustomWeChatNotificationSound
+
+Package: com.be-huge.custom-notification-sound
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 540
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.custom-notification-sound_1.0.0_iphoneos-arm64e.deb
+Size: 61036
+MD5sum: d7989bc81c488089deedfd0c88f7536e
+SHA1: b3fea7605f3cb81f0c5878db329c763ed2e3cf0e
+SHA256: f39ddee40c8144346061552ede209bd53319048b9abf2c62d41ef3d9196be604
+Section: 微信插件
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: CustomWeChatNotificationSound
+
 Package: com.be-huge.floating-view
 Version: 1.4.6
 Architecture: iphoneos-arm64e
