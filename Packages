@@ -8338,6 +8338,38 @@ Description: FLEX (中文版) - 支持iOS 9.0及以上设备
 Author: FLEX Team & pxx917144686
 Name: FLEX 调试工具
 
+Package: com.flex2areo.appprotectroothide
+Version: 2.0.7
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2044
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectroothide_2.0.7_iphoneos-arm64e.deb
+Size: 515086
+MD5sum: 653cacf078411d50b07fa4cb0928d359
+SHA1: d658da32b853e4cc43601140133e73a496e4e433
+SHA256: f0e2ccbdf6ee92ca217bee7f1e56cde5ea285da877d355a4a81880b1be7e3bc8
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Roothide)
+
+Package: com.flex2areo.appprotectrootless
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2144
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.flex2areo.appprotectrootless_2.0.7_iphoneos-arm64.deb
+Size: 541454
+MD5sum: 4f42fb7eea1889ae0b9832bbbc293505
+SHA1: 2974df3e484fec42fdd92b8c9850121ca92ef416
+SHA256: dd23d27f194fc265a105b667dd2b2cb8c234a988ff5f67701ea0407b0ac45887
+Section: Tweaks
+Description: App 隐私保护
+Author: aReo
+Name: AppProtect(Rootless)
+
 Package: com.flex2areo.apptools15roothide
 Version: 2.0.0
 Architecture: iphoneos-arm64e
