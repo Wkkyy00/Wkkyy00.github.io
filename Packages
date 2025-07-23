@@ -20340,6 +20340,74 @@ Depiction: nebula
 Icon: https://s1.imagehub.cc/images/2025/02/01/35cc41ac1e924657c3e222247af3a198.png
 Name: Ding
 
+Package: me.tomt000.copylog
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: TomT000
+Installed-Size: 5880
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/me.tomt000.copylog_1.7_iphoneos-arm64e.deb
+Size: 5817564
+MD5sum: 7ee477b2f64f32f9681eb24a2814a364
+SHA1: e4ad02b21970de75263aad8e6edf642e030e18d3
+SHA256: 7f35d083c19d0c6f8a3e71e3635a7c76031e6f0a4df5599c8bfd4c178660aa6a
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Name: CopyLog
+
+Package: me.tomt000.copylog
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: TomT000
+Installed-Size: 5880
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/me.tomt000.copylog_1.7_iphoneos-arm64.deb
+Size: 2277648
+MD5sum: 1d3ab52933eef9d4c5f1e3c131cae948
+SHA1: 460895c4734df090b32b3495f2db13dd64ec31a3
+SHA256: 87ed5c88c4023084141c3f083bebe2051ca966f099e33b21df62d1a822fc1899
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Name: CopyLog
+
+Package: me.tomt000.stageduo
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: tomt000
+Installed-Size: 4900
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.tomt000.stageduo_1.2_iphoneos-arm64e.deb
+Size: 6692742
+MD5sum: 35045d3ee51aad68a49889d5a2b0d0f8
+SHA1: 73385d4b5d43e858c34bdca483258790bcb45fe2
+SHA256: 52fc50e1057c3a3a5df685cb3eeadb73d27e130ba6642487a4b4ce7dc75d355d
+Section: Tweaks
+Description: Stage Manager Reimagined for iPhone
+Author: tomt000
+Name: Dynamic Stage
+
+Package: me.tomt000.stageduo
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: tomt000
+Installed-Size: 4900
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.tomt000.stageduo_1.2_iphoneos-arm64.deb
+Size: 3086730
+MD5sum: a7928dbcbcda367cd69eb0fcaa43ee8e
+SHA1: 6bc513dd33949b42150a745488cd45c12353ef06
+SHA256: f55144278ad75d2c56f14900793c330ccc51f06b2839656e0ebfa812efe4a84f
+Section: Tweaks
+Description: Stage Manager Reimagined for iPhone
+Author: tomt000
+Name: Dynamic Stage
+
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
 Architecture: iphoneos-arm64e
