@@ -10381,6 +10381,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: DYYY
 
+Package: com.huami.dyyy
+Version: 2.2-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2536
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-8_iphoneos-arm64.deb
+Size: 507528
+MD5sum: 229bbc3a0e3c7baacc897638545eabc6
+SHA1: 47c7ee488fac4d776ad85b23d53e2554c6c024f6
+SHA256: 00a8f5775c0058a6e72ebdd1c6c7393ada66c7cdba33e9b7d4b6098d8acbcc7a
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！不更了，自己也在用，抖音版本35.1.0。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy
+Version: 2.2-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-8_iphoneos-arm64e.deb
+Size: 1468808
+MD5sum: 7b479a4e6d843e3b4b7a082ded194aea
+SHA1: 85f1f15a9847696b3cd9a66dbe09c5ce65134cfd
+SHA256: 6d465753a048e0c79fcaae58eccaf9928359bd2afd0a944ccb9026c6396818f2
+Section: 抖音插件
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！不更了，自己也在用，抖音版本35.1.0。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: 抖音魔术师
+
 Package: com.huami.kbstyle
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -12096,6 +12131,41 @@ Description: 微信支持AB测试的本地备份，仅8.0.50+
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCABTestLocalBackup
+
+Package: com.netskao.wcdisablehotupdates
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcdisablehotupdates_1.1-2_iphoneos-arm64.deb
+Size: 2352
+MD5sum: 5e3ca9ca0c84a804dc9467a86b26f033
+SHA1: cdbb2ee93070fdfd0c34778c26e0e0dda1aecd8e
+SHA256: 895af1f94bf7e6157f911af5a175a942d7c52606354db01be5bcfd16322eb342
+Section: 微信插件
+Description: 禁用vx8061+的热更新。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCDisableHotUpdates
+
+Package: com.netskao.wcdisablehotupdates
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcdisablehotupdates_1.1-2_iphoneos-arm64e.deb
+Size: 3398
+MD5sum: 19bc19985041874c1be2123afb3ce6a3
+SHA1: 6ba15b4e3bc48d843dc554811f814bfa1151371e
+SHA256: e0620b49949f4646f37501e5d74692e399ebafb77f0d0c894948ada7a8c7824c
+Section: 微信插件
+Description: 禁用vx8061+的热更新。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCDisableHotUpdates
 
 Package: com.netskao.wcdisablehotupdatess
 Version: 1.1-1
