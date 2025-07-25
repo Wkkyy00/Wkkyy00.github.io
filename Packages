@@ -8546,6 +8546,22 @@ Description: AppTools for iOS15-16 Roothide
 Author: aReo
 Name: AppTools15-16(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.2.2
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2124
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15roothide_2.2.2_iphoneos-arm64e.deb
+Size: 511326
+MD5sum: 741cb45f2b48e636a318e8ee73c20ab3
+SHA1: 314ca58f21851b26e5897808f6f4d1375fbc2553
+SHA256: 55ea67303683d43b7faf5708e2859e6ef40ccc807c5364da5bbde544b3d4fcbd
+Section: Tweaks
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Name: AppTools15-16(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -8717,6 +8733,22 @@ Size: 516844
 MD5sum: 50a27e66deebcfd2a47e3398144fb8d5
 SHA1: 8d604990f43713dc2e5e8f689d494a4b39e3fb69
 SHA256: 9e610b814790a7ba67d350875c58c15699ff0aad8fc11e274471633ac9022105
+Section: Tweaks
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Name: AppTools15-16(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2220
+Depends: mobilesubstrate
+Filename: ./debs/com.flex2areo.apptools15rootless_2.2.2_iphoneos-arm64.deb
+Size: 522148
+MD5sum: f68b7bf614bc1cafedf42c53cea8ec1e
+SHA1: af18176370b822a5e4771e01d529576c6a166be8
+SHA256: d7afef120f4bda58714e054aec77de1ee103db0f9b4567a5ef5503594a840bfb
 Section: Tweaks
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
@@ -17584,6 +17616,39 @@ Author: CydiaGeek
 Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.png
 Name: Dock显示app名称
 Sponsor: wkk
+
+Package: com.wkk.dy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dy_1.0_iphoneos-arm64.deb
+Size: 2573176
+MD5sum: 6435cb6a743f1bdab95b22f05a79c0e1
+SHA1: 77ec8d79ad7e6db88c40a116dd1dba567e79cb62
+SHA256: 0e2cfc073329991df0e78211b487c064752a98135ee0f4d36d273d90c6dd2d0e
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: dyyy个人配置(自用)
+
+Package: com.wkk.dy
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dy_1.0_iphoneos-arm64e.deb
+Size: 5391770
+MD5sum: 7f5e2f6577502a7d045d0678b15f5fb1
+SHA1: 60b5f5fa73facb601c9ef7576222ac456fd03da0
+SHA256: 11429381e552e7207a614bc385befe478bbea5522da687ca267bf7289a7dea76
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: dyyy个人配置(自用)
 
 Package: com.wkk.dyhook
 Version: 1.0
