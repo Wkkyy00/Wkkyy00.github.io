@@ -20529,6 +20529,24 @@ Description: Clipboard history manager for iOS!
 Author: TomT000
 Name: CopyLog
 
+Package: me.tomt000.copylog
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: TomT000
+Installed-Size: 2240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/me.tomt000.copylog_1.7.1_iphoneos-arm64e.deb
+Size: 2204044
+MD5sum: 2dc1d5fdc23f7e31c1ab041cf543afaa
+SHA1: 4690d55d5bf21d6c73159356db6a247227ce6f23
+SHA256: 2661803df47765f002c8b11fb37ba36362080f1f6f6969ec725f72e5fd233dbf
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Name: CopyLog
+
 Package: me.tomt000.stageduo
 Version: 1.2
 Architecture: iphoneos-arm64e
