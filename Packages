@@ -11548,6 +11548,25 @@ Author: Mikoto
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: Mikoto 助手
 
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V3
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/com.mikotohelper.wechat_1.3.6-V3_iphoneos-arm64.deb
+Size: 21014484
+MD5sum: 660ee457f239d02ecdf5e57e4259e6c0
+SHA1: 399079eb8de110c58e56b79276ae24a9154ae280
+SHA256: be88c78150a7731792b74a41e83465cd52776871ccd4439321a408178ff38aa7
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件。
+Author: Mikoto
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: Mikoto 助手
+
 Package: com.miro.libmiroshared
 Version: 1.0.2
 Architecture: iphoneos-arm64e
@@ -15200,14 +15219,14 @@ Maintainer: 苏苏
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.wcfrostedglass_1.0.5_iphoneos-arm64.deb
-Size: 4860
-MD5sum: 7f85f2fd62e6b5ce2bfa9faa8e1870bb
-SHA1: 13ca9b3fb6488782cf416ff14a9e62a83c0cb56d
-SHA256: 7b2d90a98cb8fb1f341ca8f0a0df29c415f26106b27e1118f06d166d78f48d53
+Size: 4888
+MD5sum: 373e0a77dc19ce8fb5002cf1c4bee664
+SHA1: dc4575143c1a9c4a40931cbd8ea894867ffcbe4c
+SHA256: 1638b02f4ed0cea9c044c2e83ccd8ab535e8afb95c94f5e13c5031ebd3c3bc6c
 Section: 微信插件
 Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
 Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
 
 Package: com.swing.padswitcher
