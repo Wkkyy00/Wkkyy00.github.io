@@ -21249,6 +21249,26 @@ Name: uncar
 
 Package: wiki.qaq.chromatic.rootless
 Version: 3.0-rootless-release-1724937362.2952e67
+Architecture: iphoneos-arm64e
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64e.deb
+Size: 8664500
+MD5sum: 6163078104566760624a0c986909d2e8
+SHA1: 2c5a76cef790b9dc7aff0f94fefb747d1c4b2651
+SHA256: 6aeb4124af3126a274a32ebc0d4b555d473dcfea16e0b37c826749c3ec45792d
+Section: 应用程序
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: 越狱商店saily。仅备份。
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1724937362.2952e67
 Architecture: iphoneos-arm64
 Maintainer: Saily Team <support.0xa1@qaq.wiki>
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools
