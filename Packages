@@ -9998,6 +9998,77 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCPulse
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
 
+Package: com.huami.WCPulse
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-5_iphoneos-arm64e.deb
+Size: 151244
+MD5sum: 8de8dc08b6acd144ea6047e8ed9a6e00
+SHA1: 8b63c4b0a4a7335c8d40b24829c4b5da53474f70
+SHA256: f5209e28af7252e2b15b23f8b2f4da14d4be5b3671003fadfd2a5aa951a50897
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-5_iphoneos-arm64.deb
+Size: 105360
+MD5sum: c942f725a43f49104067edc2a1850c31
+SHA1: 5ecbc2e6f375a1d6fa3e33372d85fb3813280eff
+SHA256: b723c501fbbf220ebda9790533ed31142ff935b119811a66a9b23330a845a825
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse2
+Version: 1.1-5+fix2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse2_1.1-5+fix2_iphoneos-arm64e.deb
+Size: 105392
+MD5sum: f339341e36987e0cc04006fc1c735f5e
+SHA1: d8ab773d1ede7de25c71023cdf648f0c18a9f3d2
+SHA256: 59c056e30f07ba6561ad65b47a3aeb910527993ad72f741cb69bea0255987911
+Section: 微信插件
+Description: 低版本微信特供包 8.0.（31、49）特供版，点击聊天闪退的食用，原因是因为访问了一个高版本才有的方法导致异常
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse（低版本特供包）
+
+Package: com.huami.WCPulse2
+Version: 1.1-5+fix2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse2_1.1-5+fix2_iphoneos-arm64.deb
+Size: 105648
+MD5sum: 0ca51868b1afdcc0a73a8764f77ca1ab
+SHA1: 776802b5d52200ed93d56d23639d0de7343133a8
+SHA256: b74275c2d1eef46ec889b067e80556678b66d08fd2aed0cb38f658416003d6d4
+Section: 微信插件
+Description: 低版本微信特供包 8.0.（31、49）特供版，点击聊天闪退的食用，原因是因为访问了一个高版本才有的方法导致异常
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse（低版本特供包）
+
 Package: com.huami.dyyy
 Version: 1.9
 Architecture: iphoneos-arm64
