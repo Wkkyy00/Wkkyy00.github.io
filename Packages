@@ -9386,6 +9386,45 @@ Depiction: https://chariz.com/get/reboothelper
 Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
 Name: Reboot Helper (Beta)
 
+Package: com.hg13.reboothelper
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: hg13 <hg13bs@gmail.com>
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.hg13.reboothelper_2.0.0-1_iphoneos-arm64.deb
+Size: 63308
+MD5sum: cf1072ce5aaa0748f4db37da87f0d137
+SHA1: df6b266c73536357693393d60d36a376c347a59d
+SHA256: ff2657852ece65ad213e985052c652eb87f8476320ad80f054597bd5b151b3cd
+Section: Tweaks
+Description: Tweak to automate common jailbreak actions like Respring and Userspace Reboots etc, with button sequences.
+Tag: compatible_min::ios13.0
+Author: hg13 <hg13bs@gmail.com>
+Depiction: https://chariz.com/get/reboothelper
+Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
+Name: Reboot Helper (Beta)
+
+Package: com.hg13.reboothelper
+Version: 2.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: hg13 <hg13bs@gmail.com>
+Installed-Size: 544
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.hg13.reboothelper_2.0.0-1_iphoneos-arm64e.deb
+Size: 84774
+MD5sum: e6e665b5427eead0255db4b422cd2ae7
+SHA1: aca5c35e674d1ea767a9d7631b3389adb09e9d00
+SHA256: 73148b1a49f62204ebba133bd0bb56cb472456ccf25fa45c1e0093adde47936a
+Section: Tweaks
+Description: Tweak to automate common jailbreak actions like Respring and Userspace Reboots etc, with button sequences.
+Tag: compatible_min::ios13.0
+Author: hg13 <hg13bs@gmail.com>
+Depiction: https://chariz.com/get/reboothelper
+Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
+Name: Reboot Helper (Beta)
+
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64e
