@@ -10143,6 +10143,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCPulse
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
 
+Package: com.huami.WCPulse
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-7_iphoneos-arm64.deb
+Size: 132148
+MD5sum: 75307b9ec3d85ba3cd7c6a30221ebbc4
+SHA1: 9a0d3097ada25092c897b85ba089f60a66777a2f
+SHA256: 0b85083803026dbf7584660149db40d898c9251b15ce7b9fb632ffa162b60cd9
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-7_iphoneos-arm64e.deb
+Size: 188756
+MD5sum: 5c16246180f32f96408eae215373b12b
+SHA1: 09ebc19416c60096c0cfc50814c30b5329972d22
+SHA256: f134bb8ce06356da1477d411df912ef07bbbb82dfbf4c9ad7993548602899e3f
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
 Package: com.huami.WCPulse2
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64e
@@ -18342,6 +18379,22 @@ Description: 隐藏App所有角标。（即使来通知也没有，强迫症患�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/01/9907d147c9ab5cc57a511ed0496cf4d8.jpeg
 Name: HideIconBadge
+
+Package: com.wkk.hookcc
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.hookcc_1.0_iphoneos-arm64e.deb
+Size: 5536
+MD5sum: 4f1e4da575886f797cf615467718caf5
+SHA1: 12e2ae4c56fd3adf847e81a672b3aa31f6f3cc14
+SHA256: 493050453dce711d6d2b8a0b87e81bb9a8efb45e1549a1206103c177f4f94da1
+Section: Tweaks
+Description: 音量亮度增加百分比。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: HookCc
 
 Package: com.wkk.iconx
 Version: 1.0
