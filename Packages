@@ -10249,6 +10249,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCPulse
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
 
+Package: com.huami.WCPulse
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-9_iphoneos-arm64e.deb
+Size: 204080
+MD5sum: 1358ce00449c9b1c111fa99181ecb1ae
+SHA1: f520bd6c68b82a1d112edc40d9a2d3f993c3d3cf
+SHA256: b7b43c0fb83033663e8426a7164bae6286163f13c35423f02dec4fc483bf5fb8
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-9_iphoneos-arm64.deb
+Size: 141880
+MD5sum: a2e2f1d3c6eb588034ccf87cb52929a1
+SHA1: e7bc77f5072b99e75db7831c20bd664b0a26b014
+SHA256: 3b7a48d8a994087ad2316ca4815dc0e3f9bd05fc2d4080f95b2bfeb634d249c1
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
 Package: com.huami.WCPulse2
 Version: 1.1-5+fix2
 Architecture: iphoneos-arm64e
@@ -16305,6 +16342,41 @@ Size: 4318012
 MD5sum: ce2ce63767df0c5091ce26e7da9106a0
 SHA1: 36ed79c6c3252bc81bf178de4f4453ce84fe0cb0
 SHA256: de22226fdcbc897c081837a7635a327c3c9ccdfe7ffc2ad9aef72b9a83c139ba
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.1.3
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.3_iphoneos-arm64e.deb
+Size: 12280054
+MD5sum: 5c7a5f8c376959863486c7adfccf4ab3
+SHA1: a746cab2de5abb392e7126f54d943d849e781fb9
+SHA256: 9ca51f90d644acd792c238b97f0431b13c27a09122758e3b9048d7fba84167a0
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.3_iphoneos-arm64.deb
+Size: 4546684
+MD5sum: 7835b22826ecfa63ec20b10c746a1d80
+SHA1: 6f6b4469744fd613a0f44e23e1ee54d14b06380e
+SHA256: 2af6a09a4249ff826b8afbda2d505f1fcf2cc1ca8bbd52a0db8b40a9d8bc3a17
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
