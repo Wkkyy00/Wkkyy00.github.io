@@ -2347,6 +2347,22 @@ Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/01/24/a9cc7431956ac6dec7d92f7d9260cc64.png
 Name: 语音转文字免跳转
 
+Package: com.Dcsyhi.airaw
+Version: 1.6.7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
+Filename: ./debs/com.Dcsyhi.airaw_1.6.7_iphoneos-arm64.deb
+Size: 5898584
+MD5sum: 11c00e803e5ac3ff5d6fb9f63059dd70
+SHA1: 54f6c61affbca83ae6c4bb926cb05ddbe240f832
+SHA256: bf7908b288cf201a43efb74896d9226944f8515a4e5add029aca36139a33b089
+Section: Tweaks
+Description: Carplay拓展插件，可以改壁纸，让不是全屏显示的软件变成全屏，配合carbrige插件使用，改图标个数比例。
+Author: Dcsyhi
+Icon: https://huayuarc.github.io/images/Airaw.png
+Name: Airaw
+
 Package: com.Doki.kbstyle
 Version: 1.1
 Architecture: iphoneos-arm64
