@@ -512,6 +512,57 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.3.0
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 60136
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/ch.xxtou.xxtouch_5.3.0_iphoneos-arm.deb
+Size: 20356080
+MD5sum: 11abebc50df26017c4eecdcd49c3164d
+SHA1: bf6200e7fb20a3b43997650e2f5ec931e70778dc
+SHA256: fc6ad2c61de0abab1b5bda234d6a888d1b467c93d99f9576b38af3e13cf9a49d
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.3.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 60220
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/ch.xxtou.xxtouch_5.3.0_iphoneos-arm64.deb
+Size: 20359156
+MD5sum: baf7c5d45b86591db57f25cb53b6bfab
+SHA1: 379a6d0c1af9cd515deb94a31301f92ea72e75ee
+SHA256: 1c70fd50f257c7d6f749cf8dbae0c496e18058b5c8d685516197d33511a464ea
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.3.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 60220
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/ch.xxtou.xxtouch_5.3.0_iphoneos-arm64e.deb
+Size: 20361024
+MD5sum: b6bd19c6446dd3bc5e5f0705b21e3527
+SHA1: bf454bdb7dff173853270589ba4891d4cad3a1ae
+SHA256: 2734f5c68c1b22b3635b68277e67d6fac26fbcbcf420b938b53988516684db6c
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/04/17/8ead48a97d326f8eecd4e94de04e4e7f.png
+Name: XXTouch Elite
+
 Package: cn.Bswbw.fixsets
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -2328,6 +2379,58 @@ Section: 插件
 Description: 自定义连接vpn时的wifi/数据颜色，新增连接热点颜色。
 Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.5_iphoneos-arm64e.deb
+Size: 35428
+MD5sum: 59fdbb4e40b429a9f1372bc8ecb59d66
+SHA1: a8f44e489cc1df368acd364972bb4f23362c442e
+SHA256: a142a2a356d63b9da98aff2aa900c1a35483c71c29268f80915cb6a12e4b48d6
+Section: 插件
+Description: 自定义连接vpn时的wifi/数据颜色，新增连接热点颜色。
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.6_iphoneos-arm64e.deb
+Size: 28896
+MD5sum: f7385fd723e406c1358ed8f13a534b8a
+SHA1: 8a842b3653fbdec2a52ef3162b9a0aaa87af4fe6
+SHA256: bd583b73d3180bb6a349d239502df854378c3abcdfd6f504aba8598512fbe640
+Section: Tweaks
+Description: 自定义vpn颜色。
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.6_iphoneos-arm64.deb
+Size: 28964
+MD5sum: 6aebe42bd614810e7406943be74fc29b
+SHA1: 4df6e84c6fbd702c0ccb97bb6f0247dcf46d06ec
+SHA256: 3575b4cb33f378c44c89c262535575221bae88ba6f56cecd50555c304f84bd11
+Section: Tweaks
+Description: 自定义vpn颜色。
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 Name: Single VPN
 
 Package: com.82flex.wtvrbglauncher
@@ -9465,6 +9568,44 @@ Size: 84774
 MD5sum: e6e665b5427eead0255db4b422cd2ae7
 SHA1: aca5c35e674d1ea767a9d7631b3389adb09e9d00
 SHA256: 73148b1a49f62204ebba133bd0bb56cb472456ccf25fa45c1e0093adde47936a
+Section: Tweaks
+Description: Tweak to automate common jailbreak actions like Respring and Userspace Reboots etc, with button sequences.
+Tag: compatible_min::ios13.0
+Author: hg13 <hg13bs@gmail.com>
+Depiction: https://chariz.com/get/reboothelper
+Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
+Name: Reboot Helper (Beta)
+
+Package: com.hg13.reboothelper
+Version: 2.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: hg13 <hg13bs@gmail.com>
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.hg13.reboothelper_2.0.0-2_iphoneos-arm64.deb
+Size: 69722
+MD5sum: ca890f7a4c48b746f443418f44efd3e0
+SHA1: b46bbc89841f45127b218494e0e3abfe77448d92
+SHA256: d3b0f1ae72430db4fe6977792c1cf9e7ce81c61f515017b832a1b5d602568858
+Section: Tweaks
+Description: Tweak to automate common jailbreak actions like Respring and Userspace Reboots etc, with button sequences.
+Tag: compatible_min::ios13.0
+Author: hg13 <hg13bs@gmail.com>
+Depiction: https://chariz.com/get/reboothelper
+Icon: https://img.chariz.cloud/icon/reboothelper/icon@3x.png
+Name: Reboot Helper (Beta)
+
+Package: com.hg13.reboothelper
+Version: 2.0.0-2
+Architecture: iphoneos-arm
+Maintainer: hg13 <hg13bs@gmail.com>
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.hg13.reboothelper_2.0.0-2_iphoneos-arm.deb
+Size: 69990
+MD5sum: 73cfb5a0ffa51c0e3287e9913f522160
+SHA1: 58b459a2bdef0f4adaf6f0df2ea93b5d629ee887
+SHA256: 0e46630bf3248af454f05b9270bd863a5ad9f63c94b2568e2bcf8d55efdce3f6
 Section: Tweaks
 Description: Tweak to automate common jailbreak actions like Respring and Userspace Reboots etc, with button sequences.
 Tag: compatible_min::ios13.0
