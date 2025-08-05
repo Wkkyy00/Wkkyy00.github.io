@@ -15866,6 +15866,41 @@ Author: susu
 Icon: https://s1.imagehub.cc/images/2025/02/09/ed32dc7861ce92d3c5da7934b77e6d64.png
 Name: SuXHSHook
 
+Package: com.susu.talkatone
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 11056
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.talkatone_1.0.1_iphoneos-arm64e.deb
+Size: 3440
+MD5sum: 8d8e363a3ee685b3c64df087e0833a60
+SHA1: 196deaaef9a8af3122dfacbc24cfa7e9aa6a848c
+SHA256: 72c27a291f8deca8197ff5b0696618ab62862116e12368da42b80af1ec30c263
+Section: 去广告
+Description: Talkatone去广告
+Author: 苏苏
+Icon: https://www.susuboy.cn/images/Talkatone.png
+Name: Talkatone
+
+Package: com.susu.talkatone
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 11056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.talkatone_1.0.1_iphoneos-arm64.deb
+Size: 2472
+MD5sum: 166b2ea03800680d1dde09578a30576c
+SHA1: f0ef50327bf1cab65b7052ff4c56a13249d7ca9d
+SHA256: e0608bf0517e1a98bdcc0b74403eb05447c9787bfe4f304a0c33f27f58595cad
+Section: 去广告
+Description: Talkatone去广告
+Author: 苏苏
+Icon: https://www.susuboy.cn/images/Talkatone.png
+Name: Talkatone
+
 Package: com.susu.wcfrostedglass
 Version: 1.0.3
 Architecture: iphoneos-arm64
