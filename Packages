@@ -19323,15 +19323,15 @@ Maintainer: null
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.wkk.luping_1.1_iphoneos-arm64e.deb
 Size: 38664
-MD5sum: 8186db2630055cc35f0d2c2a63f8c7d9
-SHA1: 68059538becc81b03acff842b1321886f72f620a
-SHA256: fcfe5ea10f2f54384fcfae288d174d36b874e11ff1402e37005bf8f609c4ec2f
+MD5sum: 8269bf68a2c8c9c6561747023f44825c
+SHA1: bd8eb93dad30438f0619cd9730d83bbabffc1e8e
+SHA256: 596af3df9d12157ccfc145d527efe3bd53897c7c196297511426ec0c1ef7a93a
 Section: Dopamine挂载
 Description: 隐根挂载后直装，重新越狱也不会失效。（已修改调整至1.1 完美了）
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
 Author: wkk
-Icon: https://www.susubaby.top//images/luping.png
+Icon: https://www.susuboy.cn//images/luping.png
 Name: 灵动岛录屏写轮眼
 
 Package: com.wkk.mtwmhook
