@@ -12381,6 +12381,23 @@ Author: Muirey03
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Cr4shed
 
+Package: com.muirey03.cr4shed
+Version: 4.3.2
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 2488
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debs/com.muirey03.cr4shed_4.3.2_iphoneos-arm64.deb
+Size: 228096
+MD5sum: 5c2982ece4fb1c4d63963bd09f1bfbeb
+SHA1: 5842667b6da28815470fc778e704347b3b064083
+SHA256: da5ddbb72e90c4f5cd2667ec2e331f2180a742e62e15051e8bb527d18d11c816
+Section: Tweaks
+Description: 系统崩溃报告器
+Author: Muirey03
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Cr4shed
+
 Package: com.muirey03.libimagepicker
 Version: 1.0.4
 Architecture: iphoneos-arm64e
