@@ -20527,17 +20527,70 @@ Author: Dcsyhi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu
 
+Package: com.zhezhaojihe.2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: bdzt
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.zhezhaojihe.2_1.0_iphoneos-arm64.deb
+Size: 54568
+MD5sum: 363be3798a9d8e01bba278209af55db1
+SHA1: 041e99fd79d0afadd142b8eaab5ed82c1fab40d4
+SHA256: 44e0a7e57ef148d6058762df08ff0d30a58cfdde9235193148104118cf3bd6b0
+Section: 一切美化的东西都是垃圾
+Description: 四款好看的立体遮罩，素材来自威锋网友。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 四款立体遮罩
+Sponsor: null
+
+Package: com.zhezhaojihe.2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: bdzt
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.zhezhaojihe.2_1.0_iphoneos-arm64e.deb
+Size: 56282
+MD5sum: 371edd608d3d428f5c123be332c27f43
+SHA1: f15a9317fa9f312780492bfdca1a31334394bb62
+SHA256: aa130407ea743dacf57c3c9c1f74c738790dab59647d95baa3e639ba1c698291
+Section: 一切美化的东西都是垃圾
+Description: 四款好看的立体遮罩，素材来自威锋网友。
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 四款立体遮罩
+Sponsor: null
+
+Package: com.zhezhaojihe.baidu
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: bdzt
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.zhezhaojihe.baidu_1.0_iphoneos-arm64e.deb
+Size: 2077566
+MD5sum: 222451dc1b34abc591fa100c6f3b848c
+SHA1: e5478993d5e0e9ef8f4a834539b396c1498776f9
+SHA256: 61e6ab052dabad4a59d28fd641fc30181d23624e0d622b4c4d4ef5321b743532
+Section: 一切美化的东西都是垃圾
+Description: 十八款好看的遮罩大集合！
+Author: bdzt
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 遮罩集合大全
+Sponsor: bdzt
+
 Package: com.zhezhaojihe.baidu
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: bdzt
 Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
 Filename: ./debs/com.zhezhaojihe.baidu_1.0_iphoneos-arm64.deb
-Size: 1017356
-MD5sum: 07b012d2a7739a9ec4d00e6ee224b90f
-SHA1: 97c980a4f59b9bc444c3cff57db5d44f7b405fa0
-SHA256: 9c6353a3d20539682db36f1497567104a06a1065717f468747fe50f2b0718cea
-Section: 插件
+Size: 1017576
+MD5sum: 1806efb8286b4260d0f9e5104fb33887
+SHA1: c84da30762a1be2d2b886f747d0d0e430738d834
+SHA256: 89719ede363171174c716b4e2d3cf74e4407a73bf56f8fa2661931a31637454e
+Section: 一切美化的东西都是垃圾
 Description: 十八款好看的遮罩大集合！
 Author: bdzt
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
