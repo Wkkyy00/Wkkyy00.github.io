@@ -19317,20 +19317,20 @@ Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.
 Name: 重启用户空间启动logo
 
 Package: com.wkk.luping
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: null
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.wkk.luping_1.0_iphoneos-arm64e.deb
-Size: 38612
-MD5sum: 8fba196cd99e7330c09dfd1dd7c4fba8
-SHA1: 2b08e2e45ac3ee0625f058ff13bcf31d1db02ce6
-SHA256: 5b9cea51cab14f03e54d38baf67f72922357440acd66bbe8deed8e982f416c06
+Filename: ./debs/com.wkk.luping_1.1_iphoneos-arm64e.deb
+Size: 38664
+MD5sum: 8186db2630055cc35f0d2c2a63f8c7d9
+SHA1: 68059538becc81b03acff842b1321886f72f620a
+SHA256: fcfe5ea10f2f54384fcfae288d174d36b874e11ff1402e37005bf8f609c4ec2f
 Section: Dopamine挂载
-Description: 隐根挂载后直装，重新越狱也不会失效。
+Description: 隐根挂载后直装，重新越狱也不会失效。（已修改调整至1.1 完美了）
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
   * 挂载:/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
-Author: null
+Author: wkk
 Icon: https://www.susubaby.top//images/luping.png
 Name: 灵动岛录屏写轮眼
 
@@ -20195,36 +20195,36 @@ Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.
 Name: 知乎NoAds
 
 Package: com.wkk.zhuanjixuanzhuan
-Version: 1.0
-Architecture: iphoneos-arm64e
+Version: 1.1
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0_iphoneos-arm64e.deb
-Size: 5466
-MD5sum: c3471f1998a310e014a3a4f9b9d01242
-SHA1: 40e675e2115bbc587f7f14493349e06be6379c9a
-SHA256: 0acd1f82d5ac7382151a33f93a2665b5371da0a2d4adc96d20196c87fc78c55b
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.1_iphoneos-arm64.deb
+Size: 4116
+MD5sum: 2c0c2497e0a397d49b7deb59c8d53b65
+SHA1: fe2eaed7fd897f874323017ac4074292a9b1af51
+SHA256: fac40403ed931cb077593edeab24768453c677eac460d6fc319ab6b33841a1b9
 Section: Dopamine挂载
-Description: 仅支持ios16无根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+Description: 仅支持ios16（灵动岛设备）无根隐根越狱（挂载后直装）将你的灵动岛音乐专辑变成圆形并且旋转（已调整完美）
   * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
-  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，注销生效。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
 Name: 灵动岛音乐专辑旋转
 
 Package: com.wkk.zhuanjixuanzhuan
-Version: 1.0
-Architecture: iphoneos-arm64
+Version: 1.1
+Architecture: iphoneos-arm64e
 Maintainer: wkk
-Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0_iphoneos-arm64.deb
-Size: 4084
-MD5sum: ad5448738936b1c33c324283300eb6bf
-SHA1: 2d00e095347e27e9740a71109b2b659efa65953f
-SHA256: 596ee1e7832b4cde0cd847eccfbaf4a716e4975b4b15d7f4301a5ab0f97e3d04
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.1_iphoneos-arm64e.deb
+Size: 5528
+MD5sum: 9b68eba5dc9082ed1b1df41b4d20cb59
+SHA1: 5a1a14cfa6312503e26ba3a7ba9d43936008e8ff
+SHA256: 3ad25de998495eb65c3cb5094d5abbda4b1246ff149393fc0fd0efc494a3e8dd
 Section: Dopamine挂载
-Description: 仅支持ios16无根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+Description: 仅支持ios16（灵动岛设备）无根隐根越狱（挂载后直装）将你的灵动岛音乐专辑变成圆形并且旋转（已调整完美）
   * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
-  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，重启Springboard如果未生效，重启用户空间即可。
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，注销生效。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
 Name: 灵动岛音乐专辑旋转
