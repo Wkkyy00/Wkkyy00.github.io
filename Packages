@@ -18827,16 +18827,16 @@ Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.wkk.hookcc_1.0_iphoneos-arm64e.deb
-Size: 5536
-MD5sum: 4f1e4da575886f797cf615467718caf5
-SHA1: 12e2ae4c56fd3adf847e81a672b3aa31f6f3cc14
-SHA256: 493050453dce711d6d2b8a0b87e81bb9a8efb45e1549a1206103c177f4f94da1
-Section: Tweaks
-Description: 音量亮度增加百分比。
+Filename: ./debs/com.wkk.hookcc.deb
+Size: 5552
+MD5sum: 432dacfaf52c048ff88d78bbb5c1919b
+SHA1: e44b35f9354e471e83f5c5c5ce59550a1783da4a
+SHA256: a0a1f0ce46a43b01d8a666c3ff8a3ed51909230911a03c0171f9de02e565e6ac
+Section: 控制中心
+Description: 控制中心音量亮度增加百分比。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: HookCc
+Name: 控制中心音量亮度增加百分比
 
 Package: com.wkk.iconx
 Version: 1.0
