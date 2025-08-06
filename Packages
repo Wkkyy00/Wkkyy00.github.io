@@ -11656,41 +11656,6 @@ Author: 预言小猫
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键备份和恢复工具
 
-Package: com.kk.crane
-Version: 1.3.14-6
-Architecture: iphoneos-arm64e
-Maintainer: opa334
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
-Filename: ./debs/com.kk.crane_1.3.14-6_iphoneos-arm64e.deb
-Size: 1462720
-MD5sum: d4cf86634e0b2ee140cf8a6333b70cf5
-SHA1: 32b216952c229e4ee6fd1fb4c761b8137896fbac
-SHA256: f4e25778bb473bbaff80f6d8449b5831ad335fa4a5fb2f74f11eba1e5b6f311b
-Section: 插件
-Description: 仅备份。
-Author: opa334
-Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
-Name: Crane
-
-Package: com.kk.crane
-Version: 1.3.14-6
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
-Filename: ./debs/com.kk.crane_1.3.14-6_iphoneos-arm64.deb
-Size: 570988
-MD5sum: df3c827b8739ec43b6a39f5e4a026ea4
-SHA1: 4d67b267f4b28a635db732be46538731688876d8
-SHA256: fcb5944092a51168240a711fb4b609a8c16224790e52e24f3dd1bd842df294a8
-Section: 插件
-Description: 仅备份。
-Author: opa334
-Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
-Name: Crane
-
 Package: com.krashkop
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -14952,6 +14917,24 @@ Name: SnowBoard
 
 Package: com.spark.snowboard.dock
 Version: 1.1.3~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 440
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64e.deb
+Size: 44624
+MD5sum: dec21545d6f28cbbd53eb8ba289e206c
+SHA1: f4ad5e8e36cf87e1781db663c2efc39a7ee2193a
+SHA256: 2c8f2fc9889d1f911c8b3f9ad58ac268846a2fb41d700ecc2593c37032d64b2f
+Section: SnowBoard
+Description: Dock栏扩展，倒影，阴影反射等，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Dock Extension
+
+Package: com.spark.snowboard.dock
+Version: 1.1.3~Beta4-rootless
 Architecture: iphoneos-arm64
 Maintainer: Spark
 Installed-Size: 440
@@ -14984,6 +14967,45 @@ Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Icon Effects Extension
 
+Package: com.spark.snowboard.effects
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
+Size: 45970
+MD5sum: f457568c2a2c91d9bc772b908e9d6869
+SHA1: 9395f6cef63de8c0f3a9744b0bac7bbcb6d81d7d
+SHA256: 7552ada327c5d6952b4c73c3393472661c7f3dd34120f93da072176efe5ec829
+Section: SnowBoard
+Description: App图标本身的效果扩展，自备素材，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Icon Effects Extension
+
+Package: com.spark.snowboard.fonts
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 392
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 27638
+MD5sum: 2817e7730d30242b5a6d603fee96ff5f
+SHA1: 3d3b4003d7a98d6a3fca339c5e14c2ef7b718bba
+SHA256: b4879068aed83aa229c02d6498ec94d3423904e5190160de1d579bc6031fcf58
+Section: SnowBoard
+Description: 字体扩展。此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Fonts Extension
+
 Package: com.spark.snowboard.fonts
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64
@@ -15003,6 +15025,24 @@ Description: 字体扩展。此源仅作备份与注释。
 Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Fonts Extension
+
+Package: com.spark.snowboard.labels
+Version: 1.1.1~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.labels_1.1.1~Beta4-rootless_iphoneos-arm64e.deb
+Size: 34128
+MD5sum: f465b779d2a37397c3ee7ee5d86bb613
+SHA1: 751bc5d9e63fcf4017e77916a751ceadd3fe2fa5
+SHA256: d5d7e357aef214dc2ed9b1a34c17114ed7f9924b43a417ad503b2d46f03b0385
+Section: SnowBoard
+Description: App角标扩展，自备素材，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Labels Extension
 
 Package: com.spark.snowboard.labels
 Version: 1.1.1~Beta4-rootless
@@ -15038,6 +15078,42 @@ Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Icon Masks Extension
 
+Package: com.spark.snowboard.masks
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
+Size: 25946
+MD5sum: da5c553074ee946c00f68eae6e7cb2d7
+SHA1: 09b9d6335878f0c963616add6c0b95f7a753d229
+SHA256: fc5966fdd39debdd92b9fbca4ce98029d2fc5316543708ece7710661b8997012
+Section: SnowBoard
+Description: App图标遮罩扩展，源内有整理好的素材，告别四处求爷爷告奶奶的日子，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Icon Masks Extension
+
+Package: com.spark.snowboard.presetextension
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: ./debs/com.spark.snowboard.presetextension_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 57888
+MD5sum: 89da5949306294484cce6944596af1cb
+SHA1: cf625b536f3b63c279ae0451ee28f7b007048962
+SHA256: cbc0efafbf86dc28eb84d17ea7853b925b685ac6c9ba882c0017011f32a77f3e
+Section: SnowBoard
+Description: 保存主题的预设（可保存多项）并在它们之间快速切换，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Preset Extension
+
 Package: com.spark.snowboard.presetextension
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64
@@ -15071,6 +15147,42 @@ Description: 设置app里每个功能前的icon扩展，自备主题素材，此
 Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard Settings Icons Extension
+
+Package: com.spark.snowboard.settingsicons
+Version: 1.0.26~Beta3-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.settingsicons_1.0.26~Beta3-rootless_iphoneos-arm64e.deb
+Size: 24244
+MD5sum: 851f046addd99cea44c13d18d7d4ff12
+SHA1: deb2163d8b2225467b1a5b9a5b6cc2149e486768
+SHA256: b5d1be7407bcfb920027e955c3677e306b12ee38394165b6c13a225c323ce9e3
+Section: SnowBoard
+Description: 设置app里每个功能前的icon扩展，自备主题素材，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard Settings Icons Extension
+
+Package: com.spark.snowboard.statusbar
+Version: 1.1.0-Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64e.deb
+Size: 36750
+MD5sum: aa58f4f2e9bc601fadf1cb06d41be615
+SHA1: 646061faa317bcefc09bbfbcb05d73a5cf55f6e8
+SHA256: f7180e828b592f1b99d75f75ec77cdd40a06b5e7f7745f0604685daecec59b51
+Section: SnowBoard
+Description: 状态栏美化扩展，对非刘海和灵动岛以外设备可能会有bug，自己测试，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard StatusBar Extension
 
 Package: com.spark.snowboard.statusbar
 Version: 1.1.0-Beta4-rootless
@@ -15106,6 +15218,24 @@ Author: Spark
 Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
 Name: SnowBoard UI Extension
 
+Package: com.spark.snowboard.ui
+Version: 1.3.0~Beta2-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 476
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Filename: ./debs/com.spark.snowboard.ui_1.3.0~Beta2-rootless_iphoneos-arm64e.deb
+Size: 92706
+MD5sum: f76df86caface1e1dde325b8e5b3ebf8
+SHA1: f20e643541ca8d89d711d5de17b8e5be8e5a0ddf
+SHA256: fa32d252a6daf91a8e71b90899e78c8fdd3346028b547e1b153538d775793c96
+Section: SnowBoard
+Description: 可以对SF Symbols，开关等元素进行美化的扩展，源内有开关素材，告别四处求爷爷告奶奶的日子，此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard UI Extension
+
 Package: com.spark.snowboardapplication
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64
@@ -15117,6 +15247,24 @@ Size: 608116
 MD5sum: c7d97f2941322326f0cfa43e7872de68
 SHA1: f28a2365c60ec295c1923005d4a40daf11d14c19
 SHA256: 434fe40b5396f2587e60ba8e891bdc8e644f20f5e693a8a28da0dee6d9f847b2
+Section: SnowBoard
+Description: 桌面snowboard图标。此源仅作备份与注释。
+Author: Spark
+Icon: https://s1.imagehub.cc/images/2025/02/16/6184f5a172c0da2db10df7ddce6977bc.png
+Name: SnowBoard
+
+Package: com.spark.snowboardapplication
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 992
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard
+Filename: ./debs/com.spark.snowboardapplication_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 629780
+MD5sum: 8dc262123e5fbd8f8b2a6d77a085d4ff
+SHA1: 3ea71db6c4cab80ac8a4d3ee059c494b72d1beb2
+SHA256: c29715d57fcf9d547bcc2e12916866c0030248051c19d360c162a30ebe54d6f6
 Section: SnowBoard
 Description: 桌面snowboard图标。此源仅作备份与注释。
 Author: Spark
