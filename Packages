@@ -14714,6 +14714,54 @@ Description: Lookin UI调试工具
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: LookinLoader
 
+Package: com.snail.autovpn.roothide
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 964
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/com.snail.autovpn.roothide_1.0.4_iphoneos-arm64e.deb
+Size: 252054
+MD5sum: ba1172c5aa052723b3a154ed0e4f4cd3
+SHA1: 3aa3e8f718667762f7181477d34edd8ef671e186
+SHA256: 8921e9bc5401ab14995ec151b6ba8512fd65f818a988914385fd7db83b3dcb43
+Section: Tweaks
+Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app. 根据特定场景自动开启/关闭代理连接，畅享APP丝滑浏览体验。
+Author: Snail <mu514983786@gmail.com>
+Name: AutoVPN 自动VPN
+
+Package: com.snail.autovpn.roothide
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 984
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/com.snail.autovpn.roothide_1.0.5_iphoneos-arm64e.deb
+Size: 259416
+MD5sum: c64cb89a19f2a14be7f8604c80234f31
+SHA1: 6c228b63477897cbfd60f33f3ac6781802dd072b
+SHA256: 16bb7b8a9ac7b41ab6c16558b6cac75901f94099f8e7e556e5b601f9b6743c7c
+Section: Tweaks
+Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app. 根据特定场景自动开启/关闭代理连接，畅享APP丝滑浏览体验。
+Author: Snail <mu514983786@gmail.com>
+Name: AutoVPN 自动VPN
+
+Package: com.snail.autovpn.roothide
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 984
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/com.snail.autovpn.roothide_1.0.6_iphoneos-arm64e.deb
+Size: 263460
+MD5sum: 376c8c657346d989db8ca1d032a397e1
+SHA1: 46dc5f36bf806c5b7dc6ed31a403fd1e51450bcf
+SHA256: b1eaa258c07eb196370d78cd4fb0c38ed69cde35fff14ea60c09b261eb11e9e9
+Section: Tweaks
+Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app. 根据特定场景自动开启/关闭代理连接，畅享APP丝滑浏览体验。
+Author: Snail <mu514983786@gmail.com>
+Name: AutoVPN 自动VPN
+
 Package: com.snail.easynotify
 Version: 1.0.0
 Architecture: iphoneos-arm64
