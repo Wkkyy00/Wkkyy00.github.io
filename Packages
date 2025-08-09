@@ -13786,6 +13786,43 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/06/94cb0d60b93edaf171b34044f9b754ab.png
 Name: TwitterNoAds
 
+Package: com.p2kdev.waqt
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: k
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.4.3_iphoneos-arm64.deb
+Size: 35708
+MD5sum: d7bb060753f6a3b780667a51e21332de
+SHA1: 58e95d4aec56ca3f1dc12d4764b122eabde8d370
+SHA256: c7eb75d6346bef5299783a315f5194b08bc7326504756a4eedffc3021328de17
+Section: 插件
+Description: 自定义时间日期，免费。
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Waqt
+Sponsor: k
+
+Package: com.p2kdev.waqt
+Version: 1.4.3
+Architecture: iphoneos-arm64e
+Maintainer: k
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.4.3_iphoneos-arm64e.deb
+Size: 42802
+MD5sum: d54b3ac92a0505dedf30099fb10fba41
+SHA1: de385f656ce78c1b5da9533bf4656dc756dbbce0
+SHA256: 6e0baae9d2dd76092688d106c1bd0ccefe32949237dd5839d1bb9741dea5e6c0
+Section: 插件
+Description: 自定义时间日期，免费。
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Waqt
+Sponsor: k
+
 Package: com.pancake
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -17488,43 +17525,6 @@ Priority: optional
 Description: 菜鸟去广告 by Vita
 Author: vita
 Name: CNNoAd
-
-Package: com.waqt
-Version: 1.4
-Architecture: iphoneos-arm64e
-Maintainer: k
-Installed-Size: 412
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.waqt_1.4_iphoneos-arm64e.deb
-Size: 36352
-MD5sum: 4738fad0a167b11d2ec7a34f38301856
-SHA1: 9f2c469242fb0deb4f6a1e5aacc3b2b806289525
-SHA256: 57354b1e8c05cbb3d5233ca0852e19d2e53b6d49e628718c71bbb1310853e56c
-Section: 插件
-Description: 自定义时间日期，免费。
-Author: P2KDev
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Waqt
-Sponsor: k
-
-Package: com.waqt
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: k
-Installed-Size: 412
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.waqt_1.4_iphoneos-arm64.deb
-Size: 34936
-MD5sum: 6ad8961e251798c2a5ae61d335173efa
-SHA1: 8aeceab118c3b8a7669db8ace05df8bd61fb51a1
-SHA256: ac46e71065aea806f8cb1e2ad24937b331ce9d262b87ec70ca7bc58671fd3c25
-Section: 插件
-Description: 自定义时间日期，免费。
-Author: P2KDev
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Waqt
-Sponsor: k
 
 Package: com.wctextcolor
 Version: 1.1
