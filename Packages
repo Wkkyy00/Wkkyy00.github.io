@@ -15706,6 +15706,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.susu.fuckwechatads
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64.deb
+Size: 16876
+MD5sum: b0243f9872e872519b350d65838555a2
+SHA1: 7615a667b46f9d213959873620b56709e5b9ab9f
+SHA256: ae2556aec122685bbcfbcd2401aa5bc53fbf7d2a231a14c123411ba61b494768
+Section: 微信插件
+Description: No WeChatAds
+Author: susu
+Icon: https://www.susuboy.cn/images/wechat.png
+Name: FuckWeChatAds
+
+Package: com.susu.fuckwechatads
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: susu
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64e.deb
+Size: 22554
+MD5sum: 970bfc6c6930317d5f7801cf007be707
+SHA1: dc675e8acc9fa50a5aec1528e4aa74f6e87f25b4
+SHA256: f88033e3a5552b284c83f9f6b93661878c605422fa7fc13edb001fd170c8042a
+Section: 微信插件
+Description: No WeChatAds
+Author: susu
+Icon: https://www.susuboy.cn/images/wechat.png
+Name: FuckWeChatAds
+
 Package: com.susu.hidekbsettings
 Version: 1.0.7
 Architecture: iphoneos-arm64e
@@ -15823,6 +15858,41 @@ SHA256: 041fc2d881659030153c60cd973213823c533cbdc68c7642591a336147c18668
 Section: Tweaks
 Description: 删除原生相册无用的窗口
 Author: 苏苏
+Name: SuPhotos
+
+Package: com.susu.photos
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.photos_1.0.1_iphoneos-arm64e.deb
+Size: 4972
+MD5sum: 0ef760b0ab97691e9adbf9909de5a5bd
+SHA1: 6881913acde5d74df6b28ccc7a1c1d1d42a84088
+SHA256: 5a3c91af17e985fe757f1a8c5403b8427ebb841b0173296eebba200a4e2d7fa7
+Section: Tweaks
+Description: 删除原生相册无用的窗口
+Author: 苏苏
+Icon: https://www.susuboy.cn/images/photos.png
+Name: SuPhotos
+
+Package: com.susu.photos
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susu.photos_1.0.1_iphoneos-arm64.deb
+Size: 3708
+MD5sum: eb4c430f5784de8e4fcd086955198b5a
+SHA1: 017ec3fdfc2a8384568f8659141caafd7ea6bf62
+SHA256: 8140b764effe4db46e50f2e7130261f9b5cb670ec99dcf05e68380e91b3481fe
+Section: Tweaks
+Description: 删除原生相册无用的窗口
+Author: 苏苏
+Icon: https://www.susuboy.cn/images/photos.png
 Name: SuPhotos
 
 Package: com.susu.powermenu
