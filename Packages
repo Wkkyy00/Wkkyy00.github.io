@@ -1416,6 +1416,24 @@ Author: Mao
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 左滑返回
 
+Package: com.25mao.leftpan.rootless
+Version: 1.0-6
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/com.25mao.leftpan.rootless_1.0-6_iphoneos-arm64e.deb
+Size: 56276
+MD5sum: b356369ece395417efc7ff572bd266df
+SHA1: 432903b22d5564c05960d482bc6b1e94efa64155
+SHA256: 56e0df9549b39326ffe85fa07295a7d92bd042cbdb28812f4a3bb8d954fbf296
+Section: 插件
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 左滑返回
+
 Package: com.25mao.miyou.rootless
 Version: 3.8-0
 Architecture: iphoneos-arm64
@@ -10578,6 +10596,43 @@ Size: 247838
 MD5sum: 49733be68805c76c65ac02bd1560d03a
 SHA1: 86ba5915efac3b3a2b10d845d1af438894a291be
 SHA256: b579a6a580bed0380b449fba009f5c282f3a47532122b5831e61a8a404e949db
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.2-3
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-3_iphoneos-arm64e.deb
+Size: 248684
+MD5sum: eab28ab427d71f62f1d00fa898c2021c
+SHA1: fc0dd622120a72ca6b2659793e48fb2c7cfe99ec
+SHA256: 971ff5f6712c1330e108137c6ce0178c00d641eb8752c9404a8f087bcf923fca
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WCPulse.json
+
+Package: com.huami.WCPulse
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-3_iphoneos-arm64.deb
+Size: 171776
+MD5sum: 2aab533426346244fc94c484a0378d47
+SHA1: 95879ae46dd6e04c2203f18563eb2ebdf05b7de2
+SHA256: 50891e9c67ec476b38f30f6e18e61e849f5201fdfd5733c35d9b61b1ecd49444
 Section: 微信插件
 Description: WCPulse
 Author: huami
