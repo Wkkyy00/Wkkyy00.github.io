@@ -13590,6 +13590,41 @@ Author: P2KDev
 Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
 Name: InstagramNoAds
 
+Package: com.p2kdev.nofaceidwait
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm64e.deb
+Size: 4564
+MD5sum: 9365f858dc178ee7d5441a29711bcc64
+SHA1: bf1746a91d9b323f9e41914e314d8dc47b85bb51
+SHA256: d915dd852c65415a7ee78b031ebf80d1978fc34afe3db3774a6641d95cf3e0f7
+Section: Tweaks
+Description: 跳过频繁的面容验证，直接调出密码界面。
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
+Name: NoFaceIDWait
+
+Package: com.p2kdev.nofaceidwait
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm64.deb
+Size: 3240
+MD5sum: fc04570c6f56ce04aee94cb546d6efc8
+SHA1: 1316ed8de7dfe56c4e7ac52a5c91bab231b8b0f9
+SHA256: adaf4299546cd5189f2ea6fda6579463a8456a7ce31a480af96d7202a230bbf0
+Section: Tweaks
+Description: 跳过频繁的面容验证，直接调出密码界面。
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
+Name: NoFaceIDWait
+
 Package: com.p2kdev.quitall
 Version: 1.0
 Architecture: iphoneos-arm64e
