@@ -18926,6 +18926,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
 Name: CommandModule
 
+Package: com.wkk.commandmodule
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.commandmodule_1.1_iphoneos-arm64.deb
+Size: 25280
+MD5sum: 347d4b85b7440ced1818ee6ad9d88a44
+SHA1: e0493df916f305cada198c4d5d9cd360b4d2f1f4
+SHA256: e9d1e5a0fb0d1b9b9d6f077b80bf6eb7357e147d915183ef4f079852eccb93e7
+Section: 控制中心
+Description: 控制中心添加一个常用的shell脚本，点击即运行，根据开源修改编译了适用于我自用的内容。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
+Name: CommandModule
+
+Package: com.wkk.commandmodule
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.commandmodule_1.1_iphoneos-arm64e.deb
+Size: 30832
+MD5sum: e7d8cd23e210b24e67751317f954f6ab
+SHA1: 2c92d467b082e77afd4c7075ddeabb24c2aa8fee
+SHA256: b6fea5c4a30a92283a3a4849c2c48355ac7d6daaf01f41a24e422260383ad4db
+Section: 控制中心
+Description: 控制中心添加一个常用的shell脚本，点击即运行，根据开源修改编译了适用于我自用的内容。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
+Name: CommandModule
+
 Package: com.wkk.cqkjlogo
 Version: 1.0
 Architecture: iphoneos-arm64
