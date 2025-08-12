@@ -10775,6 +10775,40 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse（低版本特供包）
 
+Package: com.huami.WCPush2Chat
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPush2Chat_1.0_iphoneos-arm64.deb
+Size: 8544
+MD5sum: db28625ff862c9a3f44bfe670d799f08
+SHA1: 94fb380fe80533a066fcd1842f26ee39589e0295
+SHA256: 72eecf04b558e06aebb97057e6a963816574d74b0c22961168e17bed1067f68a
+Section: 微信插件
+Description: 微信消息直达。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPush2Chat
+
+Package: com.huami.WCPush2Chat
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPush2Chat_1.0_iphoneos-arm64e.deb
+Size: 8488
+MD5sum: 0f121e40aaa4e5859c6c3e9fc0f4843f
+SHA1: 620a61def766bc71c2ad6c8532356ecdc1ca5daa
+SHA256: 8e07d075a22fc4a16c4104128c0ba35b7181e038a6d831b04f81385ab64e50a9
+Section: 微信插件
+Description: 微信消息直达。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPush2Chat
+
 Package: com.huami.dyyy
 Version: 1.9
 Architecture: iphoneos-arm64
