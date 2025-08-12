@@ -19134,10 +19134,10 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.dy_1.0_iphoneos-arm64.deb
-Size: 2573176
-MD5sum: 6435cb6a743f1bdab95b22f05a79c0e1
-SHA1: 77ec8d79ad7e6db88c40a116dd1dba567e79cb62
-SHA256: 0e2cfc073329991df0e78211b487c064752a98135ee0f4d36d273d90c6dd2d0e
+Size: 2573280
+MD5sum: 78df9963392521944faf2ccb1abc9dc6
+SHA1: 136748e60c5ea15467cb1bf9903e81d6acac669a
+SHA256: 1878ae79740e631349140fb6101c9695a97cfe902057bfac6ca4e1cc07025ff6
 Section: 插件配置
 Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0
 Author: wkk
@@ -19151,10 +19151,10 @@ Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.dy_1.0_iphoneos-arm64e.deb
-Size: 5391770
-MD5sum: 7f5e2f6577502a7d045d0678b15f5fb1
-SHA1: 60b5f5fa73facb601c9ef7576222ac456fd03da0
-SHA256: 11429381e552e7207a614bc385befe478bbea5522da687ca267bf7289a7dea76
+Size: 5391492
+MD5sum: b0447ea7bf6cfab52d8ddcfeef4d2167
+SHA1: 69a36907ea3bae2f2f70edd731693dc1dd542e94
+SHA256: 6ab3fece60bbee7291007f9d056f5fda62d8efa2919e5455f1e7e6da708ce4e0
 Section: 插件配置
 Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0
 Author: wkk
