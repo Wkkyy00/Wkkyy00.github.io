@@ -14853,6 +14853,41 @@ Author: SHTM
 Icon: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/FlexibleExpression.png
 Name: FlexibleExpression
 
+Package: com.shtm.neowave16
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 8756
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.shtm.neowave16_1.0.0_iphoneos-arm64.deb
+Size: 8311212
+MD5sum: 0c793d72c641e1194ca046d6f6721765
+SHA1: b8f170b9a44ba85434d9fb48005b972d99c8925e
+SHA256: de83dcfe437cd0f5c0ea5d3a0841711adbccf7d0ea5884a1f1e905aeff873ed8
+Section: Tweaks
+Description: Siri唤醒显示色彩渐变边缘动画
+Author: SHTM
+Icon: https://orig.shtm.best/descriptions/com.shtm.neowave16/NeoWave16.png
+Name: NeoWave16
+
+Package: com.shtm.neowave16
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 8756
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.shtm.neowave16_1.0.0_iphoneos-arm64e.deb
+Size: 16619852
+MD5sum: 424f51a0e0c53e2d831d62b659180447
+SHA1: c6d8a3644cd18c40fb382c04e734ab2279e2bf88
+SHA256: 059ef7bd4727bf7219cbe22633dd02733eb6fbdd2d5d72404b5051b9b7add671
+Section: Tweaks
+Description: Siri唤醒显示色彩渐变边缘动画
+Author: SHTM
+Icon: https://orig.shtm.best/descriptions/com.shtm.neowave16/NeoWave16.png
+Name: NeoWave16
+
 Package: com.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64e
