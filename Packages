@@ -15087,6 +15087,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
 Name: ShowMyTouches
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
 
+Package: com.sini921.zoomanimation
+Version: 0.0.1-5
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 392
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sini921.zoomanimation_0.0.1-5_iphoneos-arm64e.deb
+Size: 23212
+MD5sum: 04fba3c814f54fe6710f58a31f1ccc50
+SHA1: cff43043fed3946570480d34b1be64f5e0c3fcff
+SHA256: 5eb1b453ca3eb750de705ebd602beb376bb77be30dc952dbb4c489fe9ee1bb59
+Section: 插件
+Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。（备份）
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
+Name: ZoomAnimation
+
 Package: com.skypain.flexloader
 Version: 5.25.19-1
 Architecture: iphoneos-arm64e
