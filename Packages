@@ -18666,6 +18666,23 @@ Sponsor: wkk
 
 Package: com.wkk.-1
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.-1_1.0_iphoneos-arm64e.deb
+Size: 1890
+MD5sum: 37fd78814c9cd5cb09aeaefcef7e47a3
+SHA1: bad9dc33d145f1654d85d7b3f0f3fad3ebb9f861
+SHA256: 573482c151810bd5ff00bbbf39e21087411d78b0ea7c8078f2291621e397b65d
+Section: 插件配置
+Description: 如果当前目录deb文件前是(1) (2) (3)... -1 -2 -3等，点一下脚本去除这些多余数字恢复原deb命名。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 清理deb后缀(自用)
+
+Package: com.wkk.-1
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
@@ -18892,6 +18909,23 @@ Name: SquidExtender26&9
 
 Package: com.wkk.SwipeExtenderXpz
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.swipeextenderxpz_1.0_iphoneos-arm64e.deb
+Size: 2300
+MD5sum: 9dd8f6e5c38f9cf062f0a6a4d3a96219
+SHA1: a0218fed0288e676f33ff6d8e3bbd54405110399
+SHA256: 2979f9d7607c6a1461fbc9b545c11cf333298b8892a981bb5d51832e445cbebc
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/New preset.plist。自行恢复备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SwipeExtenderX配置(自用)
+
+Package: com.wkk.SwipeExtenderXpz
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
@@ -19058,6 +19092,23 @@ Size: 1064
 MD5sum: 1b6db2b722e2e12be4064d8558da102c
 SHA1: 40bb6015f2d55d0d30da56e077fdb7989ea99a4b
 SHA256: 669c5dc8c1431a22ea83d95a29c3699101e4d67eb216695b63574447f2a8c8b3
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/解压Car.sh（需下载源里的uncar配合一起使用）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Car解压终端(自用)
+
+Package: com.wkk.car
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.car_1.0_iphoneos-arm64e.deb
+Size: 1598
+MD5sum: 8c5f5ba48f9cefabe04f7cd059b303b3
+SHA1: f168a8fe2a5a76ec4fe549351a8583e56d0617bb
+SHA256: f9c3eeceec4e365a3272aa2f9dc831c2b722782ec6b501cad9cb7082ee287a56
 Section: 插件配置
 Description: 下载后文件在目录/var/mobile/Documents/解压Car.sh（需下载源里的uncar配合一起使用）
 Author: wkk
@@ -19339,6 +19390,23 @@ Description: 控制中心添加一个常用的shell脚本，点击即运行，�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/28/95a50ecfc0e9d3cc391e87c11bb19cfd.png
 Name: CommandModule
+
+Package: com.wkk.cqkjlogo
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.cqkjlogo_1.0_iphoneos-arm64e.deb
+Size: 2174
+MD5sum: 3b160147849de3f378615a15953627c9
+SHA1: 3c4d882e794036b21ee827b27af65f078aff0f1f
+SHA256: 16a7d41abcd24a0a569dcbf7dbe5270756fc47c7f914d3edab42e463f04df87c
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/重启用户空间logo制作.sh（使用方法：新建文件夹，准备好logo素材，命名为logo.png，同目录下运行终端即可，自己决定logo素材长宽（分辨率），我个人的建议是500✖️500和700✖️700之间。）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 重启用户空间logo制作终端(自用)
 
 Package: com.wkk.cqkjlogo
 Version: 1.0
@@ -20528,6 +20596,23 @@ Name: 清理终端(自用)
 
 Package: com.wkk.roothidezd
 Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.roothidezd_1.1_iphoneos-arm64e.deb
+Size: 2320
+MD5sum: 77f8a78cf60c9ae18cd8c16a2612fbd0
+SHA1: 410066768f15061f4e8d98233e73ea201f539291
+SHA256: c9d71555dc52c6ab5fb2d3c6a128eb8abc643249dafcd4a5f76902fc163cecd0
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/清理终端.sh（以文本形式打开并且修改替换自己要清理的固定路径）记得给脚本权限：0755
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 清理终端(自用)
+
+Package: com.wkk.roothidezd
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
@@ -20541,6 +20626,24 @@ Description: 下载后文件在目录/var/mobile/Documents/清理终端.sh（以
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 清理终端(自用)
+
+Package: com.wkk.sdk16.5
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.sdk16.5_1.0_iphoneos-arm64e.deb
+Size: 34896714
+MD5sum: 9d138933a1c4b5e0889671923b02142c
+SHA1: 10fe5c9095854da22739653335d6ea134434c476
+SHA256: 5cbdd25240b416c1827a50fc48fadca707856937c36cc15e538acf94b727f7a7
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/iPhoneOS16.5.sdk.tar
+  * 给需要的人，不会别玩也别问。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: iPhoneOS16.5.sdk
 
 Package: com.wkk.sdk16.5
 Version: 1.0
@@ -20849,6 +20952,24 @@ Size: 201484
 MD5sum: b4a89fe786156ff22efb09d517c3e3c8
 SHA1: bded4db4ec0767974237ccc3c15ceaefe46cf813
 SHA256: 155b8e4a07f969c0fc8456802ae4efb3935ee582ea3ea57090bd2727ebf5b3f6
+Section: 插件配置
+Description: 备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 微信输入法皮肤（自用备份）
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/weixxinsrf.json
+
+Package: com.wkk.wxsrfpf
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.wxsrfpf_1.0_iphoneos-arm64e.deb
+Size: 200806
+MD5sum: f1dab4fa59f4d79456fdcaf732ab0521
+SHA1: c275996fc155d448cdf03fe6078d5e8b9ecf35f0
+SHA256: 07f4572ab38eb454d7bce8de8059effc43f7df18160284ecc4d1485988184c3d
 Section: 插件配置
 Description: 备份。
 Author: wkk
