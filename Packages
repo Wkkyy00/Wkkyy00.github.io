@@ -19339,6 +19339,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 重启用户空间logo制作终端(自用)
 
+Package: com.wkk.debbatch
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.debbatch_1.2_iphoneos-arm64e.deb
+Size: 2744
+MD5sum: 246f8e81a0b4df784cf636e0169f05dd
+SHA1: fcc4f1d6958a3c2249d379c56200171910091469
+SHA256: 47fcab9fbdbc04adb22ac794abd5e0cd145b5a62a313808d4f3a682105616be1
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/deb-batch.sh
+  * 使用方法：运行后，当前目录下所有.deb文件一键式解压/打包。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键解压/打包deb(自用)
+
+Package: com.wkk.debbatch
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.debbatch_1.2_iphoneos-arm64.deb
+Size: 2136
+MD5sum: 35c930f24cabc953adda076420dab4f9
+SHA1: 08ae630b74666fc09799965e542c0d057ca201dc
+SHA256: 806099ed1af623c328b953efc387691e5ab88760a1657554e00e43e5919cfa86
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/deb-batch.sh
+  * 使用方法：运行后，当前目录下所有.deb文件一键式解压/打包。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键解压/打包deb(自用)
+
 Package: com.wkk.didihook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -19938,24 +19973,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/02/42f500f95b5633e6011a694165e9dc97.png
 Name: 修改原生键盘上文字
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/keyboardtext.json
-
-Package: com.wkk.jydeb
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.jydeb_1.1_iphoneos-arm64.deb
-Size: 2140
-MD5sum: c4807b40af176084e399a1dfda8dc5c9
-SHA1: be45b3f051ad5a5269b2c27b8582e1ec78281280
-SHA256: 1d004a56fc8fdc8e220ae14c6009d1f4b88cff4a82e6c11df29e03a3a5d6ae55
-Section: 插件配置
-Description: 下载后文件在目录/var/mobile/Documents/deb.sh
-  * 使用方法：运行后，当前目录下所有.deb文件一键式解压。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 一键解压deb(自用)
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/jydeb.json
 
 Package: com.wkk.kaiguan
 Version: 1.0
