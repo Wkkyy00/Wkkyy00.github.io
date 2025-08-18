@@ -19477,6 +19477,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音去+号
 
+Package: com.wkk.dylibbatch
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dylibbatch_1.0_iphoneos-arm64e.deb
+Size: 3642
+MD5sum: 2eff185074c8e0b514266f2d519e1a51
+SHA1: 8931b49d45e2cbae6bd4caff23505d1019c63b0b
+SHA256: d6b58e9fd1fa55a7b40e10f0d5df8038c354dd961204e88ad3761cdf9b6e17ee
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/dylib-batch.sh
+  * 使用方法：运行后，当前目录下所有.deb文件一键式提取dylib文件。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键提取dylib(自用)
+
+Package: com.wkk.dylibbatch
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dylibbatch_1.0_iphoneos-arm64.deb
+Size: 2820
+MD5sum: 595894617c0a86c96a6055255c8cc1e8
+SHA1: cef6ee6ee2206491cbfabad9590f2e1d22fc763a
+SHA256: 13ec5694bdd97d9e1a6ca6ccaf6d08984eedd2a2946a84217e63bf1b7afb3d46
+Section: 插件配置
+Description: 下载后文件在目录/var/mobile/Documents/dylib-batch.sh
+  * 使用方法：运行后，当前目录下所有.deb文件一键式提取dylib文件。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键提取dylib(自用)
+
 Package: com.wkk.dzdphook
 Version: 1.0
 Architecture: iphoneos-arm64
