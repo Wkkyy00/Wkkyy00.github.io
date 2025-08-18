@@ -13166,6 +13166,23 @@ Author: zhaonan <invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: debd（自用）
 
+Package: com.nathan.gridswitcher
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.gridswitcher_1.0.3_iphoneos-arm64.deb
+Size: 3140
+MD5sum: aafbb9a3d3933f8edf181b0bcc84ee6b
+SHA1: cef12444f326c795b81eb2dcf373cf574650130b
+SHA256: 99afcba04375d7aa4a51fe75eaa1d460932868ca71847b394ad2ba5ceb7da9ed
+Section: Tweaks
+Description: 在iPhone上启用iPad切换器。
+Author: Nathan Senter
+Icon: https://s1.imagehub.cc/images/2025/08/18/f78bb707db6fc3170ef7e00022645165.png
+Name: gridswitcher
+
 Package: com.netskao.appdata
 Version: 1.4.1
 Architecture: iphoneos-arm64e
