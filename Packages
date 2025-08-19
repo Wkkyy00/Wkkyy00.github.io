@@ -1329,6 +1329,39 @@ Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
 Name: FilzaDirProbe
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.0xkuj.filzadirprobe_1.7.1_iphoneos-arm64.deb
+Size: 33068
+MD5sum: 1fe17b41929dbddf3801e7f9bbacd10c
+SHA1: c3cc95e7b5f2de38ea7766606b300e643c8d2c87
+SHA256: 40acae290851e64359be8df492616ae9a20f5550263796c6288dd8635c6b63c2
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: FilzaDirProbe
+
+Package: com.0xkuj.filzadirprobe
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.filzadirprobe_1.7.1_iphoneos-arm64e.deb
+Size: 44668
+MD5sum: c1931407d1e17309a56a31080424c2bf
+SHA1: ec1f4e66bcb1941ca28b5381a2936a68f2f1d751
+SHA256: 638ba004b807a0b52a3550186084c17ffe7a919d34925bcd1cbb1006c6c08fab
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: FilzaDirProbe
+
 Package: com.0xkuj.lockeddnd.rootless
 Version: 1.0
 Architecture: iphoneos-arm64e
