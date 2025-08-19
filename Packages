@@ -12135,13 +12135,29 @@ Maintainer: 预言小猫
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb
 Size: 10440
-MD5sum: 84572a2c84acc5808a83031131c4dc74
-SHA1: 6817c5b93be436c070356237c8bbc52d0827cf36
-SHA256: 0974d2c5ae1b3581c42593a0f87dfcc2de460efb56af22b329bde37332518f5a
+MD5sum: 98afb7961d1b85723a2241ec09e50be2
+SHA1: b02eb5229f1203dd877bbd59c6f56f94633ab550
+SHA256: 1513edf01751b73ac520be677843bf91f54892596eb31db1a837c8fc79df483f
 Section: 插件
 Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
 Author: 预言小猫
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键备份和恢复工具
+
+Package: com.kitten.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64e
+Maintainer: 预言小猫
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64e.deb
+Size: 11096
+MD5sum: 61d1a48865f7fe8959f1843952f0e146
+SHA1: 83ee04cab217161e1dddc4dc1745cdefbae07436
+SHA256: 4fb5320deb8ee83bdf20a3e8e69c0d5617a53a648c4513e32186a334d1142d28
+Section: 插件
+Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
+Author: 预言小猫
 Name: 一键备份和恢复工具
 
 Package: com.krashkop
@@ -19423,6 +19439,39 @@ Description: 下载后文件在目录/var/mobile/Documents/重启用户空间log
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 重启用户空间logo制作终端(自用)
+
+Package: com.wkk.cxdebdylib
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.cxdebdylib_1.0_iphoneos-arm64e.deb
+Size: 7724
+MD5sum: ef7f40262869dbc331edc8656f03e2a0
+SHA1: 58a80b06d6e64647cf6cdeb641fb3fd86f2971fa
+SHA256: df25a870013bef67c2273b50630699d2337f0940153d1b950402a5fd9c86032d
+Section: 插件配置
+Description: 使用方法：Filza进入/var/mobile/Documents/目录，运行“dylib.sh”文件。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键查询已安装插件
+
+Package: com.wkk.cxdebdylib
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.cxdebdylib_1.0_iphoneos-arm64.deb
+Size: 6364
+MD5sum: bcaaa84687f66263a29ee397347a2510
+SHA1: 1a0b936a7bebe662cb3956443fd8dc613ec58bf4
+SHA256: c1b2e113ee67cb2e8377801d7e2eaaa43df4be946906fd9e0a9de551d0430ef4
+Section: 插件配置
+Description: 使用方法：Filza进入/var/mobile/Documents/目录，运行“dylib.sh”文件。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键查询已安装插件
 
 Package: com.wkk.debbatch
 Version: 1.2
