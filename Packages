@@ -11552,37 +11552,53 @@ Name: DYYY
 
 Package: com.huami.dyyy
 Version: 2.2-8
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 2600
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_2.2-8_iphoneos-arm.deb
+Size: 511964
+MD5sum: acd89e69749687f986205d958b5c27e7
+SHA1: b7e089b006e2501c3f8a922075aeff0c7ce5146d
+SHA256: 62e316042710bffee2f897ec4932ad73cb07d33d4f976356276f6edbe0a3ef21
+Section: Tweaks
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。（2025.08.20停更，请将抖音版本控制在35.5.0以下）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: 抖音魔术师
+
+Package: com.huami.dyyy
+Version: 2.2-8
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2536
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 2600
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.huami.dyyy_2.2-8_iphoneos-arm64e.deb
-Size: 1468808
-MD5sum: 7b479a4e6d843e3b4b7a082ded194aea
-SHA1: 85f1f15a9847696b3cd9a66dbe09c5ce65134cfd
-SHA256: 6d465753a048e0c79fcaae58eccaf9928359bd2afd0a944ccb9026c6396818f2
-Section: 抖音插件
-Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！不更了，自己也在用，抖音版本35.1.0。
+Size: 512516
+MD5sum: bd2daa04b5f140568dbecb7aedeeffb0
+SHA1: 7deb376d8b77af5ba2e86a90ec725ed8fa2c84cf
+SHA256: a9f6a005d619ec3630386d5127610519aecd139559580cade62b1c4124745853
+Section: Tweaks
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。（2025.08.20停更，请将抖音版本控制在35.5.0以下）
 Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音魔术师
 
 Package: com.huami.dyyy
 Version: 2.2-8
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2536
+Installed-Size: 2600
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.huami.dyyy_2.2-8_iphoneos-arm64.deb
-Size: 507528
-MD5sum: 229bbc3a0e3c7baacc897638545eabc6
-SHA1: 47c7ee488fac4d776ad85b23d53e2554c6c024f6
-SHA256: 00a8f5775c0058a6e72ebdd1c6c7393ada66c7cdba33e9b7d4b6098d8acbcc7a
-Section: 抖音插件
-Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！不更了，自己也在用，抖音版本35.1.0。
+Size: 512152
+MD5sum: 071daeefb12571ccc89448625469798a
+SHA1: 53e096f3eb744b9dc30663fa4005870d1efe0f57
+SHA256: 0d2c4b266539ce29406e8eb79cfbd86c1c4ba763d09d7e6a99bcf7f64a932a43
+Section: Tweaks
+Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。（2025.08.20停更，请将抖音版本控制在35.5.0以下）
 Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
 Name: 抖音魔术师
 
 Package: com.huami.kbstyle
