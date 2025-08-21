@@ -202,6 +202,22 @@ Author: Luki
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: April
 
+Package: apt.llld.Flex3beta
+Version: 1.3~Beta98
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), oldabi
+Filename: ./debs/apt.llld.Flex3beta_1.3~Beta98_iphoneos-arm64e.deb
+Size: 40200364
+MD5sum: 601b1e8603baef947b4c9f2c55c09aa7
+SHA1: de32b24d77181145fe7335bee4c3f514a7bf1fc0
+SHA256: 81d0b22c65268400b349ea8bc31c6f511a2eb5bd7ad30100754dd4a681884ee2
+Section: 应用程序
+Description: 一款强大的App去广告和系统补丁增强神器，需要安装Legacy arm64e Support。
+Author: John Coates
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Flex3
+
 Package: apt.perfectxtime
 Version: 1.1-3
 Architecture: iphoneos-arm64e
