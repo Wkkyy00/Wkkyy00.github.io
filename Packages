@@ -15379,6 +15379,40 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
+Package: com.sini921.eneko
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Traurige & SINI
+Installed-Size: 644
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.sini921.eneko_1.4-4_iphoneos-arm64.deb
+Size: 210496
+MD5sum: 3a2b5b35b77caf23fdd66341be1d20e0
+SHA1: 25b7d33410017ecaa5d99fb407b7a24d9813d044
+SHA256: 1662804a9b4fb1bf8439edf9a6e9a9bd68081ca169207843c341905b3246feed
+Section: 插件
+Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖，编译适配roothide。（备份）
+Author: Traurige & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
+Name: Eneko
+
+Package: com.sini921.eneko
+Version: 1.4-4
+Architecture: iphoneos-arm64e
+Maintainer: Traurige & SINI
+Installed-Size: 628
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.sini921.eneko_1.4-4_iphoneos-arm64e.deb
+Size: 208368
+MD5sum: 7aae34e2cb83ccfc68790551eb38c8d0
+SHA1: 03dc028bc8cdcfec232e1e485b6ad1fdc7a051cf
+SHA256: a1ba603b0e460bd1e9d96d131a536c7e2f5247a9d4b2c1cad8e6f1fcebd72ad9
+Section: 插件
+Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖，编译适配roothide。
+Author: Traurige & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
+Name: Eneko
+
 Package: com.sini921.showmytouches
 Version: 1.2.0
 Architecture: iphoneos-arm64
