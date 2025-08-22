@@ -13319,6 +13319,60 @@ Author: zhaonan <invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: debd（自用）
 
+Package: com.nan.disablesblockaftercrash
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm64.deb
+Size: 1212
+MD5sum: 3ea30bb2f79cd3b631bcce17125e0335
+SHA1: 225c64232ce36e3621b359246482a6359130aa66
+SHA256: 213ca2be07b27cd3e7e7cc81a28dbb50a16e61de828a5c50b2c3651d15bc0f8e
+Section: System
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Name: Disable SB Lock After Crash
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+
+Package: com.nan.disablesblockaftercrash
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm64e.deb
+Size: 1220
+MD5sum: d2f7d67aa6053c2494a09ddc22834673
+SHA1: 35072e30ad900b466ef4a91ebc71e41b7e0830c7
+SHA256: 30cc87cba4cbd73ffa1bd395856de750d108d63a30fee15359e820a3481a3904
+Section: System
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Name: Disable SB Lock After Crash
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+
+Package: com.nan.disablesblockaftercrash
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm.deb
+Size: 1208
+MD5sum: d17089a32978d8e4e28be4bb1a71cb59
+SHA1: 65e624348180b8b34897ce8de85a71b3de1abf52
+SHA256: e4083b74c9930d9ef5db532953ceff19bfb1efc9d990ae54ef63f8a62e9312a3
+Section: System
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Name: Disable SB Lock After Crash
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+
 Package: com.nathan.gridswitcher
 Version: 1.0.3
 Architecture: iphoneos-arm64
