@@ -13978,6 +13978,22 @@ Author: Nightwind
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: MatchingIconLabels
 
+Package: com.nygard.class-dump-ios
+Version: 0.0.1-7
+Architecture: iphoneos-arm64
+Maintainer: DreamDevLost
+Installed-Size: 1592
+Filename: ./debs/com.nygard.class-dump-ios_0.0.1-7_iphoneos-arm64.deb
+Size: 347944
+MD5sum: 8797958da568b89f2ac49825643efbd2
+SHA1: d3e32d2686f21334b424817c54261d2b7ff9c86b
+SHA256: 75267c6c833ae6e475e74e09ba4ce9fac3bc437ea23afae5f69d77eb793125f4
+Section: System
+Description: ClassDump适配ios版本头文件命令classdumpios -H /path/ -o /path) -H 后面是Math-O文件路径，-o后面是提取头文件的路径
+Tag: role::hacker
+Author: DreamDevLost
+Name: class-dump-ios
+
 Package: com.oleddarkmode
 Version: 0.5.3
 Architecture: iphoneos-arm64
@@ -17433,6 +17449,41 @@ Author: r_plus <anasthasia.r+swipeshiftcaret@gmail.com>
 Dev: rplus
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SwipeShiftCaret
+
+Package: com.tangerine.lockscreenbatterymagsafe
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: tangerine
+Depends: firmware (>= 14.1), mobilesubstrate
+Filename: ./debs/com.tangerine.lockscreenbatterymagsafe_1.0.5_iphoneos-arm64.deb
+Size: 5292
+MD5sum: a9eac51012e1d3bd0e0ca0e87703b30f
+SHA1: 0428b638d8829afecfd97291110063da5ad3ddd1
+SHA256: 0803ffe3b1ed490b51ab3941625b96760ee58b2b9f807a06e9d9b2db7e83c616
+Section: 插件
+Description: 充电时，锁屏上会自动显示一个专为MagSafe设计的充电动画。
+Author: Tomasz Poliszuk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: MagSafe充电动画
+Sponsor: wkk
+
+Package: com.tangerine.lockscreenbatterymagsafe
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: tangerine
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.1), mobilesubstrate
+Filename: ./debs/com.tangerine.lockscreenbatterymagsafe_1.0.5_iphoneos-arm64e.deb
+Size: 7026
+MD5sum: 5a8ffd018a35d2e4432a1803c4c0ea4a
+SHA1: d9c1cc7392526cc2678227fdb4261ddca47df2cf
+SHA256: d442664050b9099a2e87e0ff2d6273c4c60e94c2176e6492aa9e9983fd07c9e6
+Section: 插件
+Description: 充电时，锁屏上会自动显示一个专为MagSafe设计的充电动画。
+Author: Tomasz Poliszuk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: MagSafe充电动画
+Sponsor: wkk
 
 Package: com.tencent.themebox
 Version: 1.0.8-1
