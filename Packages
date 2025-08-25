@@ -21004,41 +21004,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/02/9951c6ec81c84bce7fda5cdf77936476.jpeg
 Name: 妮妮打熊注销动画
 
-Package: com.wkk.ocd5
-Version: 5.4.1.0
-Architecture: iphoneos-arm64e
-Maintainer: b4db1r3 <nfive060@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
-Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5lite
-Filename: ./debs/com.wkk.ocd5_5.4.1.0_iphoneos-arm64e.deb
-Size: 389420
-MD5sum: 456abf132bb7ad10aa103e1517390e9c
-SHA1: 6ee5cedb87cf72eddb61bb033d735b0e72c79ba8
-SHA256: 9749afd70746447ca430b8c94844288b91f8b1f841d999323cbc269ac793fec0
-Section: 插件
-Description: 通知角标的自定义。
-Author: b4db1r3 <nfive060@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
-Name: OCD5
-
-Package: com.wkk.ocd5
-Version: 5.4.1.0
-Architecture: iphoneos-arm64
-Maintainer: b4db1r3 <nfive060@gmail.com>
-Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
-Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5lite
-Filename: ./debs/com.wkk.ocd5_5.4.1.0_iphoneos-arm64.deb
-Size: 325080
-MD5sum: 77224c840f6143b0b5bd5ad2531ed922
-SHA1: 5d3a4b02bb6ab6831a62257f4e21174605815d11
-SHA256: 1c8a8d752b4bf9f04815b418977a6691d14661c247cdf1ff5a34b18606b0f391
-Section: 插件
-Description: 通知角标的自定义。
-Author: b4db1r3 <nfive060@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
-Name: OCD5
-
 Package: com.wkk.photosplus
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -22459,6 +22424,41 @@ Description: 将美观的小部件带到设置的顶部。
 Author: shepgoba <arm64.deb@icloud.com>
 Icon: https://raw.githubusercontent.com/BarabaVip/Baraba/refs/heads/main/SettingsWidgets.png
 Name: SettingsWidgets
+
+Package: com.yourepo.b4db1r3r3p0.ocd
+Version: 5.4.1.1
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3 <nfive060@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, org.thebigboss.libcolorpicker, ws.hbang.common
+Conflicts: com.noisyflake.cozybadges
+Filename: ./debs/com.yourepo.b4db1r3r3p0.ocd_5.4.1.1_iphoneos-arm64e.deb
+Size: 561772
+MD5sum: 28b60c727658e1cee269d3461c43d8f6
+SHA1: 69487ab8d42b6772ad33d6830ffa20d6d107a012
+SHA256: a4202762ae46badf9cd886fd63f73f14077240a162c04cae47b920a9c776760c
+Section: Tweaks
+Description: 通知角标的自定义。
+Author: b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
+Name: OCD
+
+Package: com.yourepo.b4db1r3r3p0.ocd
+Version: 5.4.1.1
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3 <nfive060@gmail.com>
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, org.thebigboss.libcolorpicker, ws.hbang.common
+Conflicts: com.noisyflake.cozybadges
+Filename: ./debs/com.yourepo.b4db1r3r3p0.ocd_5.4.1.1_iphoneos-arm64.deb
+Size: 558492
+MD5sum: 6170b6f6cde1f323203468bdebbd7131
+SHA1: 79af2f1d9d03f43595365e91d27bda3b8497e042
+SHA256: dcb8cea1a58d71778ef8beff1f118f9306e6c50f3a003921bc9d6854b6cfa9ab
+Section: Tweaks
+Description: 通知角标的自定义。
+Author: b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
+Name: OCD
 
 Package: com.yourepo.cydiageek.nochargingsound
 Version: 0.0.1
