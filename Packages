@@ -12047,6 +12047,40 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCNicknameAvatarStyle
 
+Package: com.huayuarc.lsilllooklater
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.huayuarc.lsilllooklater_0.0.1_iphoneos-arm64e.deb
+Size: 3384
+MD5sum: ccbaa5deae9b8d98e985cca9fd736b6d
+SHA1: fd5933c413331071b2b14ce00cafb52f6eda6223
+SHA256: c92f1f1173ef0671b9d8d1e77488341459b8c60a5e1c98ec1c17e80278406910
+Section: Tweaks
+Description: 每当收到新通知时，防止锁屏唤醒/显示。这将防止屏幕亮起，从而防止不必要的电池消耗。（不亮屏但有声音提醒）
+Author: Huayuarc
+Icon: https://s1.imagehub.cc/images/2025/08/31/c45d144244f9bebeeddf036d52eb630a.jpeg
+Name: 来通知不亮屏
+
+Package: com.huayuarc.lsilllooklater
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.huayuarc.lsilllooklater_0.0.1_iphoneos-arm64.deb
+Size: 3452
+MD5sum: c95d1beb3213f6296ced02a5a4ad8bf6
+SHA1: 73ab55488adfa25f46f8b5869e481c0267a1e179
+SHA256: f3f654ebd002e32f34c363b22c6d1d0b2b921c09f3d5705d514400e2a3717b90
+Section: Tweaks
+Description: 每当收到新通知时，防止锁屏唤醒/显示。这将防止屏幕亮起，从而防止不必要的电池消耗。（不亮屏但有声音提醒）
+Author: Huayuarc
+Icon: https://s1.imagehub.cc/images/2025/08/31/c45d144244f9bebeeddf036d52eb630a.jpeg
+Name: 来通知不亮屏
+
 Package: com.iamdega.mginspector
 Version: 1.0.0
 Architecture: iphoneos-arm64e
