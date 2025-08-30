@@ -13961,6 +13961,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatNotiAvatar
 
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-9_iphoneos-arm64.deb
+Size: 241128
+MD5sum: 64b4f93324dda9ba29826a7ad77daf56
+SHA1: 3731c65a19c68c43e793ccf33beefcd7c47cd125
+SHA256: f2fd388109bc39248493c3ce07a880d271a699a71f6a1b37606574a38fbc5f9a
+Section: 微信插件
+Description: 微信通知从图标改为显示为头像。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatNotiAvatar
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-9
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 2336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-9_iphoneos-arm64e.deb
+Size: 339690
+MD5sum: fe6ebebecb177104351e3696ac0a44bb
+SHA1: 4e7d7483d7e2c271b8fca5d7894806cbe059b1fd
+SHA256: 4c6c373f4fcb8226c5324f8f793513c41e886c8b27391486c7c62d63878c125e
+Section: 微信插件
+Description: 微信通知从图标改为显示为头像。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatNotiAvatar
+
 Package: com.netskao.wechatuiswitchloader
 Version: 1.1-4
 Architecture: iphoneos-arm64
