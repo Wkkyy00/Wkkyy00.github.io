@@ -24632,3 +24632,38 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/201aee1851a2c90af9fe7144b348aa3f.
 Name: 小丑真后台
 Sponsor: wkk
 
+Package: xyz.skitty.quietdown
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 432
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/xyz.skitty.quietdown_1.1.2_iphoneos-arm64.deb
+Size: 44284
+MD5sum: 36065c9b8e4601469f5cb531fb69a58e
+SHA1: 00962b59aa6f13e02868186e04516c04878e444e
+SHA256: 45f218426e60d6c7e52dd76978fba7d724488a07b591aaff3a0b8e220256375b
+Section: Tweaks
+Description: 单独设置某App时间段的通知拦截（横幅/锁屏以及声音，可自由选择/全部选择）此插件对多开vx无效，假如拦截某一多开vx，那么其他所有vx都接收不到通知（微信通知的自身机制，不是插件的原因），其他bug暂无发现，不喜欢就卸载。（可在设置里设置呼出方式）
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
+Name: QuietDown
+
+Package: xyz.skitty.quietdown
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Skitty
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/xyz.skitty.quietdown_1.1.2_iphoneos-arm64e.deb
+Size: 58692
+MD5sum: 2e53132368d2b475e43799668ea8f968
+SHA1: 17bba45f291d89c09faba109be19c93ce5fbdb49
+SHA256: f19334ad4b0498660d7aa96cbf8fa9b1a0cd0a3ffdbc9dbd1cb8c290618a8596
+Section: Tweaks
+Description: 单独设置某App时间段的通知拦截（横幅/锁屏以及声音，可自由选择/全部选择）此插件对多开vx无效，假如拦截某一多开vx，那么其他所有vx都接收不到通知（微信通知的自身机制，不是插件的原因），其他bug暂无发现，不喜欢就卸载。（可在设置里设置呼出方式）
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
+Name: QuietDown
+
