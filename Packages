@@ -22893,23 +22893,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 遮罩集合大全
 Sponsor: bdzt
 
-Package: com.zqbb.iconshadow
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 96
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zqbb.iconshadow_1.1_iphoneos-arm64.deb
-Size: 9232
-MD5sum: bfc9a0fedc1086b102123d1618be021b
-SHA1: 1cf079fac2f1487cd8d20bfc4b587a5664eac976
-SHA256: fe38573d53a005db299698f45a80343f85f21d4072589a27a7aeed83f78da1f0
-Section: Tweaks
-Description: 给图标添加一层阴影图片!
-Author: zqbb
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 图标阴影
-
 Package: com.zqbb.savephotos
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -23434,23 +23417,6 @@ Author: Maxwell Dausch
 Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
 Name: Latchkey
 
-Package: locked5
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/locked5_1.0_iphoneos-arm64.deb
-Size: 3212
-MD5sum: fd282142a9287dfe40d4373095f11466
-SHA1: 6da005f3a8766ca48af0f934840fd3564fc6ad5d
-SHA256: 2101ae7ac5ec9960f58069ba5d16b469da615bfede7d9c3be9962267bf7763a2
-Section: 插件
-Description: 在锁屏来电话时会有一个红色挂断的按钮。
-Author: z
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 锁屏来电拒接
-
 Package: love.litten.rose
 Version: 1.1.0
 Architecture: iphoneos-arm64e
@@ -23899,23 +23865,6 @@ Description: 去除ios测试版Beta弹窗。
 Author: z
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 去除Beta弹窗
-
-Package: nohomebar
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/nohomebar_1.1_iphoneos-arm64.deb
-Size: 2540
-MD5sum: b00a95fd0cace4022be5c16ec5fda09c
-SHA1: 9301dda8210731958ee99d9b53d83149fd5c0cab
-SHA256: feec4d2710084b6572facef4eb9f6bd2087e2b65e81aaa481ca018beeaa43cad
-Section: 插件
-Description: 如题。
-Author: z
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 隐藏底部横条
 
 Package: org.haxi0.derootifiers
 Version: 1.3
