@@ -11977,6 +11977,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/02/06/ec6645362af5f9dda6f90123398eb8c7.jpeg
 Name: kugouNoAD
 
+Package: com.huami.wcenabledictaion
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcenabledictaion_1.0.0_iphoneos-arm64e.deb
+Size: 4284
+MD5sum: 10f6b644844c0a8a065e97eae9ca8498
+SHA1: d7608b7cb025e939abd4ad69a3f84202db08fb4b
+SHA256: 91387331def9532bf8939dfb130683934e32226e11adfce8d40ca2f3bfa1d374
+Section: 微信插件
+Description: 60+强开语音转述。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCEnableDictaion
+
+Package: com.huami.wcenabledictaion
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcenabledictaion_1.0.0_iphoneos-arm64.deb
+Size: 3044
+MD5sum: ac978884cbe59f8e896f3a6a1e6f175c
+SHA1: df6cf934bb543894bdea75a0bfea33e355244535
+SHA256: 8d94646127550cb2757ad4712384927616ea26d7e8c9d958e7af93d47fdc60b2
+Section: 微信插件
+Description: 60+强开语音转述。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCEnableDictaion
+
 Package: com.huami.wcnicknameavatarstyle
 Version: 2.2
 Architecture: iphoneos-arm64e
