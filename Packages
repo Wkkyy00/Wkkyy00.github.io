@@ -2690,6 +2690,57 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 Name: Single VPN
 
+Package: com.82flex.trollvnc
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5152
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.82flex.trollvnc_1.2_iphoneos-arm64.deb
+Size: 1412948
+MD5sum: 301ac77d8b9435fb8382734fa533aa4a
+SHA1: 66215fe37ebaf867ccc3ba2eb563adeedd298c10
+SHA256: 8e69a4a2720bf1066c89319675f88a87b12a6453f059834eac854704bd0cb5c2
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5152
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.82flex.trollvnc_1.2_iphoneos-arm64e.deb
+Size: 1413172
+MD5sum: 418fc420161ea3ade74736cd6012c217
+SHA1: 4bfb667e7eee48fcaa81e5cc271a4dd11338be0e
+SHA256: b235e9df6d3aed19bf8f0671ecc91c303a273111eef50e372e8c42ee84538ef6
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5152
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.82flex.trollvnc_1.2_iphoneos-arm.deb
+Size: 1413236
+MD5sum: b8681cb4205509aa82557f990c1ed189
+SHA1: 7e3eb70a9012bfe830db58f60da56ea27eaff0f7
+SHA256: b3519657a071220137d71b26da5875af7de86bb24b9c476fa12289e473034106
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -21594,41 +21645,6 @@ Description: 下载后文件在目录/var/mobile/Documents/iPhoneOS16.5.sdk.tar
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: iPhoneOS16.5.sdk
-
-Package: com.wkk.shunfenghook
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.shunfenghook_1.0_iphoneos-arm64.deb
-Size: 3596
-MD5sum: bb65fb0361eff3b00488f5cc0c368e5e
-SHA1: ad2c3355547a7c0da1d7c6f4a568253d8f636630
-SHA256: 745b0275a334139fa1c34f5b3ef54a4162dfd9224951def01e8d172e75b587b4
-Section: 去广告
-Description: 去开屏广告，测试版本：9.74.0，可以注入可以插件，（以下是特殊情况）如果先打开一次顺丰app有开屏广告先点一下开屏广告（点击，他会跳出一个网页，不是点跳过），然后点击关闭广告，最后杀掉app，用类似appdata插件清除缓存再打开app即无开屏广告。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/10/6f21b79a5a8c09efc2635593b5f977d3.png
-Name: 顺丰速运NoAds
-
-Package: com.wkk.shunfenghook
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.shunfenghook_1.0_iphoneos-arm64e.deb
-Size: 5298
-MD5sum: 9beeeacab5afb128cadc44f47dd296df
-SHA1: a9b7a66316d3a4c8a54f37d6d64d776f7ef9dd4a
-SHA256: 972d4a3cbb07f4587bdaf1e218010af427ca1d22017c99f6582166653dfe2f7a
-Section: 去广告
-Description: 去开屏广告，测试版本：9.74.0，可以注入可以插件，（以下是特殊情况）如果先打开一次顺丰app有开屏广告先点一下开屏广告（点击，他会跳出一个网页，不是点跳过），然后点击关闭广告，最后杀掉app，用类似appdata插件清除缓存再打开app即无开屏广告。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/10/6f21b79a5a8c09efc2635593b5f977d3.png
-Name: 顺丰速运NoAds
 
 Package: com.wkk.sileomh
 Version: 1.0
