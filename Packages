@@ -21580,6 +21580,45 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
 Name: 汽水音乐NoBottombar
 
+Package: com.wkk.randomicons
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 226
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15), ellekit (>= 0.6.3)
+Filename: ./debs/com.wkk.randomicons_1.0_iphoneos-arm64e.deb
+Size: 15476
+MD5sum: c290b2ec7107aa4aaab71dde7c0550cd
+SHA1: 16851b917e39928fa21395f27be2781d8750f990
+SHA256: cb7eec5a385a7e86d2cd82e33fbff2f2703027edc99a02c2a00fe198560de525
+Section: 一切美化的东西都是垃圾
+Priority: optional
+Description: 安装后重启springboard。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 桌面图标随机动画
+Sponsor: wkk
+
+Package: com.wkk.randomicons
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 226
+Depends: firmware (>= 15), ellekit (>= 0.6.3)
+Filename: ./debs/com.wkk.randomicons_1.0_iphoneos-arm64.deb
+Size: 11548
+MD5sum: 6192e7b8347e00a05203e39550b6556a
+SHA1: 37f6c0045ef7d02abab9c4517ce096c6990b716f
+SHA256: f46dc1c1de623e6ac45d0c41cb1de2413aee141c652a4c92093b125b566b7115
+Section: 一切美化的东西都是垃圾
+Priority: optional
+Description: 安装后重启springboard。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 桌面图标随机动画
+Sponsor: wkk
+
 Package: com.wkk.roothide
 Version: 1.0
 Architecture: iphoneos-arm64
