@@ -15410,6 +15410,39 @@ Author: PoomSmart
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: RecordPause
 
+Package: com.rexinxuegao.WCElite
+Version: 1.3-7
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.rexinxuegao.WCElite_1.3-7_iphoneos-arm64e.deb
+Size: 1599376
+MD5sum: 8a82c36a3a2691d20e1de6f07f2c8a74
+SHA1: 9dd3374cb7ebb345321c694a22dad12677eb5833
+SHA256: 22765c511f986a1bb7612d761007f3797fa32833264d1870059901abad025d77
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于WechatEnhance 1.1-9开源版优化。
+Author: 热心网友＆雪糕
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCElite
+
+Package: com.rexinxuegao.WCElite
+Version: 1.3-7
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.rexinxuegao.WCElite_1.3-7_iphoneos-arm64.deb
+Size: 545744
+MD5sum: 95679b3e8bf5e66771a36a8a9251fe98
+SHA1: d7ca7555e2a20705f7749c0c303f44365a765116
+SHA256: 03ae5c514f3235d21872320606ad9bbfc1ba35a8d61a7f4a02170af86a8955e9
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于WechatEnhance 1.1-9开源版优化。
+Author: 热心网友＆雪糕
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCElite
+
 Package: com.roothide.manager
 Version: 1.2
 Architecture: iphoneos-arm64e
