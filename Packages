@@ -2945,6 +2945,57 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
 Name: TrollVNC
 
+Package: com.82flex.trollvnc
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5320
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_2.0_iphoneos-arm.deb
+Size: 1452304
+MD5sum: c744fd86ae98b00e8fdd06cba9a108a8
+SHA1: 6a383f0bcbce819c7ffaddc222d0b5e16e6ed2b7
+SHA256: 5ed8c4132588176e9bc52b0ca9c4e455553250c696025302b57de38b46856d35
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5320
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_2.0_iphoneos-arm64.deb
+Size: 1451480
+MD5sum: 6ce4b74e9df9a80e340cc96be85d5a1f
+SHA1: 92e9da093c0ea768e34406b808f8ea98207b5914
+SHA256: 2c455031c67afe928b7ac7c92dfe388c9c4d16f15930494b20cab833a6f6e766
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5320
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.82flex.trollvnc_2.0_iphoneos-arm64e.deb
+Size: 1451380
+MD5sum: 4faf2f3eba980511b97c23bc1d881f61
+SHA1: e5e695015c99f4b21508cac013505a9f6fba9b2c
+SHA256: 0d0ff1c82b2ba5791a5a860b0a6bd58f3e194d9a4e6756055293be74f7257dcd
+Section: 应用程序
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/08/31/25640d16bc4c40fca6253bad212cf556.png
+Name: TrollVNC
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
