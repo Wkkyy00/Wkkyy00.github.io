@@ -24693,6 +24693,22 @@ Description: Stage Manager Reimagined for iPhone
 Author: tomt000
 Name: Dynamic Stage
 
+Package: net.disableshuttersound
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/net.disableshuttersound_1.1-2_iphoneos-arm64.deb
+Size: 3284
+MD5sum: 40cfd0e022f58922a72cbd93e93cffa6
+SHA1: 6f1ee11a2c3cd89aaf80efd68c229f31a23b9e8c
+SHA256: 2214ba01fd9e65fccb994dea6fd79d91d05c6ca7e3360d33a016f28c79bfe578
+Section: 插件
+Description: Disable shutter sound禁用拍照声音
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 禁用拍照声音
+
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
 Architecture: iphoneos-arm64e
