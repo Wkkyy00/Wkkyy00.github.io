@@ -24045,6 +24045,23 @@ Author: Mineek
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: appstoretroller
 
+Package: dev.mineek.appstoretroller
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.1.2_iphoneos-arm64.deb
+Size: 17088
+MD5sum: c48f93175e10abb5a3d9831aec875b26
+SHA1: 8a399c30d8958269d3e2a1a4726e009f8e0f9e30
+SHA256: 7e39c4388e7afd44d7260d022a57ce3e31fe11aba8920c33ca83edb4d022b8cd
+Section: Tweaks
+Description: 伪装iOS版本在appstore安装软件（如果有低版本）
+Author: Mineek
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/icon.png
+Name: appstoretroller
+
 Package: dev.traurige.eneko
 Version: 1.4.2
 Architecture: iphoneos-arm64
