@@ -20919,10 +20919,10 @@ Maintainer: wkk
 Installed-Size: 114
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Filename: ./debs/com.wkk.center_4.3_iphoneos-arm64.deb
-Size: 208904
-MD5sum: a73019b1100828e0890931cc06627de8
-SHA1: 650cd687057a475a83efb7076f5e3d47bb5037e9
-SHA256: a57858385cb8ed3105ad1e67a287a59b75fc43ecac04ae6a1c69e6d1217450db
+Size: 208652
+MD5sum: c7964460272ffc29195e78ba0ead16ea
+SHA1: 49cad1fb105082ba7a74f9941f66883564e3b3f1
+SHA256: f69660df815bf5e3ebe3bb84849a9c420b0c34e15b49ac6b9fc2586d3d77f0db
 Section: 控制中心
 Description: 自用。
 Author: wkk
@@ -20939,10 +20939,10 @@ Installed-Size: 114
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Filename: ./debs/com.wkk.center_4.3_iphoneos-arm64e.deb
-Size: 467056
-MD5sum: 8da300e4faf3da1720a65f15d7aa09f6
-SHA1: e2216374bdb62115ca814f48169f0bd7ba0b27ff
-SHA256: 3e1f2ebd237528cafa178fd685a6a775527dd8070105edad904b1f0769277883
+Size: 213904
+MD5sum: 78cfbb4b262cd3719bad1ceeb394a5df
+SHA1: 4fda31b119c3ada89d95485d6ff1da7cd2e16700
+SHA256: fd9ac402a2c8868d6b5ea15e8b25df6996aaf46ce32ba7400c0d2b709c963014
 Section: 控制中心
 Description: 自用。
 Author: wkk
