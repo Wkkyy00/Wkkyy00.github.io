@@ -7391,6 +7391,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/dfd2f1f3615c35fe920fb6a4415e46fb.
 Name: BetterCCBrightness
 Sponsor: wkk
 
+Package: com.blbl
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 狗哥
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.blbl_1.0_iphoneos-arm64e.deb
+Size: 18532218
+MD5sum: 72c31e3a2a2be4f90b48b8dcd2a58e09
+SHA1: ddac8c15aec8ba32cb6da51c6a648ba55eaced98
+SHA256: 8b9516f94684ad3e0dc8d70ddcd83e92cec46e6c9c79b61e8eeffb71b5eb94c1
+Section: 插件
+Description: （备份）设置里启动。如果插件无效，下载deb注入哔哩哔哩。
+Author: 狗哥
+Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
+Name: 哔哩哔哩净化
+
+Package: com.blbl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 狗哥
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.blbl_1.0_iphoneos-arm64.deb
+Size: 6714128
+MD5sum: 38e62bdde921a14caa0c995bc46cef68
+SHA1: b42871b67e17bb77c3861da43fa06ca51c364731
+SHA256: fad10bfc153e50bc5145758359b436e46d1cf609d47572d532309b5b6ef8e74b
+Section: 插件
+Description: （备份）设置里启动。如果插件无效，下载deb注入哔哩哔哩。
+Author: 狗哥
+Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
+Name: 哔哩哔哩净化
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64e
