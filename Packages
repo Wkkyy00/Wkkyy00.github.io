@@ -9240,6 +9240,39 @@ Author: tangerine
 Icon: https://s1.imagehub.cc/images/2025/01/21/2772e1b5bbc73fd906d7f03261cff53f.png
 Name: EdgeSiri
 
+Package: com.ellasp.floaty
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.floaty_1.0_iphoneos-arm64.deb
+Size: 58796
+MD5sum: e597850a9d6358bd012020efd6fef76e
+SHA1: e373aa4d3a072d74d9e8ec0dbd66a80601dde85e
+SHA256: c448b0b640d1744193b98b1886ead37211e76822dfc0f0c7446772196d968174
+Section: Tweaks
+Description: Your Banners, Reimagined!
+Author: EllaSP
+Name: Floaty
+
+Package: com.ellasp.floaty
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: EllaSP
+Installed-Size: 508
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.floaty_1.0_iphoneos-arm64e.deb
+Size: 77784
+MD5sum: b9d8412f1051b52f17010397a8b035e6
+SHA1: 233609b056f31e45cf2987ada508129e85be14b9
+SHA256: deedab37ad8800ecc3dbfa52055b6a8e5b1c24b409f578c1e825a71717d22364
+Section: Tweaks
+Description: Your Banners, Reimagined!
+Author: EllaSP
+Name: Floaty
+
 Package: com.ethanrdoesmc.dawn
 Version: 1.1
 Architecture: iphoneos-arm64e
