@@ -14458,6 +14458,23 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/21/4a33ca43d96d8af81a6a2a5c7aa18993.png
 Name: DumpDecrypter
 
+Package: com.netskao.injectipa
+Version: 1.4-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 852
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.netskao.injectipa_1.4-9_iphoneos-arm64.deb
+Size: 269952
+MD5sum: 867d09474d6b12f296cb60c5f8d97671
+SHA1: ad6179e48a9410d1349534ef9c8c4ab05c317e6f
+SHA256: 5dd44471ceb2f246cfb03ce7d60f69d954f949410945d06ed3f5b889f3293b90
+Section: 插件
+Description: InjectIPA Tool
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: injectipa
+
 Package: com.netskao.storeswitchaccounts
 Version: 1.1-4
 Architecture: iphoneos-arm64
