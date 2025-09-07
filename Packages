@@ -7990,6 +7990,22 @@ Author: Netskao <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
 Name: ClassicKeyboardXS
 
+Package: com.classickeyboardxs
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.classickeyboardxs_1.1-9_iphoneos-arm64.deb
+Size: 275908
+MD5sum: c07187c5a3ea335cb0e070eab3f612c9
+SHA1: 08f2da2ef0698a002101b7b96e69123dbff627fa
+SHA256: df5f16eb9cc43b6657d32084a04fcfe8de312d751869d547dfa328213b691942
+Section: 插件
+Description: 自定义键盘高度。
+Author: Netskao <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
+Name: ClassicKeyboardXS
+
 Package: com.cozybadges
 Version: 2.1
 Architecture: iphoneos-arm64
