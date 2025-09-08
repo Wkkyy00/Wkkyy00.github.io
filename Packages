@@ -7992,6 +7992,23 @@ Name: ClassicKeyboardXS
 
 Package: com.classickeyboardxs
 Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.classickeyboardxs_1.1-9_iphoneos-arm64e.deb
+Size: 390798
+MD5sum: 6f21e319ffadb3a0a0758c2bd8543a6f
+SHA1: 6b1264225ed2108af69a4aaf5079d479d3f584d4
+SHA256: 7b28e909a3dc8f7e334c46603ee97f30052848e79521df960b6150eaa5c32e1c
+Section: 插件
+Description: 自定义键盘高度。
+Author: Netskao <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
+Name: ClassicKeyboardXS
+
+Package: com.classickeyboardxs
+Version: 1.1-9
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
