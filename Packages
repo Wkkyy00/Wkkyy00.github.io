@@ -1671,6 +1671,39 @@ Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
 Name: SafariX
 
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64e.deb
+Size: 371644
+MD5sum: f0e4a5a5ae4516566a467ce3c7d04685
+SHA1: b16a76d1925b162341929aa676a76842804be7f9
+SHA256: c9506a411870d8e036003ed17d12ef8e42fbae6322785bf9bb2b3e89df9abb44
+Section: 插件
+Description: Safari浏览器增强。
+Author: 0xkuj
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX
+
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
+Size: 322132
+MD5sum: 40199d63165e3f360f48edfb24d81dea
+SHA1: e2e1bcac108e5d312162da3592914d4507a9208d
+SHA256: aabb14253d58ad555c5300761d118aec20df48bc6dca7856f787ab9f9d7620e2
+Section: 插件
+Description: Safari浏览器增强。
+Author: 0xkuj
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-6
 Architecture: iphoneos-arm64
