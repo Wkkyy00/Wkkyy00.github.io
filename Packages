@@ -9544,6 +9544,38 @@ Description: Your Banners, Reimagined!
 Author: EllaSP
 Name: Floaty
 
+Package: com.ellasp.floaty
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.floaty_1.2_iphoneos-arm64.deb
+Size: 59008
+MD5sum: dde740bd46e34397594339c3c5feaf39
+SHA1: c61f4946cd6294c0c0bb6c58229b9dd0b43f8cda
+SHA256: 4051e83607143d3a9207c735d5d57ab4629816cfec05da3c90c1e4c400c9e09d
+Section: Tweaks
+Description: Your Banners, Reimagined!
+Author: EllaSP
+Name: Floaty
+
+Package: com.ellasp.looky
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.looky_1.2_iphoneos-arm64.deb
+Size: 55532
+MD5sum: a929eac8fafe6cb5814015a5935db67a
+SHA1: 7f315fe8537a21c5e5f422cfa016d74aecd4a74b
+SHA256: 73b0969a755dd86d5bff796db81c7bb35a9705399a5c52eb6c56abc6b80f78b2
+Section: Tweaks
+Description: Effortless Elegant lock screen notification experience!
+Author: EllaSP
+Name: Looky
+
 Package: com.ethanrdoesmc.dawn
 Version: 1.1
 Architecture: iphoneos-arm64e
