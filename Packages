@@ -9546,6 +9546,23 @@ Name: Floaty
 
 Package: com.ellasp.floaty
 Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: EllaSP
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.floaty_1.2_iphoneos-arm64e.deb
+Size: 78188
+MD5sum: 665645dcb4092465c86f3883f29ef815
+SHA1: 561c7b131de1a60ed907b8b64d9c050f01a9734a
+SHA256: b1c4214ad431c26756d6b5174420185aad9638931b66fc688e1c80a450fea1ba
+Section: Tweaks
+Description: Your Banners, Reimagined!
+Author: EllaSP
+Name: Floaty
+
+Package: com.ellasp.floaty
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: EllaSP
 Installed-Size: 512
