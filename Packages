@@ -25248,6 +25248,41 @@ Description: Stage Manager Reimagined for iPhone
 Author: tomt000
 Name: Dynamic Stage
 
+Package: me.zsaaiq.springhooker
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zSaaiq
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/me.zsaaiq.springhooker_1.1_iphoneos-arm64e.deb
+Size: 58244
+MD5sum: d7ac3d8513e16fbc1878a5ba06da5f25
+SHA1: 436637de260c308e56c9f92951c1f5dc03b4690c
+SHA256: f63026c111903b7dcc1c9d0e2bfc6300a19726325f269b43661697753369146d
+Section: Tweaks
+Description: 比较小众的插件，具体功能下载自己玩吧，已汉化。
+Author: zSaaiq
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/iconFullSize.png
+Name: SpringHooker
+
+Package: me.zsaaiq.springhooker
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zSaaiq
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/me.zsaaiq.springhooker_1.1_iphoneos-arm64.deb
+Size: 50920
+MD5sum: 5bbddd3bf0380c5c26ce546a204829cc
+SHA1: 9d232665fbd0cd0975d2d01a0ac8f983ffca360f
+SHA256: 3ce2fe731ae4af19b4b111a7a5d1550f26f2951d7cca0c0d2f87c46f8f674b82
+Section: Tweaks
+Description: 比较小众的插件，具体功能下载自己玩吧，已汉化。
+Author: zSaaiq
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/iconFullSize.png
+Name: SpringHooker
+
 Package: net.disableshuttersound
 Version: 1.1-2
 Architecture: iphoneos-arm64
