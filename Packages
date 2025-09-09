@@ -12216,6 +12216,57 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPush2Chat
 
+Package: com.huami.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCSafeMode_1.0-1_iphoneos-arm64.deb
+Size: 3952
+MD5sum: b6c5b5bec5a311f6505f01f9b88ac97f
+SHA1: d8bc3bf139e96b0216e73d3b8f850f0263bb3a2b
+SHA256: c99fc9c25d4c24e4390049ae111c56a91f6ed22053d52c051d605b2280492fbd
+Section: 微信插件
+Description: 长按「我」页面头像1秒手动触发微信安全模式（资源清理）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSafeMode
+
+Package: com.huami.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCSafeMode_1.0-1_iphoneos-arm64e.deb
+Size: 3884
+MD5sum: 217c8af93180bcbe9f355dcdcc9569b3
+SHA1: f625085ea1f5ef4eb32b71f4f54c3cd356bd2a48
+SHA256: cbcda0bb98f552cc63df97a9da55aa86679878d187e890a760c66600025f1b48
+Section: 微信插件
+Description: 长按「我」页面头像1秒手动触发微信安全模式（资源清理）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSafeMode
+
+Package: com.huami.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCSafeMode_1.0-1_iphoneos-arm.deb
+Size: 3868
+MD5sum: 84e05c8b8b657c35ad833e09087c4c2f
+SHA1: da14961ac689abe98ff0e538bd254d0d8bd763b2
+SHA256: 71771fce91b70c271fe763a0c26382980004875fddd763d4ae5d22951a424d4b
+Section: 微信插件
+Description: 长按「我」页面头像1秒手动触发微信安全模式（资源清理）
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSafeMode
+
 Package: com.huami.dyyy
 Version: 1.9
 Architecture: iphoneos-arm64
