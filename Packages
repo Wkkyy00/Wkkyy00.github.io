@@ -9626,6 +9626,23 @@ Description: Effortless Elegant lock screen notification experience!
 Author: EllaSP
 Name: Looky
 
+Package: com.ellasp.looky
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: EllaSP
+Installed-Size: 460
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.ellasp.looky_1.2_iphoneos-arm64e.deb
+Size: 69170
+MD5sum: d6c368d1c51506d75e827d41797b7d3e
+SHA1: 6629b949f1730e6c610b6523d85610bc8a494059
+SHA256: d4e3cf2368f08d3bf202788408ff49024054b333df4d5670b5d4d74633ecf930
+Section: Tweaks
+Description: Effortless Elegant lock screen notification experience!
+Author: EllaSP
+Name: Looky
+
 Package: com.ethanrdoesmc.dawn
 Version: 1.1
 Architecture: iphoneos-arm64e
