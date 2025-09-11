@@ -9017,6 +9017,42 @@ Description: Safari多功能增强插件。
 Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
 Name: SafariX
 
+Package: com.dao.speedy
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: alias20 & daodao
+Installed-Size: 420
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Conflicts: alias20.speedy, com.hk.speedy.cn.rl
+Filename: ./debs/com.dao.speedy_0.3_iphoneos-arm64.deb
+Size: 32100
+MD5sum: f1329f4cd004c9549be01bb9556ed8b5
+SHA1: 57f110a8c254a33d65da31886fc4b86d8fd3855c
+SHA256: 029ed139d708e88ee96cf19d4500331379c2456c15281bc2c57f2526397bf792
+Section: 插件
+Description: 更细节的 iOS 动画加速，根据开源编译，已带汉化。
+Author: alias20 & daodao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Speedy
+
+Package: com.dao.speedy
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: alias20 & daodao
+Installed-Size: 404
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Conflicts: alias20.speedy, com.hk.speedy.cn.rl
+Filename: ./debs/com.dao.speedy_0.3_iphoneos-arm64e.deb
+Size: 29804
+MD5sum: 9dfde8ad9038370a431adbcb92397463
+SHA1: bb6869763569474720e533ea78bd556319ee49ab
+SHA256: 930a0dd8f645e2e345e0c85b06440909e3b6eb0de1068e5f8f732fd320ee69e0
+Section: 插件
+Description: 更细节的 iOS 动画加速，根据开源编译，已带汉化。
+Author: alias20 & daodao
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Speedy
+
 Package: com.dao.stella
 Version: 1.1.5
 Architecture: iphoneos-arm64
