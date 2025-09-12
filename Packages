@@ -26022,6 +26022,64 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/201aee1851a2c90af9fe7144b348aa3f.
 Name: 小丑真后台
 Sponsor: wkk
 
+Package: xyz.skitty.lightsout
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Skitty
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/xyz.skitty.lightsout_1.1_iphoneos-arm64e.deb
+Size: 69726
+MD5sum: dfe2918fbc0965c7f4c40388f728d776
+SHA1: 63991b90ff79a4f256b8f11f1014923e60224926
+SHA256: 1030af738eb47fe692492293aed5cef536e476f5d593473ec39433323f5b05ae
+Section: Tweaks
+Description: Toggle dark mode/night shift with the light sensor!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/sileo.json
+
+Package: xyz.skitty.lightsout
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/xyz.skitty.lightsout_1.1_iphoneos-arm64.deb
+Size: 56084
+MD5sum: 1af7fb94b7e6c8b3699bf1443e5fcd48
+SHA1: 63df6562ef4590d08c057424a39bd5b8720bd5ba
+SHA256: 7ebed1d1ee7632233fd0b2e29b2ec760040d41ca4538719e2ba453579a3c1fb4
+Section: Tweaks
+Description: Toggle dark mode/night shift with the light sensor!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/sileo.json
+
+Package: xyz.skitty.lightsout
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 392
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/xyz.skitty.lightsout_1.1_iphoneos-arm.deb
+Size: 55008
+MD5sum: d2567e9a49b8fe38caba255983c5b6b8
+SHA1: 7ee9a283531b448ab4185b20ab810fde4ab835d2
+SHA256: 30ed972b9eb5ad317424d00d4a4a6766bd4fb0e8ef454a7be2366a6ee9d83b21
+Section: Tweaks
+Description: Toggle dark mode/night shift with the light sensor!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/sileo.json
+
 Package: xyz.skitty.quietdown
 Version: 1.1.2
 Architecture: iphoneos-arm64
