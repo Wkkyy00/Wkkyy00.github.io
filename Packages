@@ -24027,6 +24027,39 @@ Author: shepgoba <arm64.deb@icloud.com>
 Icon: https://raw.githubusercontent.com/BarabaVip/Baraba/refs/heads/main/SettingsWidgets.png
 Name: SettingsWidgets
 
+Package: com.yourepo.b4db1r3r3p0.cucu
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.yourepo.b4db1r3r3p0.cucu_1.5_iphoneos-arm64e.deb
+Size: 273416
+MD5sum: 9b199729fa835c5a68766dfb5610c943
+SHA1: 2cca313e021677d0f5ffc19418f28825dde52a74
+SHA256: ca4a009f94b5f39175d6a0e9a733ba0498f3522d8a906cf32620f8e4d7f8f3e9
+Section: Tweaks
+Description: 通知美化。
+Author: b4db1r3
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: KuKu Reborn
+
+Package: com.yourepo.b4db1r3r3p0.cucu
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.yourepo.b4db1r3r3p0.cucu_1.5_iphoneos-arm64.deb
+Size: 254488
+MD5sum: 0f12d34c7aef30ecc59b5a4dc8741edd
+SHA1: c3668eff868bb7128780a8efc2c878de6f0bf746
+SHA256: 5ea17b2ad8afe14f8904134a5d9868d7c6e4675f5e7e681a733dcf934340cdd0
+Section: Tweaks
+Description: 通知美化。
+Author: b4db1r3
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: KuKu Reborn
+
 Package: com.yourepo.b4db1r3r3p0.ocd
 Version: 5.4.1.1
 Architecture: iphoneos-arm64
