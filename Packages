@@ -15200,54 +15200,6 @@ Author: Nightwind
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: MatchingIconLabels
 
-Package: com.nx.stheno
-Version: 77.1.4.6
-Architecture: iphoneos-arm64e
-Maintainer: Crassna
-Installed-Size: 1912
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: ./debs/白com.nx.stheno_77.1.4.6_iphoneos-arm64e .deb
-Size: 352444
-MD5sum: 9f96eede2776c2b0c16b19893fdb2473
-SHA1: 0a03f50754a53f2cbc1e654f63b76b6febf7bde9
-SHA256: 62ba36a33160f676959ede8d9b538cee4cbdaf5f63bbc4a9432ca636caf84768
-Section: Tweaks
-Description: Medusa!
-Author: Crassna
-Name: Stheno
-
-Package: com.nx.stheno
-Version: 77.1.4.7
-Architecture: iphoneos-arm64e
-Maintainer: Crassna
-Installed-Size: 1912
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: ./debs/com.nx.stheno_77.1.4.7_iphoneos-arm64e .deb
-Size: 359898
-MD5sum: 15f515e1dcad2f2e330afee81d91497a
-SHA1: 377eea9cb311ca4122a660b15a1756deae928c80
-SHA256: 76dba0afdab98f6154eadd0312d68b03af81a0aa78294818c855a54db687e672
-Section: Tweaks
-Description: Medusa!
-Author: Crassna
-Name: Stheno
-
-Package: com.nx.stheno
-Version: 77.1.4.7
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 1928
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: ./debs/com.nx.stheno_77.1.4.7_iphoneos-arm64 .deb
-Size: 362452
-MD5sum: 6eececfc72b0435c7583a7e348876bd8
-SHA1: 714b33a453a0d902539145126c4659f29abd88d1
-SHA256: b8af57d03d1a8b734b5e206fdb73aceda87c58eea24841405a2f759719243d6f
-Section: Tweaks
-Description: Medusa!
-Author: Crassna
-Name: Stheno
-
 Package: com.nygard.class-dump-ios
 Version: 0.0.1-7
 Architecture: iphoneos-arm64
