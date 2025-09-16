@@ -8834,6 +8834,47 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: HideSearchButton
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cydiageek.hidesearchbutton
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.cydiageek.hidesearchbutton_1.0.1_iphoneos-arm64e.deb
+Size: 5482
+MD5sum: f1b87654c634935afc7ae09d413fcf1d
+SHA1: 0812db94fefa4d2f162217675df0a9d2f5e3f3bd
+SHA256: 225d3fe1816e6d70f7bf54ec6cb9488d42d902f11a719a53a9fb1db63d88ca51
+Section: Tweaks
+Priority: optional
+Description: 隐藏桌面搜索但不禁用功能。
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: HideSearchButton
+
+Package: com.cydiageek.hidesearchbutton
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.cydiageek.hidesearchbutton_1.0.1_iphoneos-arm64.deb
+Size: 4016
+MD5sum: eb5ba68403a29f35adbd3ab406ad0725
+SHA1: b5e3ccab54e15dd3d862f5af02f4c465ec97bf5d
+SHA256: 2c4c80a4f49a9dc952959a0f4a2b551f4bff3edd1498984d0994d04220da3b86
+Section: Tweaks
+Priority: optional
+Description: 隐藏桌面搜索但不禁用功能。
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: HideSearchButton
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
