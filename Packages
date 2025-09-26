@@ -9626,25 +9626,6 @@ Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.
 Name: Snapper3 美化（2）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
 
-Package: com.foxfort.libfoxfortutils
-Version: 1.4.11
-Architecture: iphoneos-arm64e
-Maintainer: FoxfortMobile
-Installed-Size: 1272
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11.0), com.opa334.libsandy
-Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
-Filename: ./debs/com.foxfort.libfoxfortutils_1.4.11_iphoneos-arm64e.deb
-Size: 442362
-MD5sum: 1db0ff4dbd47fd1a5a2ccee02e88e6e4
-SHA1: 18cf7448b9aa4403021c261d4da84287e454b66b
-SHA256: 94b5a152cc8e4096533864896da0479cd4b2e4528f758a7858809ab15a7a5210
-Section: Development
-Description: library for Foxfort tweaks
-Tag: role::developer
-Author: FoxfortMobile
-Name: libfoxfortutils
-
 Package: com.gamegod.igg.roothide
 Version: 0.4.5
 Architecture: iphoneos-arm64e
