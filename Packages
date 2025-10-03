@@ -13792,11 +13792,11 @@ Maintainer: Nets
 Installed-Size: 1064
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.netskao.injectipa_1.5-6_iphoneos-arm64.deb
-Size: 326290
-MD5sum: 23035f4c57fac1665c6f44ad959e4ba9
-SHA1: bad903c96e481c935047c7fb8946bdf3de4c8271
-SHA256: b37a4ea4daca6f3f74b06a1009e1eca0ccf50152eef9fa1be0e09f0d8a9b06b0
-Section: Netskao-Tweaks
+Size: 327300
+MD5sum: 9af9acc871738baa4193827552707e82
+SHA1: 1f3550a841567cc90479d908a7adc535302b9400
+SHA256: f00f87ed2b5a6bad41c68729f1901e5e5208c329a72c1318167fa4fd6dd95f5f
+Section: Tweaks
 Description: InjectIPA Tool
 Author: Netskao
 Name: injectipa
