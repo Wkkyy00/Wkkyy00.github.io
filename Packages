@@ -21644,6 +21644,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
 
+Package: com.wkk.kugouhook
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.1_iphoneos-arm64.deb
+Size: 5560
+MD5sum: 5805f7c9c57bfcb9fecc0d9ff962acee
+SHA1: 8667558cf11261e910eb71b6fe945e5ccbdd84a8
+SHA256: aa86c9cb637d56b16b2bb86fa55342f3feacedc6a95e8664ce192574d55fc5ed
+Section: 去广告
+Description: 精简一些杂项。看起来更清爽。（打卡按钮闪现bug暂无解决办法）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Streamline
+
+Package: com.wkk.kugouhook
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.1_iphoneos-arm64e.deb
+Size: 7500
+MD5sum: d4e9a28a3ec32d525ed511d3f58be24f
+SHA1: a38821be913dce173d073d8b4b5daeb12ae97722
+SHA256: 06b686ffa7dcb24b855fa7f02a0902f3b04942bb81c7eade1015ade26ad05b52
+Section: 去广告
+Description: 精简一些杂项。看起来更清爽。（打卡按钮闪现bug暂无解决办法）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Streamline
+
 Package: com.wkk.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64e
