@@ -18588,6 +18588,43 @@ Author: Korboy <korboybeats@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: TransparentPIPGrabber
 
+Package: com.twistnturn
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: Maxim Shnirman
+Installed-Size: 1016
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/com.twistnturn_1.3_iphoneos-arm64e.deb
+Size: 537252
+MD5sum: fdfa67c21d9895648a724112de32bdd3
+SHA1: 6dc7531a0f5b6b9f90e9469bc6379943cea312c8
+SHA256: 6614817d4599f03acf52e8d0fc88721d96365915bd28c0e5ab63183afb61fd8b
+Section: 插件
+Description: 智能旋转。
+Author: Maxim Shnirman
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: TwistNTurn
+Sponsor: Maxim Shnirman
+
+Package: com.twistnturn
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Maxim Shnirman
+Installed-Size: 1016
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/com.twistnturn_1.3_iphoneos-arm64.deb
+Size: 512888
+MD5sum: 70ac7c48aa1315dcdc873f217a2b5871
+SHA1: fcd259a1bb515e83753be031f03ef4fcfddc4975
+SHA256: eb5281384b910f3d26cc99334ff606df2941d5a8ad91abbfdb2ad5015399cf29
+Section: 插件
+Description: 智能旋转。
+Author: Maxim Shnirman
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: TwistNTurn
+Sponsor: Maxim Shnirman
+
 Package: com.tzfzdd
 Version: 1.1
 Architecture: iphoneos-arm64
