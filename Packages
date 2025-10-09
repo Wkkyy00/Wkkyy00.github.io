@@ -2723,6 +2723,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailun
+Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.9.5_iphoneos-arm64.deb
+Size: 12416204
+MD5sum: e9d50ea14250a8914a6d7aff45d822c1
+SHA1: 0dc5c9b0feb30e9ef1df9d251d023b0a38bbd6e6
+SHA256: b00b67d0e43ad5df33359dcecf62905cb011d581485f5df9ea63c2b5f42f9825
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
 Package: com.Purifyads
 Version: 1.0
 Architecture: iphoneos-arm64
