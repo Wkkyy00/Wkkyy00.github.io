@@ -23496,39 +23496,6 @@ Author: BypassWechatMSG
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: BypassWechatMSG
 
-Package: com.ylr.wifimasterkeyadkiller
-Version: 1.5.5
-Architecture: iphoneos-arm64
-Maintainer: ylr <ylr638058@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: ./debs/com.ylr.wifimasterkeyadkiller_1.5.5_iphoneos-arm64.deb
-Size: 11132
-MD5sum: 097847f96d5a4b2346ce9012e601aa14
-SHA1: f7453da4a4945a7a677c4e500c9a3eee376f32f8
-SHA256: 1dbe08a6a3ec920b540cf44f0851570aede25483e097d1ab5051cb7f5e6fb2f0
-Section: 去广告
-Description: 尝试hookwifi万能钥匙去开屏、首页、用户页以及列表页等烦人广告！
-Author: ylr <ylr638058@gmail.com>
-Name: WiFi Master Key AdKiiler
-
-Package: com.ylr.wifimasterkeyadkiller
-Version: 1.5.5
-Architecture: iphoneos-arm64e
-Maintainer: ylr <ylr638058@gmail.com>
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: ./debs/com.ylr.wifimasterkeyadkiller_1.5.5_iphoneos-arm64e.deb
-Size: 14552
-MD5sum: 373f8db742ca99eedcaf494c2a7b1914
-SHA1: 34a3aa0768cb0fa5d1eb61adb68516458a632d32
-SHA256: 4b46da92908fec2d1633ba8036537106928df533ae8652ae565a81f67b2bb8a5
-Section: 去广告
-Description: 尝试hookwifi万能钥匙去开屏、首页、用户页以及列表页等烦人广告！
-Author: ylr <ylr638058@gmail.com>
-Name: WiFi Master Key AdKiiler
-
 Package: com.yourepo.arm64-debs.settingswidgets
 Version: 1.2.2
 Architecture: iphoneos-arm64e
