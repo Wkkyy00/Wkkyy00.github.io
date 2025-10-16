@@ -4,7 +4,11 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+<<<<<<< HEAD
       "url": "https://s1.imagehub.cc/images/2025/10/15/e8e100ce93eef7f09063ae5cff470dc2.jpeg",
+=======
+      "url": "https://s1.imagehub.cc/images/2025/10/15/25d1114a3caa87e957286397fa763bdf.jpeg",
+>>>>>>> e058a9b817cc4532b6289f5a4f0b714c2243b57f
       "title": "请挂vpn",
       "package": "com.wkk.kongbao",
       "hideShadow": false,

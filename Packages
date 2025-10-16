@@ -12887,6 +12887,24 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: PassByCC
 
+Package: com.lhyee.wcfix
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: lhyee
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lhyee.wcfix_1.0_iphoneos-arm64.deb
+Size: 4552
+MD5sum: 4312374c66da845c29b429811723c6cb
+SHA1: 4a7686b86739fdedb6cc0d286477515a612a3afb
+SHA256: cca0cc5123490cf94085ee5174fc4a2a9a1b9b74ff91aa49dc15bce6962b54b3
+Section: 微信插件
+Priority: optional
+Description: 修复打开微信助手工具栏底栏图标错位的问题
+Author: lhyee
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: fix图标错位
+
 Package: com.liuf.ceshi
 Version: 0.0.1
 Architecture: iphoneos-arm64
