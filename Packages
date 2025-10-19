@@ -2772,6 +2772,47 @@ Author: null
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: Purifyads
 
+Package: com.RestoreFont
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 灰灰
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.RestoreFont_1.0_iphoneos-arm64.deb
+Size: 2592
+MD5sum: b1a9a9bb165f57bea47f665d0a79aa40
+SHA1: c6de4a3e51ae894feff1a58faad6f500cdad5c89
+SHA256: af95d345c90d40a9feb5c6b434b0a2b66cd31bf2aa868d6ae8c10b0a5b13a96b
+Section: 插件配置
+Description:
+  * 下载后脚本文件在/var/mobile/Documents/RestoreFont
+  * 先挂载字体目录/System/Library/Fonts
+  * 再把RestoreFont脚本移动到需要替换的字体目录里点运行
+  * 最后重启用户空间即可
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 字体一键替换
+
+Package: com.RestoreFont
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 灰灰
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.RestoreFont_1.0_iphoneos-arm64e.deb
+Size: 3316
+MD5sum: df513f2d33244ca9be5c4cd1bd94e7be
+SHA1: 75ced04a8750a27a6a8e48aec8b7c82fba7407af
+SHA256: e1ad934f7677999f4d8d394587b33e166774ff24996e17af4dc8dbaf47b9c106
+Section: 插件配置
+Description:
+  * 下载后脚本文件在/var/mobile/Documents/RestoreFont
+  * 先挂载字体目录/System/Library/Fonts
+  * 再把RestoreFont脚本移动到需要替换的字体目录里点运行
+  * 最后重启用户空间即可
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 字体一键替换
+
 Package: com.Talkatonehook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7747,6 +7788,39 @@ Size: 2497692
 MD5sum: 2e5852aeb189ac62f22c4396d43c5aed
 SHA1: 9c5bc037f1002c9e0f9e0dbbe17701d1e6cddda1
 SHA256: 342957e4d475c64dc381ce7d874c48d3e119421501e7adbf3bd64bcc3d8cbdc3
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.7-9
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-9_iphoneos-arm64.deb
+Size: 921244
+MD5sum: 442e94513c9e8bbd754c623f866ec45b
+SHA1: 3318feebd9288cfbea87cc24bc50ca888c602014
+SHA256: 3071015656d8a381a599901abab22e088b0bd4b107b8a0ec724e5060f14eb248
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.7-9
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.7-9_iphoneos-arm64e.deb
+Size: 2499846
+MD5sum: adc231615922a6f3d97bb38e863a803a
+SHA1: 8891fec0cd110f7fefd07f64258e5ff6a409724c
+SHA256: 41f31d54295cfc8d8b0cc8ea9f8e7768134d133c91e1ac2c85a463d404395e65
 Section: 微信插件
 Priority: optional
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
