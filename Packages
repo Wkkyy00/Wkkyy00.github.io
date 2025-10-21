@@ -277,38 +277,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 系统优化合集
 Sponsor: wkk
 
-Package: cm90.crossoveripc
-Version: 1.1-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: @CrazyMind90
-Installed-Size: 368
-Depends: mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/1—CrossOverIPC_Roothide-1.deb
-Size: 17484
-MD5sum: e9df193a414386b07306ba84d754fbe0
-SHA1: 23633596c9c4c9f9fb7e89031d574672276fee11
-SHA256: 1c8ea11cad2e0d6d47fb2f50d30d34bbd4ac45cd36bc35f0809138a1122027ef
-Section: Tweaks
-Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
-Author: @CrazyMind90
-Name: CrossOverIPC
-
-Package: cm90.crossoveripc
-Version: 1.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: @CrazyMind90
-Installed-Size: 364
-Depends: mobilesubstrate
-Filename: ./debs/1—CrossOverIPC_Dopamine.deb
-Size: 15374
-MD5sum: f20b39388b84f1769f55ebd92956347e
-SHA1: 920583a16a7e1204d6f160f85f58ef0afe137019
-SHA256: 509b4132f6ae542887eb49376a7a5cdf43069331ac8e469655f90baa0ead2c9f
-Section: Tweaks
-Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
-Author: @CrazyMind90
-Name: CrossOverIPC
-
 Package: cn.Bswbw.fixsets
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -7350,50 +7318,6 @@ Author: Netskao <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/ClassicKeyboard.png
 Name: ClassicKeyboardXS
 
-Package: com.cokepokes.libnotifications
-Version: 0.3-6-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 416
-Depends: firmware (>= 8.0), com.opa334.libsandy
-Filename: ./debs/2—libnotifications_COIPC_Roothide.deb
-Size: 17386
-MD5sum: 9302a8f7cab9239e166d9d566dbf7609
-SHA1: 6e0ef89a12d2daa3327642aed9f9e3b781919022
-SHA256: af17f7044ea1c9afef0ed5afd1550f2bf3d126688d6888dba085ff13d40e84ea
-Section: Development
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
-Description: App notification library.
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-Author: CokePokes <cokepokes@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
-Dev: cokepokes
-Name: libnotifications
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.cokepokes.libnotifications
-Version: 0.3-6-1+debug
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 376
-Depends: firmware (>= 8.0)
-Filename: ./debs/2—libnotifications_COIPC_Dopamine.deb
-Size: 15274
-MD5sum: e4d491a6b989681d5d6d88047efab0a3
-SHA1: f443c46ba47ca53a3df55ff46595c2bd2a2d43ef
-SHA256: 987516d85d8b64692eb9b155634d05fef690383df6352223637aabd9bf4edfe8
-Section: Development
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
-Description: App notification library.
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-Author: CokePokes <cokepokes@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
-Dev: cokepokes
-Name: libnotifications
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.cozybadges
 Version: 2.1
 Architecture: iphoneos-arm64
@@ -13514,38 +13438,6 @@ Description: Ultimate iDevice Customization for iOS 14, 15 & 16
 Author: MTAC
 Icon: https://s1.imagehub.cc/images/2025/01/23/16cac85a9470fec0d2ed4cb0af1eac4f.png
 Name: Lynx 2【已完整汉化】
-
-Package: com.muirey03.cr4shed
-Version: 4.3.1-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: Muirey03
-Installed-Size: 2356
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
-Filename: ./debs/3—Cr4shed_COIPC_Roothide.deb
-Size: 228226
-MD5sum: 898aa2c574b26e4d0f6cca12601583cb
-SHA1: ecd8623280a27d400f320b1d6ecd6e8f0acef438
-SHA256: 4c8536c7510e9cb00cd8826a70bf90badec7ad6c652568a3a7d5ff1cc3a3cd24
-Section: Tweaks
-Description: A modern crash reporter for iOS
-Author: Muirey03
-Name: Cr4shed
-
-Package: com.muirey03.cr4shed
-Version: 4.3.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: Muirey03
-Installed-Size: 2404
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11)
-Filename: ./debs/3—Cr4shed_COIPC_Dopamine.deb
-Size: 215200
-MD5sum: 0a0f462184c86841d9882fc7d91240a3
-SHA1: fe356ddb7909a81bd3ed912a41e4183456633963
-SHA256: 5f6ea0dbe219f02fc2132d92def8a56e010abbb3567b2b0575039fb88cc5ed3a
-Section: Tweaks
-Description: A modern crash reporter for iOS
-Author: Muirey03
-Name: Cr4shed
 
 Package: com.muirey03.libimagepicker
 Version: 1.0.4
@@ -21950,146 +21842,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 Name: 关于源（空包仅浏览）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kongbao.json
-
-Package: com.wkk.kugouhook
-Version: 1.4
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4_iphoneos-arm64e.deb
-Size: 8218
-MD5sum: 06bfe1ac5bef2d4a2b4a7980ffab678b
-SHA1: d02a84a98376b939915d309017d114d2c13ccddd
-SHA256: 82bd06df8da3ff01109b2a8737f6fc278b35c92ae982479fb11c10e0064f6ea4
-Section: 去广告
-Description: 精简一些杂项。看起来更清爽。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Streamline
-
-Package: com.wkk.kugouhook
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4_iphoneos-arm64.deb
-Size: 6196
-MD5sum: 006763f70fb75e64d03012e1f8bc6f4c
-SHA1: ed071576db7dcba484475bbe1de4721bcc7c80d9
-SHA256: f857e941048e7b88ca654b5899b43d4612368c121f2cf4389a9c21780a864203
-Section: 去广告
-Description: 精简一些杂项。看起来更清爽。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Streamline
-
-Package: com.wkk.kugouhook
-Version: 1.4-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4-1_iphoneos-arm64e.deb
-Size: 8432
-MD5sum: b1adc822c8f72ec5f15a2a5b0e9b06b1
-SHA1: ba873e0fa761b20d75ba965ce5f7bea475f25ca6
-SHA256: d43b5fb43ca8c4bc3960578264a74215d88db9c7e58b48a89b8189f48230392f
-Section: 去广告
-Description: 精简一些杂项。看起来更清爽。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Streamline
-
-Package: com.wkk.kugouhook
-Version: 1.4-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4-1_iphoneos-arm64.deb
-Size: 6388
-MD5sum: baa0ab92a7d4d8bb9570988509d03d30
-SHA1: 3e8024370b69273eb9308ad88acc1ad14684d183
-SHA256: 764b6de279ab8fa8ac1e99919bb3b90fa6c204e629221b989fedc9d8ccd87d78
-Section: 去广告
-Description: 精简一些杂项。看起来更清爽。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Streamline
-
-Package: com.wkk.kugouhook
-Version: 1.4-2
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4-2_iphoneos-arm64e.deb
-Size: 8914
-MD5sum: a609e88cdbf33fa196066cd2532eed42
-SHA1: 4ddf2a4011988c3f56035ac497753e5aefc732fc
-SHA256: c4d0032ca644aff08c842e66160a45bf12b81ad183ded3cacff0808ced913552
-Section: 去广告
-Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。（弹窗类hook全部重写 不会再有卡住问题）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Streamline
-
-Package: com.wkk.kugouhook
-Version: 1.4-2
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4-2_iphoneos-arm64.deb
-Size: 6676
-MD5sum: e94a03d056d26af2fa1d5983a53ca89d
-SHA1: 5daddbf0429d0d1136157cdd3b2cabe4f606de2f
-SHA256: 29171305c8667e11e8ad9e3562ae894c44f1d76628c6e4143edfe777c44663f6
-Section: 去广告
-Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。（弹窗类hook全部重写 不会再有卡住问题）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Streamline
-
-Package: com.wkk.kugouhook
-Version: 1.4-3
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4-3_iphoneos-arm64e.deb
-Size: 8820
-MD5sum: a6efe515bf024cafee25c7e0f70864b4
-SHA1: 2db78ff05e8338faa2a59ddd85d589a025aff7f2
-SHA256: 03ee76723a6e0db93c1cef973dab824a096e82aa66ca102e8c15abcaa991f1c8
-Section: 去广告
-Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。（弹窗类hook全部重写 不会再有卡住问题）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Streamline
-
-Package: com.wkk.kugouhook
-Version: 1.4-3
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4-3_iphoneos-arm64.deb
-Size: 6536
-MD5sum: 74d638bf4ce7813a085d5e8b86590ee8
-SHA1: c1ed30372e5afdf6d648e589eff9cac039c7b856
-SHA256: 93d285af2871ea5b32fe59c4ee20895a0024915f491c5f6cbf9ee51121bbe8fb
-Section: 去广告
-Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。（弹窗类hook全部重写 不会再有卡住问题）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Streamline
 
 Package: com.wkk.kugouhook
 Version: 1.4-4
