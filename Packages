@@ -22708,6 +22708,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.
 Name: SmartNetwork
 Sponsor: wkk
 
+Package: com.wkk.sn3hook
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sn3hook_1.1_iphoneos-arm64e.deb
+Size: 4248
+MD5sum: a94e09099aee9b50db2d9ee06a553245
+SHA1: 603290431e7c0d89f1501d9a41a4e1d0ff275199
+SHA256: 3030c1325d4ded3e1dd923a7357da36e729751c9422c8f6838c8dc706240c582
+Section: Tweaks
+Description: 毫无卵用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: snapper3隐藏底部功能栏
+
+Package: com.wkk.sn3hook
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sn3hook_1.1_iphoneos-arm64.deb
+Size: 2996
+MD5sum: 47f671fc21603ca28bc5b9be78870d00
+SHA1: 76d72da617fecfd71edfbd74bd18ce366bc55a84
+SHA256: c125e0d26154243560677a97be4cf749451c682690749edc885be6deae14deca
+Section: Tweaks
+Description: 毫无卵用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: snapper3隐藏底部功能栏
+
 Package: com.wkk.tiebahook
 Version: 1.0.3
 Architecture: iphoneos-arm64e
