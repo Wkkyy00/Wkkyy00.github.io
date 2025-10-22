@@ -23253,6 +23253,57 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画1.0
 
+Package: com.xuegao.xxuegao
+Version: 1.1-6
+Architecture: iphoneos-arm64e
+Maintainer: xuegao
+Installed-Size: 3584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xuegao.xxuegao_1.1-6_iphoneos-arm64e.deb
+Size: 2195896
+MD5sum: fe7751aa1f0539e9cc8a01e2bfa25aed
+SHA1: f7b15063f2b5503f629e6721eb13802407b03d56
+SHA256: bd6f86dd13e84904f85c7510e42a18de5bf3a74320f919b400082bc50bab83b3
+Section: 微信插件
+Description: 全局隐藏底部标签栏，朋友圈双击点赞等实用功能
+Author: xuegao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 小雪糕
+
+Package: com.xuegao.xxuegao
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: xuegao
+Installed-Size: 3584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xuegao.xxuegao_1.1-6_iphoneos-arm.deb
+Size: 2167572
+MD5sum: e053aa1282021cb6a462306bc77436a7
+SHA1: 84e6ecebdf079413bb2977214fd55bffe508b0ad
+SHA256: 4bf255070f55f994cd24e4f618ba0b3286f158611c2a02419059120148262244
+Section: 微信插件
+Description: 全局隐藏底部标签栏，朋友圈双击点赞等实用功能
+Author: xuegao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 小雪糕
+
+Package: com.xuegao.xxuegao
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: xuegao
+Installed-Size: 3584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xuegao.xxuegao_1.1-6_iphoneos-arm64.deb
+Size: 2165008
+MD5sum: 10b8a50510094f0250afcbb310d1fd87
+SHA1: 1a9665a2d20274c1549425074b913cbfe4405751
+SHA256: 1cad756428f501443e02efb797d3363337b11e03a6768cad1241d6732ac80b26
+Section: 微信插件
+Description: 全局隐藏底部标签栏，朋友圈双击点赞等实用功能
+Author: xuegao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 小雪糕
+
 Package: com.xx.xhshook
 Version: 1.1.6-3
 Architecture: iphoneos-arm64
