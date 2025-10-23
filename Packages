@@ -22772,6 +22772,41 @@ Author: null
 Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
 Name: 微博NoAds
 
+Package: com.wkk.wfhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wfhook_1.0_iphoneos-arm64e.deb
+Size: 4946
+MD5sum: 86bb7071e6d8ebc604dcbaca83e0354e
+SHA1: 1c09aecd5872636b4200e5171ed78f84429b2b44
+SHA256: 4c81f41710ed562374855f46a23164b98b8895191dd2a3be4ed4cbd8a3a20a8b
+Section: 去广告
+Description: 版本：7.0.8
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/23/318813ae8987a6ff33c7f64b318b9a70.png
+Name: 威锋NoAds
+
+Package: com.wkk.wfhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wfhook_1.0_iphoneos-arm64.deb
+Size: 3620
+MD5sum: d1229742298ccd313960f4beabc3878e
+SHA1: 9a4adb988ca6977a701c517516af52ec57b712d7
+SHA256: 1b6d57db84af321e4fcc0189f4f816352faf9729cd1a1bd6e1b62a21b827191b
+Section: 去广告
+Description: 版本：7.0.8
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/23/318813ae8987a6ff33c7f64b318b9a70.png
+Name: 威锋NoAds
+
 Package: com.wkk.windowsguazai
 Version: 2.0
 Architecture: iphoneos-arm64
