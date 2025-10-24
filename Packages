@@ -22146,6 +22146,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
 
+Package: com.wkk.kugouhook
+Version: 1.5-end
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.5-end_iphoneos-arm64.deb
+Size: 6656
+MD5sum: 326f9551ad3cb1dc918703ee6b2be9ae
+SHA1: 21740e04b8a559027c736085a000163e36de31d9
+SHA256: 395c09bdd152e861d24d91ac9ea6e53fb772e1d8d3f2c951de92b14d0f8da47f
+Section: 去广告
+Description: 支持TrollFools注入，精简一些杂项屏蔽一些弹窗，看起来更清爽。（支持版本：20.3.6以及12.0.1，20版本功能太臃肿，精简页面不等于瘦身app，望悉知，已降级12.0.1，针对低版本精简已经做了适配，高/低版本自己选择，自我感觉功能上区别不大，但是流畅度而言12.0.1版本更好）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Simplify
+
+Package: com.wkk.kugouhook
+Version: 1.5-end
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kugouhook_1.5-end_iphoneos-arm64e.deb
+Size: 9176
+MD5sum: b5473ff3c145b1a319930398e68f5300
+SHA1: 4dfe7c05f44be15ed44f34c377f273cd481a92b7
+SHA256: 9c23d49979947dbfb9809945792d53dbecb07a90f4aeef4ae4e69b04459f0928
+Section: 去广告
+Description: 支持TrollFools注入，精简一些杂项屏蔽一些弹窗，看起来更清爽。（支持版本：20.3.6以及12.0.1，20版本功能太臃肿，精简页面不等于瘦身app，望悉知，已降级12.0.1，针对低版本精简已经做了适配，高/低版本自己选择，自我感觉功能上区别不大，但是流畅度而言12.0.1版本更好）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐Simplify
+
 Package: com.wkk.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64e
