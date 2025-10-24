@@ -21894,17 +21894,16 @@ Name: 关于源（空包仅浏览）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kongbao.json
 
 Package: com.wkk.kugouhook
-Version: 1.4-4
-Architecture: iphoneos-arm64e
+Version: 1.4-5
+Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4-4_iphoneos-arm64e.deb
-Size: 6968
-MD5sum: 333e3d01e95c0ffd68957a1b19247ff4
-SHA1: 171f6de8273bf21018b12956719c08977f9a9f0b
-SHA256: a67e757b0c09c93d8e52cf43d1703f80fa0d679385408de2cd4c96cc8305c352
+Filename: ./debs/com.wkk.kugouhook_1.4-5_iphoneos-arm64.deb
+Size: 37128
+MD5sum: 7cb31a139065390c6e01067ddc7bc28e
+SHA1: e2fd770c4fd21a891b5817603f9e70b06c6c4b96
+SHA256: b6ddf0715513a53613efdbd5eed5c7cc43a059e543954782de5b3fca59f804a1
 Section: 去广告
 Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。
 Author: wkk
@@ -21912,16 +21911,17 @@ Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.
 Name: 酷狗音乐Streamline
 
 Package: com.wkk.kugouhook
-Version: 1.4-4
-Architecture: iphoneos-arm64
+Version: 1.4-5
+Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.4-4_iphoneos-arm64.deb
-Size: 5148
-MD5sum: 18d339813961e0f6c0573edb386c0291
-SHA1: bd233e8aa8f376bb57a2a3e39e4323b2476bc393
-SHA256: 46accf65d12ac563a7cbba47f8e9f4f46955fe87c435aaaf62369ebfb2ab765e
+Filename: ./debs/com.wkk.kugouhook_1.4-5_iphoneos-arm64e.deb
+Size: 38360
+MD5sum: 570f82cd7a6c3fbb5c39dcdd0bf5d7d8
+SHA1: e22391918cb9154e3ad454352d9d9f347ec9ae6b
+SHA256: 5b9e56149997baf7f01517243fb1b240ff871c3867a11becf1d65333b079f144
 Section: 去广告
 Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。
 Author: wkk
