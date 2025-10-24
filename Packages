@@ -19448,6 +19448,80 @@ Description: 菜鸟去广告 by Vita
 Author: vita
 Name: CNNoAd
 
+Package: com.vita.wchook
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.wchook_1.0.2_iphoneos-arm64e.deb
+Size: 79640
+MD5sum: 03a726cad86657275df1000b7c9b4a16
+SHA1: 384141c435cd33fa0850118f21bea6d609e71a4b
+SHA256: 204dfd324e0881b9198ebea079787d45b2fa0ac5d1565fc902f3fbcbdcebe289
+Section: 微信插件
+Priority: optional
+Description: 微信引用功能扩展。
+Author: vita
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCHook
+
+Package: com.vita.wchook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.wchook_1.0.2_iphoneos-arm64.deb
+Size: 55896
+MD5sum: 182c4f498484b4bce16cf0eec87860aa
+SHA1: a9f209fa9ae917b4e8dab098346e2df5e53374f6
+SHA256: 53364c557e1e3c3f90d3c760175c757493f1eb486637ad2517e2128517d3a7a9
+Section: 微信插件
+Priority: optional
+Description: 微信引用功能扩展。
+Author: vita
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCHook
+
+Package: com.vita.wchook2
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.wchook2_1.0.2_iphoneos-arm64.deb
+Size: 55596
+MD5sum: f3e228776b0a981c99161937a381aa77
+SHA1: 2097daefae7c9bef9c1fd9e6f5efd5f193c66bdb
+SHA256: 31f0d4221d27d88f51a18fa96b0b8285b625ed9e494ff11ab17df96c3230f0fe
+Section: 微信插件
+Priority: optional
+Description: 微信引用功能扩展（群友改版）
+Author: vita
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCHook（改版）
+
+Package: com.vita.wchook2
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.wchook2_1.0.2_iphoneos-arm64e.deb
+Size: 79680
+MD5sum: e3c2a19c4d75206b5945420601da0ab6
+SHA1: 8054dce6fca845bcb3662987837ab569da3f40ea
+SHA256: bcbeb25dab1e68e35856a91fedfa85b4473fcfe41b4b993cbd5840824dd23d53
+Section: 微信插件
+Priority: optional
+Description: 微信引用功能扩展（群友改版）
+Author: vita
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCHook（改版）
+
 Package: com.wctextcolor
 Version: 1.1
 Architecture: iphoneos-arm64
