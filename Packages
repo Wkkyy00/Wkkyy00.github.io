@@ -14163,6 +14163,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCMyPageInfoCenter
 
+Package: com.netskao.wechatdragdropimages
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wechatdragdropimages_1.1-2_iphoneos-arm64.deb
+Size: 3844
+MD5sum: 5dd25cde29ea5cf96d1b9c59b4425a09
+SHA1: 891cb98d0d123535c17e82113cade4d1d309c993
+SHA256: c4dd8ddf103c20062a32096b55791e2706cc7bd95ff14068ebf1f19a5b1a50b6
+Section: 微信插件
+Description: 微信聊天拖放图片，仅8.0.50+
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatDragDropImages
+
+Package: com.netskao.wechatdragdropimages
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wechatdragdropimages_1.1-2_iphoneos-arm64e.deb
+Size: 5242
+MD5sum: 73c1e057bfa0f1e4baab2e07855659a4
+SHA1: bbdb1d14bd6d1d2584d044a0f3105a0a19d86ac7
+SHA256: f26e7e6448636d4428c131df4902102565fec20c11fbf19a22033ae68ba07e8c
+Section: 微信插件
+Description: 微信聊天拖放图片，仅8.0.50+
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatDragDropImages
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64e
