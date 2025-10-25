@@ -8900,54 +8900,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
 Name: Filza Crack
 
-Package: com.flex.lib
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: pxx917144686
-Installed-Size: 4340
-Depends: firmware (>= 9.0)
-Filename: ./debs/com.flex.lib_1.0_iphoneos-arm64e.deb
-Size: 1196700
-MD5sum: 63423e9fb911e45578cb3f35c14101f5
-SHA1: 7b8eea5f90cc445595fcd2ffd88fcf5edfe455a7
-SHA256: ac6dd1eac944277c5e22782b902243cfd987d815b5f4bb3060a69f502de422a1
-Section: Development
-Description: FLEX (中文版) - 支持iOS 9.0及以上设备
-Author: FLEX Team & pxx917144686
-Name: FLEX 调试工具
-
-Package: com.flex.lib
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: pxx917144686
-Installed-Size: 5284
-Depends: firmware (>= 9.0)
-Filename: ./debs/com.flex.lib_1.0_iphoneos-arm.deb
-Size: 1565892
-MD5sum: e2716740bc889a46c0d988988f628034
-SHA1: b92f1f30a0887ee523481e5f77f72f2c150a29b6
-SHA256: 2d3c3e4c854e1e1200f7410e6beec8d7670a8072b85156711ec2ab24fca3f23c
-Section: Development
-Description: FLEX (中文版) - 支持iOS 9.0及以上设备
-Author: FLEX Team & pxx917144686
-Name: FLEX 调试工具
-
-Package: com.flex.lib
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: pxx917144686
-Installed-Size: 4340
-Depends: firmware (>= 9.0)
-Filename: ./debs/com.flex.lib_1.0_iphoneos-arm64.deb
-Size: 1197312
-MD5sum: af827a420a90af16a4ea244bae6e6b00
-SHA1: c7fc5e2c224fbdbba5d97e5a12b25e556d164304
-SHA256: 7977f9ad6653b7c6c5e9b40a9f05785470a00a3722e261b16e7d940fb9c37282
-Section: Development
-Description: FLEX (中文版) - 支持iOS 9.0及以上设备
-Author: FLEX Team & pxx917144686
-Name: FLEX 调试工具
-
 Package: com.flex2areo.apptools15roothide
 Version: 2.0.0
 Architecture: iphoneos-arm64e
@@ -15406,41 +15358,6 @@ Description: 经典插件，上架备份。
 Author: c1d3r
 Icon: https://s1.imagehub.cc/images/2025/01/21/7dd8ed70cad1d12060d8f9319d5bdb14.png
 Name: PullOver Pro
-
-Package: com.pxx917144686.gps
-Version: 0.1
-Architecture: iphoneos-arm64e
-Maintainer: pxx917144686
-Installed-Size: 1340
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.pxx917144686.gps_0.1_iphoneos-arm64e.deb
-Size: 269308
-MD5sum: 774510bf0fcbbfb837e157776d73f85a
-SHA1: 94837474d7f7ed1af773505e581d75dafea77163
-SHA256: 596bdae7f391f289848c4e81a9e4842f51154381c77978b067529942474c3d65
-Section: Tweaks
-Description: 功能强大的iOS位置工具，任意空白面板，双指轻点弹出菜单。
-Author: pxx917144686
-Icon: https://s1.imagehub.cc/images/2025/06/07/c250e60cee5a1085971b9222420ade8a.png
-Name: GPS++
-
-Package: com.pxx917144686.gps
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: pxx917144686
-Installed-Size: 1340
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.pxx917144686.gps_0.1_iphoneos-arm64.deb
-Size: 267340
-MD5sum: 7a84eb0554181e00acffdf73874eacbc
-SHA1: 549a5dcc960103563461644cd6b4bd98bfc8d86b
-SHA256: 1e09c05d725bd72294d8dc34d671e911425aeb28938309132d21b5f4ca7ab033
-Section: Tweaks
-Description: 功能强大的iOS位置工具，任意空白面板，双指轻点弹出菜单。
-Author: pxx917144686
-Icon: https://s1.imagehub.cc/images/2025/06/07/c250e60cee5a1085971b9222420ade8a.png
-Name: GPS++
 
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.1~2
