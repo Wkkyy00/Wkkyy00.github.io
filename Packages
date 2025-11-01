@@ -24247,6 +24247,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 遮罩集合大全
 Sponsor: bdzt
 
+Package: com.zqbb.iconshadows
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 96
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zqbb.iconshadows_1.1_iphoneos-arm64e.deb
+Size: 22360
+MD5sum: af08a6c0d98b161fe0527a4766b49379
+SHA1: a8d6ed32d92bbb2ad5b2b4d49d897aa867bec452
+SHA256: a80d55bcf1a510a2e8a3f97b2a296791f26719975c8ba38a7fc2ad719e6df708
+Section: Tweaks
+Description: 给图标添加一层光影图片!
+Author: zqbb
+Name: Hello Shadow
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.iconshadow
+
+Package: com.zqbb.iconshadows
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 96
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zqbb.iconshadows_1.1_iphoneos-arm64.deb
+Size: 19964
+MD5sum: c09eaa8ea6fa9ccc9d9bcd1da17fe8bd
+SHA1: 15054451e1bfdb1a5de21c08065befc204183c61
+SHA256: 45566e6fc9ac27e72e7c9318543d847406d3fd8c96085581f666bc651b8b25cf
+Section: Tweaks
+Description: 给图标添加一层光影图片!
+Author: zqbb
+Name: Hello Shadow
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.iconshadow
+
 Package: com.zqbb.savephotos
 Version: 1.1
 Architecture: iphoneos-arm64e
