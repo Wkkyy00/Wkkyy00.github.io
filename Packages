@@ -20706,6 +20706,22 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
 Name: SquidExtender26&9
 
+Package: com.wkk.SquidGesturePro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SquidGesturePro_1.0_iphoneos-arm64.deb
+Size: 22381296
+MD5sum: afb3054c55d5c75335980dbc6776f289
+SHA1: 11fb4e4bbb3669e26492fccdc0dfb224097e9498
+SHA256: d391c0cb5b7c32a98261c4aa76fa3ee7730b56c39bba2aa61ee5818f06e6d482
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/ 自行恢复备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/08/16/4fb5704ac308341a1ee18c0cec9c8213.png
+Name: SquidGesture Pro个人配置(自用)
+
 Package: com.wkk.SwipeExtenderXpz
 Version: 1.0
 Architecture: iphoneos-arm64
