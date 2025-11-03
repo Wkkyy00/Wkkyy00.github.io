@@ -22236,41 +22236,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
 
-Package: com.wkk.kugouhook
-Version: 1.5-end
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.5-end_iphoneos-arm64.deb
-Size: 6656
-MD5sum: 326f9551ad3cb1dc918703ee6b2be9ae
-SHA1: 21740e04b8a559027c736085a000163e36de31d9
-SHA256: 395c09bdd152e861d24d91ac9ea6e53fb772e1d8d3f2c951de92b14d0f8da47f
-Section: 去广告
-Description: 支持TrollFools注入，精简一些杂项屏蔽一些弹窗，看起来更清爽。（支持版本：20.3.6以及12.0.1，20版本功能太臃肿，精简页面不等于瘦身app，望悉知，已降级12.0.1，针对低版本精简已经做了适配，高/低版本自己选择，自我感觉功能上区别不大，但是流畅度而言12.0.1版本更好）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Simplify
-
-Package: com.wkk.kugouhook
-Version: 1.5-end
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kugouhook_1.5-end_iphoneos-arm64e.deb
-Size: 9176
-MD5sum: b5473ff3c145b1a319930398e68f5300
-SHA1: 4dfe7c05f44be15ed44f34c377f273cd481a92b7
-SHA256: 9c23d49979947dbfb9809945792d53dbecb07a90f4aeef4ae4e69b04459f0928
-Section: 去广告
-Description: 支持TrollFools注入，精简一些杂项屏蔽一些弹窗，看起来更清爽。（支持版本：20.3.6以及12.0.1，20版本功能太臃肿，精简页面不等于瘦身app，望悉知，已降级12.0.1，针对低版本精简已经做了适配，高/低版本自己选择，自我感觉功能上区别不大，但是流畅度而言12.0.1版本更好）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
-Name: 酷狗音乐Simplify
-
 Package: com.wkk.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -23320,6 +23285,39 @@ Description: 去开屏广告，测试版本：7.22.2
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/35e13015f230bb12124c0dfaeab5c609.png
 Name: 网易邮箱NoAds
+
+Package: com.wkk.xchook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xchook_1.0_iphoneos-arm64e.deb
+Size: 5422
+MD5sum: 0a82a5960ef2a0e23679f5c43b54d47c
+SHA1: aba9b57e14771cecc1b6df41b38c4bc5ae7ca4f7
+SHA256: 79383886cae92791c2b3c156fcf7e91b4d8b88f219f80fdf7cb60d8e9ec3484c
+Section: Tweaks
+Description: 精简相册底部按钮，只保留图库和相簿。
+Author: wkk
+Name: 相册精简
+
+Package: com.wkk.xchook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xchook_1.0_iphoneos-arm64.deb
+Size: 3936
+MD5sum: 4b863e5645a29bbf349bf9d4ca77c70f
+SHA1: c9fcc72f5d54ffe09537e553c485424c45bf47d3
+SHA256: f71c37ce64f2f98188f589fd7af23927fa35716c558f79c97df9edb8596ecce4
+Section: Tweaks
+Description: 精简相册底部按钮，只保留图库和相簿。
+Author: wkk
+Name: 相册精简
 
 Package: com.wkk.xianyuhook
 Version: 1.0
