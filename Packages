@@ -7024,14 +7024,15 @@ Sponsor: wkk
 Package: com.ccsim
 Version: 1.1-9
 Architecture: iphoneos-arm64e
+Maintainer: 小学生
 Installed-Size: 188
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.ccsim_1.1-9_iphoneos-arm64e.deb
-Size: 28894
-MD5sum: df66e16a6340090f0d75f9a588bfa054
-SHA1: 8cc92b8b298567f4e501e873ed069f332a8f6c5b
-SHA256: e72f001c30555db1e86b55d0ed59ed2f4f2f19e92601d04c911deb3795314ccc
+Size: 28946
+MD5sum: d3f6722e6f465209968e9704a92fe3e7
+SHA1: 200c9f4e4b0379f12c00160bd988633323bfed98
+SHA256: 10ecfc090b13e5f8624ce4758bd9fd2cb5f4813f5467801f3a6a13eba4903a01
 Section: 控制中心
 Description: 控制中心快速启用或禁用其中一张SIM卡。
 Author: Netskao
@@ -7041,13 +7042,14 @@ Name: CCSIM
 Package: com.ccsim
 Version: 1.1-9
 Architecture: iphoneos-arm64
+Maintainer: 小学生
 Installed-Size: 188
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.ccsim_1.1-9_iphoneos-arm64.deb
-Size: 23628
-MD5sum: b6be6319c3ea0ffe1e1221771b72ac8c
-SHA1: f7aad7235b6a8d3d4ca6b0fc1262da214362e77b
-SHA256: 7f940983a0ba39f166ee1337674560f5b0700b364c9ae0c12cc12eaea268f70a
+Size: 23460
+MD5sum: 1c7f44a92e9cdfef358d8f15ccd7ffaf
+SHA1: 708fa08ed52047291549366a733de6f5958c6f22
+SHA256: c89784493eefe6e81296a7182482623b89070829271560fcae5e87068fa40390
 Section: 控制中心
 Description: 控制中心快速启用或禁用其中一张SIM卡。
 Author: Netskao
