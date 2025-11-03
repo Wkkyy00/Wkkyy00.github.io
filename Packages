@@ -15237,39 +15237,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: FLEXing
 Sileodepiction-Unused: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
-Package: com.photospluss
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: k
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.photospluss_1.0_iphoneos-arm64e.deb
-Size: 5396
-MD5sum: 24bf45c79a06a08619c880017e06b917
-SHA1: a7984513f4b4f8775d217fbe9b6f38b8e80be368
-SHA256: 5a5ac9df1602352af11d8e106db73a998588befdf121e6d8b235d8659ec3f240
-Section: 插件
-Description: 去除相册一堆无用项目。精简相册。
-Author: iOSign
-Icon: https://www.susubaby.top/images/photos.png
-Name: 相册增强
-
-Package: com.photospluss
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: k
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.photospluss_1.0_iphoneos-arm64.deb
-Size: 3988
-MD5sum: 7e4c6e4daf5f2b9b0d141311abcdcc95
-SHA1: c85057273c7d31e891c14a74dd931d6c831a6c4d
-SHA256: d39d205472b38e5eb09e5a3294a2b530edf1ff59361cde2a8f65002d2fe3694b
-Section: 插件
-Description: 去除相册一堆无用项目。精简相册。
-Author: iOSign
-Icon: https://www.susubaby.top/images/photos.png
-Name: 相册增强
-
 Package: com.picsewpro
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -22359,43 +22326,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/02/9951c6ec81c84bce7fda5cdf77936476.jpeg
 Name: 妮妮打熊注销动画
 
-Package: com.wkk.photosplus
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 376
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.wkk.photosplus_0.0.1_iphoneos-arm64.deb
-Size: 26228
-MD5sum: 5d2c49f1c1129086d5476321f3d707e7
-SHA1: 77c89d81f78d92bb1ba93ebc135b6d155b763da8
-SHA256: 0f49e9012a118281d10b6ad2eae744b1ece14f586ee55307ac79b32574f4a501
-Section: 插件
-Description: 个人自用款。
-Author: wkk
-Dev: nowesr1
-Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
-Name: PhotosPlus
-
-Package: com.wkk.photosplus
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 376
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.wkk.photosplus_0.0.1_iphoneos-arm64e.deb
-Size: 31218
-MD5sum: dfd5a571167b1d3bcd235ba9884419e7
-SHA1: 79ba64641dee7d1b4effd6c87e680815d47b40f8
-SHA256: 575bbea522c2759c6957f683cdee12cef5c5fa63524f63790a59ebad8ec97c7a
-Section: 插件
-Description: 个人自用款。
-Author: wkk
-Dev: nowesr1
-Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
-Name: PhotosPlus
-
 Package: com.wkk.qichezhijiahook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -24437,45 +24367,6 @@ Description: 为您的设置开关添加一些日月风格
 Author: Finn Gaida
 Icon: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/icon.png
 Name: DayNightSwitch
-
-Package: denyphotoalbumsllld.rootless
-Version: 9.9.9
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 709
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
-Filename: ./debs/denyphotoalbumsllld.rootless_9.9.9_iphoneos-arm64e.deb
-Size: 89716
-MD5sum: 4bec62d3c009ea59056c4271860538b7
-SHA1: 2f698bc20bdcbcf65ffa366b397c6acf23b18cee
-SHA256: 5e2172f271120ff77e805f6d57e8d200217585f156e2512d375c05b0b34378c0
-Section: 插件
-Priority: optional
-Description: 系统照片增强汉化版自用修改版本
-Author: CydiaGeek
-Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
-Name: Photo pro
-Sponsor: wkk
-
-Package: denyphotoalbumsllld.rootless
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 709
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
-Filename: ./debs/denyphotoalbumsllld.rootless_9.9.9_iphoneos-arm64.deb
-Size: 76492
-MD5sum: 10ea0971456131680ad7e58f175b4d86
-SHA1: a35118f9bc7425e7902b7171b5f501160dd3c7f1
-SHA256: 4d027251e412a98b343cb04b8813b795cf67ec1e712ae4b134c793a862007f70
-Section: 插件
-Priority: optional
-Description: 系统照片增强汉化版自用修改版本
-Author: CydiaGeek
-Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
-Name: Photo pro
-Sponsor: wkk
 
 Package: dev.mineek.appstoretroller
 Version: 0.0.5
