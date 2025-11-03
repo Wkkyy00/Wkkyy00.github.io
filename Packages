@@ -259,6 +259,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: PerfectXTime
 Sponsor: wkk
 
+Package: apt.riluo.com
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 日落
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks
+Filename: ./debs/apt.riluo.com_1.0_iphoneos-arm64.deb
+Size: 27953120
+MD5sum: 2292cacaaa0813faa8c49413cf1725a8
+SHA1: 83fcd4578a60fb8bc58269eae1ed8f558aa740fd
+SHA256: bcb54b06e7dd88c6427fa596b17f7c5a15d136ac4928c866e333fc17cc87c26f
+Section: 一切美化的东西都是垃圾
+Description: 日落移植安卓美观的主题。
+Author: won69der
+Icon: https://chinesebuilding.club/pic/sileo.png
+Name: 日落补全计划
+Sponsor: 日落
+
 Package: apt.wkk.xtyh
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -13051,6 +13068,25 @@ Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
 Name: Applecard
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Applecard.json
+
+Package: com.leftyfl1p.carbridge13
+Version: 2.0.15
+Architecture: iphoneos-arm64
+Maintainer: leftyfl1p
+Installed-Size: 7344
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.leftyfl1p.carbridge13_v2.0.15_iphoneos-arm64.deb
+Size: 434014
+MD5sum: 41d08859adf77ad7c97293b8202c38c3
+SHA1: 8713093819e84c9cb846b46cdcf9994d881d9e76
+SHA256: 4315b6d97ef2b07e47cc9d7e3b1b70a16692f42e30dd99122141bb3521ddb5a1
+Section: Tweaks
+Description: Open any app in CarPlay!
+Tag: cydia::commercial
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+Name: CarBridge
 
 Package: com.lenglengyu.afakerxi
 Version: 1.0.3
