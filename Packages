@@ -17153,6 +17153,41 @@ Author: starry6
 Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
 Name: 汽水音乐NoAds
 
+Package: com.starry6.lunanoad
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: liwhs
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.starry6.lunanoad_1.1_iphoneos-arm64e.deb
+Size: 10154
+MD5sum: 636ddd3668b547be37b42ad08b551006
+SHA1: 38880278dc1684a802c503e71cda7a81d1ce690c
+SHA256: 8dc917ad1fd619a784be46597357d27fee0dd8ad55f4180ba4a44e199e04566a
+Section: 去广告
+Description: 去开屏广告，秒过激励式视频（汽水版本请保留在13.5.0）插件对抖音、极速版、火山版等版本也支持秒过激励式视频。
+Author: starry6
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoAds
+
+Package: com.starry6.lunanoad
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: liwhs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.starry6.lunanoad_1.1_iphoneos-arm64.deb
+Size: 7688
+MD5sum: 4d4b618f1a52e3d329623e5692aadd62
+SHA1: de5b51f251c25c1a0881e7ce254993c7c4f7f91f
+SHA256: 14a857e7e8d78998a5859fcf0c891b547aba7880db706957d438b65a9a64f01a
+Section: 去广告
+Description: 去开屏广告，秒过激励式视频（汽水版本请保留在13.5.0）插件对抖音、极速版、火山版等版本也支持秒过激励式视频。
+Author: starry6
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoAds
+
 Package: com.storeswitcher2
 Version: 1.0.5
 Architecture: iphoneos-arm64
