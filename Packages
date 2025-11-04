@@ -294,6 +294,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 系统优化合集
 Sponsor: wkk
 
+Package: cax.zhumi.ThemeManager
+Version: 1.6.8
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: zhumi
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/cax.zhumi.ThemeManager_1.6.8_iphoneos-arm64.deb
+Size: 1970372
+MD5sum: 7b88612fb109dbe381801af9def34ea3
+SHA1: 0c687fe0e46c259470e2df8506485b1c98e7ff86
+SHA256: 6478eb7a6e7fcd1f0e51730b67b2aa152c833d9495556ea73cea85115bbd03e6
+Section: 微信插件
+Priority: optional
+Description: 美化插件。
+Author: zhumi
+Icon: http://mmbiz.qpic.cn/mmbiz_png/GXzfZseicQ8eiavkOXFkccWNnp3UN9YGcribuKsan6TibhRkX70Mrs5CxcO22CBl8nRhd7zem8QOiar9G64HxmjB2Yw/0?wx_fmt=png&wxfrom=401
+Name: 猪咪微信主题
+
 Package: cn.Bswbw.fixsets
 Version: 1.1
 Architecture: iphoneos-arm64e
