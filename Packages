@@ -20966,6 +20966,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
 
+Package: com.wkk.batteryhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.batteryhook_1.0_iphoneos-arm64e.deb
+Size: 6194
+MD5sum: 41187739ae8a2c57e148d3d782305716
+SHA1: 7b4b8cf67654fa28dc90da50cbb0e4d9c411710a
+SHA256: 528ddd0d0321210a1793f29ec5eb580ab4b5d90f74ee3f98e37f827489dd2c74
+Section: 一切美化的东西都是垃圾
+Description: 电池美化，毫无卵用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/05/ea71bd7ab6c914de6df8cb044f7251a9.jpeg
+Name: 电池美化
+
+Package: com.wkk.batteryhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.batteryhook_1.0_iphoneos-arm64.deb
+Size: 4516
+MD5sum: 74d2cf3fd000db49bbd2c6bce1395ef7
+SHA1: f22488063c892b506e3fcd2abd382399138c1617
+SHA256: 1963fe67f95471fb36eff4167ad35cc50763065a2b275d42b411f55ae3ea51ab
+Section: 一切美化的东西都是垃圾
+Description: 电池美化，毫无卵用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/05/ea71bd7ab6c914de6df8cb044f7251a9.jpeg
+Name: 电池美化
+
 Package: com.wkk.bhmh
 Version: 1.0
 Architecture: iphoneos-arm64
