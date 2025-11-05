@@ -22249,14 +22249,14 @@ Installed-Size: 1596
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.igformat_1.88-45_iphoneos-arm64e.deb
-Size: 347504
-MD5sum: ec6639db3d1c584ed97cb4b6e39eb8d0
-SHA1: 46e675126be97a22f00ea218dc8fc9920d096939
-SHA256: 87b496b698832d209872354679501acd9f6e394cb202388227021a18d7133842
+Size: 347572
+MD5sum: 63b77ab3c50d77d08564d0adeb1b7b34
+SHA1: 962009421bacd99ddbb89723710c297973fd9122
+SHA256: ff01d99fad340a4b9527cc2f1e3edbe820da5bd2858c8b479900ca0570c53f68
 Section: 去广告
 Description: 下载入口：点开视频，右下角有三个点，点开有选项。插件入口：我的界面，有个🍃图标，然后点击右上角「文」图标，选Chinese插件就变中文了，大部分选项都是中文。
 Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
 Name: IGFormat
 
 Package: com.wkk.igformat
@@ -22266,14 +22266,14 @@ Maintainer: MrDeNsor
 Installed-Size: 1596
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.igformat_1.88-45_iphoneos-arm64.deb
-Size: 229928
-MD5sum: e0c8d2fbc6bae4648e1cc64da1d4a0cc
-SHA1: 3139bfdc2d28527c8dbe3d2f0a7dc095cd58ef59
-SHA256: 72ada9e5861a7eebdb1019eb7b91255f9ef552876c23c50fbadfdfe097815b66
+Size: 229944
+MD5sum: 901eeb62721e618bfd2608254e5ffab9
+SHA1: b112cd205364f80b6c9d07684412b45c1b646d3d
+SHA256: ffe53d59523f913f5ae76c2c78e00446b6f54a0f252b0527add198788264f882
 Section: 去广告
 Description: 下载入口：点开视频，右下角有三个点，点开有选项。插件入口：我的界面，有个🍃图标，然后点击右上角「文」图标，选Chinese插件就变中文了，大部分选项都是中文。
 Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
 Name: IGFormat
 
 Package: com.wkk.jptext
