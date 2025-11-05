@@ -17297,14 +17297,14 @@ Maintainer: susu
 Installed-Size: 104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64.deb
-Size: 16876
-MD5sum: b0243f9872e872519b350d65838555a2
-SHA1: 7615a667b46f9d213959873620b56709e5b9ab9f
-SHA256: ae2556aec122685bbcfbcd2401aa5bc53fbf7d2a231a14c123411ba61b494768
+Size: 16880
+MD5sum: 6b2988916c2db953942643a59d069e5a
+SHA1: 89bdf663f3889e0bbfc2ec0767fd89c57c78f804
+SHA256: f37a858852d42ae41b4917513343119c1bf5a4275a9b07cd92c96516e368f279
 Section: 微信插件
 Description: No WeChatAds
 Author: susu
-Icon: https://www.susuboy.cn/images/wechat.png
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: FuckWeChatAds
 
 Package: com.susu.fuckwechatads
@@ -17315,14 +17315,14 @@ Installed-Size: 104
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.susu.fuckwechatads_1.0.2_iphoneos-arm64e.deb
-Size: 22554
-MD5sum: 970bfc6c6930317d5f7801cf007be707
-SHA1: dc675e8acc9fa50a5aec1528e4aa74f6e87f25b4
-SHA256: f88033e3a5552b284c83f9f6b93661878c605422fa7fc13edb001fd170c8042a
+Size: 17772
+MD5sum: a0cc4457b8866b407fb627296192bd4d
+SHA1: ec9267a02cfae25a5c9eeb40f0c7c57db956ebde
+SHA256: 2ba95d3a8b4aa4f8a99fa9f543fd5c9f191546aea345557596f2b2bf36e67193
 Section: 微信插件
 Description: No WeChatAds
 Author: susu
-Icon: https://www.susuboy.cn/images/wechat.png
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: FuckWeChatAds
 
 Package: com.susu.hidekbsettings
@@ -22445,47 +22445,6 @@ Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
-
-Package: com.wkk.leftyfl1p.carbridge13
-Version: 2.0.15
-Architecture: iphoneos-arm64
-Maintainer: leftyfl1p
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.wkk.leftyfl1p.carbridge13_2.0.15_iphoneos-arm64.deb
-Size: 434484
-MD5sum: 1533ee709cdfdd02b3f2f20a62764fe5
-SHA1: 16bd19bcf826f982d58978c87936aa0d72e25d86
-SHA256: 4bc8e215bdaaae316782fb4ce0d308aa816066c89e214fd36212191e349b0303
-Section: Tweaks
-Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
-Tag: cydia::commercial
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://havoc.app/package/carbridge
-Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
-Name: CarBridge
-
-Package: com.wkk.leftyfl1p.carbridge13
-Version: 2.0.15
-Architecture: iphoneos-arm64e
-Maintainer: leftyfl1p
-Installed-Size: 7344
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.wkk.leftyfl1p.carbridge13_2.0.15_iphoneos-arm64e.deb
-Size: 981382
-MD5sum: 7fc2c0844e638a9e948a8bc899e36c80
-SHA1: 18dbc14f0f1ade63a4b00fe82d19b4eca2defc75
-SHA256: 700a56561b245d30dca38973cb0a50b09dc9af5479f7983bbe691677551f5541
-Section: Tweaks
-Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
-Tag: cydia::commercial
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://havoc.app/package/carbridge
-Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
-Name: CarBridge
 
 Package: com.wkk.lockmusic
 Version: 1.0
