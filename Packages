@@ -20758,6 +20758,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/08/16/4fb5704ac308341a1ee18c0cec9c8213.png
 Name: SquidGesture Pro个人配置(自用)
 
+Package: com.wkk.WeChatbeautifully
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: fv群友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.WeChatbeautifully_1.0_iphoneos-arm64e.deb
+Size: 19438
+MD5sum: 3e38cb3133c3bf74b409ff2ebf25349c
+SHA1: f4fe2a1f960dbb138ec7e51bb85a3332d80ddd25
+SHA256: 6bde31726ff6ad8269e79a6545caa410b64cd05c841cb6e006b23b37931e0811
+Section: 插件配置
+Description: 自用气泡。
+Author: fv群友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChat自用气泡
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
+
+Package: com.wkk.WeChatbeautifully
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: fv群友
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.WeChatbeautifully_1.0_iphoneos-arm64.deb
+Size: 18848
+MD5sum: 3e9d35cf2eb222fed3153b21e5665151
+SHA1: b2ee555ce8fc0d78fd786afa9382e93c05570f1e
+SHA256: 3c1da7b2053db1c5fe253f3e82b6773d8e72a42c386e9686097896f6e4b23e1b
+Section: 插件配置
+Description: 自用气泡。
+Author: fv群友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChat自用气泡
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
+
 Package: com.wkk.applock
 Version: 1.1
 Architecture: iphoneos-arm
