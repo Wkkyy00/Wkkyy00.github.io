@@ -20896,6 +20896,57 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SwipeExtenderX配置(自用)
 
+Package: com.wkk.applock
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm.deb
+Size: 8980
+MD5sum: 02d8db1f2c910919a688b9799750a376
+SHA1: 9f068e2033d09ea9dae4e36f1027932f7eed57a2
+SHA256: b43813b690a5fc9d4198da5f2724a7c6e66b8d0bae806fea23fb482bff371bb7
+Section: Tweaks
+Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+Name: AppLock
+
+Package: com.wkk.applock
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm64e.deb
+Size: 9004
+MD5sum: 85500d89cdd72cbe84e796dd6c76f5e7
+SHA1: 925545ee567f41605cb3a67e47c2383cadc0a26c
+SHA256: 938505976dbe4e6777ea8404167d5abd5961aec810dcaed9c67c23e509417310
+Section: Tweaks
+Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+Name: AppLock
+
+Package: com.wkk.applock
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2Kdev
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm64.deb
+Size: 9056
+MD5sum: df25ba9d00f69be57d0324321e7bb1ff
+SHA1: 0c340b90d7b281040c3d07aa3e895fbc6ff54186
+SHA256: e2a16ad1d87bd6cb5f4de6032b8fa8b4d7a3680e935f9e4a29176bfc071208c2
+Section: Tweaks
+Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+Name: AppLock
+
 Package: com.wkk.apptoolsmh
 Version: 1.0
 Architecture: iphoneos-arm64e
