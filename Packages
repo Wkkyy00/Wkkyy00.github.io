@@ -24014,6 +24014,41 @@ Author: BypassWechatMSG
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: BypassWechatMSG
 
+Package: com.ylr.dyhook
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ylr.dyhook_1.5.5_iphoneos-arm64.deb
+Size: 27396
+MD5sum: b3ed4b9d7eef8260f471736b9b7f79fe
+SHA1: 27660c5dda4108f8fe23d05831a193efa0b22b18
+SHA256: a57b3c76472075e4d315520e9d176b57b7cf4e6dfe3a5492807c7f107546d8ff
+Section: 抖音插件
+Description: （数据编辑工具）仅供学习交流，如有传播；使用者请在24小时内自觉删除。
+Author: ylr
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYHook
+
+Package: com.ylr.dyhook
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ylr.dyhook_1.5.5_iphoneos-arm64e.deb
+Size: 37144
+MD5sum: c3050d08f3dba38860030e1a431db583
+SHA1: d2fbcd242bc604af1c6412f49ce3a96a2f3dad0d
+SHA256: fd72f7e1de5ce35cb3b048e00a75b6b29c25a9e98241c9a0574b44a8ced67417
+Section: 抖音插件
+Description: （数据编辑工具）仅供学习交流，如有传播；使用者请在24小时内自觉删除。
+Author: ylr
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: DYHook
+
 Package: com.yourepo.arm64-debs.settingswidgets
 Version: 1.2.2
 Architecture: iphoneos-arm64e
