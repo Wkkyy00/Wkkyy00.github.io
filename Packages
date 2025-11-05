@@ -18976,6 +18976,55 @@ Description: 支持Telegram、Swiftgram的功能插件，能保存频道限制�
 Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
 Name: TGExtra
 
+Package: com.tgextra
+Version: 1.3-3
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debs/com.tgextra_1.3-3_iphoneos-arm64.deb
+Size: 6116280
+MD5sum: 574e55ae7387d832ba78606223c85110
+SHA1: 5fc290be4b79d1014e238126caca279629d072c7
+SHA256: 011eacc394ba629a01ea73512ebe862bc6f48692e4b95b52dfafab2871752411
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
+
+Package: com.tgextra
+Version: 1.3-3
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 4532
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.tgextra_1.3-3_iphoneos-arm64e.deb
+Size: 12030136
+MD5sum: 2261465688ee98867a955c414bc4da63
+SHA1: 7f9cd0d08c0339fea01dfb2672981108132f7417
+SHA256: dad959a585dca64896284cfd386a2ae63c14a1ac3097cfe751f2f6be97119d3e
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
+
+Package: com.tgextra
+Version: 1.3-3
+Architecture: iphoneos-arm
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debs/com.tgextra_1.3-3_iphoneos-arm.deb
+Size: 5923228
+MD5sum: 0b0af747c03820fbb0100eda6bded26b
+SHA1: 117a2c1aee8abe81cacdf74084a606cef0d77a53
+SHA256: 1c1b4c06b62aa79fdfdbdd0ffc7545bc182a4ada94c6126e0e5022f9a4ff77c3
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
+
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
 Architecture: iphoneos-arm64e
