@@ -21867,6 +21867,57 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/92c71257062850129b513726de475e60.png
 Name: 番茄小说NoAds
 
+Package: com.wkk.fastlock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fastlock_1.0.1_iphoneos-arm.deb
+Size: 382956
+MD5sum: 9f270a4fa7c55f92be18913518f6c097
+SHA1: 5502101ba20a1fc2ecbe60972b411a6c6a9028ff
+SHA256: 6706d3db1c57536acd74bd5cb7e579d3cc904ce9ed0c08a5433716d0535e145d
+Section: Tweaks
+Description: 通过点击主屏幕背景快速锁定，锁定/解锁的触觉反馈，锁定时自动启用低功耗模式，自定义锁屏声音，通过Face ID自动解锁，取消自动解锁的条件，自定义解锁声音等。
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+Name: FastLock
+
+Package: com.wkk.fastlock
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fastlock_1.0.1_iphoneos-arm64.deb
+Size: 383064
+MD5sum: d218ae92cbb50c7bd332287c5d34a3e7
+SHA1: be5ccb4e6cec11d44b3a54557c87f14abe1834f2
+SHA256: c8141af8ed88736b356a3069f5b2d87537e2c5e78119dfc48b4971b403ac68b1
+Section: Tweaks
+Description: 通过点击主屏幕背景快速锁定，锁定/解锁的触觉反馈，锁定时自动启用低功耗模式，自定义锁屏声音，通过Face ID自动解锁，取消自动解锁的条件，自定义解锁声音等。
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+Name: FastLock
+
+Package: com.wkk.fastlock
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 840
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fastlock_1.0.1_iphoneos-arm64e.deb
+Size: 381716
+MD5sum: e0e36fc78bc28e11cb51ea9099289a5a
+SHA1: 4036f51a7f74c6487c6b9e78e2ed454f3ce9f6eb
+SHA256: 20b64fc6c42dff0d13de3f2ce92c1aa543c006c28ac15092707fe085b1d9b3cf
+Section: Tweaks
+Description: 通过点击主屏幕背景快速锁定，锁定/解锁的触觉反馈，锁定时自动启用低功耗模式，自定义锁屏声音，通过Face ID自动解锁，取消自动解锁的条件，自定义解锁声音等。
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
+Name: FastLock
+
 Package: com.wkk.ftpz
 Version: 1.0
 Architecture: iphoneos-arm64e
