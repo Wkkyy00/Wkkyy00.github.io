@@ -13126,25 +13126,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.
 Name: Applecard
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Applecard.json
 
-Package: com.leftyfl1p.carbridge13
-Version: 2.0.15
-Architecture: iphoneos-arm64
-Maintainer: leftyfl1p
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.leftyfl1p.carbridge13_v2.0.15_iphoneos-arm64.deb
-Size: 434014
-MD5sum: 41d08859adf77ad7c97293b8202c38c3
-SHA1: 8713093819e84c9cb846b46cdcf9994d881d9e76
-SHA256: 4315b6d97ef2b07e47cc9d7e3b1b70a16692f42e30dd99122141bb3521ddb5a1
-Section: Tweaks
-Description: Open any app in CarPlay!
-Tag: cydia::commercial
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://havoc.app/package/carbridge
-Name: CarBridge
-
 Package: com.lenglengyu.afakerxi
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -22464,6 +22445,47 @@ Description: 支持TrollFools注入，精简一些杂项，看起来更清爽。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
+
+Package: com.wkk.leftyfl1p.carbridge13
+Version: 2.0.15
+Architecture: iphoneos-arm64
+Maintainer: leftyfl1p
+Installed-Size: 7344
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.wkk.leftyfl1p.carbridge13_2.0.15_iphoneos-arm64.deb
+Size: 434484
+MD5sum: 1533ee709cdfdd02b3f2f20a62764fe5
+SHA1: 16bd19bcf826f982d58978c87936aa0d72e25d86
+SHA256: 4bc8e215bdaaae316782fb4ce0d308aa816066c89e214fd36212191e349b0303
+Section: Tweaks
+Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
+Tag: cydia::commercial
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
+Name: CarBridge
+
+Package: com.wkk.leftyfl1p.carbridge13
+Version: 2.0.15
+Architecture: iphoneos-arm64e
+Maintainer: leftyfl1p
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.wkk.leftyfl1p.carbridge13_2.0.15_iphoneos-arm64e.deb
+Size: 981382
+MD5sum: 7fc2c0844e638a9e948a8bc899e36c80
+SHA1: 18dbc14f0f1ade63a4b00fe82d19b4eca2defc75
+SHA256: 700a56561b245d30dca38973cb0a50b09dc9af5479f7983bbe691677551f5541
+Section: Tweaks
+Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
+Tag: cydia::commercial
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
+Name: CarBridge
 
 Package: com.wkk.lockmusic
 Version: 1.0
