@@ -15592,45 +15592,6 @@ Author: c1d3r
 Icon: https://s1.imagehub.cc/images/2025/01/21/7dd8ed70cad1d12060d8f9319d5bdb14.png
 Name: PullOver Pro
 
-Package: com.qiop1379.swipeextenderx
-Version: 1.6.1~2
-Architecture: iphoneos-arm64
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 614
-Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64.deb
-Size: 86084
-MD5sum: d4992f8c6db6f8b1ce17c242d3be0d0e
-SHA1: 3beeec5c769e585675e0466e4898fd1eea711c00
-SHA256: 41e789dcae7e3195b1b6a21804aad35a7fcabc5e170acb24fade92ce1c002877
-Section: Tweaks
-Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
-Tag: compatible_min::ios14.0
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://chariz.com/get/swipeextenderx
-Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderX
-
-Package: com.qiop1379.swipeextenderx
-Version: 1.6.1~2
-Architecture: iphoneos-arm64e
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 614
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64e.deb
-Size: 119104
-MD5sum: 454460a046263ffcee86a3c48ca51d31
-SHA1: 3befbb8b7d6a9373d031c65d11d5f391e64b3dde
-SHA256: 8424642fe20eec0e5b8d3988bf6f7028af3d47d91e2479006f01f1be4cd47b07
-Section: Tweaks
-Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
-Tag: compatible_min::ios14.0
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://chariz.com/get/swipeextenderx
-Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderX
-
 Package: com.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -20781,72 +20742,6 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.
 Name: SquidExtender配置
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/SquidExtender.json
 
-Package: com.wkk.SquidExtenderpz26
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SquidExtenderpz26_1.0_iphoneos-arm64e.deb
-Size: 13758
-MD5sum: e4ed8f71fa4aad6b767c27681bb4ad1b
-SHA1: 0d263c94076a342dce1791f28b2c9f565e45a6ee
-SHA256: 2a2cb5b3ad6a68de10ebf8d2346fae1f41ef7f69b630c85642f5257774d06f24
-Section: 插件配置
-Description: 26键最新备份（以后不会再更新了），新增了一些自用脚本，默认都是自用，移除了默认大量脚本，其他脚本都在脚本设置里（未删）需要的话手动添加（动作设置-全选-添加子动作）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
-Name: SquidExtender26键
-
-Package: com.wkk.SquidExtenderpz26
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SquidExtenderpz26_1.0_iphoneos-arm64.deb
-Size: 10624
-MD5sum: f032c6bbd4a46f03ad162ec7083a3b1b
-SHA1: 85e32bc2d75f55fdeac83c63ca51eb2381484922
-SHA256: b24e713f49ca7908ca5a0288815b098e77ad17ed1a786638b6bbb152e28a172a
-Section: 插件配置
-Description: 26键最新备份（以后不会再更新了），新增了一些自用脚本，默认都是自用，移除了默认大量脚本，其他脚本都在脚本设置里（未删）需要的话手动添加（动作设置-全选-添加子动作）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
-Name: SquidExtender26键
-
-Package: com.wkk.SquidExtenderpz269
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SquidExtenderpz269_1.0_iphoneos-arm64.deb
-Size: 9620
-MD5sum: 775ed58a1305b0ef0a95d889760355c3
-SHA1: fccb05fd40458a490150afdedf75af50749cdc4d
-SHA256: a966ce31be56fe7171281eb6e53192dd190903fc882c6d291ae2d66e82e1edb6
-Section: 插件配置
-Description: 备份。20250409。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
-Name: SquidExtender26&9
-
-Package: com.wkk.SquidExtenderpz269
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SquidExtenderpz269_1.0_iphoneos-arm64e.deb
-Size: 12688
-MD5sum: f84557d7df09dd54a64ac241cf1ecf8a
-SHA1: 499e95957ab49c67e59908029634240cdb34bbcd
-SHA256: f964de7f837a78e8b1d904aa1c94b724502a1d253a94990921bbfb13f0ca27a8
-Section: 插件配置
-Description: 备份。20250409。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
-Name: SquidExtender26&9
-
 Package: com.wkk.SquidGesturePro
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -20862,39 +20757,6 @@ Description: 下载后在/var/mobile/Documents/ 自行恢复备份。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/08/16/4fb5704ac308341a1ee18c0cec9c8213.png
 Name: SquidGesture Pro个人配置(自用)
-
-Package: com.wkk.SwipeExtenderXpz
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.SwipeExtenderXpz_1.0_iphoneos-arm64.deb
-Size: 1648
-MD5sum: 03a700a5c12e22cbab0853f2dcfc2500
-SHA1: 1ba487e51d1971aa27a4c51fa8cb22426a0219bc
-SHA256: a02c8296e5169e9a057db4cac130bc5868b75be4ab9334945516c78d9a738581
-Section: 插件配置
-Description: 下载后在/var/mobile/Documents/New preset.plist。自行恢复备份。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: SwipeExtenderX配置(自用)
-
-Package: com.wkk.SwipeExtenderXpz
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.swipeextenderxpz_1.0_iphoneos-arm64e.deb
-Size: 2300
-MD5sum: 9dd8f6e5c38f9cf062f0a6a4d3a96219
-SHA1: a0218fed0288e676f33ff6d8e3bbd54405110399
-SHA256: 2979f9d7607c6a1461fbc9b545c11cf333298b8892a981bb5d51832e445cbebc
-Section: 插件配置
-Description: 下载后在/var/mobile/Documents/New preset.plist。自行恢复备份。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: SwipeExtenderX配置(自用)
 
 Package: com.wkk.applock
 Version: 1.1
@@ -21658,37 +21520,37 @@ Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.
 Name: dyyy个人配置(自用)
 
 Package: com.wkk.dy
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.dy_1.1_iphoneos-arm64.deb
-Size: 2251076
-MD5sum: a887f0722428a31d9419324216a6990e
-SHA1: 011b681ea359c896de9adc745bd17a138813155b
-SHA256: 913f8be5ca8da7f352407a5c60568c9c9270f47743d5d7eb8ad1ddf23c93f987
-Section: 插件配置
-Description: 下载后在/var/mobile/Documents/ 自行恢复备份，抖音版本：35.5.0 插件：源内抖音魔术师
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: dyyy个人配置(自用)
-
-Package: com.wkk.dy
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.dy_1.1_iphoneos-arm64e.deb
-Size: 4513576
-MD5sum: 0a77975c09ab91637334d94c90483031
-SHA1: 3c45d0526b2004dbd96a5ec9aaae581ed8423931
-SHA256: 26d174b7240d71499beb37030a1380651d33d2f00553e2d4427d8546fa7caa12
+Filename: ./debs/com.wkk.dy_1.2_iphoneos-arm64e.deb
+Size: 2819972
+MD5sum: de825003511f4af525c93d9e93598f90
+SHA1: 06b397f3d807de592f749aa9f06f87e9b03b1614
+SHA256: dc5153a195ce182773845441ec748bff8cc1f1fdc242b86183cb16b5e3daf825
 Section: 插件配置
-Description: 下载后在/var/mobile/Documents/ 自行恢复备份，抖音版本：35.5.0 插件：源内抖音魔术师
+Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0，可以购买团购，无任何卡顿。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: dyyy个人配置(自用)
+Name: dyyy养老个人配置(自用)
+
+Package: com.wkk.dy
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dy_1.2_iphoneos-arm64.deb
+Size: 1297772
+MD5sum: f2df6e39181e34f8bcf7424e0530344a
+SHA1: 1f0c32d3d4c12ad170eb9144ee55b86894501479
+SHA256: 487c319af7a49df2e77deccad4117bcce93a258ff0aec6f2de3b653959fa19e0
+Section: 插件配置
+Description: 下载后在/var/mobile/Documents/ 自行注入恢复备份，抖音版本：34.5.0，可以购买团购，无任何卡顿。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
+Name: dyyy养老个人配置(自用)
 
 Package: com.wkk.dyhook
 Version: 1.0
@@ -23182,6 +23044,41 @@ Description: 毫无卵用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: snapper3隐藏底部功能栏
+
+Package: com.wkk.swipeextenderx
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.swipeextenderx_1.6.2_iphoneos-arm64.deb
+Size: 79740
+MD5sum: 32e19748ff2c26f97cc340d1194938c9
+SHA1: c988e0a4f3535cce43f2cc004e92d6eb7aca0dc9
+SHA256: 833fe0d00f471c1d45d108f3faaf00006d5b79f0e68946798fbae019b69a0868
+Section: Tweaks
+Description: 用这款传奇的插件重塑你的原生键盘，自带我的预设，在Presets中可以找到并恢复。无汉化。
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
+
+Package: com.wkk.swipeextenderx
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.swipeextenderx_1.6.2_iphoneos-arm64e.deb
+Size: 108076
+MD5sum: 40103b2cbc07d4368839c0391c080787
+SHA1: 939db6bc6fde13be35572785c6f5be1ec43caaac
+SHA256: c5fc988471c40bf6c9d299ca9f502e67ec8128237e77949495f96039a74fdc1e
+Section: Tweaks
+Description: 用这款传奇的插件重塑你的原生键盘，自带我的预设，在Presets中可以找到并恢复。无汉化。
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
 
 Package: com.wkk.tiebahook
 Version: 1.0.3
