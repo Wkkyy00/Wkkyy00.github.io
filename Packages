@@ -22306,6 +22306,41 @@ Author: wkk
 Icon: https://axs66.github.io/repo/icon/kbapp.png
 Name: Add app below keyboard
 
+Package: com.wkk.kghook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kghook_1.0_iphoneos-arm64e.deb
+Size: 8862
+MD5sum: 5160c9b535730126588078fe8d71742f
+SHA1: 26a215e40ccd7d2c0fbd496f553f5cd276303bfb
+SHA256: 2fbb2bd1ca9fc4b4ab7e547a746c758c560404711c6be3d7255b8465044c8e97
+Section: 去广告
+Description: 对酷狗音乐版本20.0.0的极致精简+优化，去掉一切杂项以及乱七八糟的各种弹窗，默认听歌等级设置为满级20。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐20（养老自用）
+
+Package: com.wkk.kghook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kghook_1.0_iphoneos-arm64.deb
+Size: 6560
+MD5sum: bda2839dc44230cfef9b705b809902ed
+SHA1: f09089097c60ca91ad106a017d84fba6f89c557d
+SHA256: 05c8d52e81eac5985840908e3e682890a7cf59909243f70fb7c8f30a3cde8982
+Section: 去广告
+Description: 对酷狗音乐版本20.0.0的极致精简+优化，去掉一切杂项以及乱七八糟的各种弹窗，默认听歌等级设置为满级20。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
+Name: 酷狗音乐20（养老自用）
+
 Package: com.wkk.kkkk
 Version: 1.0
 Architecture: iphoneos-arm64
