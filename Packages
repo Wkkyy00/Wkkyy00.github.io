@@ -18077,6 +18077,23 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
 
+Package: com.sutuplus.releasefugu15
+Version: 6.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1816
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_6.0.1-1_iphoneos-arm64.deb
+Size: 528860
+MD5sum: 7867d4044de9a4d414d94c27938cc2b0
+SHA1: 6d1e5b1f368052c5d5a7e84cb69851782e4bea88
+SHA256: d92fc498e9195e45a4aca7c32d909f90fc45022829138ea8ff64f6bdc8e409a2
+Section: 微信插件
+Description: 微信美化。
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 酸果
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm64e
