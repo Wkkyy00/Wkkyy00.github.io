@@ -23370,22 +23370,6 @@ Icon: https://s1.imagehub.cc/images/2025/03/02/deb70850b50b43bd729b7657dc690c23.
 Name: 控制中心计时器
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kzzxtimer.json
 
-Package: com.wkk.tixingsheng
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.wkk.tixingsheng_1.0_iphoneos-arm64.deb
-Size: 6858708
-MD5sum: 114c949d628944b29738139a5f49dcea
-SHA1: e77f0b9389629ea62de4225675ee735913a095be
-SHA256: 372964f27731dfe2f35eb2e618641f53e6dd659444bbbe291b1f1fc4cd6c7aa7
-Section: 插件
-Description: 下载后文件在目录/var/mobile/Documents/精选提醒声.zip 解压后自行食用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
-Name: 百款精选提醒声
-
 Package: com.wkk.tpphook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -23747,6 +23731,71 @@ Description: 去开屏广告，测试版本：7.22.80
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
 Name: 闲鱼NoAds
+
+Package: com.wkk.xxgif
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxgif_1.0_iphoneos-arm64.deb
+Size: 201068
+MD5sum: 688cfc0953998af2938276860dede022
+SHA1: b0311b68618b3e47cbe35647cb9d53e75f7a6641
+SHA256: d3422a65ff9ac9b554f1842d30078756664d1a71836cb5cf9425189ea379f19a
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 蜡笔小新GIF
+
+Package: com.wkk.xxgif
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 网络资源
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxgif_1.0_iphoneos-arm64e.deb
+Size: 200768
+MD5sum: f7760b1a75074cd529497946b232c153
+SHA1: 2f156ede8a0ea99b0ca9c2fe880915afcb384246
+SHA256: 18214a06f74a8b72d437813e76f8f19a5e50de33cf24e152ffba04588d61b6b9
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 蜡笔小新GIF
+
+Package: com.wkk.xxicons
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxicons_1.0_iphoneos-arm64.deb
+Size: 60859496
+MD5sum: 214ec7058dbcbfe75a645916cf17f2a6
+SHA1: 272bb22068faf8c0814542df8d707d1decc60608
+SHA256: b5f8bd8a15fe838f729e0ea3c7e5b45b79f326f0cd3b71b92ada5690c45f32b4
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/11/12/3df0faf10acf31704caaeadcf3f46cbd.jpeg
+Name: 蜡笔小新图标
+
+Package: com.wkk.xxmusic
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxmusic_1.0_iphoneos-arm64.deb
+Size: 47691376
+MD5sum: 2c3ee4e2c19e60ce6559e4e988249e91
+SHA1: a297a821e5eff82458adc23793fb99b7014de4b7
+SHA256: 0b7ebbbff5e55e80bf72eaab3a90ce73fb54e1536a8302cd2e322acc913bcf11
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
+Name: 精选提醒声百款
 
 Package: com.wkk.ykxchook
 Version: 1.0
