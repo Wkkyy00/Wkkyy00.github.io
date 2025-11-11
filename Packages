@@ -24369,6 +24369,41 @@ Author: ylr
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCSimplify
 
+Package: com.ylr.wcsimplify
+Version: 1.5.5-7
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ylr.wcsimplify_1.5.5-7_iphoneos-arm64.deb
+Size: 42712
+MD5sum: 2af983884c7c49f5f9529d824f8ac337
+SHA1: 2f02156db4332f63d01bacc0178a93ffb7c1c766
+SHA256: 6b3219f44b71ac9e4bc26f1e76b402d7fc82fe330fb6483fdba2997b8de3950d
+Section: 微信插件
+Description: 底栏优化，长按顶部呼出。
+Author: ylr
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSimplify
+
+Package: com.ylr.wcsimplify
+Version: 1.5.5-7
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ylr.wcsimplify_1.5.5-7_iphoneos-arm64e.deb
+Size: 60980
+MD5sum: 46203754a8d0dd37677cb860415d607b
+SHA1: b603535738aba61d3020a887f0cc23bbb5406c1e
+SHA256: 3d5aef8cabbb04a98bab51fed580856712d44e49d3401e292fdf4bb7c90dc006
+Section: 微信插件
+Description: 底栏优化，长按顶部呼出。
+Author: ylr
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSimplify
+
 Package: com.yourepo.arm64-debs.settingswidgets
 Version: 1.2.2
 Architecture: iphoneos-arm64e
