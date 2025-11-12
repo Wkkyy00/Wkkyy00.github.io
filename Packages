@@ -20976,6 +20976,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Apptools美化
 
+Package: com.wkk.autofillfix
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.autofillfix_0.1_iphoneos-arm64.deb
+Size: 3044
+MD5sum: c9987e40f0deeb6bd94967e6dc9fa514
+SHA1: c80636dd705ae9296a2231ce481ef22f4dd43acc
+SHA256: 7dac3f2b8433fb31b2cab8c7534984ae4d04449bd380a39e8f385c85ff2de9c7
+Section: 插件
+Description: 修复越狱后，短信验证码不自动填充问题
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AutoFillFix
+Sponsor: P2KDev
+
+Package: com.wkk.autofillfix
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.autofillfix_0.1_iphoneos-arm64e.deb
+Size: 4318
+MD5sum: 94c5477028df3cf53295365731f975aa
+SHA1: 3ef78ee09e6e4850854201a2796c3bd18a35053a
+SHA256: c97ecebf8f6b469a7b983ecc1e73d821ceead67980c64187eaa89f31d786c00a
+Section: 插件
+Description: 修复越狱后，短信验证码不自动填充问题
+Author: P2KDev
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AutoFillFix
+Sponsor: P2KDev
+
 Package: com.wkk.baiduwangpanhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -23752,13 +23787,12 @@ Package: com.wkk.xxgif
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: 网络资源
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.xxgif_1.0_iphoneos-arm64e.deb
-Size: 200768
-MD5sum: f7760b1a75074cd529497946b232c153
-SHA1: 2f156ede8a0ea99b0ca9c2fe880915afcb384246
-SHA256: 18214a06f74a8b72d437813e76f8f19a5e50de33cf24e152ffba04588d61b6b9
+Size: 201072
+MD5sum: a6e34080d5bc4bdedf1d03c79e4c6692
+SHA1: 6cb365700f642f51f12d0b32c32184b8800c0e47
+SHA256: 91e544c757e20486f8f994caea169f32bb0ffe60f13b6bad129d274ddfcc1231
 Section: 插件配置
 Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
 Author: 网络资源
@@ -23780,6 +23814,38 @@ Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
 Author: 网络资源
 Icon: https://s1.imagehub.cc/images/2025/11/12/3df0faf10acf31704caaeadcf3f46cbd.jpeg
 Name: 蜡笔小新图标
+
+Package: com.wkk.xxicons
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxicons_1.0_iphoneos-arm64e.deb
+Size: 60859496
+MD5sum: d155f425274b05113a969b122820a891
+SHA1: 3bfba308a36382eb97bad021692b7380246ec055
+SHA256: 38de0807a439cb4c632a3a06fc08d28899569233108898b0a79cd7ac444edd21
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/11/12/3df0faf10acf31704caaeadcf3f46cbd.jpeg
+Name: 蜡笔小新图标
+
+Package: com.wkk.xxmusic
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxmusic_1.0_iphoneos-arm64e.deb
+Size: 47691364
+MD5sum: 07b727b6a4b7f7f87aeef890a14ffdc0
+SHA1: 07490dc611c55fc4b9a84968d0939a38753ead98
+SHA256: a350ed7d0b9e1c47a1bdbe89d5a2a3043a3f8620cf2cc65d68fcf0bdf48e64be
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
+Name: 精选提醒声百款
 
 Package: com.wkk.xxmusic
 Version: 1.0
