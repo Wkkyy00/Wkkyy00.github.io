@@ -22497,6 +22497,41 @@ Author: MrDeNsor
 Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
 Name: IGFormat
 
+Package: com.wkk.jdhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.jdhook_1.0_iphoneos-arm64.deb
+Size: 3104
+MD5sum: 3d8939ec5077c44e568b8d30f2e200b6
+SHA1: a84d2fa2cad7b07203407ed8d2ceb6ea8b2c5a2f
+SHA256: 3442f124200de071e1195a98038e518ed1a5bc91445041538809484ba2c71583
+Section: 去广告
+Description: 去掉帖子中穿插的广告。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
+Name: 煎蛋NoAds
+
+Package: com.wkk.jdhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.jdhook_1.0_iphoneos-arm64e.deb
+Size: 4402
+MD5sum: 5a4e8b87efc52835072f50d4daa4296c
+SHA1: 1192308b54e336f2b561edc3b3988f86b593abdf
+SHA256: 5ce3e54aed9c70ce6e98c38f1eb957b29a48530f0e65362fb98f8e72d07fca57
+Section: 去广告
+Description: 去掉帖子中穿插的广告。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
+Name: 煎蛋NoAds
+
 Package: com.wkk.jptext
 Version: 1.0
 Architecture: iphoneos-arm64
