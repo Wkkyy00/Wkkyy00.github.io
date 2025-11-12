@@ -23892,6 +23892,38 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
 Name: 闲鱼NoAds
 
+Package: com.wkk.xxautoskip
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxautoskip_1.0.4_iphoneos-arm64.deb
+Size: 41024
+MD5sum: ac451e4d69a36f8ce35e5986bc8aea58
+SHA1: 0f67c6b47ec03fd1a2995316ff8a2e292c80ba60
+SHA256: 8684c0008234050ddfd7c45cc9d5129e1cfe1fb912201d0a2d5e2cd80b708f3e
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 模拟点击去开屏广告（下载后TrollFools注入）
+
+Package: com.wkk.xxautoskip
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xxautoskip_1.0.4_iphoneos-arm64e.deb
+Size: 41048
+MD5sum: d77ea67c0034cf8c4a2b3cab3a8cf62a
+SHA1: 0a322da6364efd8201e8f01e7923f61d0e7020a4
+SHA256: 0d73969798835964ad9c3d8c3dde5c52c29c0e1ef3aa5c0bc4b1706442cb460f
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 模拟点击去开屏广告（下载后TrollFools注入）
+
 Package: com.wkk.xxgif
 Version: 1.0
 Architecture: iphoneos-arm64
