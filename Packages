@@ -22895,6 +22895,41 @@ Author: wkk
 Icon: https://www.susuboy.cn//images/luping.png
 Name: 灵动岛录屏写轮眼
 
+Package: com.wkk.mghook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mghook_1.0_iphoneos-arm64.deb
+Size: 3812
+MD5sum: a4c24f322863945c5cc2bb8eeab17e18
+SHA1: c664fd8cd6a48fe6644c186bed8452e5f243dbe6
+SHA256: 0dc0b0bd9c5a820b6ce22ce44036456d1d06cdd7f1f54a1eb1f2e01ffd19b5ad
+Section: 去广告
+Description: 去开屏以及其他广告，版本：9.0.8
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
+Name: 芒果TVNoAds
+
+Package: com.wkk.mghook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mghook_1.0_iphoneos-arm64e.deb
+Size: 5274
+MD5sum: 0dfd29293caef28a4e14c95e6fdecc33
+SHA1: 5c883b459c6ab6c08ccb683094cb43581d19ee39
+SHA256: ecea25e76b301114695f552fa9b56d8c2f4f62981352102a96b5c678142af5d5
+Section: 去广告
+Description: 去开屏以及其他广告，版本：9.0.8
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
+Name: 芒果TVNoAds
+
 Package: com.wkk.mtwmhook
 Version: 1.0
 Architecture: iphoneos-arm64
