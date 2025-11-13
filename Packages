@@ -21099,6 +21099,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Apptools美化
 
+Package: com.wkk.aqyhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.aqyhook_1.0_iphoneos-arm64e.deb
+Size: 5436
+MD5sum: 9488e567bfddfc9ab550ea3dd1c5ff50
+SHA1: 8e3389dda4db4432d5995eb5ce84a2c1b2b3dea1
+SHA256: e77f592d10b0f416bca4ecfebc46b0d64f8a0805842b5712f20532b9cc1c4fa6
+Section: 去广告
+Description: 去开屏广告和我的页面广告，其他不处理。版本：16.10.7
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
+Name: 爱奇艺NoAds
+
+Package: com.wkk.aqyhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.aqyhook_1.0_iphoneos-arm64.deb
+Size: 3924
+MD5sum: 4f16d85ad37218616ceb6cfac41240b8
+SHA1: 704a3ca150fb4bad39763ca8875aead32f01d67a
+SHA256: b6d8534a7ea52e2dc47eae93d6f71264ed847d59e83f6ba340da3bb553273d81
+Section: 去广告
+Description: 去开屏广告和我的页面广告，其他不处理。版本：16.10.7
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
+Name: 爱奇艺NoAds
+
 Package: com.wkk.autofillfix
 Version: 0.1
 Architecture: iphoneos-arm64
