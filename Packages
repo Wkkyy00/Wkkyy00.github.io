@@ -21607,6 +21607,45 @@ Name: wkkCenter
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
 Sponsor: wkk
 
+Package: com.wkk.center
+Version: 4.4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.wkk.center_4.4_iphoneos-arm64.deb
+Size: 224736
+MD5sum: b535a3b497e5d2ddf4ddd11dd9f2c342
+SHA1: 34977cb25a013cac5fefc37fce5c84070847b408
+SHA256: e8b3784d06fc5d4001df4e453a03809b5d971d5392b2e8cb5986c75ba9c7f641
+Section: 控制中心
+Description: 自用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
+Sponsor: wkk
+
+Package: com.wkk.center
+Version: 4.4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 114
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.wkk.center_4.4_iphoneos-arm64e.deb
+Size: 527724
+MD5sum: 9172d9f368d8667b94f42646aa7c2a22
+SHA1: bd4c4347a6b635e8703055e9675429aa28e0bd7d
+SHA256: 704dc98db38dd888251be6a20773d8451615a33a9cb5d70ea85f7f95850bd1c0
+Section: 控制中心
+Description: 自用。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
+Sponsor: wkk
+
 Package: com.wkk.commandmodule
 Version: 1.0
 Architecture: iphoneos-arm64e
