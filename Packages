@@ -23960,6 +23960,41 @@ Description: 精简相册底部按钮，只保留图库和相簿。
 Author: wkk
 Name: 相册精简
 
+Package: com.wkk.xchshhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xchshhook_1.0_iphoneos-arm64e.deb
+Size: 5244
+MD5sum: b0e0aabf1bc63bdc9b1db34369a564fb
+SHA1: a75bfa223754d04fde1b14deab7edf3726bc9a29
+SHA256: 6444c524bb8e69c0889346bf47f5d848735b15eb3d1a136e53b7ae96cbcae6ac
+Section: 去广告
+Description: 极致的丝滑去开屏广告，版本：3.11.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系vx：wkkyy0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/cdf64e516d0fb0f51be2a24f4385f2cd.png
+Name: 小蚕惠生活NoAds
+
+Package: com.wkk.xchshhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xchshhook_1.0_iphoneos-arm64.deb
+Size: 3664
+MD5sum: 69047116caae403a599f91f566cae1b2
+SHA1: a661343451258caedd346eaaf9751250f8c05501
+SHA256: c0911a8ccde06381645f00d2cae3236d29186f336f5425c25b95e62eb872edab
+Section: 去广告
+Description: 极致的丝滑去开屏广告，版本：3.11.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系vx：wkkyy0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/cdf64e516d0fb0f51be2a24f4385f2cd.png
+Name: 小蚕惠生活NoAds
+
 Package: com.wkk.xianyuhook
 Version: 1.0
 Architecture: iphoneos-arm64
