@@ -23080,10 +23080,10 @@ Installed-Size: 400
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.mtwmhook_1.1_iphoneos-arm64e.deb
-Size: 5214
-MD5sum: acbb18cd02722a95e58b84459ba77225
-SHA1: ba3879c10bb02eab7e2aa268ac6a07d72d521875
-SHA256: 99de738bec13d4495d8b96b264a5a2d532cce64264ba5a5a8c8d636670526cd9
+Size: 5238
+MD5sum: 79fd7d9971825423495e9aef27b1e699
+SHA1: 59b3eb443e4b19640e5d5648f6ab3f7cf1cb820e
+SHA256: d98e47e3b56e673cf8c909e26cf62933e1437d2f15328610f8fcb64260811f20
 Section: 去广告
 Description: 去开屏广告，无法TrollFools注入，app无框架，测试版本：8.62.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
@@ -23097,10 +23097,10 @@ Maintainer: wkk
 Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.mtwmhook_1.1_iphoneos-arm64.deb
-Size: 3652
-MD5sum: 0590c47da9934c64032893940aed3998
-SHA1: 16ba30dfc9eada2580d770b5933e57e74679cdd0
-SHA256: df274cb5b3a49574121c0f5dadad90ec7c832c349d95d02b6474591b2f3da558
+Size: 3664
+MD5sum: 3d0c11f4939096ad3c760e39eda033a8
+SHA1: 158d3abb18807b21dd786877b31906e4d8df5aa8
+SHA256: 8bd27eda34a458aebf96812aae802c9e4443801dc7e65cda55281c6b092b2db4
 Section: 去广告
 Description: 去开屏广告，无法TrollFools注入，app无框架，测试版本：8.62.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
@@ -24068,36 +24068,36 @@ Author: wkk
 Name: 相册精简
 
 Package: com.wkk.xchshhook
-Version: 1.0
-Architecture: iphoneos-arm64e
+Version: 1.1
+Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.xchshhook_1.0_iphoneos-arm64e.deb
-Size: 5244
-MD5sum: b0e0aabf1bc63bdc9b1db34369a564fb
-SHA1: a75bfa223754d04fde1b14deab7edf3726bc9a29
-SHA256: 6444c524bb8e69c0889346bf47f5d848735b15eb3d1a136e53b7ae96cbcae6ac
+Filename: ./debs/com.wkk.xchshhook_1.1_iphoneos-arm64.deb
+Size: 3676
+MD5sum: aa70550615c7531d16cbca0b79cf09a3
+SHA1: 6cdb6ed8aebd1bc810a86876f98ddde72301d0b0
+SHA256: b2401ae1f4551a6685ad08339fe7f801cac84f3d7a5d807c5bfbc0d341331ed2
 Section: 去广告
-Description: 极致的丝滑去开屏广告，版本：3.11.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系vx：wkkyy0
+Description: 极致的丝滑去开屏广告，版本：3.11.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/cdf64e516d0fb0f51be2a24f4385f2cd.png
 Name: 小蚕惠生活NoAds
 
 Package: com.wkk.xchshhook
-Version: 1.0
-Architecture: iphoneos-arm64
+Version: 1.1
+Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.xchshhook_1.0_iphoneos-arm64.deb
-Size: 3664
-MD5sum: 69047116caae403a599f91f566cae1b2
-SHA1: a661343451258caedd346eaaf9751250f8c05501
-SHA256: c0911a8ccde06381645f00d2cae3236d29186f336f5425c25b95e62eb872edab
+Filename: ./debs/com.wkk.xchshhook_1.1_iphoneos-arm64e.deb
+Size: 5270
+MD5sum: b1f389140ba5aac73ad4d6466b34ce14
+SHA1: 4d21f15bc2aaf8d9390383e5ea800527673ef43f
+SHA256: 73377bcb57667c46f9f230881d3ecf05b49f2a0661f6d33566d36624d3fd6405
 Section: 去广告
-Description: 极致的丝滑去开屏广告，版本：3.11.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系vx：wkkyy0
+Description: 极致的丝滑去开屏广告，版本：3.11.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/cdf64e516d0fb0f51be2a24f4385f2cd.png
 Name: 小蚕惠生活NoAds
