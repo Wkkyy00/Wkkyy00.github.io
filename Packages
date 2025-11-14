@@ -21776,6 +21776,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/fbbb3ee1bb742f01530324aecc450222.png
 Name: 滴滴出行NoAds
 
+Package: com.wkk.dkkjhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dkkjhook_1.0_iphoneos-arm64.deb
+Size: 3120
+MD5sum: e2ad975d942535ffd7e02b37c022cf25
+SHA1: 328a0cec5c556d3e0a42d8b82dda3385b3ece819
+SHA256: 468d8652e49357d7e01874de3391115a73bb26ef9826831428e221b51393fc17
+Section: 去广告
+Description: 去开屏，版本：11.12.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/7331659f9104890851d1ab19cd7f3905.png
+Name: 动卡空间NoAds
+
+Package: com.wkk.dkkjhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dkkjhook_1.0_iphoneos-arm64e.deb
+Size: 4394
+MD5sum: fbc503463c39ee9d989b1b545de0d1d5
+SHA1: 2a5058ebe8b3259f0fbbd92d761dc293fe3b0001
+SHA256: 3b7a4324d0cd156c770bcbf9e7ce0a52235b3025ecc4b2a9c6a0dbfffe1d26d0
+Section: 去广告
+Description: 去开屏，版本：11.12.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/7331659f9104890851d1ab19cd7f3905.png
+Name: 动卡空间NoAds
+
 Package: com.wkk.dockshowlabels
 Version: 0.0.1
 Architecture: iphoneos-arm64e
