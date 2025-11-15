@@ -941,6 +941,24 @@ Author: Alexandra Aurora Göttlicher
 Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
 Name: Kayoko
 
+Package: com.0xkuj.ccadsbegone.roothide
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 6096
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/com.0xkuj.ccadsbegone.roothide_1.5_iphoneos-arm64e.deb
+Size: 799728
+MD5sum: dea0c1b479d02a6767f27692045e190d
+SHA1: eafc1b85bcdaf51400922aea65848ca0abcef356
+SHA256: c03e8ee657ec47bac342c256e53eca5f21f6ffbbcfeea391613d43f53b203ec7
+Section: Tweaks
+Description: CC Toggle to block ads on demand!
+Author: 0xkuj
+Name: CCAdsBeGone (roothide)
+
 Package: com.0xkuj.ccadsbegone.rootless
 Version: 1.5
 Architecture: iphoneos-arm64
