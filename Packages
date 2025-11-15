@@ -22985,6 +22985,41 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.
 Name: 关于源（空包仅浏览）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/kongbao.json
 
+Package: com.wkk.kuanhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kuanhook_1.0_iphoneos-arm64e.deb
+Size: 5148
+MD5sum: 63e68566455ce01f75754f306cb64d80
+SHA1: 87cfb507c68269f52691e8d1ab9930abf34139ad
+SHA256: f942f37875a887171eb9fca5720de1e3b9abdfeada79315c3aadb8748c9746ec
+Section: 去广告
+Description: 去开屏/帖子中广告，版本：15.8。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/f8fd055eb3664e24cc261c870165860a.png
+Name: 酷安NoAds
+
+Package: com.wkk.kuanhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kuanhook_1.0_iphoneos-arm64.deb
+Size: 3696
+MD5sum: 9e4944ee3eb42b42f0fc99744cebeb27
+SHA1: cf561dbd66473aa6b8640231cc28fe0631ecf212
+SHA256: e940357e7c87b0587b721f072baf36c63ba201ed4a63fcf04d79b261fd5c51bf
+Section: 去广告
+Description: 去开屏/帖子中广告，版本：15.8。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/f8fd055eb3664e24cc261c870165860a.png
+Name: 酷安NoAds
+
 Package: com.wkk.kugouhook
 Version: 1.4-5
 Architecture: iphoneos-arm64
