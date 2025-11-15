@@ -23125,6 +23125,53 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/02/9951c6ec81c84bce7fda5cdf77936476.jpeg
 Name: 妮妮打熊注销动画
 
+Package: com.wkk.photohook
+Version: 1.0-6
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.photohook_1.0-6_iphoneos-arm64e.deb
+Size: 5718
+MD5sum: 35b26bb4518f2dc8330ab12d628b889e
+SHA1: 007fdbc6a536502086037f8e49e85212e0d6372a
+SHA256: 3c3a44f922eea83cc5a8849458f9e8febc99f1f33e16d5b8f34a7e6e05e1279b
+Section: Tweaks
+Description:
+  * 隐藏创建的相册（这里不作禁用创建，没有找到禁止创建相册而不冲突的最好办法，隐藏最为稳妥）
+  * 跳过删除确认步骤，直接删除照片（最近删除会保留）
+  * 禁用搜索和为你推荐标签页。
+  * 移除人物与地点/媒体类型。
+  * 增加一个全选功能，方便批量操作。
+  * 设置超大缩放比例，支持图片无限放大。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
+Name: 相册优化
+
+Package: com.wkk.photohook
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.photohook_1.0-6_iphoneos-arm64.deb
+Size: 3932
+MD5sum: 9e1da7d39bfdcb982820614e93d1c2e5
+SHA1: e7801ab29d71405ad7b30015f3e679502934de44
+SHA256: 54fc0d2ab1e873ab9520f90292f0640fa958c57b0dc293c2ecfc2e3015d9f1b9
+Section: Tweaks
+Description:
+  * 隐藏创建的相册（这里不作禁用创建，没有找到禁止创建相册而不冲突的最好办法，隐藏最为稳妥）
+  * 跳过删除确认步骤，直接删除照片（最近删除会保留）
+  * 禁用搜索和为你推荐标签页。
+  * 移除人物与地点/媒体类型。
+  * 增加一个全选功能，方便批量操作。
+  * 设置超大缩放比例，支持图片无限放大。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
+Name: 相册优化
+
 Package: com.wkk.qichezhijiahook
 Version: 1.0
 Architecture: iphoneos-arm64
