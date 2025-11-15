@@ -21378,6 +21378,41 @@ Author: girl
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩
 
+Package: com.wkk.blblhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.blblhook_1.0_iphoneos-arm64e.deb
+Size: 6002
+MD5sum: c1660b96d3831e4cf14fd139853d5d7e
+SHA1: 9addd43e8715464f2cf68bc43ec7e36259063b58
+SHA256: 8a3d7f1cf971711b227e0069b93d3c4746089b078f7f6e5b4165b73be692b4d0
+Section: 去广告
+Description: 去开屏以及内嵌广告，版本：8.70.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
+Name: 哔哩哔哩NoAds
+
+Package: com.wkk.blblhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.blblhook_1.0_iphoneos-arm64.deb
+Size: 4328
+MD5sum: 81a38ec6216d87c1e3eaa628b1e7d031
+SHA1: 79d607e667195b9db9c4f5820a1498a0716d4b5c
+SHA256: edeb246b4c6e058fddcd0ab62e22642568d7029db147af4b83d26f655cf6dff6
+Section: 去广告
+Description: 去开屏以及内嵌广告，版本：8.70.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
+Name: 哔哩哔哩NoAds
+
 Package: com.wkk.camerapreview
 Version: 1.0
 Architecture: iphoneos-arm64
