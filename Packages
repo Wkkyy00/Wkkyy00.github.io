@@ -21272,6 +21272,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/05/ea71bd7ab6c914de6df8cb044f7251a9.jpeg
 Name: 电池美化
 
+Package: com.wkk.bdhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bdhook_1.0_iphoneos-arm64.deb
+Size: 3448
+MD5sum: d019f264de7c023eb0ce7d108d48d939
+SHA1: 4f218e13e8903084f25f81932b05406c3904b807
+SHA256: c248a974c1d86b953de0bbaa56f9b93f4542c511b639e3671f23580ed194a4e2
+Section: 去广告
+Description: 去开屏，版本：5.3.5。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/15/f745bcefbac741c35388050107791d58.png
+Name: 波点音乐NoAds
+
+Package: com.wkk.bdhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bdhook_1.0_iphoneos-arm64e.deb
+Size: 4918
+MD5sum: 676147797e60fb6f9d1df922b7c59965
+SHA1: 5dbfb80fc4c4454b75e88e99a96b3ebb61ecfda5
+SHA256: 1b2c09bea8fa8c4c3385136a352d98821638a347b9802756074120ce62e20248
+Section: 去广告
+Description: 去开屏，版本：5.3.5。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/15/f745bcefbac741c35388050107791d58.png
+Name: 波点音乐NoAds
+
 Package: com.wkk.bhmh
 Version: 1.0
 Architecture: iphoneos-arm64
