@@ -21936,6 +21936,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/7331659f9104890851d1ab19cd7f3905.png
 Name: 动卡空间NoAds
 
+Package: com.wkk.dmhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dmhook_1.0_iphoneos-arm64e.deb
+Size: 4430
+MD5sum: d19b895901129d25ef9246fc8244aa71
+SHA1: 7da2ae238228fdd6fea1ed0287bc7e618f6eab23
+SHA256: d0c1e699962f8bc610694494af9305be760eb912e8a790ee49aa6a04200e6fcb
+Section: 去广告
+Description: 去开屏，版本：9.0.6，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
+Name: 大麦NoAds
+
+Package: com.wkk.dmhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dmhook_1.0_iphoneos-arm64.deb
+Size: 3072
+MD5sum: 497b4b746a786018a17c41d95aa3a3a2
+SHA1: 8c7ae809cabc27bb152b23747fea1aa75c7b0851
+SHA256: ec0d4772792b33407edde4557939a16f2dca66a8879e9dfebe06465e5d1cb997
+Section: 去广告
+Description: 去开屏，版本：9.0.6，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
+Name: 大麦NoAds
+
 Package: com.wkk.dockshowlabels
 Version: 0.0.1
 Architecture: iphoneos-arm64e
