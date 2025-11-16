@@ -24539,70 +24539,39 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.
 Name: 精选提醒声百款
 
 Package: com.wkk.ykxchook
-Version: 1.0
+Version: 1.0-2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
+Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.ykxchook_1.0_iphoneos-arm64e.deb
-Size: 4446
-MD5sum: 700387bc4baeaa6f18e513cceff5f7f3
-SHA1: 15729a9f4b675b45c38b7bb8cdc1bd4a09821def
-SHA256: c745779c4c4bc48f89dce76e54481b2ca19f9adf0110f2462b05c00858f73740
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ykxchook_1.0-2_iphoneos-arm64e.deb
+Size: 7602
+MD5sum: 1319a0736da2b21ee5ec74ced3aea1b8
+SHA1: 680c43dda487ed0443235cb54e499eab0254c44a
+SHA256: 34545b527284fe5225221f12f60b2b41db48c483f59af7e75242607be1cd239d
 Section: 去广告
-Description: 去开屏广告，建议用5.0/5.8版本。
+Description: 去开屏/豆腐块/底部开会员窗口，版本：6.23.1。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
-Name: 一刻相册NoAds
+Name: 一刻相册NoAdas
 
 Package: com.wkk.ykxchook
-Version: 1.0
+Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.ykxchook_1.0_iphoneos-arm64.deb
-Size: 3128
-MD5sum: 6395bad5feed090e00afb0fdfe803313
-SHA1: 3f730cb870d3d07cffa765e6c6ec6b40e6365ba8
-SHA256: c1dfa534ced5ca6ee15631a7d8c1ab3fa8780de464aacbe6d73accf995d5242f
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ykxchook_1.0-2_iphoneos-arm64.deb
+Size: 5572
+MD5sum: e24696a2bc68f0757a16d1c1557c6ebb
+SHA1: c20d3523551fd814970e1ce5d35271455f67ad03
+SHA256: a2a5a8590705450b855a2ff1efb7e708cce2455c2605e8cd685a3c0a4c804e50
 Section: 去广告
-Description: 去开屏广告，建议用5.0/5.8版本。
+Description: 去开屏/豆腐块/底部开会员窗口，版本：6.23.1。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
-Name: 一刻相册NoAds
-
-Package: com.wkk.ykxchook2
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.ykxchook2_1.0_iphoneos-arm64e.deb
-Size: 7162
-MD5sum: 270393a072d8973bf93121ef8a18562c
-SHA1: c25a921383798bdc82a9ba05f936f874dbc10ca4
-SHA256: 5fd0041177aeae58fa1a0b73bea0eaa1f732a5b82e9807d57fa1f4719aa2be8f
-Section: 去广告
-Description: （1和2版本自己选择）去开屏广告+去应用内豆腐块广告+去开屏摇一摇（摇一摇代码来自：huami）测试版本：6.17.1
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
-Name: 一刻相册NoAds2
-
-Package: com.wkk.ykxchook2
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.ykxchook2_1.0_iphoneos-arm64.deb
-Size: 5272
-MD5sum: 0ea11ace862bec50c7508c9f0e814b7d
-SHA1: 4e8f33ce0812d130bb65dab0caff0c889bb49ffd
-SHA256: 15a10f2c7e2faa7ce86b15a1eebdffcca131fe832ea642d5643aeb7eabaeeca5
-Section: 去广告
-Description: （1和2版本自己选择）去开屏广告+去应用内豆腐块广告+去开屏摇一摇（摇一摇代码来自：huami）测试版本：6.17.1
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
-Name: 一刻相册NoAds2
+Name: 一刻相册NoAdas
 
 Package: com.wkk.zdmhook
 Version: 1.0
