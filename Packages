@@ -21134,6 +21134,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChat自用气泡
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
 
+Package: com.wkk.WeChatbeautifully
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: fv群友
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.WeChatbeautifully_1.0-1_iphoneos-arm64.deb
+Size: 40000
+MD5sum: fef7ca0a7c575dcd15170845564365b9
+SHA1: c9cc2354865a74ef81e60519cd411615478cc312
+SHA256: 3f750d82fe015574ca11f8751685d05ea9ecb99e331f751569b6ddf5b42fa66a
+Section: 插件配置
+Description: 自用气泡+红包气泡。
+Author: fv群友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChat自用气泡
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
+
+Package: com.wkk.WeChatbeautifully
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: fv群友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.WeChatbeautifully_1.0-1_iphoneos-arm64e.deb
+Size: 40500
+MD5sum: c660c2cffac956df8c6e706a36b0b9c2
+SHA1: 533d14c7fe7fd9bab1168f81f0aa4c9d497bc1e4
+SHA256: c5024939b465f496e53c4ae92243fcefdf9d4b3ff292784205a3c6f2c00a68bb
+Section: 插件配置
+Description: 自用气泡+红包气泡。
+Author: fv群友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChat自用气泡
+Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
+
 Package: com.wkk.applock
 Version: 1.1
 Architecture: iphoneos-arm
