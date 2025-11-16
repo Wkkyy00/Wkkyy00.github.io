@@ -23963,74 +23963,39 @@ Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
 Package: com.wkk.tiebahook
-Version: 1.0.3
-Architecture: iphoneos-arm64e
+Version: 1.0-5
+Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.tiebahook_1.0.3_iphoneos-arm64e.deb
-Size: 91254
-MD5sum: a7ddd1ea7d3fdcc10b63e76c254270b3
-SHA1: 4bd85265cd9dc451f5177ae74c6d79fe811a40df
-SHA256: d31ca879f7dd11c06dc4a08f5eba1378e804851538063b6505a3c98ba14e84dd
+Filename: ./debs/com.wkk.tiebahook_1.0-5_iphoneos-arm64.deb
+Size: 3452
+MD5sum: a4a9734341ceb78ecdf772d8baf74da9
+SHA1: 3f409c2e903b80d6d9e217ffeb69418d697e567b
+SHA256: 8d4b090452bc6c55ef9afcd9ecf9642cf7d3403ed42d0f55465277bb2a7cf5a7
 Section: 去广告
-Description: 去除百度贴吧广告，测试版：12.60.1
+Description: 去除百度贴吧所有可见广告，版本：12.93.1接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
-Name: 百度贴吧NoAds1
+Name: 百度贴吧NoAds
 
 Package: com.wkk.tiebahook
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.tiebahook_1.0.3_iphoneos-arm64.deb
-Size: 66668
-MD5sum: da353c943fff3277729ac9f5c0467be4
-SHA1: f5dab82015d70aeb7570517f2a907b39db006eef
-SHA256: 7a4f1f2bbc60ec12495d39e081eea19912fe742b0154d5a4740911c739ac5e6b
-Section: 去广告
-Description: 去除百度贴吧广告，测试版：12.60.1
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
-Name: 百度贴吧NoAds1
-
-Package: com.wkk.tiebahook2
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.tiebahook2_1.0.3_iphoneos-arm64.deb
-Size: 13548
-MD5sum: 103e25c9aab94c87ad43f25464547ac9
-SHA1: 16c2cd3e983445d2436c73ffbd3358a4ccbe6310
-SHA256: 4088b930f3801100eca3523c1f89c6a4312ce66c4f07b5f2a875a0d81dccbf1a
-Section: 去广告
-Description: 去除百度贴吧广告，测试版：12.60.1
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
-Name: 百度贴吧NoAds2
-
-Package: com.wkk.tiebahook2
-Version: 1.0.3
+Version: 1.0-5
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 400
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.tiebahook2_1.0.3_iphoneos-arm64e.deb
-Size: 18010
-MD5sum: 3b0eaa2653f6f20401fc31f050446e59
-SHA1: 1b50603cf14a6b4eddb11f715a3a63230426381c
-SHA256: 0f479664328641a6562b19c0d62b0aa3127af141de0200620b47f0af2688b8de
+Filename: ./debs/com.wkk.tiebahook_1.0-5_iphoneos-arm64e.deb
+Size: 4932
+MD5sum: 051e96006733679112192638daaa3e54
+SHA1: aa92276e31e95662b68bf5ef10d827db44f25e75
+SHA256: 5b6762c3817e83708c3dcf46e49ec4643647a0b2a8eb78a2ec2f85acb6439ef6
 Section: 去广告
-Description: 去除百度贴吧广告，测试版：12.60.1
+Description: 去除百度贴吧所有可见广告，版本：12.93.1接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
-Name: 百度贴吧NoAds2
+Name: 百度贴吧NoAds
 
 Package: com.wkk.tiktokhook
 Version: 1.0.0
