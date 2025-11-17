@@ -16420,6 +16420,40 @@ Icon: https://postbox.news/depicts/app/icon.png
 Name: PostBox
 Sileodepiction: https://postbox.news/depicts/app/fancydeps.json
 
+Package: com.sini921.ccborder
+Version: 1.1.2-22
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 708
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.sini921.ccborder_1.1.2-22_iphoneos-arm64e.deb
+Size: 108208
+MD5sum: e46d68a7b55103c3048c82e5cf99194e
+SHA1: 4694a575c59ba691f9f5cc706a46917fe2e1dd93
+SHA256: 23663c4a38c060b5b71a6bcd60685ee9b0e86a209ac59ce297532e47680c3497
+Section: 控制中心
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖（备份）
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
+Version: 1.1.2-22
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 728
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.sini921.ccborder_1.1.2-22_iphoneos-arm64.deb
+Size: 110040
+MD5sum: a1a4a25fec087ebb88c89b89df1fb47a
+SHA1: db85356f2eeb6562fb83663c17fcc8b916c27ae6
+SHA256: c39362743172e5d956c316598d92fd131c6a6679521c5c55f33e5af402a18cdd
+Section: 控制中心
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖（备份）
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
 Package: com.sini921.cylinderreborn
 Version: 1.1.2-2
 Architecture: iphoneos-arm64
