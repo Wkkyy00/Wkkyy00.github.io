@@ -23299,6 +23299,41 @@ Author: wkk
 Icon: https://www.susuboy.cn//images/luping.png
 Name: 灵动岛录屏写轮眼
 
+Package: com.wkk.megahook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.megahook_1.0_iphoneos-arm64.deb
+Size: 3360
+MD5sum: ec539268b842ca32b1273ece946176df
+SHA1: 838d751511119639d24a6cd901aaf60e1fa5c057
+SHA256: 4a244bafc5389ec4b9ab702cefa48bdbacd9541707e629017fc2cc136b785a31
+Section: 去广告
+Description: 去掉底部占位的广告块，版本：17.6。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
+Name: MEGANoAds
+
+Package: com.wkk.megahook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.megahook_1.0_iphoneos-arm64e.deb
+Size: 4794
+MD5sum: 8f2327457448650f84180f208a71cc7d
+SHA1: 95c429d0f39fd0a340d9ad6c3bbfec76792a6001
+SHA256: b65c0878dfc42d402e9af49ac31cc8553d9320e4089d37d99d568491e5aa5d31
+Section: 去广告
+Description: 去掉底部占位的广告块，版本：17.6。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
+Name: MEGANoAds
+
 Package: com.wkk.mghook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -24609,6 +24644,41 @@ Author: 网络资源
 Icon: https://s1.imagehub.cc/images/2025/01/21/cefa1464e01eef8261e06c01ade556d9.png
 Name: 精选提醒声百款
 
+Package: com.wkk.xyjlbhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xyjlbhook_1.0_iphoneos-arm64.deb
+Size: 3024
+MD5sum: 81f8b96661b574b4190ded238ca8ba73
+SHA1: a20f930e5fa4ab4c2cc9ed6b2e591ca02bf10e8c
+SHA256: c7db6f20a6ae9d87ce9573fcdd757a6cc156df582fb633a3edbd21dba066f4ee
+Section: 去广告
+Description: 去开屏，版本：6.4.4。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/8c1b0e46a8214fffe710524c343fe88d.png
+Name: 心悦俱乐部NoAdas
+
+Package: com.wkk.xyjlbhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xyjlbhook_1.0_iphoneos-arm64e.deb
+Size: 4374
+MD5sum: f64608ecd020200abeeb209d31638043
+SHA1: 93efc5e01bd1f1fc639a1e80125e7bd337ae1eb8
+SHA256: d2204db963cee4ed69b195fe7c1a870141543b308c2404153230d450cddb1f53
+Section: 去广告
+Description: 去开屏，版本：6.4.4。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/8c1b0e46a8214fffe710524c343fe88d.png
+Name: 心悦俱乐部NoAdas
+
 Package: com.wkk.ykxchook
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -24818,6 +24888,41 @@ Description: 仅支持RootHide越狱
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画3.0
+
+Package: com.wkk.zslmhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zslmhook_1.0_iphoneos-arm64.deb
+Size: 3528
+MD5sum: 1ee91252671a8e4f3dc8bab6d4d584f0
+SHA1: b7f005c362ebe9395739e64419b878ecc768aadf
+SHA256: b37476a1e9e6d3216d5c8c8099e145958cfe8e285a77f45198f6a712fd44933e
+Section: 去广告
+Description: 去开屏，版本：12.1.1。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/60db3d5b56a2ea4ec9dbcc8080281288.png
+Name: 掌上英雄联盟NoAds
+
+Package: com.wkk.zslmhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zslmhook_1.0_iphoneos-arm64e.deb
+Size: 5014
+MD5sum: 327ae9a6124c95af44f03ba3eaf344db
+SHA1: 751cd9318f6402a8420bff0d4bafb9a56f87308c
+SHA256: 9a992e410f4d21980acd0d0402e8c9530593ce8dd46b15fd4ed6fa54f8305964
+Section: 去广告
+Description: 去开屏，版本：12.1.1。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/60db3d5b56a2ea4ec9dbcc8080281288.png
+Name: 掌上英雄联盟NoAds
 
 Package: com.wkk.zzhook
 Version: 1.0
