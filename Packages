@@ -23334,6 +23334,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
 Name: MEGANoAds
 
+Package: com.wkk.megahook2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.megahook2_1.0_iphoneos-arm64e.deb
+Size: 4394
+MD5sum: e3e430fc6f2b88245499ad181ae91794
+SHA1: 675d01f74a4ede2d71e53c2cbf99c436973cb36c
+SHA256: 01c813c974cc209c23432cbc79bdaa363fbc45d0624ca0f6a69e4cfaf573015e
+Section: 去广告
+Description: 去掉底部占位的广告块，版本：16.14。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
+Name: MEGANoAds
+
+Package: com.wkk.megahook2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.megahook2_1.0_iphoneos-arm64.deb
+Size: 3024
+MD5sum: 6c3d34f6163f5e2ef9faa42dd5480ff8
+SHA1: 06b97a4c8620d1c8b2aef8e346b1b90a303a0b90
+SHA256: ed25cfdee7bef811ee83bfcb1161bdc58c920bb550f1a91641f12350788a5dff
+Section: 去广告
+Description: 去掉底部占位的广告块，版本：16.14。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
+Name: MEGANoAds
+
 Package: com.wkk.mghook
 Version: 1.0
 Architecture: iphoneos-arm64
