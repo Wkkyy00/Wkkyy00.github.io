@@ -24085,6 +24085,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: snapper3隐藏底部功能栏
 
+Package: com.wkk.swiftgramcrack
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-3_iphoneos-arm64.deb
+Size: 53944
+MD5sum: 6b3df0894f7d8ea51f7e5f37d9733a46
+SHA1: c06e2fd346c2c3de6d7d257989b026121521ac80
+SHA256: ba901c820138ea30b699c6937f19aa485cf7ca24383c61b46b2cc5fbb81b0c01
+Section: 插件
+Description: 版本：11.15
+Author: Netskao
+Icon: Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
+Package: com.wkk.swiftgramcrack
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-3_iphoneos-arm64e.deb
+Size: 84780
+MD5sum: 371aab924d426613c5f302c0e2691657
+SHA1: 26f3cfb6ee1a6b31108c6881426d90a03a65a346
+SHA256: c353ce97ef614bc094601bacfb37d0bf6f6fe0ab0122b75473714c65eb0339b6
+Section: 插件
+Description: 版本：11.15
+Author: Netskao
+Icon: Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
 Package: com.wkk.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64
