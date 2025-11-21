@@ -22988,6 +22988,24 @@ Author: MrDeNsor
 Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
 Name: IGFormat
 
+Package: com.wkk.ios15xhome
+Version: 1.3-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ios15xhome_1.3-2_iphoneos-arm64e.deb
+Size: 5400
+MD5sum: 155775864e084dd9b749c0c192dad014
+SHA1: 014ec4bbc622ea77fbc0855bc8defee01e055b35
+SHA256: c2e4078b719a064fedfe1bfa7fec74c91d87e6d6077bbfc17d4e61c0cc1468f4
+Section: 插件
+Description: iOS15无根X手势，隐藏控制中心状态栏。
+Author: zlw555
+Name: iPhone仿X手势（IOS15）
+Sponsor: wkk
+
 Package: com.wkk.jdhook
 Version: 1.0
 Architecture: iphoneos-arm64
