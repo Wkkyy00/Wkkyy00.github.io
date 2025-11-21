@@ -24171,6 +24171,41 @@ Author: Netskao
 Icon: Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
 Name: Swiftgram Pro
 
+Package: com.wkk.swiftgramcrack
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-4_iphoneos-arm64e.deb
+Size: 93464
+MD5sum: ed663d3e8aa4ae95ed1fe193c4afdc35
+SHA1: e59b43334ca77d35237cad504b50db3521def585
+SHA256: 4923a5cbcf63bea3efc0b099db0ac7f3e502e2b3791752728773136b107f5a8b
+Section: 插件
+Description: Swiftgram Pro。附加解除下载保护/解除截图保护，支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
+Package: com.wkk.swiftgramcrack
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-4_iphoneos-arm64.deb
+Size: 60176
+MD5sum: a169d49a5d6200c47f67e05f33c225ce
+SHA1: ac067aac7e468ab616275d80dff7fbd17ea61c75
+SHA256: 82efeb8c761b1f38f4620a8498854528901430a01b15d6a1ab82df61575b53cf
+Section: 插件
+Description: Swiftgram Pro。附加解除下载保护/解除截图保护，支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
 Package: com.wkk.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64
@@ -24361,6 +24396,41 @@ Description: 去开屏广告及部分豆腐块广告，测试版本：9.00.46
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
+
+Package: com.wkk.wctimelinereplacefind
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 852
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.wctimelinereplacefind_1.1-2_iphoneos-arm64.deb
+Size: 348904
+MD5sum: 89ea3843496e5875e71fc00a4ed7abe8
+SHA1: b4416b3ea44bb61a64a46511ff48ba7c3158b3d4
+SHA256: 707fe4999642643986896c04618a7fd6fa8aa57f44506f0bdf989b0d2451c804
+Section: 微信插件
+Description: 使用朋友圈替换发现底栏。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCTimeLineReplaceFind
+
+Package: com.wkk.wctimelinereplacefind
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 852
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.wctimelinereplacefind_1.1-2_iphoneos-arm64e.deb
+Size: 465676
+MD5sum: e355b0a9d794c5bf1512b6e32332b50e
+SHA1: 8394b4d319e1399cc4338f63096860d5b657a4b1
+SHA256: 1b69f0c89eee300da5c4fbf58b50b383e3db02ddf96e70ac9a943ae6e2a6fa0f
+Section: 微信插件
+Description: 使用朋友圈替换发现底栏。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCTimeLineReplaceFind
 
 Package: com.wkk.weibohook
 Version: 1.0
