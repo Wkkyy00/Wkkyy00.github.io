@@ -24432,6 +24432,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCTimeLineReplaceFind
 
+Package: com.wkk.wctimelinereplacefind
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 852
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.wctimelinereplacefind_1.1-3_iphoneos-arm64e.deb
+Size: 453294
+MD5sum: 71a55e3d5af335559c3874baa8fc4049
+SHA1: ceabc9f33368ff1e6d701985eb5ff7e8a89110ac
+SHA256: 78a5757df42168adf60bdaf6904d19922c18f9ad64e122250cca8ca3cd5bb388
+Section: 微信插件
+Description: 使用朋友圈替换发现底栏。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCTimeLineReplaceFind
+
+Package: com.wkk.wctimelinereplacefind
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 852
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.wctimelinereplacefind_1.1-3_iphoneos-arm64.deb
+Size: 338044
+MD5sum: 8099373787534894ff321fbc4d5ce875
+SHA1: 3c3f09130502b5185dae5b839d1fedfa3456f03d
+SHA256: 996523cea798ec8718ae1e7a30a50c05abe33a8baad91dc7814a09ab46bcb10b
+Section: 微信插件
+Description: 使用朋友圈替换发现底栏。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCTimeLineReplaceFind
+
 Package: com.wkk.weibohook
 Version: 1.0
 Architecture: iphoneos-arm64e
