@@ -23660,6 +23660,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: 相册优化
 
+Package: com.wkk.proxysc
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 网络资源
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.proxysc_1.0_iphoneos-arm64e.deb
+Size: 38644
+MD5sum: 0274b872e5747be87b51ecfcb55a9f81
+SHA1: be2c9748cb90933bed205816020853df67645fdd
+SHA256: bccee67d3b93efa06f6b3a5b432cebad50fcb49375433797a711e61b09da7a82
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 去App录屏检测（下载后TrollFools注入）
+
+Package: com.wkk.proxysc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 网络资源
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.proxysc_1.0_iphoneos-arm64.deb
+Size: 37308
+MD5sum: a36ed50d244edcb1e0325058f03be974
+SHA1: b4fcb7f6db8e56d9281e50a56889edfea1c5ed75
+SHA256: e1e30bf54de15a8d7439840873d440f9e25a0b3a5d55cc96d6180987c991427e
+Section: 插件配置
+Description: 下载后脚本文件在/var/mobile/Documents/自行使用。
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 去App录屏检测（下载后TrollFools注入）
+
 Package: com.wkk.qichezhijiahook
 Version: 1.0
 Architecture: iphoneos-arm64
