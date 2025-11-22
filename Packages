@@ -23402,6 +23402,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/19/b3ce34062200bdb9cd7730bd71a79d58.jpeg
 Name: 重启用户空间启动logo
 
+Package: com.wkk.lstyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.lstyhook_1.0-1_iphoneos-arm64e.deb
+Size: 4612
+MD5sum: 62f0b4663394f226bced159996b9c45e
+SHA1: 3966776776dc4a61d9ac05b3e60942a18a2bfd89
+SHA256: 2c72041ccef2252e01f285732b130fc3db79497a345fc3b72dcee513fb7d805d
+Section: 去广告
+Description: 去应用内所有广告需走个人定制，此版本只去开屏，版本：10.1.4。接大量冷门热门app定制去广告/去更新提示/精简app等其他业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/22/323c5fd6f763fe498e721570bba6092a.png
+Name: 雷速体育NoAds
+
+Package: com.wkk.lstyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.lstyhook_1.0-1_iphoneos-arm64.deb
+Size: 3196
+MD5sum: a23ff1a6e52e29466e8a3a06ddc80a70
+SHA1: 36842c4372da2f2d1466aa49d67e94289b4b7a14
+SHA256: ba203591c8fe02b942fbab8fb583bfc2e58fde1d3dd8d86b8cbccb174bbe51b5
+Section: 去广告
+Description: 去应用内所有广告需走个人定制，此版本只去开屏，版本：10.1.4。接大量冷门热门app定制去广告/去更新提示/精简app等其他业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/22/323c5fd6f763fe498e721570bba6092a.png
+Name: 雷速体育NoAds
+
 Package: com.wkk.luping
 Version: 1.1
 Architecture: iphoneos-arm64e
