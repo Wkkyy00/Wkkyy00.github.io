@@ -14045,6 +14045,41 @@ Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/01/23/24ddefd0dcdb523948386b3f0ccbe1f7.png
 Name: ipad dock
 
+Package: com.nahtedetihw.floatingdockxvi
+Version: 2.4-1
+Architecture: iphoneos-arm64e
+Maintainer: Ethan Whited
+Installed-Size: 812
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.floatingdockxvi_2.4-1_iphoneos-arm64e.deb
+Size: 408070
+MD5sum: ec2f39d3d227370dffdda9c0599e91b2
+SHA1: e78a14d7e87df064bc1157839f88fff77b3d6509
+SHA256: b8f3bb09625590aa1d8192e93b50bf736483f2797831f44d33fe60726e4059a7
+Section: 插件
+Description: 使你的dock栏可以像ipad一样抽插出资源库并且可以显示最近应用等。很炫酷。支持ios15-ios16无根隐根。（已汉化）
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/01/23/24ddefd0dcdb523948386b3f0ccbe1f7.png
+Name: ipad dock
+
+Package: com.nahtedetihw.floatingdockxvi
+Version: 2.4-1
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.floatingdockxvi_2.4-1_iphoneos-arm64.deb
+Size: 397764
+MD5sum: c915a6599d3d94536255bc68c3ce3a55
+SHA1: f17a52dd16d0fb34e46d22c1d62e3fe0b8cf1ead
+SHA256: 7728d96baae48672f03ab904461c0f0e2d4426205964ab4f43da45aab08b8a92
+Section: 插件
+Description: 使你的dock栏可以像ipad一样抽插出资源库并且可以显示最近应用等。很炫酷。支持ios15-ios16无根隐根。（已汉化）
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/01/23/24ddefd0dcdb523948386b3f0ccbe1f7.png
+Name: ipad dock
+
 Package: com.nahtedetihw.nowidgetlabels
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -24324,6 +24359,41 @@ Description: 毫无卵用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: snapper3隐藏底部功能栏
+
+Package: com.wkk.statustime
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.statustime_1.4-1_iphoneos-arm64.deb
+Size: 33280
+MD5sum: 19db940f9757ddd6bc7bde106f118bb5
+SHA1: c6f5bd4c200744ffe11e897c9fa54686b6ef14ed
+SHA256: 898e76b9b24854ee0b1d263b174b179945d4c8f52af0f7ba29bb4c39f354bef4
+Section: Tweaks
+Description: 此插件允许用户自定义设备状态栏上显示的日期和时间格式。用户可以从各种日期和时间格式中进行选择，以及调整日期和时间元素的字体大小和位置。（已汉化）
+Author: SOPPPra
+Icon: https://i.postimg.cc/430z6Q0x/statustime.png
+Name: StatusTime
+
+Package: com.wkk.statustime
+Version: 1.4-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 372
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.statustime_1.4-1_iphoneos-arm64e.deb
+Size: 40552
+MD5sum: 7633687336f9ddfbe53b2ee66eaa8cf0
+SHA1: 9ed49740511b0f3dd1912bf89d11385ef13238b1
+SHA256: f11b9c399c30447867bd13c64cbc3d8e66aaf2ba9ef68be518ce5f3c58c23307
+Section: Tweaks
+Description: 此插件允许用户自定义设备状态栏上显示的日期和时间格式。用户可以从各种日期和时间格式中进行选择，以及调整日期和时间元素的字体大小和位置。（已汉化）
+Author: SOPPPra
+Icon: https://i.postimg.cc/430z6Q0x/statustime.png
+Name: StatusTime
 
 Package: com.wkk.swiftgramcrack
 Version: 1.1-3
