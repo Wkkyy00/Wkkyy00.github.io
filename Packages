@@ -19483,6 +19483,54 @@ Author: choco
 Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
 Name: Telegram TGExtra
 
+Package: com.tgextra
+Version: 1.7.0
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debs/com.tgextra_1.7.0_iphoneos-arm64.deb
+Size: 2296456
+MD5sum: d3ebe2ede655eca99fe4378eca880443
+SHA1: 0f655da5187b4cfb42514a7db1eff072ef85189a
+SHA256: 9eb96aeb30c18dfdc04713802d3354cd91e41d6ca3cbd0e390db303a120c5cf6
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
+
+Package: com.tgextra
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debs/com.tgextra_1.7.0_iphoneos-arm64e.deb
+Size: 2295788
+MD5sum: 44e989d81225270193b3935eb83103f6
+SHA1: 9032366cd2f424b5ccb6580e93dc160e9fc9b3a7
+SHA256: caa7fe76bb2382d926008d80a9ee6df57b1f7d722b4d5f41078b953be9c41637
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
+
+Package: com.tgextra
+Version: 1.7.0
+Architecture: iphoneos-arm
+Maintainer: choco
+Installed-Size: 4532
+Filename: ./debs/com.tgextra_1.7.0_iphoneos-arm.deb
+Size: 2296612
+MD5sum: 021f4e5db3874aad7912048b1a06f9c1
+SHA1: c151a3a259e29417261915ba3ae73ba906ae5306
+SHA256: ccb6ad4b9ced12261bd0bf2ca770f8952d895e5f441cbf8dd073dff528a437d7
+Section: Tweaks
+Description: 电报增强调整，删除广告，隐藏某些输入状态，允许保存频道受限的下载文件，设置屏幕-长按倒数第三个选项“客户服务”打开插件。支持Telegram、Turrit和其他第三方客户端。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2025/05/26/f21a05fd34535c80433b63ee1f6bbc4d.jpeg
+Name: Telegram TGExtra
+
 Package: com.tomaszpoliszuk.applibrarydisabler
 Version: 1.1.1
 Architecture: iphoneos-arm64e
