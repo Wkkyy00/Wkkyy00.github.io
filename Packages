@@ -25612,6 +25612,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
 Name: 一刻相册NoAds
 
+Package: com.wkk.ysxwhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ysxwhook_1.0_iphoneos-arm64.deb
+Size: 3372
+MD5sum: 18ab1f51232001a4a6c7addd6c1c749b
+SHA1: 96ee4b8c73cf54e9cb20dc538b91f93ffac65f2a
+SHA256: cf2ec1a918f85755466aec110cc5c24d67e401aebe97e52c81676f26b09e7d6f
+Section: 去广告
+Description: 去开屏广告，版本：10.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/25/1adc2f21ac13f26fedd4c643ef04334e.png
+Name: 央视新闻NoAds
+
+Package: com.wkk.ysxwhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ysxwhook_1.0_iphoneos-arm64e.deb
+Size: 4802
+MD5sum: e4166adb4e1ff5e179f56a9caf025a70
+SHA1: 53756703f8a41292ce34dce451432d2251424a1e
+SHA256: b8c1062ef35825c2c73117f59ce3bb5c9e6cc742585f2ce8f7c1f678b22441fa
+Section: 去广告
+Description: 去开屏广告，版本：10.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/25/1adc2f21ac13f26fedd4c643ef04334e.png
+Name: 央视新闻NoAds
+
 Package: com.wkk.zdmhook
 Version: 1.0
 Architecture: iphoneos-arm64
