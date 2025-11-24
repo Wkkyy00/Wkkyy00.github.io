@@ -25103,6 +25103,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 微信输入法皮肤（自用备份）
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/weixxinsrf.json
 
+Package: com.wkk.wyxwhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wyxwhook_1.0-2_iphoneos-arm64.deb
+Size: 3092
+MD5sum: 069faf2023f76eb59ff0e3736667726f
+SHA1: 37e7e327f1cf764a315fd7e61ed31fd8f4361203
+SHA256: 7869a4bf1bc5fa7ce01805e0fbf9f87c049ecb786d28321768f2bf3000d495e5
+Section: 去广告
+Description: 去开屏/信息流广告，版本：2756，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/25/cf20796b4a4e88cd2b68b8f89182bfc3.png
+Name: 网易新闻NoAds
+
+Package: com.wkk.wyxwhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wyxwhook_1.0-2_iphoneos-arm64e.deb
+Size: 4470
+MD5sum: d7ec87491648ac72c18f104e088a6d25
+SHA1: c5ba4206e033ba795c1770afd26659e7e741e0e7
+SHA256: d9812cf399b81927773f29573f9667a7926735941c1d75c9e768af8c71f5ffe9
+Section: 去广告
+Description: 去开屏/信息流广告，版本：2756，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/25/cf20796b4a4e88cd2b68b8f89182bfc3.png
+Name: 网易新闻NoAds
+
 Package: com.wkk.wyyhook
 Version: 1.0
 Architecture: iphoneos-arm64e
