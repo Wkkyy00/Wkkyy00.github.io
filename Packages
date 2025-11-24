@@ -22401,6 +22401,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.
 Name: Dock显示app名称
 Sponsor: wkk
 
+Package: com.wkk.douyutvhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.douyutvhook_1.0_iphoneos-arm64.deb
+Size: 3060
+MD5sum: 2465698d27d6df350d2f09cddb7524cc
+SHA1: c7d50e4ea1698f5347cce405a5f01e6e1bb18d0a
+SHA256: 714c512489087a07ce28bd8a297ff44f868f688ab3d333b90a2121a3abbac7a4
+Section: 去广告
+Description: 去开屏广告，应用内广告去除需要定制，版本：8.030，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/24/8f2e76ebde0b1b42f3c65b5dd7ebd719.png
+Name: 斗鱼NoAds
+
+Package: com.wkk.douyutvhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.douyutvhook_1.0_iphoneos-arm64e.deb
+Size: 4430
+MD5sum: 73447bb2acd685c9c65533dd23c8c804
+SHA1: 75212910dd0aefd799268b018d96e3340af25279
+SHA256: e41c3271fb4ad67198298801edb8bdf9b445cc9923d65d13172689dfc39cdbad
+Section: 去广告
+Description: 去开屏广告，应用内广告去除需要定制，版本：8.030，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/24/8f2e76ebde0b1b42f3c65b5dd7ebd719.png
+Name: 斗鱼NoAds
+
 Package: com.wkk.dy
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -23014,6 +23049,41 @@ Description: 控制中心音量亮度增加百分比。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 控制中心音量亮度增加百分比
+
+Package: com.wkk.huyahook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.huyahook_1.0_iphoneos-arm64e.deb
+Size: 4434
+MD5sum: 4fb08912eac1e8e81ed393e6875166a1
+SHA1: 76cf098ca0d23b7be62e8b8da4b2381e87a351b5
+SHA256: ddb696efbfaf38ab5f1f21207e10284c9421e74f99561b6dd5d5c587127a2a49
+Section: 去广告
+Description: 去开屏广告，应用内广告或精简需走个人定制，版本：13.0.60，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/24/4ab3c82016d49d76a9e59c40a774337a.png
+Name: 虎牙直播NoAds
+
+Package: com.wkk.huyahook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.huyahook_1.0_iphoneos-arm64.deb
+Size: 3032
+MD5sum: dab501322cd7fecd93d00ea6d7355049
+SHA1: a97ba3845ee2dba6d9227960347729bb4ee0a61a
+SHA256: a6f6a480c9eb4d8070614fd79b25f285b02c4d0198dbcb7d80f73ad36e675b5c
+Section: 去广告
+Description: 去开屏广告，应用内广告或精简需走个人定制，版本：13.0.60，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/24/4ab3c82016d49d76a9e59c40a774337a.png
+Name: 虎牙直播NoAds
 
 Package: com.wkk.iconx
 Version: 1.0
