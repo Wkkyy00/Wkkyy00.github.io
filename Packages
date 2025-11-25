@@ -13710,6 +13710,25 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: Mikoto 助手
 
 Package: com.mikotohelper.wechat
+Version: 1.3.6-V2
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/com.mikotohelper.wechat_1.3.6-V2_iphoneos-arm64.deb
+Size: 20559780
+MD5sum: c2bb006c86e4c466fa9b5d2402214f90
+SHA1: 4d2e540c93d8dbebbdd9954d03e2efe8cbe11843
+SHA256: 9252e4ddcfed065b6c5b0454766606dd53beb7bacc2ca380c913f33a32a3222e
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件。
+Author: Mikoto
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: Mikoto助手
+
+Package: com.mikotohelper.wechat
 Version: 1.3.6-V3
 Architecture: iphoneos-arm64
 Essential: no
@@ -13765,6 +13784,25 @@ Description: 微信多功能插件。
 Author: Mikoto
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: Mikoto 助手
+
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V6
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/com.mikotohelper.wechat_1.3.6-V6_iphoneos-arm64.deb
+Size: 19190676
+MD5sum: 45d6114b659385a945bc4abd4d1437ac
+SHA1: 4d0f49dcef8fef9b155fb4700877cb1ada8ad441
+SHA256: d6c81f5bc6fb69f55d00cb85e974b405a0389e5897774131a9d6665322550987
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件。
+Author: Mikoto
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: Mikoto助手
 
 Package: com.miro.libmiroshared
 Version: 1.0.2
