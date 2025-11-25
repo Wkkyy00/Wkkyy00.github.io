@@ -25953,6 +25953,38 @@ Author: xuegao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 小雪糕
 
+Package: com.xuuz.ddhook
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: XUUᶻ
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xuuz.ddhook_0.0.1_iphoneos-arm.deb
+Size: 11526
+MD5sum: f4ef429c7d530bcf19ea8a79ef38b012
+SHA1: 64434f521b4dd39fb8fbca9e39f930fe840c8b9c
+SHA256: e3ac15c70b38314eb3463792998983f2baa3199e4c3afc6bce08ebd53db08e86
+Section: Tweaks
+Description: 钉钉设置中开启或关闭！
+Author: XUUᶻ
+Name: 钉钉自动抢红包
+
+Package: com.xuuz.ddhook
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xuuz.ddhook_0.0.1_iphoneos-arm64e.deb
+Size: 14596
+MD5sum: 99c2a1c9661bf2834731e163bc9df846
+SHA1: a73b69f705acccd9db241e1cb123244f019db8e9
+SHA256: 0a28a2a369cd0733efa6bfd30b40bf9a506aeb9ed822a7a6622aac4418937f45
+Section: Tweaks
+Description: 钉钉设置中开启或关闭！
+Author: XUUᶻ
+Name: 钉钉自动抢红包
+
 Package: com.xx.xhshook
 Version: 1.1.6-3
 Architecture: iphoneos-arm64
