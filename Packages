@@ -16328,6 +16328,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.satella
 Version: 1.9.0-1
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Conflicts: xyz.cypwn.satella, emt.paisseon.satella, com.dao.satella.cn
+Filename: ./debs/com.satella_1.9.0-1_iphoneos-arm64e.deb
+Size: 94618
+MD5sum: 1d31f4d3ebbc39f656c2808697e239dc
+SHA1: f90d4ee638e5e2bff6dc2849ec51e9f2c11aca44
+SHA256: adb4b37de91597cf62badaa868649a4c81310e1a86cf9a7d85fb4d21f6ed4f17
+Section: 插件
+Description: 牛X的本地内购买破解器，已包含简体中文包。
+Author: Paisseon
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Satella中文版
+
+Package: com.satella
+Version: 1.9.0-1
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
