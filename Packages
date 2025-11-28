@@ -24733,6 +24733,41 @@ Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
 Name: Swiftgram Pro
 
+Package: com.wkk.swiftgramcrack
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-7_iphoneos-arm64.deb
+Size: 423488
+MD5sum: 5864ae91f39c1280f2435eb9033c3e66
+SHA1: a6a614a34e4dd5e0751c0b02d1ec69653f999517
+SHA256: c58247f25155c75345ef67b2a1004735389838fb298f1da0dab6555551fa5274
+Section: 插件
+Description: Swiftgram Pro。附加解除下载保护/解除截图保护，支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
+Package: com.wkk.swiftgramcrack
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.wkk.swiftgramcrack_1.1-7_iphoneos-arm64e.deb
+Size: 573460
+MD5sum: 04fd9e472017ff219a42f73f3642ab0c
+SHA1: 17c37c8090613ec50e3ca32f9a909b98a5248a00
+SHA256: dfb38a1ca9e801394cf79fe466f38cf03c6703c5def51d1e2488eac8d3dd19d7
+Section: 插件
+Description: Swiftgram Pro。附加解除下载保护/解除截图保护，支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Pro
+
 Package: com.wkk.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64
