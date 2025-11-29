@@ -27021,6 +27021,24 @@ Author: Traurige <hello@traurige.dev>
 Icon: https://s1.imagehub.cc/images/2025/01/07/dff648e22f83c2c0355153dd89dfdef3.png
 Name: Eneko
 
+Package: flex3beta.roothide
+Version: 3.1-roothide
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 h_h_x_t <xuanhua880@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/flex3beta.roothide_3.1-roothide_iphoneos-arm64e.deb
+Size: 24928980
+MD5sum: 1cfc15259013c6f73b800f5ede134afb
+SHA1: 665cfc85cabf26570daba1439c4bda68bdb6fe8c
+SHA256: 30a8ab06f8fe45f82c09927c2b45be45ec5ecfcff8f58b711613ad947a52e131
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud. (dopamine 版本flex3可解析应用，不用兼容层，粗体会闪退,建议正在学习或者会做补丁者使用(已知点击应用补丁列表不可以，需要搜索) Roothide
+Author: John Coates <xuanhua880@gmail.com>
+Name: Flex3 Beta
+
 Package: info.adolfoi.simplehome
 Version: 1.1.0
 Architecture: iphoneos-arm64
