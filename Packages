@@ -14462,6 +14462,22 @@ Description: InjectIPA Tool
 Author: Netskao
 Name: injectipa
 
+Package: com.netskao.injectipa
+Version: 1.5-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1064
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.netskao.injectipa_1.5-7_iphoneos-arm64.deb
+Size: 416644
+MD5sum: 846ceefa2abb8ab935ce8627c657622f
+SHA1: a42f1c7634fd3ae2f09306ae75f03280fbf1c87f
+SHA256: 4c7edd99ac0ee820354f404b413ea3168001ba20afd9030a5680dcc3c80283b1
+Section: Tweaks
+Description: InjectIPA Tool
+Author: Netskao
+Name: injectipa
+
 Package: com.netskao.storeswitchaccounts
 Version: 1.1-4
 Architecture: iphoneos-arm64
