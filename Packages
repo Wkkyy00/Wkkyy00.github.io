@@ -2840,6 +2840,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailun
+Version: 1.9.9
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.9.9_iphoneos-arm64.deb
+Size: 12755440
+MD5sum: 5f23f253b99eb44bf17701c31b52a00e
+SHA1: b749b650c707039c8d8020ff613b69955b4a4d79
+SHA256: f9099883323aa81aecf11880ca3b4fa2b9122df3eef47452e3f99cb217f1e5d2
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
 Package: com.Purifyads
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -11653,15 +11669,16 @@ Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/hea
 
 Package: com.huami.WCPulse
 Version: 1.3-4
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.huami.WCPulse_1.3-4_iphoneos-arm64.deb
-Size: 271936
-MD5sum: 2c874acba90d950158965372101898e0
-SHA1: 460ca08cba324bd235fb1f932f6705ab7cef0038
-SHA256: f65ed77a85637328c92cbbb4ecdd5bf7878fef1f330c3bcfe6f141d69c6cebac
+Filename: ./debs/com.huami.WCPulse_1.3-4_iphoneos-arm64e-1.deb
+Size: 400416
+MD5sum: d649ce3ed9858e6759d97994d0d7c363
+SHA1: 209186755a183b1976bb69159b2518c0aa524c6e
+SHA256: a4e16b8d7c6b226174e7cf5c81452ca09ed3765d5cbdd92d22153859c76a43bd
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -11671,16 +11688,15 @@ Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/hea
 
 Package: com.huami.WCPulse
 Version: 1.3-4
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 240
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.huami.WCPulse_1.3-4_iphoneos-arm64e.deb
-Size: 401806
-MD5sum: 16a495ea79f54e92c1728e40c16275c9
-SHA1: a17bb9d25a84198ddabbd9208a8a398408e01b2f
-SHA256: 1874f3b6c29e1b23899c511123d95d06eaa3aca36a16b3dced41b480b5d10f29
+Filename: ./debs/com.huami.WCPulse_1.3-4_iphoneos-arm64.deb
+Size: 270960
+MD5sum: 8dd0d61a42594642db300d7925c2c37d
+SHA1: 79f0e9b07650608eacbade56c13ff10bca8c7c77
+SHA256: ec181ad7385fdaf4abdbf673180bcbe8213e2ee2bd480517ce4dc19a69237eb5
 Section: 微信插件
 Description: WCPulse
 Author: huami
