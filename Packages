@@ -24131,6 +24131,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: 相册优化
 
+Package: com.wkk.pkpkhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.pkpkhook_1.0_iphoneos-arm64.deb
+Size: 38632
+MD5sum: 979e82fbeadd5b12b1130f6ebbde929a
+SHA1: c707945717cbd07136e9fbe605fbce0b944a8fc8
+SHA256: 5419ad62f85e40b4717788ba4f344df67283308edfbaa2af244d2ccd549ad7d7
+Section: 去广告
+Description: 去所有广告，版本：1.31.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/02/94b6e500b63de1f90231fd07d93166bc.png
+Name: PikPakNoAds
+
+Package: com.wkk.pkpkhook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.pkpkhook_1.0_iphoneos-arm64e.deb
+Size: 40920
+MD5sum: 7b88ff2b8f70bd5afbfa0f89c08b4c14
+SHA1: 39472e2cdf1183dedf5b50388bfb6a9bfa4ee157
+SHA256: aedaaaa6a869945ed3b92589b6fbed32528366074e07686692b7280969f13afc
+Section: 去广告
+Description: 去所有广告，版本：1.31.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/02/94b6e500b63de1f90231fd07d93166bc.png
+Name: PikPakNoAds
+
 Package: com.wkk.proxysc
 Version: 1.0
 Architecture: iphoneos-arm64e
