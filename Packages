@@ -18672,6 +18672,23 @@ Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 酸果
 
+Package: com.sutuplus.releasefugu15
+Version: 6.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1816
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_6.0.2-1_iphoneos-arm64.deb
+Size: 530808
+MD5sum: 04f76389b238bbb4f8cdf518a49df9c7
+SHA1: aaff780d4f814d55c21e151122f487fe01218e3d
+SHA256: 6ddad9085c2d31817812b1d2ba37a629092d759bb84da12c25cbe6decf0ea8e9
+Section: 微信插件
+Description: 微信美化。
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 酸果
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm64e
