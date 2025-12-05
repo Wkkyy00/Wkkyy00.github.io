@@ -19949,6 +19949,44 @@ Author: vita
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCHook（改版）
 
+Package: com.vita.yuki
+Version: 0.0-9
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 684
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.yuki_0.0-9_iphoneos-arm64.deb
+Size: 124188
+MD5sum: 7c7d10f175e5d294e01ceb2afd72f3a8
+SHA1: b87b0091dce0e5b959be1ec263c02643a64bf413
+SHA256: ea504483666270b6c785e34ace81eb69f742262a525f827cf74cc67e2a2fc517
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://Mieing.Github.io/icon/TikTok.png
+Name: Yuki
+
+Package: com.vita.yuki
+Version: 0.0-9
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 684
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.vita.yuki_0.0-9_iphoneos-arm64e.deb
+Size: 124104
+MD5sum: 63426955d503e33c36f060a537cbd6b5
+SHA1: 07d7015a597df47f11bec909944aac8bc9d8e4a1
+SHA256: 352512e6d56684f99d3d8242907ac65ab58dd137b5ef1c8cc339ec824b681a55
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://Mieing.Github.io/icon/TikTok.png
+Name: Yuki
+
 Package: com.wctextcolor
 Version: 1.1
 Architecture: iphoneos-arm64
