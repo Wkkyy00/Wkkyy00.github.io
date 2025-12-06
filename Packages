@@ -15815,6 +15815,24 @@ Depiction: https://github.com/roothide/RootHideManagerApp
 Name: RootHide Manager
 Support: https://github.com/roothide/RootHideManagerApp
 
+Package: com.roothide.manager
+Version: 1.3.6
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 1060
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.roothide.manager_1.3.6_iphoneos-arm64e.deb
+Size: 744488
+MD5sum: 516c7070d6b9c2ee454c41e1ac78b086
+SHA1: 8af2f709e7418003bc365f2228baf3df666b37d8
+SHA256: 573d004d0b7f6be2036a9020da64b01637effa91a092b8fa1769d76eb700684e
+Section: System
+Description: 配置RootHide的功能（去掉挂载提示）
+Author: roothide
+Depiction: https://github.com/roothide/RootHideManagerApp
+Name: RootHide Manager
+Support: https://github.com/roothide/RootHideManagerApp
+
 Package: com.rpetrich.powercuff
 Version: 1.4
 Architecture: iphoneos-arm64
