@@ -27730,6 +27730,153 @@ Author: Geometric Software
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: IntelligentPass 5
 
+Package: u.blanxd.opensshcc
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 166
+Depends: firmware (>= 11), openssh-server | openssh, mobilesubstrate, com.opa334.ccsupport, u.blanxd.sshswitch
+Breaks: u.blanxd.sshoncc (<< 1.5~b3)
+Replaces: u.blanxd.sshoncc (<< 1.5~b3)
+Filename: ./debs/u.blanxd.opensshcc_1.1.0_iphoneos-arm64.deb
+Size: 14268
+MD5sum: 4b489a0d501c3fdd06f960bcca1c9103
+SHA1: b451cb8ba235bcc399d585dab5a79fd600d28b7d
+SHA256: 20cea070b4b95b194672b6df4c0ea928e2a7c05b84e823e7fd722f6dcecd5173
+Section: Addons (ControlCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
+Description: OpenSSH toggle in CC
+Tag: purpose::extension
+Author: BlanxdH <blanxd.h@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
+Dev: blanxd
+Icon: file:///Library/ControlCenter/Bundles/SSHonCC.bundle/SettingsIcon@2x.png
+Name: OpenSSH CC Toggle
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: u.blanxd.opensshcc
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 166
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), openssh-server | openssh, mobilesubstrate, com.opa334.ccsupport, u.blanxd.sshswitch
+Breaks: u.blanxd.sshoncc (<< 1.5~b3)
+Replaces: u.blanxd.sshoncc (<< 1.5~b3)
+Filename: ./debs/u.blanxd.opensshcc_1.1.0_iphoneos-arm64e.deb
+Size: 18260
+MD5sum: c77f2c7a614ecb9d8a06a7c6926bf591
+SHA1: 26462a3268c764b9e69cc1ae169c5ec0a40ac8d5
+SHA256: 0cd9f1534658e64c842efa0d999fee579679c50fcfd57a989ff7b5f47334b5f1
+Section: Addons (ControlCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
+Description: OpenSSH toggle in CC
+Tag: purpose::extension
+Author: BlanxdH <blanxd.h@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
+Dev: blanxd
+Icon: file:///Library/ControlCenter/Bundles/SSHonCC.bundle/SettingsIcon@2x.png
+Name: OpenSSH CC Toggle
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: u.blanxd.opensshport
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 241
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server | openssh, preferenceloader, u.blanxd.sshswitch
+Breaks: u.blanxd.sshoncc (<= 1.4.0)
+Replaces: u.blanxd.sshoncc (<= 1.4.0)
+Filename: ./debs/u.blanxd.opensshport_1.1.0_iphoneos-arm64e.deb
+Size: 45786
+MD5sum: d9588e508defbb3ffb05b2e181a3f7f1
+SHA1: 05699f3cf6fdab1231cbf3ee23fe93a23c4a6036
+SHA256: 64c0a3b44723b39fbb01789db3d407a8c81961df539bc54d2a02171d367edbe9
+Section: Security
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
+Description: OpenSSH menu in Settings
+Tag: purpose::extension
+Author: BlanxdH <blanxd.h@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
+Dev: blanxd
+Icon: file:///Library/PreferenceBundles/OpenSshPort.bundle/OpenSshPort@2x.png
+Name: OpenSSH Settings
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: u.blanxd.opensshport
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 241
+Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server | openssh, preferenceloader, u.blanxd.sshswitch
+Breaks: u.blanxd.sshoncc (<= 1.4.0)
+Replaces: u.blanxd.sshoncc (<= 1.4.0)
+Filename: ./debs/u.blanxd.opensshport_1.1.0_iphoneos-arm64.deb
+Size: 34144
+MD5sum: 3da3cb02a9821db59cc5847ab1216a6c
+SHA1: d805c044286a3035b6108e8c670aadc63bd37a9f
+SHA256: ce0692ef57ff2e8cd0fc9462ffb50a85066385e294a3409376b12f636c4872bb
+Section: Security
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
+Description: OpenSSH menu in Settings
+Tag: purpose::extension
+Author: BlanxdH <blanxd.h@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
+Dev: blanxd
+Icon: file:///Library/PreferenceBundles/OpenSshPort.bundle/OpenSshPort@2x.png
+Name: OpenSSH Settings
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: u.blanxd.sshswitch
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 389
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server (>= 6.2) | openssh (>= 6.2)
+Conflicts: u.blanxd.opensshport (<< 1.0~b3)
+Breaks: u.blanxd.sshoncc (<= 1.4.0)
+Replaces: u.blanxd.sshoncc (<= 1.4.0)
+Filename: ./debs/u.blanxd.sshswitch_1.1.0_iphoneos-arm64e.deb
+Size: 221746
+MD5sum: b8262bc6da775fd4d05b65658a2107a2
+SHA1: f5f67b71068026b5ea44aabc4a22234a2d6aaf2e
+SHA256: 8cbae78f6af9bc6764356c30d1899c08ecfdc8fec91f0858c00931d5d7904831
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sshswitchDp
+Description: CLI tool for changing OpenSSH settings
+Tag: purpose::console
+Author: BlanxdH <blanxd.h@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sshswitchDp
+Dev: blanxd
+Name: SSHswitch
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: u.blanxd.sshswitch
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 389
+Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server (>= 6.2) | openssh (>= 6.2)
+Conflicts: u.blanxd.opensshport (<< 1.0~b3)
+Breaks: u.blanxd.sshoncc (<= 1.4.0)
+Replaces: u.blanxd.sshoncc (<= 1.4.0)
+Filename: ./debs/u.blanxd.sshswitch_1.1.0_iphoneos-arm64.deb
+Size: 204936
+MD5sum: 59f97095dc7e6e0056bbe56d8c3aec57
+SHA1: 5138fb662b2d2457e612b7f2734fe71f9155c26a
+SHA256: 27364b4f94f1ee007702a32e09a4bbf0bda667d294f4851cdbf1172384139df7
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sshswitchDp
+Description: CLI tool for changing OpenSSH settings
+Tag: purpose::console
+Author: BlanxdH <blanxd.h@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sshswitchDp
+Dev: blanxd
+Name: SSHswitch
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: uncar
 Version: 0.0.1-6
 Architecture: iphoneos-arm64e
