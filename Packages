@@ -12397,23 +12397,6 @@ Author: MTAC
 Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
 Name: Alpine
 
-Package: com.k.bettercc
-Version: 0.0.6
-Architecture: iphoneos-arm64
-Maintainer: k
-Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: ./debs/com.k.bettercc_0.0.6_iphoneos-arm64.deb
-Size: 48164
-MD5sum: 7a34a67c9579e4d14e136f08f89e4a69
-SHA1: a158eab70e93a88fcb8f93807b2236fbae53284f
-SHA256: 7bbc0a8aac1ea39ecd1e28b53f76f6ba3772f9a046456982d08abafb069f451d
-Section: 控制中心
-Description: 控制中心模块大小调整。
-Author: Miguelaka95
-Icon: https://sini921.github.io/repo/sileodepiction/icon/bettercc.png
-Name: BetterCC
-Sponsor: k
-
 Package: com.k.blurryalerts
 Version: 1.2.2-3
 Architecture: iphoneos-arm64e
@@ -21427,6 +21410,41 @@ Description: 去开屏，版本：5.3.5。接大量冷门热门app定制去广�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/15/f745bcefbac741c35388050107791d58.png
 Name: 波点音乐NoAds
+
+Package: com.wkk.bettercc
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/com.wkk.bettercc_0.0.6_iphoneos-arm64.deb
+Size: 47880
+MD5sum: 1bc42b31389272fb484cee3b6032f342
+SHA1: a7a0945b4764400cdf520ded2eb1e52d873af37a
+SHA256: 081c96a9a9361e214b3863d02f6de2a96f0b666517d2476163d75d98c4d0a69f
+Section: 控制中心
+Description: 控制中心模块大小调整。
+Author: Miguelaka95
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: BetterCC
+Sponsor: wkk
+
+Package: com.wkk.bettercc
+Version: 0.0.6
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: ./debs/com.wkk.bettercc_0.0.6_iphoneos-arm64e.deb
+Size: 59502
+MD5sum: 54ac8db562b79618e7f63243c2abddd0
+SHA1: 4833af663bd2fc8492a28db6412b087340c31210
+SHA256: 99a1f08f4cf7f7ab76a8cbe013d323a6c8ee4e4eda2cf2d8657ab211e9cc2827
+Section: 控制中心
+Description: 控制中心模块大小调整。
+Author: Miguelaka95
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: BetterCC
+Sponsor: wkk
 
 Package: com.wkk.bhmh
 Version: 1.0
