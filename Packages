@@ -24881,6 +24881,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCTimeLineReplaceFind
 
+Package: com.wkk.wdhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wdhook_1.0-1_iphoneos-arm64.deb
+Size: 3904
+MD5sum: d3a8b504fcf4556cdf1d23bb318f701c
+SHA1: 077e8313431e3d8dabf477be8e45d6b89d177318
+SHA256: c37a5214bedf2673575cde7d0151d13b91654c4704221828d22799237f319bcb
+Section: 去广告
+Description: 去开屏广告，版本：7.9.29，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/10/5ebea7df2da0fc778720cf25653e5053.png
+Name: 微店NoAds
+
+Package: com.wkk.wdhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wdhook_1.0-1_iphoneos-arm64e.deb
+Size: 5500
+MD5sum: 6ef6e42b61a1ebbfc63abb3b2e72678f
+SHA1: dfc3d8d4984fd359748e6e2e63334d1cb94cb976
+SHA256: cf4836ca55a6bcb28d12b28d964e551144ff576c7d79d3c296e933aca09856d9
+Section: 去广告
+Description: 去开屏广告，版本：7.9.29，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/10/5ebea7df2da0fc778720cf25653e5053.png
+Name: 微店NoAds
+
 Package: com.wkk.weibohook
 Version: 1.0
 Architecture: iphoneos-arm64e
