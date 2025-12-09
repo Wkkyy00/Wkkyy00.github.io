@@ -25004,6 +25004,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
 Name: 网易云音乐NoAds
 
+Package: com.wkk.wyyhook2
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.wyyhook2_1.0-3_iphoneos-arm64.deb
+Size: 5804
+MD5sum: 4a6adafe627f0e9101287667aaeebde8
+SHA1: 9149eadfb54d2bcc73d6c559c07500634eb8a365
+SHA256: 12b1ff12cc901ea26e3f8fe99959e3b81768b1e3d6a7177a60d283b82e3e4762
+Section: 去广告
+Description: 🌹接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
+Name: 网易云音乐NoAds定制款
+
+Package: com.wkk.wyyhook2
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.wyyhook2_1.0-3_iphoneos-arm64e.deb
+Size: 7912
+MD5sum: ebf04e38c6d7f61f7b76a09ad9ea3eee
+SHA1: 58125320077f92d9d88c282371feaeb0e146b2c3
+SHA256: 23607cfa904eb50cf9bb3f8160da004c5b6552d7abce1e4bdeca52b9a8824766
+Section: 去广告
+Description: 🌹接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
+Name: 网易云音乐NoAds定制款
+
 Package: com.wkk.wyyxhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -25514,6 +25547,41 @@ Description: 去开屏广告，版本：10.10，接大量冷门热门app定制�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/25/1adc2f21ac13f26fedd4c643ef04334e.png
 Name: 央视新闻NoAds
+
+Package: com.wkk.ysyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ysyhook_1.0-1_iphoneos-arm64.deb
+Size: 3360
+MD5sum: f05924a0e04c3251f5b89a80b81db226
+SHA1: ed11f171e38e11078af8cc44a26a6c4d58941598
+SHA256: 71d94e54b0a69f2cc7ed9ce2b205ba4158b86782c41a4c153ba48415fe4bf786
+Section: 去广告
+Description: 去开屏广告，版本：7.50，应用内广告不做处理，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/09/fe8f224bc3aa74a35f57edb499dc0127.png
+Name: 萤石云视频NoAds
+
+Package: com.wkk.ysyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ysyhook_1.0-1_iphoneos-arm64e.deb
+Size: 4810
+MD5sum: 4288f907c371c5efde6cbbbdba86fc1c
+SHA1: 78401f0c15aa3473ef1ad57e67ed2a61c9832b62
+SHA256: b1adff4c4580bc06d9f9831e319603c54a599a1da6b14a7640aa4fde82f0f7a9
+Section: 去广告
+Description: 去开屏广告，版本：7.50，应用内广告不做处理，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/09/fe8f224bc3aa74a35f57edb499dc0127.png
+Name: 萤石云视频NoAds
 
 Package: com.wkk.zdmhook
 Version: 1.0
