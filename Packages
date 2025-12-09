@@ -25443,6 +25443,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/20/8c1b0e46a8214fffe710524c343fe88d.png
 Name: 心悦俱乐部NoAds
 
+Package: com.wkk.ykhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ykhook_1.0-1_iphoneos-arm64e.deb
+Size: 6192
+MD5sum: 28d18bddffa032b6600597e28c4091df
+SHA1: 3168e4c01af04a815e7ea554874e2ca0c6acdc7f
+SHA256: d9c21be4715fbfc220b45d9623fd8ae0f0453a193cabdb05941f9573077e1221
+Section: 去广告
+Description: 去开屏广告，版本：11.1.65，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/09/d10c2a93a01549c3516da9d4600b5350.png
+Name: 优酷NoAds
+
+Package: com.wkk.ykhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ykhook_1.0-1_iphoneos-arm64.deb
+Size: 4464
+MD5sum: 83f425f89a2e23f27ecd1ee5d1612bbc
+SHA1: 942279394b852431bb957cac082c4a7ed2f9145a
+SHA256: 66c38378a458494455ffb453e3a3f324625920e8c7efdbe71c5ebe48ab80bae4
+Section: 去广告
+Description: 去开屏广告，版本：11.1.65，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/09/d10c2a93a01549c3516da9d4600b5350.png
+Name: 优酷NoAds
+
 Package: com.wkk.ykxchook
 Version: 1.0-2
 Architecture: iphoneos-arm64e
