@@ -25037,6 +25037,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
 Name: 网易云音乐NoAds
 
+Package: com.wkk.wyyhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.wyyhook_1.0-2_iphoneos-arm64.deb
+Size: 4796
+MD5sum: 0a59e4877e0e5430340fca3b41d6089e
+SHA1: eb45dd42f8473e251497bb3a94da52c29ac40a73
+SHA256: 3cc74f1592a99fba200910432bcd3b88720ddcf473d08926009fb2384fdf2a57
+Section: 去广告
+Description: 去开屏广告，版本：9.4.25，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
+Name: 网易云音乐NoAds
+
+Package: com.wkk.wyyhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.wyyhook_1.0-2_iphoneos-arm64e.deb
+Size: 6672
+MD5sum: c7433d60bf24f786fff5aa7623a8487e
+SHA1: 3aa997c0ff3bae1cfb9e97040cac539d687eabcb
+SHA256: 2e2dd1d09d78ff2c0231585a4ad294488bb042b5fd51d966e7bd428fd624e53d
+Section: 去广告
+Description: 去开屏广告，版本：9.4.25，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
+Name: 网易云音乐NoAds
+
 Package: com.wkk.wyyhook2
 Version: 1.0-3
 Architecture: iphoneos-arm64
