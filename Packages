@@ -22020,6 +22020,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键查询已安装插件
 
+Package: com.wkk.dbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dbhook_1.0-1_iphoneos-arm64e.deb
+Size: 5550
+MD5sum: ce2f5f16bc8623ef77169c0fa81fd7c0
+SHA1: f69290abe59c46bcaf05f302aa92dd0d2561a5d9
+SHA256: fd16ee6592dfacf6effbc9e6bfb6386c1b3650fd3f0104f59c46f972333e171a
+Section: 去广告
+Description: 去开屏广告，版本：7.114.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/10/9c630c1cf2e82dad87a2c521de661ff2.png
+Name: 豆瓣NoAds
+
+Package: com.wkk.dbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dbhook_1.0-1_iphoneos-arm64.deb
+Size: 3936
+MD5sum: 0f3ce503733b28bc5a5c600cdef43529
+SHA1: f2a5b2e71ec2a5edd90d91981f2953932aee8f24
+SHA256: 913fe6bda1270c69df5f71a14d61855da929d39983f674a84b27524b894bda40
+Section: 去广告
+Description: 去开屏广告，版本：7.114.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/10/9c630c1cf2e82dad87a2c521de661ff2.png
+Name: 豆瓣NoAds
+
 Package: com.wkk.debbatch
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -22878,6 +22913,41 @@ Description: 控制中心音量亮度增加百分比。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 控制中心音量亮度增加百分比
+
+Package: com.wkk.hphook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.hphook_1.0-1_iphoneos-arm64.deb
+Size: 3876
+MD5sum: 3bcb05a71ee146a06089eb6801af465d
+SHA1: 26958d984f49f5bfd423842639bd02d830f05920
+SHA256: 47ee120c8b6a04c52ebc1b047417fd919a735dbe48a4882031dadf70224058ed
+Section: 去广告
+Description: 去开屏广告，版本：8.2.30，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/10/16c5d5f4cb691ac2573a733f1681f756.png
+Name: 虎扑NoAds
+
+Package: com.wkk.hphook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.hphook_1.0-1_iphoneos-arm64e.deb
+Size: 5444
+MD5sum: ae0d8eefd444b9ae5ecb797b1a4334d3
+SHA1: 341d9ec5d5d5e60db9a166973e96ca83778d44da
+SHA256: cc6cf7387a951bf7923452abb65a829b724211730a4a2f1af194974347209cfb
+Section: 去广告
+Description: 去开屏广告，版本：8.2.30，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/10/16c5d5f4cb691ac2573a733f1681f756.png
+Name: 虎扑NoAds
 
 Package: com.wkk.huyahook
 Version: 1.0
@@ -25783,6 +25853,41 @@ SHA1: ee477c4553368bfe2da822fe8b35a8c7f9c151e7
 SHA256: 35137beb7b38e3f308c5b4a34d65f23b93ddb036e6f5c35e6ce6eb7d9529b02d
 Section: 去广告
 Description: 去知乎开屏广告，测试版本：10.0.0.高版本自测，自用这个版本，流畅稳定，推荐。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
+Name: 知乎NoAds
+
+Package: com.wkk.zhihuhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zhihuhook_1.0-1_iphoneos-arm64e.deb
+Size: 4466
+MD5sum: 8c48aa9088694da2c23e36cac8468bba
+SHA1: 2116b0a3de0897860268577aefd678dd0b8dfabf
+SHA256: 675a9bdb3fe5c970cf5224c960616b211ca956341ff40361cddda052b604cabc
+Section: 去广告
+Description: 去开屏广告，测试版本：10.78.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
+Name: 知乎NoAds
+
+Package: com.wkk.zhihuhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zhihuhook_1.0-1_iphoneos-arm64.deb
+Size: 3056
+MD5sum: 5fc448f1cdfaf75ac6831e5374fb0cb9
+SHA1: f04fbb551f25f266cb79eea9bbfe1a72f688d205
+SHA256: 92fbc7eee40afcfb25cb81c3fc53885c3dfcbf16f68bc3cb704de9ed5be5123b
+Section: 去广告
+Description: 去开屏广告，测试版本：10.78.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
 Name: 知乎NoAds
