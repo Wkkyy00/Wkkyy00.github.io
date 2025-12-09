@@ -15706,6 +15706,43 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ通知头像
 
+Package: com.qwq.ceshi
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: qwq
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qwq.ceshi_1.0_iphoneos-arm64e.deb
+Size: 4970
+MD5sum: 879979d744b8d43f2af76f0e5ab52d6e
+SHA1: 6b14d946775ddf8fecad2ad61f004bc82063e20e
+SHA256: cd5d613859c7521993dcd2550f84346c17432fdf918475d72c4550f14e308722
+Section: 微信插件
+Priority: optional
+Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 测试
+
+Package: com.qwq.ceshi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: qwq
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qwq.ceshi_1.0_iphoneos-arm64.deb
+Size: 3580
+MD5sum: 9ec72cd92ddb7f1794c1e90838b1c823
+SHA1: fe15d016a8c97d83c53386024d8188d04083cfaa
+SHA256: ce4c4e2ab3225466bf643966978ac283fa3a9e8fc6dcc885320b512133d2b857
+Section: 微信插件
+Priority: optional
+Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 测试
+
 Package: com.randy420.tools
 Version: 2.3.9
 Architecture: iphoneos-arm64e
@@ -23682,6 +23719,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
 Name: 芒果TVNoAds
 
+Package: com.wkk.mghook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mghook_1.0-2_iphoneos-arm64.deb
+Size: 3908
+MD5sum: 2aaa18ff5d1dbd511c01cebdccc1dd61
+SHA1: 0573652ed4c858c42f92c85e936adb1eeafa2787
+SHA256: 71e4dde1fe5a05661166c191ff8b9c2d4c5259abecadaad5940c2e39420e8408
+Section: 去广告
+Description: 去开屏以及部分其他广告，版本：9.0.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
+Name: 芒果TVNoAds
+
+Package: com.wkk.mghook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mghook_1.0-2_iphoneos-arm64e.deb
+Size: 5490
+MD5sum: 5b8daf5398c87cf92a1d3250eafed116
+SHA1: 69ce84ba0925abb4fdfdbd8733b0300dd20ca58d
+SHA256: d22c35f0f6ae03e1fc967a6d338cd4ad0fd5399d7316f60892eb37a24a0c0bf5
+Section: 去广告
+Description: 去开屏以及部分其他广告，版本：9.0.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
+Name: 芒果TVNoAds
+
 Package: com.wkk.mtwmhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -24107,6 +24179,41 @@ SHA1: e68bf79b3001c998cdb902e622030290d9d3d0c1
 SHA256: 6a5a16ea16881bee444485b60182ba822d92713463c073e9fe61361e46b397bf
 Section: 去广告
 Description: 去QQ音乐开屏广告，测试版本：14.1.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
+Name: QQ音乐NoAds
+
+Package: com.wkk.qqmusichook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qqmusichook_1.0-2_iphoneos-arm64.deb
+Size: 3060
+MD5sum: 4d3928217a29fa99dc58b84d468cde4d
+SHA1: a6167b7b82a42419c3a94baa2b214a1c943b38cd
+SHA256: 8b9f38afdf7c513c8af5307f58ef595e1a504fb7bcad3d845c101f794165f10a
+Section: 去广告
+Description: 去QQ音乐开屏广告，测试版本：14.11.5，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
+Name: QQ音乐NoAds
+
+Package: com.wkk.qqmusichook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qqmusichook_1.0-2_iphoneos-arm64e.deb
+Size: 4458
+MD5sum: 25ecadafa87a39d408a1781a97409de6
+SHA1: 12c9df6c1ad1051340f1fe49d47e66fc84d929a5
+SHA256: ed84232aca20d2f6d80de37087e663edc468df8ec37823f4dc79c761d5689949
+Section: 去广告
+Description: 去QQ音乐开屏广告，测试版本：14.11.5，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
 Name: QQ音乐NoAds
