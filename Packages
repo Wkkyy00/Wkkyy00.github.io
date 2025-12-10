@@ -24213,6 +24213,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
 Name: 汽水音乐NoBottombar
 
+Package: com.wkk.qsyyhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.qsyyhook_1.0-2_iphoneos-arm64e.deb
+Size: 5934
+MD5sum: 4853bf3607c982107d0356ef05708faa
+SHA1: 3ef881eb4f5ab21e612f68e9f39ccbd469f6966e
+SHA256: 07ab5137b4b0bb81a5721c8ac52dbb204a6f553e86435b2867f62e8367ec5bb1
+Section: 去广告
+Description: 精简汽水音乐底栏，去掉“听抖音”“福利”按钮。测试版本：13.5.0，需要全部去除请降级1.0版本，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoBottombar
+
+Package: com.wkk.qsyyhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.qsyyhook_1.0-2_iphoneos-arm64.deb
+Size: 4208
+MD5sum: 3c380fa6784e9152ab89428f4bbd7724
+SHA1: 555747f877b7b29e673504e4e23d7dedca021725
+SHA256: 6a91f8d47781919d2b95504742bbd2607a06b7c074ce2d9b23667ca9c3d46762
+Section: 去广告
+Description: 精简汽水音乐底栏，去掉“听抖音”“福利”按钮。测试版本：13.5.0，需要全部去除请降级1.0版本，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+Name: 汽水音乐NoBottombar
+
 Package: com.wkk.randomicons
 Version: 1.0
 Architecture: iphoneos-arm64e
