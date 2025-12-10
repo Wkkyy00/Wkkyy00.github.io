@@ -15706,43 +15706,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ通知头像
 
-Package: com.qwq.ceshi
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: qwq
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.qwq.ceshi_1.0_iphoneos-arm64e.deb
-Size: 4970
-MD5sum: 879979d744b8d43f2af76f0e5ab52d6e
-SHA1: 6b14d946775ddf8fecad2ad61f004bc82063e20e
-SHA256: cd5d613859c7521993dcd2550f84346c17432fdf918475d72c4550f14e308722
-Section: 微信插件
-Priority: optional
-Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
-Author: qwq
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 测试
-
-Package: com.qwq.ceshi
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: qwq
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.qwq.ceshi_1.0_iphoneos-arm64.deb
-Size: 3580
-MD5sum: 9ec72cd92ddb7f1794c1e90838b1c823
-SHA1: fe15d016a8c97d83c53386024d8188d04083cfaa
-SHA256: ce4c4e2ab3225466bf643966978ac283fa3a9e8fc6dcc885320b512133d2b857
-Section: 微信插件
-Priority: optional
-Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
-Author: qwq
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 测试
-
 Package: com.randy420.tools
 Version: 2.3.9
 Architecture: iphoneos-arm64e
@@ -21924,6 +21887,43 @@ Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.
 Name: wkkCenter
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/wkkkzzx.json
 Sponsor: wkk
+
+Package: com.wkk.ceshi
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: qwq
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ceshi_1.0_iphoneos-arm64.deb
+Size: 3640
+MD5sum: b7f100181f2f0e070a6f71b5fa7092d9
+SHA1: 6a2eee1b794b3e46dca5df345badceb97b4651f3
+SHA256: 11b8c1de3391d8d938ee8730cc2e06296f32256881c52d53ebdda532c272e098
+Section: 微信插件
+Priority: optional
+Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEmoticoncolorsocool
+
+Package: com.wkk.ceshi
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: qwq
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ceshi_1.0_iphoneos-arm64e.deb
+Size: 5094
+MD5sum: 03bc05bfb7fd2a9f79db38e6a645c1bb
+SHA1: a4bc125901acd47277bfe60eb6f30ac155e77736
+SHA256: 3bcacec36ed11ee8fd530cd3cbead0a71958b7609d0ff006a052fae6023e665b
+Section: 微信插件
+Priority: optional
+Description: 统一表情背景色，仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatEmoticoncolorsocool
 
 Package: com.wkk.commandmodule
 Version: 1.0
