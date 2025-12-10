@@ -3211,39 +3211,6 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
 Name: AddToFolder
 
-Package: com.anthopak.quickprefs
-Version: 1.3.3
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Filename: ./debs/com.anthopak.quickprefs_1.3.3_iphoneos-arm64.deb
-Size: 511260
-MD5sum: 7bc12d269d3dcee0a8a6a67f49c44e32
-SHA1: a29e0e3f6189620cd722cc22df4684a12f69f5e9
-SHA256: 9a062827337ce9bca7f3cdbca52ab0fd433b1328298b935af3db09815aee6ffb
-Section: 插件
-Description: 设置里的项目抓取。上架备份。
-Author: AnthoPak <anthopakdev@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
-Name: QuickPrefs
-
-Package: com.anthopak.quickprefs
-Version: 1.3.3
-Architecture: iphoneos-arm64e
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Filename: ./debs/com.anthopak.quickprefs_1.3.3_iphoneos-arm64e.deb
-Size: 528946
-MD5sum: 7922ede848dc032aba1869e8819e8439
-SHA1: a53e7dde02c83cfc9bb5fad8b25c73d56bdb3464
-SHA256: d767a974ca674db1d2c85e7668ff4fb23a36c5d643d68b6d9714767d74f84810
-Section: 插件
-Description: 设置里的项目抓取。上架备份。
-Author: AnthoPak <anthopakdev@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
-Name: QuickPrefs
-
 Package: com.apple.wechat.noads
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -24346,6 +24313,39 @@ Description: 精简汽水音乐底栏，去掉“听抖音”“福利”按钮�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
 Name: 汽水音乐NoBottombar
+
+Package: com.wkk.quickprefs
+Version: 1.3.3-1
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.wkk.quickprefs_1.3.3-1_iphoneos-arm64e.deb
+Size: 538176
+MD5sum: 7019f4979db9ff4af233d2ed8875a97d
+SHA1: 11b6df478385ef3e594027c967e54ad2e96089ca
+SHA256: c3aa6a2d16cb309552a5c22ed13a0c0d81e071685ca19f36811b65931e4871a8
+Section: Tweaks
+Description: 设置里的项目抓取，已汉化，上架备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Name: QuickPrefs
+
+Package: com.wkk.quickprefs
+Version: 1.3.3-1
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.wkk.quickprefs_1.3.3-1_iphoneos-arm64.deb
+Size: 511164
+MD5sum: 95b46512151fdb0cc7b598ed1c2b8973
+SHA1: ba6e11a019702a2b7cc81f13a4cbef8cdff6ddc9
+SHA256: d6fe5f098fb4ea261dc380621b9d0d5c6549900128609aafc238d8c3caa366e6
+Section: Tweaks
+Description: 设置里的项目抓取，已汉化，上架备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Name: QuickPrefs
 
 Package: com.wkk.randomicons
 Version: 1.0
