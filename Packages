@@ -20018,44 +20018,6 @@ Author: vita
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCHook（改版）
 
-Package: com.vita.yuki
-Version: 0.0-9
-Architecture: iphoneos-arm64
-Maintainer: vita
-Installed-Size: 684
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.vita.yuki_0.0-9_iphoneos-arm64.deb
-Size: 124188
-MD5sum: 7c7d10f175e5d294e01ceb2afd72f3a8
-SHA1: b87b0091dce0e5b959be1ec263c02643a64bf413
-SHA256: ea504483666270b6c785e34ace81eb69f742262a525f827cf74cc67e2a2fc517
-Section: 抖音插件
-Priority: optional
-Homepage: https://github.com/wtrwx
-Description: 免费插件，随缘更新。
-Author: vita
-Icon: https://Mieing.Github.io/icon/TikTok.png
-Name: Yuki
-
-Package: com.vita.yuki
-Version: 0.0-9
-Architecture: iphoneos-arm64e
-Maintainer: vita
-Installed-Size: 684
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.vita.yuki_0.0-9_iphoneos-arm64e.deb
-Size: 124104
-MD5sum: 63426955d503e33c36f060a537cbd6b5
-SHA1: 07d7015a597df47f11bec909944aac8bc9d8e4a1
-SHA256: 352512e6d56684f99d3d8242907ac65ab58dd137b5ef1c8cc339ec824b681a55
-Section: 抖音插件
-Priority: optional
-Homepage: https://github.com/wtrwx
-Description: 免费插件，随缘更新。
-Author: vita
-Icon: https://Mieing.Github.io/icon/TikTok.png
-Name: Yuki
-
 Package: com.wctextcolor
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -24729,6 +24691,37 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.wkk.theosgui
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: IosBX
+Installed-Size: 2676
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.theosgui_1.2.3_iphoneos-arm64e.deb
+Size: 1760044
+MD5sum: 6f4622cb24be3551c0bd42755d28f23d
+SHA1: 237a8c5f3b583be58e971bfeeed94d2e8629cfb1
+SHA256: ab6b806b857cd90f5dd6c7993fec88ee2aea284c0fa94820041c35c1d0573b48
+Section: 应用程序
+Description: Theos 图形化开发工具，直观的可视化界面，一键创建、管理、编译和安装项目。
+Author: IosBX
+Name: TheosGUI
+
+Package: com.wkk.theosgui
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: IosBX
+Installed-Size: 2676
+Filename: ./debs/com.wkk.theosgui_1.2.3_iphoneos-arm64.deb
+Size: 646980
+MD5sum: 6d1d06d78bb8714f85de1a093f6dd8bf
+SHA1: 7550f4c37a585e2cb4a3db9a37372718a88dcc1b
+SHA256: 09a40dcf5ae7a962a6ce1a812d13a7150aaf64f8d2ec21d965b3b8388f13aff9
+Section: 应用程序
+Description: Theos 图形化开发工具，直观的可视化界面，一键创建、管理、编译和安装项目。
+Author: IosBX
+Name: TheosGUI
+
 Package: com.wkk.tiebahook
 Version: 1.0-5
 Architecture: iphoneos-arm64
@@ -28198,104 +28191,6 @@ Description: 最好用的跳过密码插件。
 Author: Geometric Software
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: IntelligentPass 5
-
-Package: u.blanxd.opensshcc
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 166
-Depends: firmware (>= 11), openssh-server | openssh, mobilesubstrate, com.opa334.ccsupport, u.blanxd.sshswitch
-Breaks: u.blanxd.sshoncc (<< 1.5~b3)
-Replaces: u.blanxd.sshoncc (<< 1.5~b3)
-Filename: ./debs/u.blanxd.opensshcc_1.1.0_iphoneos-arm64.deb
-Size: 14268
-MD5sum: 4b489a0d501c3fdd06f960bcca1c9103
-SHA1: b451cb8ba235bcc399d585dab5a79fd600d28b7d
-SHA256: 20cea070b4b95b194672b6df4c0ea928e2a7c05b84e823e7fd722f6dcecd5173
-Section: Addons (ControlCenter)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
-Description: OpenSSH toggle in CC
-Tag: purpose::extension
-Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
-Dev: blanxd
-Icon: file:///Library/ControlCenter/Bundles/SSHonCC.bundle/SettingsIcon@2x.png
-Name: OpenSSH CC Toggle
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: u.blanxd.opensshcc
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 166
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11), openssh-server | openssh, mobilesubstrate, com.opa334.ccsupport, u.blanxd.sshswitch
-Breaks: u.blanxd.sshoncc (<< 1.5~b3)
-Replaces: u.blanxd.sshoncc (<< 1.5~b3)
-Filename: ./debs/u.blanxd.opensshcc_1.1.0_iphoneos-arm64e.deb
-Size: 18260
-MD5sum: c77f2c7a614ecb9d8a06a7c6926bf591
-SHA1: 26462a3268c764b9e69cc1ae169c5ec0a40ac8d5
-SHA256: 0cd9f1534658e64c842efa0d999fee579679c50fcfd57a989ff7b5f47334b5f1
-Section: Addons (ControlCenter)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
-Description: OpenSSH toggle in CC
-Tag: purpose::extension
-Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshccDp
-Dev: blanxd
-Icon: file:///Library/ControlCenter/Bundles/SSHonCC.bundle/SettingsIcon@2x.png
-Name: OpenSSH CC Toggle
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: u.blanxd.opensshport
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 241
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server | openssh, preferenceloader, u.blanxd.sshswitch
-Breaks: u.blanxd.sshoncc (<= 1.4.0)
-Replaces: u.blanxd.sshoncc (<= 1.4.0)
-Filename: ./debs/u.blanxd.opensshport_1.1.0_iphoneos-arm64e.deb
-Size: 45786
-MD5sum: d9588e508defbb3ffb05b2e181a3f7f1
-SHA1: 05699f3cf6fdab1231cbf3ee23fe93a23c4a6036
-SHA256: 64c0a3b44723b39fbb01789db3d407a8c81961df539bc54d2a02171d367edbe9
-Section: Security
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
-Description: OpenSSH menu in Settings
-Tag: purpose::extension
-Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
-Dev: blanxd
-Icon: file:///Library/PreferenceBundles/OpenSshPort.bundle/OpenSshPort@2x.png
-Name: OpenSSH Settings
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: u.blanxd.opensshport
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 241
-Depends: cy+cpu.arm64 | firmware (>= 11), openssh-server | openssh, preferenceloader, u.blanxd.sshswitch
-Breaks: u.blanxd.sshoncc (<= 1.4.0)
-Replaces: u.blanxd.sshoncc (<= 1.4.0)
-Filename: ./debs/u.blanxd.opensshport_1.1.0_iphoneos-arm64.deb
-Size: 34144
-MD5sum: 3da3cb02a9821db59cc5847ab1216a6c
-SHA1: d805c044286a3035b6108e8c670aadc63bd37a9f
-SHA256: ce0692ef57ff2e8cd0fc9462ffb50a85066385e294a3409376b12f636c4872bb
-Section: Security
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
-Description: OpenSSH menu in Settings
-Tag: purpose::extension
-Author: BlanxdH <blanxd.h@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opensshportDp
-Dev: blanxd
-Icon: file:///Library/PreferenceBundles/OpenSshPort.bundle/OpenSshPort@2x.png
-Name: OpenSSH Settings
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: u.blanxd.sshswitch
 Version: 1.1.0
