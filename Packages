@@ -26950,6 +26950,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: 遮罩集合大全
 Sponsor: bdzt
 
+Package: com.zqbb.Snapper3
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 92
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.zqbb.Snapper3_1.0-1_iphoneos-arm64e.deb
+Size: 5372
+MD5sum: a6993c29ad4917f74020b8160c0c108c
+SHA1: 1ad43dc95ddb716c5672aa7591b50092245d33db
+SHA256: 381155d672ff5d706e0da82b0b82a9d80e59e98f32df96ba5b0bbbd15d2cfaca
+Section: Tweaks
+Description: 不会拉屎的版本。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
+Name: Snapper3扩展
+
 Package: com.zqbb.iconshadows
 Version: 1.1
 Architecture: iphoneos-arm64e
