@@ -25424,6 +25424,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/35e13015f230bb12124c0dfaeab5c609.png
 Name: 网易邮箱NoAds
 
+Package: com.wkk.xcfhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xcfhook_1.0-1_iphoneos-arm64e.deb
+Size: 6608
+MD5sum: 25a32b4d2754859712e66ef7f8a29950
+SHA1: a8d74bbbd4e2fb972e7b909e594d68ba2b116023
+SHA256: aa563234fe6b4e00e48bcadccd1af9cc709b631763ec218c67609258b853cfbe
+Section: 去广告
+Description: 去所有广告，版本：238.9.51，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/12/5068d044a386b8962839103daf5e8b41.png
+Name: 下厨房NoAds
+
+Package: com.wkk.xcfhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xcfhook_1.0-1_iphoneos-arm64.deb
+Size: 4800
+MD5sum: be7d461ac24417ed26ee0ab4c64ea223
+SHA1: 9406324d44ad3335fb35e050892583a7bf431d4e
+SHA256: 3c04771211c36023a77e94782bce268839ceb8eb0120d3949008d7a644826581
+Section: 去广告
+Description: 去所有广告，版本：238.9.51，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/12/5068d044a386b8962839103daf5e8b41.png
+Name: 下厨房NoAds
+
 Package: com.wkk.xchook
 Version: 1.0
 Architecture: iphoneos-arm64e
