@@ -25220,6 +25220,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/25/cf20796b4a4e88cd2b68b8f89182bfc3.png
 Name: 网易新闻NoAds
 
+Package: com.wkk.wyyad2hook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wyyad2hook_1.0-1_iphoneos-arm64.deb
+Size: 5212
+MD5sum: 158454205e7b739c0c0a318ac19126b6
+SHA1: 8344aac2cafa7a0794a0400c58d51ca806ce457b
+SHA256: f08e065a98d3879b75a8fad7d3a5689e9decf09277abf4b46aac6fe966d1f8cd
+Section: 去广告
+Description: 9.4.25版本（免费听/拼图）自动跳过广告以便于领取听歌时长（有上限 不再优化 目前已是最优解）接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
+Name: 网易云Music免费听
+
+Package: com.wkk.wyyad2hook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wyyad2hook_1.0-1_iphoneos-arm64e.deb
+Size: 7244
+MD5sum: a01370db65374bfe45aacee2243040c9
+SHA1: 87cf13618858b0609634559ef8693f646e2950e9
+SHA256: 22c523f6ee1016e8fde3ee34ef7236ca672223d6837238a7ac8ca263dfb14ed0
+Section: 去广告
+Description: 9.4.25版本（免费听/拼图）自动跳过广告以便于领取听歌时长（有上限 不再优化 目前已是最优解）接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/17/92bb5890c01590387a4323f59dff782a.png
+Name: 网易云Music免费听
+
 Package: com.wkk.wyyadhook
 Version: 1.0-4
 Architecture: iphoneos-arm64
