@@ -22506,6 +22506,41 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
 Name: FastLock
 
+Package: com.wkk.feizhuhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.feizhuhook_1.0-1_iphoneos-arm64e.deb
+Size: 4812
+MD5sum: 31713a3fa339c601c6fc2eccb8431368
+SHA1: a15c8acac998de6399c5566e200b0cb0947ce69f
+SHA256: 9d33131af0977be5a4fec51836ee23be5ee1ecc9d92ecb5465a32fbb298d8404
+Section: 去广告
+Description: 去开屏广告，版本：9.10.41，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/13/064c56d88547b559d879e72da7027027.png
+Name: 飞猪旅行NoAds
+
+Package: com.wkk.feizhuhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.feizhuhook_1.0-1_iphoneos-arm64.deb
+Size: 3296
+MD5sum: e687d8c50383076b97ec86791e5ba257
+SHA1: 9acd0ea23ae090eae66f1be856a33cb8002cfaf8
+SHA256: 07383904c0180a1686af115f04a8a56ebf6bef5609dd69ded62a90bb6608efe0
+Section: 去广告
+Description: 去开屏广告，版本：9.10.41，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/13/064c56d88547b559d879e72da7027027.png
+Name: 飞猪旅行NoAds
+
 Package: com.wkk.ftpz
 Version: 1.0
 Architecture: iphoneos-arm64e
