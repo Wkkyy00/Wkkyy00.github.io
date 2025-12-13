@@ -22576,34 +22576,34 @@ Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.
 Name: 中国联通NoAds
 
 Package: com.wkk.fuckltads
-Version: 1.0-4
-Architecture: iphoneos-arm64
+Version: 1.0-5
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckltads_1.0-4_iphoneos-arm64.deb
-Size: 3332
-MD5sum: e8f77e57ef53105fd88b77822e7d94e5
-SHA1: 6d3669ec5a672c9e6b89cbf878746121a8df3d53
-SHA256: 83d35e103a1f9e96eba23681535f410f3c8cbda3b74acc317a1e60b349b5f150
+Filename: ./debs/com.wkk.fuckltads_1.0-5_iphoneos-arm64e.deb
+Size: 4654
+MD5sum: c3cc7a495f80b957dae3e317dbd3f1b6
+SHA1: 97785f92844d6240fe2cf3a8d06bc50387fa3584
+SHA256: 26ab4e8ce9c2d18acd8743fbf59f7f291b7b39b0134e4d00842c124760e64577
 Section: 去广告
-Description: 去开屏广告，版本：12.8.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏广告，版本：12.8.1，下载好deb后用TrollFools注入，直接安装不生效，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.png
 Name: 中国联通NoAds
 
 Package: com.wkk.fuckltads
-Version: 1.0-4
-Architecture: iphoneos-arm64e
+Version: 1.0-5
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckltads_1.0-4_iphoneos-arm64e.deb
-Size: 4550
-MD5sum: f0e0c9f7628267cecb20518aab73edd8
-SHA1: 4eec69bfc37f0674e528eaca5a835707f22f0e0b
-SHA256: 6f224f208243c460d88d5a788fbfa9283bff0bbde489b136f716335af345a4e0
+Filename: ./debs/com.wkk.fuckltads_1.0-5_iphoneos-arm64.deb
+Size: 3372
+MD5sum: 9602de3159652af08ff5d7b3de70e4ab
+SHA1: 862bbce89374256dd7b46cc4eedec0380ba909c3
+SHA256: 15be6795bf8f5464f3fd88fce5831623830a54a90c0d644cf28e18b68f1dd760
 Section: 去广告
-Description: 去开屏广告，版本：12.8.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏广告，版本：12.8.1，下载好deb后用TrollFools注入，直接安装不生效，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/6397f5e889e38d2f3facd7d8f0553b8d.png
 Name: 中国联通NoAds
@@ -22642,34 +22642,34 @@ Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.
 Name: 中国移动NoAds
 
 Package: com.wkk.fuckydads
-Version: 1.0-4
+Version: 1.0-5
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckydads_1.0-4_iphoneos-arm64.deb
-Size: 3212
-MD5sum: 764239e0ca7d2ec47d843b7d2fc257eb
-SHA1: 6ca74912492cbe07fa748bce98af00f5bc7e5515
-SHA256: 4a88ce9a3439baf9c261557a29cdee28b71b2953130f790fdd4d92a561263a08
+Filename: ./debs/com.wkk.fuckydads_1.0-5_iphoneos-arm64.deb
+Size: 3260
+MD5sum: 9f93b870f04c7c954349629c07c16ef9
+SHA1: 37e0dad9e98913e1f0b38c696d08d38e56a6bb51
+SHA256: 9529cd67e8488782d0ff00757a5188064abcac50b58d8a7fda16302f52a18817
 Section: 去广告
-Description: 去开屏广告，版本：12.0.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏广告，版本：12.0.2，下载好deb后用TrollFools注入，直接安装不生效，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
 Name: 中国移动NoAds
 
 Package: com.wkk.fuckydads
-Version: 1.0-4
+Version: 1.0-5
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckydads_1.0-4_iphoneos-arm64e.deb
-Size: 4384
-MD5sum: 07d98502503625f8e89fe90d3a2967b8
-SHA1: fc6a956df2671966ff894f91672c88551c1f4a79
-SHA256: 7237f04107dff336f7c168b9e15c3568f8d9f1fbf559162dbb8bbbe93eee90b2
+Filename: ./debs/com.wkk.fuckydads_1.0-5_iphoneos-arm64e.deb
+Size: 4514
+MD5sum: 406104ab66cc31a5a9f4765dd858ece1
+SHA1: 103c87733aecf3ebb9cb48cfe8202b2a92ca8543
+SHA256: 11871f258afada80aff597d00e32f1062c699651cacb273de5a0542c2d7d8c85
 Section: 去广告
-Description: 去开屏广告，版本：12.0.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏广告，版本：12.0.2，下载好deb后用TrollFools注入，直接安装不生效，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/29/b34966d282c3e310d25255d207346202.png
 Name: 中国移动NoAds
