@@ -21692,6 +21692,23 @@ Author: therealhoodboy
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: CC26
 
+Package: com.wkk.ccborder
+Version: 1.1.2-24
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 712
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.wkk.ccborder_1.1.2-24_iphoneos-arm64e.deb
+Size: 109800
+MD5sum: ff183f1e414e6d9434916ce0ed42c25f
+SHA1: 01030c4dedba8884cba52f012e63bb8fd2122417
+SHA256: f8f40d5a0ac7ce713ccd3302b6f1796333d9d53ad68f8c013d934029857ca190
+Section: 控制中心
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖，仅备份。
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
 Package: com.wkk.ccborder15
 Version: 1.1.2
 Architecture: iphoneos-arm64
