@@ -17757,6 +17757,41 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.susu.snapper3.picta
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 180
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: ./debs/com.susu.snapper3.picta_1.0_iphoneos-arm64.deb
+Size: 10600
+MD5sum: 3efe9330315ab80f8204f1724c12abc5
+SHA1: 1a9f8bdc5f90a1bcdcaaeffd82633aff9791ae5c
+SHA256: c0b4a418f76cdd53ac2124c7e174576dfc2522a80e0ece8935e4c2901fa7f784
+Section: Tweaks
+Description: Picta适配 Snapper3 的插件
+Author: SuSu
+Icon: https://s1.imagehub.cc/images/2025/12/13/f934f840753cc376919f03e706ab50ab.png
+Name: Picta
+
+Package: com.susu.snapper3.picta
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: SuSu
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: ./debs/com.susu.snapper3.picta_1.0.0_iphoneos-arm64e.deb
+Size: 11608
+MD5sum: 76bd3ba80b8adafd3703f6040610c548
+SHA1: d2fe029ba0ed80d5db8fc18b194130006dd50fba
+SHA256: 0c9b8d5e688aadb587b1396e8a9da63dcfd10c782fd0cd7038dc67c9a9efba32
+Section: Tweaks
+Description: Picta适配 Snapper3 的插件
+Author: SuSu
+Icon: https://s1.imagehub.cc/images/2025/12/13/f934f840753cc376919f03e706ab50ab.png
+Name: Picta
+
 Package: com.susu.springanimation
 Version: 1.0.1
 Architecture: iphoneos-arm64
