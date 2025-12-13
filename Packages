@@ -12019,6 +12019,23 @@ Author: Huayuarc
 Icon: https://s1.imagehub.cc/images/2025/08/31/c45d144244f9bebeeddf036d52eb630a.jpeg
 Name: 来通知不亮屏
 
+Package: com.hw.zgnyyh
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 🄷🅆
+Installed-Size: 2072
+Depends: mobilesubstrate
+Filename: ./debs/com.hw.zgnyyh_0.0.1_iphoneos-arm64.deb
+Size: 360900
+MD5sum: a7458a7f4938ca3c694f6e401937b878
+SHA1: cfc8b054789e90be7141b4fcc1b8d21fae94e680
+SHA256: 17b9663a7a5ce6cc6f07d78196114efcb2a90bef0b4d8d112069d9a57c01e843
+Section: Tweaks
+Description: 仅越狱使用，某农某行，安全绕过限制，关闭任何屏蔽插件，仅支持越狱安装deb，多巴胺无根测试10.2.1版，如果装了“魔术师”请卸载。
+Author: 🄷🅆
+Icon: https://s1.imagehub.cc/images/2025/12/13/79a27a347eac08b4f6e29dbc7775fe10.png
+Name: 农业银行NoJB
+
 Package: com.iamdega.mginspector
 Version: 1.0.0
 Architecture: iphoneos-arm64
