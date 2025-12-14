@@ -21362,11 +21362,11 @@ Maintainer: ren7995 & SINI
 Installed-Size: 1104
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.wkk.atria_1.4.1-6_iphoneos-arm64.deb
-Size: 375916
-MD5sum: becb17de44c5e20a56203d412ad887a5
-SHA1: 2f32afa812c9b9f3956d55d943399051027d87ac
-SHA256: db75181dc77753c9563a8523ec97ba35a6129bada5b0a7d62101410e10d59870
-Section: Tweak
+Size: 375868
+MD5sum: fb45ff9b9c883072d432b495e551505e
+SHA1: c797761e0f855e1b63cf714b08e8b77c8e337277
+SHA256: cd8207dbd888dc66282f5371fb5486ab3267eb632b2ed1172e33ab35bc3afb11
+Section: Tweaks
 Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide，仅备份。
 Author: ren7995 & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
@@ -21376,16 +21376,15 @@ Package: com.wkk.atria
 Version: 1.4.1-6
 Architecture: iphoneos-arm64e
 Maintainer: ren7995 & SINI
-Installed-Size: 1104
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 1072
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.wkk.atria_1.4.1-6_iphoneos-arm64e.deb
-Size: 420064
-MD5sum: df8593b9b7efcbfc433c50ad001e5254
-SHA1: 52d202fc3630b2eb68837f8a7875ce999251aaa9
-SHA256: eec926a870cb50d176074d1ae00b8f64fceeb27ddc6906eb1f54f1d9840befee
-Section: Tweak
-Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide，仅备份。
+Size: 375000
+MD5sum: 0c06194b8d19d023ab1d3772652935c1
+SHA1: e090222931b1aa1d11f95281ee47b46042d5fcb8
+SHA256: 7b20dd24d60282135befc6b98214dde3e278e5f7e6562968e51afb366a0de911
+Section: Tweaks
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothidez仅备份。
 Author: ren7995 & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
 Name: Atria
@@ -26355,6 +26354,40 @@ Description: 仅支持RootHide越狱
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画3.0
+
+Package: com.wkk.zoomanimation
+Version: 0.0.1-12
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zoomanimation_0.0.1-12_iphoneos-arm64.deb
+Size: 33040
+MD5sum: 92f4afe6b576e0b92ca498c8435d58d4
+SHA1: c6e6c59d9c1c2b03ef510bd4748633471b2e58ef
+SHA256: a8ae9b798cf0274549a173b31247183f5aed0186e2bb3c532b5de9d2c4aa89ae
+Section: Tweaks
+Description: 桌面动画，可选动画样式，调节动画幅度，仅备份。
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
+Name: ZoomAnimation
+
+Package: com.wkk.zoomanimation
+Version: 0.0.1-12
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zoomanimation_0.0.1-12_iphoneos-arm64e.deb
+Size: 32164
+MD5sum: 543c50dbe6cd41503bda848562dddc85
+SHA1: 4cf7c050ad07107776491ece49a369000bf2f0e3
+SHA256: f6c859ff6698e7954510dd5944ce1a6642849c5c6961b59fad94ae43b7834778
+Section: Tweaks
+Description: 桌面动画，可选动画样式，调节动画幅度，仅备份。
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
+Name: ZoomAnimation
 
 Package: com.wkk.zslmhook
 Version: 1.0
