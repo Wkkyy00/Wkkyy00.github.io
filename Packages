@@ -21355,6 +21355,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
 Name: 爱奇艺NoAds
 
+Package: com.wkk.atria
+Version: 1.4.1-6
+Architecture: iphoneos-arm64
+Maintainer: ren7995 & SINI
+Installed-Size: 1104
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.atria_1.4.1-6_iphoneos-arm64.deb
+Size: 375916
+MD5sum: becb17de44c5e20a56203d412ad887a5
+SHA1: 2f32afa812c9b9f3956d55d943399051027d87ac
+SHA256: db75181dc77753c9563a8523ec97ba35a6129bada5b0a7d62101410e10d59870
+Section: Tweak
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide，仅备份。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
+Package: com.wkk.atria
+Version: 1.4.1-6
+Architecture: iphoneos-arm64e
+Maintainer: ren7995 & SINI
+Installed-Size: 1104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.atria_1.4.1-6_iphoneos-arm64e.deb
+Size: 420064
+MD5sum: df8593b9b7efcbfc433c50ad001e5254
+SHA1: 52d202fc3630b2eb68837f8a7875ce999251aaa9
+SHA256: eec926a870cb50d176074d1ae00b8f64fceeb27ddc6906eb1f54f1d9840befee
+Section: Tweak
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide，仅备份。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
 Package: com.wkk.autofillfix
 Version: 0.1
 Architecture: iphoneos-arm64
