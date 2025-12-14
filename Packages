@@ -21425,6 +21425,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
 
+Package: com.wkk.baiduwangpanhook
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.baiduwangpanhook_1.0-6_iphoneos-arm64.deb
+Size: 3548
+MD5sum: 8c26ad12927771f81832e52af9fbc532
+SHA1: f22553387cb90c17b305bec9f6a2d1a25df2e309
+SHA256: 53299ee628d2b0b47b3529f643cbc04ffed05c5da06e0660caa203439c6467a4
+Section: 去广告
+Description: 去开屏广告，测试版本：13.16.5，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
+Name: 百度网盘NoAds
+
+Package: com.wkk.baiduwangpanhook
+Version: 1.0-6
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.baiduwangpanhook_1.0-6_iphoneos-arm64e.deb
+Size: 5116
+MD5sum: acf22e43ba826753867941689b3ead8d
+SHA1: bec71df6eb577ef34c526eed347ea895656f74d2
+SHA256: 5168495e0ba221adffb1fec4993975d322a4f940a206ffa73d78d65038bfad6c
+Section: 去广告
+Description: 去开屏广告，测试版本：13.16.5，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
+Name: 百度网盘NoAds
+
 Package: com.wkk.batteryhook
 Version: 1.0
 Architecture: iphoneos-arm64e
