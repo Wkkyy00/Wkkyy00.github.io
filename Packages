@@ -27190,6 +27190,24 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Snapper3扩展
 
+Package: com.zqbb.iconshadow
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 96
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zqbb.iconshadow_1.1_iphoneos-arm64e-1.deb
+Size: 11490
+MD5sum: 35c788eabb729d09bcb8bc0e8ad3d51e
+SHA1: c5db39ef58218c76b237471156809e4447cdb76a
+SHA256: 76a07739ed6f2bff1e179767400ab6aca1c1c01f769bcbf108e59630df408406
+Section: Tweaks
+Description: 给图标添加一层阴影图片!
+Author: zqbb
+Name: Hello Shadow
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.iconshadow
+
 Package: com.zqbb.iconshadows
 Version: 1.1
 Architecture: iphoneos-arm64e
