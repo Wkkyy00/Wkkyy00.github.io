@@ -22945,6 +22945,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
 Name: 瑞幸咖啡NoAds
 
+Package: com.wkk.fucmkrxkfads
+Version: 1.3-5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fucmkrxkfads_1.3-5_iphoneos-arm64e.deb
+Size: 6040
+MD5sum: 12e88119cb3d772a7586e673cf29f7b6
+SHA1: 74cd1f9631db36df2568f48bdbf73e826cfbdd59
+SHA256: 59877e4fa56d5542b0b9c253be2398ef2c0e0ee04722f640b48971d6d3219ce1
+Section: 去广告
+Description: 去开除屏广告和更新提示。测试版本：5.4.20，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
+Name: 瑞幸咖啡NoAds
+
+Package: com.wkk.fucmkrxkfads
+Version: 1.3-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fucmkrxkfads_1.3-5_iphoneos-arm64.deb
+Size: 4276
+MD5sum: 26566f3b31b4bd74216e78b2cef3abfe
+SHA1: 977c7ef5e2573eee4bcf585048a89c6c8a8dbd1f
+SHA256: 9431db9d66409c00f54883a607609984fa45a30587ba54c06485f00277fc081c
+Section: 去广告
+Description: 去开除屏广告和更新提示。测试版本：5.4.20，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/05/01/05ea0e3f2aa64c59c02ed256afd24eb8.jpeg
+Name: 瑞幸咖啡NoAds
+
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64
