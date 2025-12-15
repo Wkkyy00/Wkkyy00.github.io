@@ -22680,6 +22680,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/13/064c56d88547b559d879e72da7027027.png
 Name: 飞猪旅行NoAds
 
+Package: com.wkk.filzaswipeselect
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: korboy <korboybeats@gmail.com>
+Installed-Size: 184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.filzaswipeselect_0.0.2_iphoneos-arm64e.deb
+Size: 11518
+MD5sum: 12381c78ef3ae369a6e1634a49389bb8
+SHA1: a275599ccce5f9dd4cf88526ff37a852dfe543cb
+SHA256: a83b4fef5f78af0c17a9324254bdeea7ccb002abaab5cd28063c906e51444647
+Section: Tweaks
+Description: Filza的滑动多选功能。
+Author: korboy <korboybeats@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
+Name: FilzaSwipeSelect
+
+Package: com.wkk.filzaswipeselect
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: korboy <korboybeats@gmail.com>
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.filzaswipeselect_0.0.2_iphoneos-arm64.deb
+Size: 8664
+MD5sum: 7620d9c3380343624b7bd2699192d7ad
+SHA1: 2a775313f69020ba079aa57a86fe14bd3a690cef
+SHA256: 4b76918fa85772a0f4a35a00738424f3c5e84894dd52a9729bcf0d070ed04f9a
+Section: Tweaks
+Description: Filza的滑动多选功能。
+Author: korboy <korboybeats@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
+Name: FilzaSwipeSelect
+
 Package: com.wkk.ftpz
 Version: 1.0
 Architecture: iphoneos-arm64e
