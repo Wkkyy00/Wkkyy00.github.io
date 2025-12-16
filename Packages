@@ -13029,6 +13029,41 @@ Author: RobustLuo
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: ActionPro
 
+Package: com.luo.actionpro
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: RobustLuo
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.luo.actionpro_1.2.0_iphoneos-arm64e.deb
+Size: 95564
+MD5sum: cfe12f3e5c5b6531401e996db0b0feb4
+SHA1: 43f52f30b8b2a0ecd0ec716a8290d99e9d5484de
+SHA256: fdf95e271f07845df786923a55584471bea5f0a7e551df870571112149a1d41e
+Section: 微信插件
+Description: 微信消息长按Menu菜单的样式插件。
+Author: RobustLuo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: ActionPro
+
+Package: com.luo.actionpro
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: RobustLuo
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.luo.actionpro_1.2.0_iphoneos-arm64.deb
+Size: 68444
+MD5sum: 581e6e51dea3be6745bbd2bb6f02882d
+SHA1: 571aedbdf99578dd28aa13a2be9d09ba1386228d
+SHA256: 1306b82c4c87d0d177e95967d0310f0851dd052dc1b2041f845baec9457f3217
+Section: 微信插件
+Description: 微信消息长按Menu菜单的样式插件。
+Author: RobustLuo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: ActionPro
+
 Package: com.lxcloud.WCEhance
 Version: 1.2-1
 Architecture: iphoneos-arm64
