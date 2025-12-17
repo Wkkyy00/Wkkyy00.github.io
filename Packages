@@ -12202,6 +12202,41 @@ Dev: ichitaso
 Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
 Name: HideKBSettings
 
+Package: com.ichitaso.pokegols
+Version: 1.0-9
+Architecture: iphoneos-arm64
+Maintainer: ichitaso <willfeeltips+pgls@gmail.com>
+Installed-Size: 2040
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.ichitaso.pokegols_1.0-9_iphoneos-arm64.deb
+Size: 1563396
+MD5sum: 47cc93ef630eaeeb3fe4adc3ae94d327
+SHA1: c27b22872bec2085e99370941baaa9e99976d635
+SHA256: 2b897dc58bd852be4fedd1117578955fb7ab9feb1d7604d21355688cf458ebd6
+Section: Tweaks
+Description: 将gif壁纸作为主屏幕/锁屏（由于是有根远古插件，只作为收藏，怀念那个曾经懵懂的自己）插件目前可用，但是掉帧。
+Author: ichitaso <willfeeltips+pgls@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PokeGo LS GIF
+
+Package: com.ichitaso.pokegols
+Version: 1.0-9
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso <willfeeltips+pgls@gmail.com>
+Installed-Size: 2040
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.ichitaso.pokegols_1.0-9_iphoneos-arm64e.deb
+Size: 1565116
+MD5sum: c593a08e595c0f294221b5804107081f
+SHA1: 1423d807ae0625b2ca7f5fee3902bc89deff3d54
+SHA256: 59fea8d3bbd92d9b9851dc7a63ce6ea3f35fe2a4257667dfdaf98aba904225ac
+Section: Tweaks
+Description: 将gif壁纸作为主屏幕/锁屏（由于是有根远古插件，只作为收藏，怀念那个曾经懵懂的自己）插件目前可用，但是掉帧。
+Author: ichitaso <willfeeltips+pgls@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PokeGo LS GIF
+
 Package: com.ichitaso.ringertoggle
 Version: 0.3
 Architecture: iphoneos-arm64
