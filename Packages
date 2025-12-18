@@ -25382,10 +25382,10 @@ Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.txtyhook_1.0-1_iphoneos-arm64.deb
-Size: 3476
-MD5sum: 639eb3f949baa9b5aa6382c75984b19b
-SHA1: b1e9c5f2e1eb585d210ae08cf0a4d1d59e820225
-SHA256: 23af3e5de1bd32f2f7e2384e957944521c4dc1c9c14e628f53227d009023d6cb
+Size: 3492
+MD5sum: fe94397d74cf8ad2796977e6cddaa32b
+SHA1: c83adca37a07c025338966e702bb864ff4d0aea4
+SHA256: b63866d3220830bdb1b107a6a0929d61abc89c898867b6645db6c8b29ac9d902
 Section: 去广告
 Description: 去开屏广告，版本：7.8.90，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
 Author: wkk
@@ -25400,10 +25400,10 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.txtyhook_1.0-1_iphoneos-arm64e.deb
-Size: 5048
-MD5sum: ef05ef10a991d28372e0482fda3fe67b
-SHA1: c440b74edc2a8da8dbc18ba7e787b7f0ff10227c
-SHA256: b97eee97cee572d8b6114df5f387ed1db3084cc7daffc1258d105b9abdab0ea7
+Size: 5042
+MD5sum: 276c2919c3b4e13a82ba49557c45390e
+SHA1: d28eaddd4cfb8465bda3ce90987616f2b70ea28c
+SHA256: 3f073484b36df4c7f878ba02b4c998abcf597acd9674d6cb09981b2d266c5a3a
 Section: 去广告
 Description: 去开屏广告，版本：7.8.90，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
 Author: wkk
