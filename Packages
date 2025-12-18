@@ -24282,6 +24282,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/305a48c9773b7d9257998d276c541dbf.png
 Name: 汽车之家NoAds
 
+Package: com.wkk.qiehook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qiehook_1.0-1_iphoneos-arm64.deb
+Size: 3720
+MD5sum: ccca2fc769b31758b3911dc43b2ebd66
+SHA1: 1b28327e18110dddba8b5169fe624293b230ada2
+SHA256: 335de28011e1e9d1666ad6d998f215a815899d19875ba2c9d1807a2d46f6aaca
+Section: 去广告
+Description: 去开屏广告，版本：7.8.7，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/88d32711bcead9ea9e2f4f86cb1e0ace.png
+Name: 企鹅体育NoAds
+
+Package: com.wkk.qiehook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qiehook_1.0-1_iphoneos-arm64e.deb
+Size: 5314
+MD5sum: f8882eb9e932b8b029bc793f50cc93a4
+SHA1: 88f2b0f2963c3b5b4d45e69828b279f5552b545a
+SHA256: 9b7babecfa723b6d407d93999fab468b510594b4332e2adad416b3fa6f927b9b
+Section: 去广告
+Description: 去开屏广告，版本：7.8.7，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/88d32711bcead9ea9e2f4f86cb1e0ace.png
+Name: 企鹅体育NoAds
+
 Package: com.wkk.qipao
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -25339,6 +25374,41 @@ Description: 仅去开屏广告，版本：9.02.70，去应用内广告需走定
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
+
+Package: com.wkk.txtyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txtyhook_1.0-1_iphoneos-arm64.deb
+Size: 3476
+MD5sum: 639eb3f949baa9b5aa6382c75984b19b
+SHA1: b1e9c5f2e1eb585d210ae08cf0a4d1d59e820225
+SHA256: 23af3e5de1bd32f2f7e2384e957944521c4dc1c9c14e628f53227d009023d6cb
+Section: 去广告
+Description: 去开屏广告，版本：7.8.90，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/e7f05d5ae0dd964c58131ab814df26d3.png
+Name: 腾讯体育NoAds
+
+Package: com.wkk.txtyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txtyhook_1.0-1_iphoneos-arm64e.deb
+Size: 5048
+MD5sum: ef05ef10a991d28372e0482fda3fe67b
+SHA1: c440b74edc2a8da8dbc18ba7e787b7f0ff10227c
+SHA256: b97eee97cee572d8b6114df5f387ed1db3084cc7daffc1258d105b9abdab0ea7
+Section: 去广告
+Description: 去开屏广告，版本：7.8.90，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/e7f05d5ae0dd964c58131ab814df26d3.png
+Name: 腾讯体育NoAds
 
 Package: com.wkk.wctimelinereplacefind
 Version: 1.1-2
