@@ -14114,6 +14114,43 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: StoreSwitchAccounts
 
+Package: com.netskao.wcabtestapnsheadimg
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.wechatnotiavatar
+Filename: ./debs/com.netskao.wcabtestapnsheadimg_1.1-1_iphoneos-arm64e.deb
+Size: 3376
+MD5sum: 70f6b1d8fb50aa32a2c6f8e6da681b94
+SHA1: 2f22cfc0df9242a167557130f478fc4bfcbf019f
+SHA256: 8f07f29a93a3a860ddb6adf705305219e22e301feb06b884f6d13b0af846508d
+Section: 微信插件
+Description: 微信启用Apns显示消息头像，仅8.0.67+
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCABTestApnsHeadImg
+
+Package: com.netskao.wcabtestapnsheadimg
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.wechatnotiavatar
+Filename: ./debs/com.netskao.wcabtestapnsheadimg_1.1-1_iphoneos-arm64.deb
+Size: 2316
+MD5sum: 2387c136aaa9e467054955a0e516cee3
+SHA1: 96a8b001ae5ea95013ae708b1629b0f88dd49ca3
+SHA256: 147a544dec6c06430129270dd6e85d76d89d6b61cb8b3b46e006c69055d575a0
+Section: 微信插件
+Description: 微信启用Apns显示消息头像，仅8.0.67+
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCABTestApnsHeadImg
+
 Package: com.netskao.wcabtestlocalbackup
 Version: 1.1-1
 Architecture: iphoneos-arm64
