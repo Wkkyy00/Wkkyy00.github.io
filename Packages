@@ -24251,6 +24251,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/02/94b6e500b63de1f90231fd07d93166bc.png
 Name: PikPakNoAds
 
+Package: com.wkk.ppxwhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ppxwhook_1.0-1_iphoneos-arm64.deb
+Size: 3620
+MD5sum: 5f5a124f71298877810c7d5ed53f28d8
+SHA1: 6d8661cf5f358c4e8adf69dcaf3d460f5d58efc2
+SHA256: 9d97698839932df5b2da9d95804e650d104345c0ecc6e31ef30a8ba4e01fd75c
+Section: 去广告
+Description: 去开屏广告，版本：11.1.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/b940557f5fdadf3783d1b6db597f4de2.png
+Name: 澎湃新闻NoAds
+
+Package: com.wkk.ppxwhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ppxwhook_1.0-1_iphoneos-arm64e.deb
+Size: 5148
+MD5sum: 5ed8ac69040e012b56146f43eb7843b2
+SHA1: e37c96eec709a8d8cf72d84e4671c5a78f2a4396
+SHA256: cd37077c918ae9fec0e3f263e39b4a5c8f4f1e962b1150e6669b0ba232d6d8b9
+Section: 去广告
+Description: 去开屏广告，版本：11.1.2，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/b940557f5fdadf3783d1b6db597f4de2.png
+Name: 澎湃新闻NoAds
+
 Package: com.wkk.proxysc
 Version: 1.0
 Architecture: iphoneos-arm64e
