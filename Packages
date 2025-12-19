@@ -28695,6 +28695,41 @@ Icon: https://susubaby.top/images/CocoaTop.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
+Package: ru.domo.cocoatop64
+Version: 2.2.4-1
+Architecture: iphoneos-arm64
+Maintainer: Ash
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4-1_iphoneos-arm64.deb
+Size: 181804
+MD5sum: a919fc7515d2322411ce4b8cef208f31
+SHA1: 6ee37d945c02be9d95db2248412d881e74724ce2
+SHA256: 21b449386192ca57b33788a6e9bddbdb537e7737032edf5c15e330ae42435219
+Section: Utilities
+Description: Process Viewer for iOS（修复粗体闪退）
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4-1
+Architecture: iphoneos-arm64e
+Maintainer: Ash
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4-1_iphoneos-arm64e.deb
+Size: 221322
+MD5sum: e03525cd8e96c3a653d40995fde877cb
+SHA1: def0fa9ce5cce2e76519a33f7aec1783bab87251
+SHA256: dfe183c99b767f0c307eb34307ece3f08d2dc5a2083c31814d56a7527efd5731
+Section: Utilities
+Description: Process Viewer for iOS（修复粗体闪退）
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
+
 Package: ru.rj.ftt
 Version: 1.4
 Architecture: iphoneos-arm64
