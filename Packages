@@ -24081,6 +24081,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
 Name: 芒果TVNoAds
 
+Package: com.wkk.mlxxhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mlxxhook_1.0-1_iphoneos-arm64e.deb
+Size: 4890
+MD5sum: bd7bd7c68602f825aee4f65ef8a77e52
+SHA1: f6ec735a0d4688319134a3e05a3e77f1848e1653
+SHA256: b002f4da6723669e5c94dd4d5b65b68670675e1902c7bc0830976c1f2e84473f
+Section: 去广告
+Description: 去开屏广告，版本：9.5.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/20/ae2c682655caa940120d0864b686c9de.png
+Name: 美丽修行NoAds
+
+Package: com.wkk.mlxxhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mlxxhook_1.0-1_iphoneos-arm64.deb
+Size: 3384
+MD5sum: 657f3be4c390b71ab324dedd2d6b5978
+SHA1: 4223bfae5eb0a1e7e6a5cf78c05ea888e7626053
+SHA256: e10c96d7443fc0437f3b261d8be91d231c9923fcbfa47d7b3c2bab036e8e874e
+Section: 去广告
+Description: 去开屏广告，版本：9.5.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/20/ae2c682655caa940120d0864b686c9de.png
+Name: 美丽修行NoAds
+
 Package: com.wkk.mtwmhook
 Version: 1.0
 Architecture: iphoneos-arm64
