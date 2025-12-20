@@ -13677,6 +13677,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCABTestLocalBackup
 
+Package: com.netskao.wcaddnotiheadimgswitch
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 944
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.netskao.wcaddnotiheadimgswitch_1.1-2_iphoneos-arm64.deb
+Size: 468860
+MD5sum: 87b02db4287dabafdac6a73eb1ab5b26
+SHA1: 67f551f4b04487359bcb402b6ce18d63b2ef6b2c
+SHA256: d06ebc17d0da95e1153514cb15602fb691ba50f6e2a5b33bd78fb406c8e6f5bd
+Section: 微信插件
+Description: WeChat Add Notification HeadImg Switch, Supports versions 8.0.63 - 8.0.66
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCAddNotiHeadImgSwitch
+
+Package: com.netskao.wcaddnotiheadimgswitch
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 944
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.netskao.wcaddnotiheadimgswitch_1.1-2_iphoneos-arm64e.deb
+Size: 621510
+MD5sum: 7b4f8e8c7286f3465f9698f64fcd0f27
+SHA1: 5c3f0762deef1d097d5be9fb37f9212f03b7d5a4
+SHA256: d322f1ecaff3c6c6c7d00131589856bd9c0dc9400964b3ccbf302971a7d02a33
+Section: 微信插件
+Description: WeChat Add Notification HeadImg Switch, Supports versions 8.0.63 - 8.0.66
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCAddNotiHeadImgSwitch
+
 Package: com.netskao.wcdisablehotupdates
 Version: 1.1-2
 Architecture: iphoneos-arm64e
