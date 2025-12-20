@@ -6837,41 +6837,6 @@ Author: Cameron Katri <me+quickactions@cameronkatri.com>
 Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
 Name: QuickActions
 
-Package: com.ccborder
-Version: 1.1.9
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 448
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
-Filename: ./debs/com.ccborder_1.1.9_iphoneos-arm64e.deb
-Size: 46924
-MD5sum: 20c6c2615a957ea0701a193c95a41648
-SHA1: c2b08bdcfd88a55ea4e245a2a0fa9f1b1eabb8b1
-SHA256: ed986443d820ce38edd36ebe10975525ef56b66466c8e358434b6a8e0d2d51b3
-Section: 控制中心
-Description: iOS18样式的控制中心，基于p2kdev的开源定制。上架备份。
-Author: fiore & p2kdev & 妖刀
-Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
-Name: CCBorder16
-
-Package: com.ccborder
-Version: 1.1.9
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 448
-Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
-Filename: ./debs/com.ccborder_1.1.9_iphoneos-arm64.deb
-Size: 39820
-MD5sum: 1cc5d05d0f4e7e62064686c0c0915c56
-SHA1: 15b478bbb1c88abc787c8d5039e9cf1e5c49378f
-SHA256: 5aa6135c1593fa26a04b1da87530ed7f7f5fe5af046ba8b61122b4b5e219eb51
-Section: 控制中心
-Description: iOS18样式的控制中心，基于p2kdev的开源定制。上架备份。
-Author: fiore & p2kdev & 妖刀
-Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
-Name: CCBorder16
-
 Package: com.cccellularrate
 Version: 1.1-1
 Architecture: iphoneos-arm64e
@@ -17178,39 +17143,6 @@ Description: 支持ios15-16无根隐根，移除“设置-电池-电池健康与
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
 Name: NoPreferencesTips
-
-Package: com.susu.photos
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.susu.photos_1.0.0_iphoneos-arm64.deb
-Size: 3572
-MD5sum: 15876d7e90c6c0442e3cb0da12b13a8c
-SHA1: 48340c8563e703b16df105e0299e800d0544d5a6
-SHA256: 07c09914ecae84784017cba4b945caa4cd4be10332f18dfc89009fdb10b8cb9d
-Section: Tweaks
-Description: 删除原生相册无用的窗口
-Author: 苏苏
-Name: SuPhotos
-
-Package: com.susu.photos
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: 苏苏
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.susu.photos_1.0.0_iphoneos-arm64e.deb
-Size: 4916
-MD5sum: 0b41fa5ce2f349c2f3e1e81ca26e1737
-SHA1: bbd91f0b85b622ed44e009f9d222b89c46f565eb
-SHA256: 041fc2d881659030153c60cd973213823c533cbdc68c7642591a336147c18668
-Section: Tweaks
-Description: 删除原生相册无用的窗口
-Author: 苏苏
-Name: SuPhotos
 
 Package: com.susu.powermenu
 Version: 1.0.6
