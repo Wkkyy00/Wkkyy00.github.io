@@ -15465,6 +15465,43 @@ Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信自动领取私聊红包
 
+Package: com.qwq.wcautoclaimhb
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: qwq
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qwq.wcautoclaimhb_1.0.2_iphoneos-arm64.deb
+Size: 15836
+MD5sum: 49e10a1d00d94813dae757b72471bfd7
+SHA1: d37cc63e6d3418cc9e5fb8a7b90f8642fe4801d4
+SHA256: cb03c5c37720e6690c3ac27d8311fe84f3e8148e438f32d67291f7c57a796ff1
+Section: 微信插件
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信自动领取私聊红包
+
+Package: com.qwq.wcautoclaimhb
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: qwq
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qwq.wcautoclaimhb_1.0.2_iphoneos-arm64e.deb
+Size: 21514
+MD5sum: 93dd1fff1f8513b6dac2c7eedf3025a9
+SHA1: 6ecd2002d586306e25b4328e017a274b0accf517
+SHA256: 2c6fca4f8ccf6b0ecf84b671dbffb8405fcc4c1afe0e0bb47a374d8f72f8957c
+Section: 微信插件
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信自动领取私聊红包
+
 Package: com.randy420.tools
 Version: 2.3.9
 Architecture: iphoneos-arm64e
