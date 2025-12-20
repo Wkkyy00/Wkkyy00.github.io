@@ -22285,6 +22285,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/10/9c630c1cf2e82dad87a2c521de661ff2.png
 Name: 豆瓣NoAds
 
+Package: com.wkk.ddcxhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ddcxhook_1.0-1_iphoneos-arm64e.deb
+Size: 5142
+MD5sum: a05c31398425b401aaffc11e708a7cf0
+SHA1: 1c59527754b60beb90f5b3180bbaaf448219c673
+SHA256: 72f76fe2c0ad4f26f3b4ba294d23a1e1ee629908285939725b6b74d220e3f256
+Section: 去广告
+Description: 去开屏广告，版本：10.15.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/20/ba031db0154b6f76f49092696eb3e49f.png
+Name: 嘀嗒出行NoAds
+
+Package: com.wkk.ddcxhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ddcxhook_1.0-1_iphoneos-arm64.deb
+Size: 3572
+MD5sum: cc52250ebee93b0675c1c2078e749f07
+SHA1: bb9fd19ec9d968af4d595c8d8aaa4393370d3454
+SHA256: c586e95b4562f7f415564cef76d658b5de5efa85351cd8c76ac242d4ad7d44de
+Section: 去广告
+Description: 去开屏广告，版本：10.15.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/20/ba031db0154b6f76f49092696eb3e49f.png
+Name: 嘀嗒出行NoAds
+
 Package: com.wkk.debbatch
 Version: 1.2
 Architecture: iphoneos-arm64e
