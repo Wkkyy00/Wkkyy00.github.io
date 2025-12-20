@@ -9189,6 +9189,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
 Name: Filza Crack
 
+Package: com.filzacrack
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
+Filename: ./debs/com.filzacrack_1.1-9_iphoneos-arm64.deb
+Size: 28744
+MD5sum: 96320a4239c26c21a90eef555f2c9567
+SHA1: 4be1cd26605361179321d925bb97a66bc1f19f77
+SHA256: 48dc107757017eff1c03c44d2f9a89cfc28b08f13c76f83ac4ad0fa067ec59d3
+Section: 插件
+Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: Filza Crack
+
+Package: com.filzacrack
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
+Filename: ./debs/com.filzacrack_1.1-9_iphoneos-arm64e.deb
+Size: 39954
+MD5sum: ec1c840b7ff54c985ea624a88374cbd8
+SHA1: 2b72a4019bedbb31600851ed46b1c20a2a2e9667
+SHA256: 93315902477aa95557e65961a33c3ba9cff429e4b8991908d439fc5021d6d7cb
+Section: 插件
+Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: Filza Crack
+
 Package: com.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
