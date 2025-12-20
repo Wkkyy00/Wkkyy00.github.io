@@ -15393,6 +15393,43 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ通知头像
 
+Package: com.qwq.wcautoclaimhb
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: qwq
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qwq.wcautoclaimhb_1.0_iphoneos-arm64.deb
+Size: 14720
+MD5sum: df29394fcb49b66d252033739276e14b
+SHA1: b5e8c3c4714c8a02818e5f5d8670d275654178f9
+SHA256: 96ecb72b3053e3cbf57261636c4c804f734862edfd86a51db025a6ca39ba3ff8
+Section: 微信插件
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信自动领取私聊红包
+
+Package: com.qwq.wcautoclaimhb
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: qwq
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.qwq.wcautoclaimhb_1.0_iphoneos-arm64e.deb
+Size: 20116
+MD5sum: 7bf6b44796ec10576d624864508a81e1
+SHA1: 6efdaf61e513e84b2031b751bc40703af3495979
+SHA256: 61865a6119b0c85d3e4c6abf4d9c39484f9948f6eebb8ddc5a15da82320cf17f
+Section: 微信插件
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信自动领取私聊红包
+
 Package: com.randy420.tools
 Version: 2.3.9
 Architecture: iphoneos-arm64e
