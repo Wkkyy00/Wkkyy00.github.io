@@ -1582,41 +1582,6 @@ Author: null
 Icon: https://s1.imagehub.cc/images/2025/06/15/57b69ab9edb5fe7970bc3d47268389fc.png
 Name: TalkatoneNoAds
 
-Package: com.autoscroll
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: pxcex
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Conflicts: com.pxcex.autoscroll, com.Axs.autoscroll, xyz.cypwn.autoscroll15, byg.iosios.net.autoscroll, com.autoscroll.jb
-Filename: ./debs/com.autoscroll_1.0_iphoneos-arm64e.deb
-Size: 7366
-MD5sum: e0cceabbc41791a8b91950bab4296f0a
-SHA1: 4b38df9d12704e04ffa83685b1e8a709510e09c9
-SHA256: fdcd06a2fa9741f57603fb3f8f833e96e3a18660300c7496bda56adaf91e32b5
-Section: 插件
-Description: 跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置项。
-Author: pxcex
-Icon: https://s1.imagehub.cc/images/2025/03/13/2e6958e882916c6bf4062b6fb0761054.jpeg
-Name: AutoScroll
-
-Package: com.autoscroll
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: pxcex
-Depends: mobilesubstrate
-Conflicts: com.pxcex.autoscroll, com.Axs.autoscroll, xyz.cypwn.autoscroll15, byg.iosios.net.autoscroll, com.autoscroll.jb
-Filename: ./debs/com.autoscroll_1.0_iphoneos-arm64.deb
-Size: 5416
-MD5sum: c0ee6b8f4cfcf18a845b194fd4fc6bda
-SHA1: 838e9b7ac0be6f75b554bcb9abd2a646be0290e5
-SHA256: 7432292a2795d0e4af8bb5b757dfad16ff2d49e1f7404608faa6f504e848f1bb
-Section: 插件
-Description: 跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置项。
-Author: pxcex
-Icon: https://s1.imagehub.cc/images/2025/03/13/2e6958e882916c6bf4062b6fb0761054.jpeg
-Name: AutoScroll
-
 Package: com.be-huge.floating-view
 Version: 1.4.6
 Architecture: iphoneos-arm64e
@@ -6238,43 +6203,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
 Name: Filza Crack
 
-Package: com.forSnapper3.wkk
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3.wkk_1.0_iphoneos-arm64.deb
-Size: 20544
-MD5sum: 506014b0167e3aad7a13c372bbde9671
-SHA1: 3df1d55d0c4757302b164e8cfe39c5aee4c55331
-SHA256: f42151d61c63f0637505dcbb17ab9296c45b24d90fb1f2606c7d13d03bd7db2e
-Section: 一切美化的东西都是垃圾
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
-
-Package: com.forSnapper3.wkk
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3.wkk_1.0_iphoneos-arm64e.deb
-Size: 21568
-MD5sum: bd9de1c6518b60029c9ef3279cb85f09
-SHA1: bfa46e4ebfaae7a536802bd27df2e4bf25aa0238
-SHA256: c0a03b09aed704e21368df893a601206bf0fc064277b244d3027640e7c3e56b9
-Section: 一切美化的东西都是垃圾
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
-
 Package: com.gilshahar7.dndmyrecording
 Version: 1.3
 Architecture: iphoneos-arm64e
@@ -9123,41 +9051,6 @@ Description: 使控制中心的亮度和音量滑块水平。
 Author: Nightwind
 Icon: https://github.com/NightwindDev/HorizontalSliders/blob/main/Images/Icon.png?raw=true
 Name: HorizontalSliders
-
-Package: com.opa334.crane
-Version: 1.3.16-4
-Architecture: iphoneos-arm64e
-Maintainer: opa334
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/com.opa334.crane_1.3.16-4_iphoneos-arm64e.deb
-Size: 1551268
-MD5sum: 3e073116b2cb9383ef3e996945ef90e6
-SHA1: 9a220d08c398e28a742171a144665ac8f09c6125
-SHA256: bb63f45bebeed6deb001907b4e904d2fe8414a406ec9663f6df1f25f8286a5a6
-Section: Tweaks
-Description: 正版砸壳备份，请支持正版。
-Author: opa334
-Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
-Name: Crane
-
-Package: com.opa334.crane
-Version: 1.3.16-4
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/com.opa334.crane_1.3.16-4_iphoneos-arm64.deb
-Size: 602348
-MD5sum: 6aebde4332db90a9fa9d28e6916c3db3
-SHA1: 60e6c4a8f470a8b37b83ee750cbea7614f0a33c7
-SHA256: 7a3316c8fe3a42f65764b47e1e8448ece4d444acd54904c54e71dd8d75fbc4bc
-Section: Tweaks
-Description: 正版砸壳备份，请支持正版。
-Author: opa334
-Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
-Name: Crane
 
 Package: com.p2kdev.tapticboard
 Version: 1.2
@@ -12472,57 +12365,6 @@ Author: fv群友
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChat自用气泡
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
-
-Package: com.wkk.applock
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2Kdev
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm.deb
-Size: 8980
-MD5sum: 02d8db1f2c910919a688b9799750a376
-SHA1: 9f068e2033d09ea9dae4e36f1027932f7eed57a2
-SHA256: b43813b690a5fc9d4198da5f2724a7c6e66b8d0bae806fea23fb482bff371bb7
-Section: Tweaks
-Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
-Author: P2Kdev
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
-Name: AppLock
-
-Package: com.wkk.applock
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: P2Kdev
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm64e.deb
-Size: 9004
-MD5sum: 85500d89cdd72cbe84e796dd6c76f5e7
-SHA1: 925545ee567f41605cb3a67e47c2383cadc0a26c
-SHA256: 938505976dbe4e6777ea8404167d5abd5961aec810dcaed9c67c23e509417310
-Section: Tweaks
-Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
-Author: P2Kdev
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
-Name: AppLock
-
-Package: com.wkk.applock
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: P2Kdev
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.applock_1.1_iphoneos-arm64.deb
-Size: 9056
-MD5sum: df25ba9d00f69be57d0324321e7bb1ff
-SHA1: 0c340b90d7b281040c3d07aa3e895fbc6ff54186
-SHA256: e2a16ad1d87bd6cb5f4de6032b8fa8b4d7a3680e935f9e4a29176bfc071208c2
-Section: Tweaks
-Description: 使用Touch ID或Face ID锁定您的应用程序，App在后台或者打开状态时，不再参与加锁，只在App未打开时起作用。
-Author: P2Kdev
-Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
-Name: AppLock
 
 Package: com.wkk.aqyhook
 Version: 1.0
