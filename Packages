@@ -5164,24 +5164,6 @@ Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatPopVC
 
-Package: com.betterccbrightness
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 304
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
-Filename: ./debs/com.betterccbrightness_1.0.2_iphoneos-arm64.deb
-Size: 43676
-MD5sum: 57923c2482f1b9807764083969fa9a5f
-SHA1: 543f306e6de2a07044492caf17f9dff1831e43b3
-SHA256: 17f00755a83fc7376183649341f9426a6c4682b84a76d50c389694c1ad165552
-Section: 越狱插件
-Description: 控制中心亮度模块长按后，新增降低白点值和夜览的滑块，支持无根隐根，保护眼睛从我做起！
-Author: level3tjg
-Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.png
-Name: BetterCCBrightness
-Sponsor: wkk
-
 Package: com.blbl
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -6374,40 +6356,6 @@ Description: 自定义状态栏时间、信号、数据、电池等颜色。个�
 Author: DTCalabro
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
 Name: ColorBar15
-
-Package: com.dcproducts.pagedotsbegone
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Derek Calabro
-Installed-Size: 856
-Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
-Filename: ./debs/com.dcproducts.pagedotsbegone_1.0.0_iphoneos-arm64.deb
-Size: 151880
-MD5sum: 595050a352358a47e396abbe527d7ec9
-SHA1: 8b54c8515fec1be2c76bacf14f8368af8f79a8ad
-SHA256: de838a67704ae78aa245c9822d78dc8ad2ddde61a1234380d60ab6e3e8f1cd4a
-Section: 插件
-Description: PageDotsBeGone不仅可以隐藏页面点，还可以自定义它们的颜色，包括堆叠的小组件依然也可以隐藏页面点或自定义其颜色。
-Author: Derek Calabro
-Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
-Name: PageDotsBeGone
-
-Package: com.dcproducts.pagedotsbegone
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: Derek Calabro
-Installed-Size: 856
-Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
-Filename: ./debs/com.dcproducts.pagedotsbegone_1.1.0_iphoneos-arm64.deb
-Size: 205944
-MD5sum: 766a39cee051596c331c689ea72c7d07
-SHA1: 9a83166e93da27ff05ceeebb977dada16d0f8186
-SHA256: ff250880daf0374170f833ef6061b9ef9fab2f506911c98048fd18a6851ca888
-Section: 插件
-Description: PageDotsBeGone不仅可以隐藏页面点，还可以自定义它们的颜色，包括堆叠的小组件依然也可以隐藏页面点或自定义其颜色。更新增加支持IOS16。
-Author: Derek Calabro
-Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
-Name: PageDotsBeGone
 
 Package: com.doki.wxkeyboarduihook
 Version: 1.6
@@ -11685,42 +11633,6 @@ Author: 热心网友＆雪糕
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCElite
 
-Package: com.roothide.manager
-Version: 1.2
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Installed-Size: 896
-Depends: firmware (>= 15.0)
-Filename: ./debs/com.roothide.manager_1.2_iphoneos-arm64e.deb
-Size: 730790
-MD5sum: 5bfb51d431737afb08685dbfe66206aa
-SHA1: a8d60793bc10a989404c5b6c336a938a4266029d
-SHA256: 3fc4c80d09cab6c207339a6dd596f135b49a8f27e94a7dc87ead57ca8598cc6f
-Section: System
-Description: Configuare RootHide's Features
-Author: roothide
-Depiction: https://github.com/roothide/RootHideManagerApp
-Name: RootHide Manager
-Support: https://github.com/roothide/RootHideManagerApp
-
-Package: com.roothide.manager
-Version: 1.3.1
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Installed-Size: 900
-Depends: firmware (>= 15.0)
-Filename: ./debs/com.roothide.manager_1.3.1_iphoneos-arm64e.deb
-Size: 733142
-MD5sum: 5b484d3437282426ecb7faf8d6e27af2
-SHA1: 2615c95badd908ed5615c9d174e6c1ccb3f4f788
-SHA256: a83f4ec6981b878eb648ac1ed65ae555d6a97a6bbf01db679962ece3bfec5510
-Section: System
-Description: Configuare RootHide's Features
-Author: roothide
-Depiction: https://github.com/roothide/RootHideManagerApp
-Name: RootHide Manager
-Support: https://github.com/roothide/RootHideManagerApp
-
 Package: com.satella
 Version: 1.9.0-1
 Architecture: iphoneos-arm64e
@@ -11963,24 +11875,6 @@ Description: 插件设置归类。
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
 Name: Shuffle
-
-Package: com.sini921.showmytouches
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: dvntm & SINI
-Installed-Size: 484
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sini921.showmytouches_1.2.0_iphoneos-arm64.deb
-Size: 75876
-MD5sum: ed02598a1c47caee5595c70ffbad606b
-SHA1: 151b7b391f0d0b94c813441c19041dd9bd32da1d
-SHA256: e9e17f35e8a1e0a45e62e3c067198dbc15007d8580fa20c577239abd541ab176
-Section: 插件
-Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
-Author: dvntm & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
-Name: ShowMyTouches
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
 
 Package: com.skypain.flexloader
 Version: 5.25.19-1
@@ -12451,190 +12345,6 @@ Section: 插件
 Description: 神奇的交互动画双0.1模式，也是自用。
 Author: 苏苏
 Name: SpringAnimation
-
-Package: com.susu.suawemehook
-Version: 1.2-4
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.2-4_iphoneos-arm64.deb
-Size: 22680
-MD5sum: 9b71d38c813d8a4edc1ff8cbb485fa33
-SHA1: e8cc2fe7a21adca93cdc07e70695d388dba21f4e
-SHA256: 6db649610bc52cf7d6dc9ecc8d0c2690f4abf6090883c73820677de7608d0c83
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-
-Package: com.susu.suawemehook
-Version: 1.2-5
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.2-5_iphoneos-arm64.deb
-Size: 22816
-MD5sum: b60010c6a3b9731e5b1e45238448f8e8
-SHA1: 9b91649b88cdc6628e902f2d4932053819e33a8b
-SHA256: 8bb7c73af81f58fd4c4a36c7911c8fc296ddba7a2b6367b292bfc2e98465fe87
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-
-Package: com.susu.suawemehook
-Version: 1.2-7
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.2-7_iphoneos-arm64.deb
-Size: 22496
-MD5sum: d0d6ef38c10f866119c5fc7cc54bc19f
-SHA1: 98e159b4d9555d27a68eec8a3c92161b1efeb466
-SHA256: 1c6c3837ac73f5ac33558a760ba60e8e9e7995856296a69fffca3db1e8a40d62
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-
-Package: com.susu.suawemehook
-Version: 1.2-8
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.2-8_iphoneos-arm64.deb
-Size: 22992
-MD5sum: 3b8188fd46eb990e96b686ed9759287a
-SHA1: 201102ff16e1ff7216f5debe37710b8024d46982
-SHA256: 2b79165ea41e7243f76198a2ebb12c18d46bf77dc523cdc0ad2d014eaedfe31d
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-
-Package: com.susu.suawemehook
-Version: 1.3.1
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.3.1_iphoneos-arm64.deb
-Size: 23404
-MD5sum: 1a3fd63f3928a96178d7d2ac9508d92f
-SHA1: 53df32a86e638d6ce15b7014ddf95571559c28e9
-SHA256: 3eaa930ce41621abc54041b44dd823f129026b9b744ec11a6760b38ec52867b5
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
-
-Package: com.susu.suawemehook
-Version: 1.3.2
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.3.2_iphoneos-arm64.deb
-Size: 23536
-MD5sum: b8fc341c6302265f56939df97fcf2849
-SHA1: eca94ee6db939e82d5247fa9f65b6e4a6627bc72
-SHA256: 07b140d417e3f7d757b07c515081406a73fb09b58e766e8264d4fddd8f5b8111
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-
-Package: com.susu.suawemehook
-Version: 1.3.3
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.3.3_iphoneos-arm64.deb
-Size: 32008
-MD5sum: 564e6e2f591e4ad315f5020eb0281c42
-SHA1: ba46cf5a43e486636ee15098135f31166473d391
-SHA256: 9e69c8d769fea29941779c71c02860be33fd44d44d4ce8f2b6fce01a6713da32
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-
-Package: com.susu.suawemehook
-Version: 1.3.5
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.3.5_iphoneos-arm64.deb
-Size: 31716
-MD5sum: 71918742abca046639a79e096ffa6ca0
-SHA1: 9d301899302b1172bc79e30e07fcb67b937131c0
-SHA256: 6f499d3818aefa36d95d0d343279f9895a0cb7c1cf2d89ae2b2d89a7bbba19c3
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
-
-Package: com.susu.suawemehook
-Version: 1.3.6
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 352
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.3.6_iphoneos-arm64.deb
-Size: 37908
-MD5sum: 09122b0faa4976fc60365111a209e061
-SHA1: de12ab475b852b88a96383c7d7286cf9edc58b8a
-SHA256: 5c5ef01578466005c279628bb80061cffb96a5dd379ccdb9b002699f75960403
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
-
-Package: com.susu.suawemehook
-Version: 1.3.7
-Architecture: iphoneos-arm64
-Maintainer: susu
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.susu.suawemehook_1.3.7_iphoneos-arm64.deb
-Size: 42332
-MD5sum: 23fc9ec61ea5a2b91fed163b5e45a5f1
-SHA1: e4f045f604d74bd006b71069cab66657ecd9a151
-SHA256: 6629c27c2afbe0db276ed5723744f47709e127ddd2fece1e479cdecaaae0232c
-Section: 抖音插件
-Priority: optional
-Description: 仅供学习交流。
-Author: susu
-Icon: https://s1.imagehub.cc/images/2025/01/24/097b48bc351039bf95780a361c9ed6d9.png
-Name: SuAwemeHook
-Sileodepiction: https://www.susubaby.top/json/SuAwemeHook/js.json
 
 Package: com.susu.wcfrostedglass
 Version: 1.0.3
