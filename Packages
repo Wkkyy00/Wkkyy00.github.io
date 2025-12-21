@@ -25473,14 +25473,14 @@ Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.xjcdhook_1.0-1_iphoneos-arm64e.deb
-Size: 3108
-MD5sum: baf368576b035f9887f7b94edafa9572
-SHA1: 8323ffdff02f0b3d762ac90cc16a5bb51dfd83a4
-SHA256: 9d9414804dda96bc3b589e792976b360597d90699d07b4802c374b0568fcd964
+Size: 3116
+MD5sum: 0cc3e5464f495d6efa5ee0939f8371a3
+SHA1: 7e30aeba466eac77de068c14145eea9f45ccc990
+SHA256: da1f589c71b9604dd0a0e4c011721a304e4e033b196336b72e3cb76b6df4cb04
 Section: Tweaks
 Description: 去横幅广告，版本：1.7.9，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
 Author: wkk
-Icloudhttps: //s1.imagehub.cc/images/2025/12/21/c37d7656c9be6ad0b7c7cdee716e7e1b.png
+Icon: https://s1.imagehub.cc/images/2025/12/21/c37d7656c9be6ad0b7c7cdee716e7e1b.png
 Name: 小桔充电hook
 
 Package: com.wkk.xjcdhook
