@@ -6829,23 +6829,6 @@ Author: zhaonan <invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: debd（自用）
 
-Package: com.netskao.appdata
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 14408
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.appdata_1.4.1_iphoneos-arm64.deb
-Size: 4644388
-MD5sum: d2d29f2e0f1724b5afc9dc5b72d3a88e
-SHA1: b7888ade7d9429392d42afa0176907eb61968c7d
-SHA256: d72375b7adfd17eb16e0a802c089cda8d4890bbd3c560590161d51b8c9a3f697
-Section: 插件
-Description: 备份上架1.4.1版本。
-Author: Fouad Raheb
-Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
-Name: AppData
-
 Package: com.netskao.wechatdragdropimages
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -13529,41 +13512,6 @@ Description: 解锁画中画限制，双指随意放大，无设置项。
 Author: Soh Satoh
 Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
 Name: FreePIP
-
-Package: latchkey
-Version: 2.3.3
-Architecture: iphoneos-arm64e
-Maintainer: Maxwell Dausch
-Installed-Size: 13476
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/latchkey_2.3.3_iphoneos-arm64e.deb
-Size: 439684
-MD5sum: fdf8fca49acc11be667e77a52890b7ba
-SHA1: f2a4dc6eba23140ee7ed7f383a751f071e419c25
-SHA256: 150dd38563021f892701b9aa43028a2974a95c11ca1b3c1f2b887e81472f3c8e
-Section: 插件
-Description: 自定义锁头最终版本，去掉无用选项
-Author: Maxwell Dausch
-Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
-Name: Latchkey
-
-Package: latchkey
-Version: 2.3.3
-Architecture: iphoneos-arm64
-Maintainer: Maxwell Dausch
-Installed-Size: 13476
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/latchkey_2.3.3_iphoneos-arm64.deb
-Size: 423024
-MD5sum: 7fb1147ce23678f3bbbfbfd1215c866b
-SHA1: 275da556f3a9bee1460178b93831c0664142445b
-SHA256: 9a771933bbf78317123c272e798f94ed7ccc20a595d933cd43851fd560004695
-Section: 插件
-Description: 自定义锁头最终版本，去掉无用选项
-Author: Maxwell Dausch
-Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
-Name: Latchkey
 
 Package: me.luki.canna
 Version: 0.9.0
