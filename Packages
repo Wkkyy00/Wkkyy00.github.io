@@ -7457,50 +7457,6 @@ Author: 🄷🅆
 Icon: https://s1.imagehub.cc/images/2025/12/13/79a27a347eac08b4f6e29dbc7775fe10.png
 Name: 农业银行NoJB
 
-Package: com.ichitaso.hidekbsettings
-Version: 1.0.6
-Architecture: iphoneos-arm64e
-Maintainer: ichitaso
-Installed-Size: 428
-Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64e.deb
-Size: 47422
-MD5sum: 3b77aa7db7ddcd752afabf4bfbbe0047
-SHA1: 6c925ce3cf690c0c6e45bd18de4bac7bbfb1e4ca
-SHA256: df21f9c8266a0ff94028fd414277064aebe7cb2dc5af6abb0609c7cf7465343e
-Section: 插件
-Homepage: https://ichitaso.com/
-Description: 从键盘地球按钮切换器中隐藏“键盘设置”
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
-Author: ichitaso <willfeeltips+hks@gmail.com>
-Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
-Dev: ichitaso
-Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
-Name: HideKBSettings
-
-Package: com.ichitaso.hidekbsettings
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 428
-Pre-Depends: firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64.deb
-Size: 41000
-MD5sum: 5473c8e2cf4c63f34579f924dbfae2d2
-SHA1: 7fa2e52116a9dfaf27de9b7ebbe4a0924b02524f
-SHA256: f286914f3f327a8b5bde0b1350b44238d388e792c93e6ffbf3a47ddb7bff1404
-Section: 插件
-Homepage: https://ichitaso.com/
-Description: 从键盘地球按钮切换器中隐藏“键盘设置”
-Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
-Author: ichitaso <willfeeltips+hks@gmail.com>
-Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
-Dev: ichitaso
-Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
-Name: HideKBSettings
-
 Package: com.ichitaso.ringertoggle
 Version: 0.3
 Architecture: iphoneos-arm64
@@ -7997,41 +7953,6 @@ Description: 备份上架。长按降级。
 Author: Fouad Raheb
 Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
 Name: AppData
-
-Package: com.netskao.autofaceunlock-rootless
-Version: 1.1-7
-Architecture: iphoneos-arm64e
-Maintainer: Nets
-Installed-Size: 452
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.autofaceunlock-rootless_1.1-7_iphoneos-arm64e.deb
-Size: 78922
-MD5sum: 936432b45ba3d067f8d371569b74902e
-SHA1: 71ad9f0ba25616c127eaac128e52576425a3c2a3
-SHA256: 0ea9dca8870252c91661474c68bb533d8f18989ff9d9daca96c0c45e687661bd
-Section: 插件
-Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
-Name: AutoFaceUnlock
-
-Package: com.netskao.autofaceunlock-rootless
-Version: 1.1-7
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 452
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.autofaceunlock-rootless_1.1-7_iphoneos-arm64.deb
-Size: 63560
-MD5sum: a9b98444c821c626ca570b025858fcfa
-SHA1: 94d642f85e1e4f6de7eac04e728dd28faaee7fef
-SHA256: dc6f86034dbba4f3cacc28d5d31f68b2e29f81c3e480d9ef21c47e5dec1d9acb
-Section: 插件
-Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
-Name: AutoFaceUnlock
 
 Package: com.netskao.wcabtestapnsheadimg
 Version: 1.1-1
@@ -9395,40 +9316,6 @@ Author: sunshinesong
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 Name: split-view-pro
 Ts: sp-sss
-
-Package: com.susu.hidekbsettings
-Version: 1.0.7
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 404
-Pre-Depends: firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.susu.hidekbsettings_1.0.7_iphoneos-arm64.deb
-Size: 24548
-MD5sum: 4a6b19ca8216450c6c9942528580e71d
-SHA1: b5c7621849812a8cdd85184041de937ccd8d8b44
-SHA256: 0c60227659b7e27f3f77688c3e0178925227343a71ff522eda464984076f337e
-Section: 插件
-Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
-Icon: https://www.susubaby.top/images/HidekBSettings.png
-Name: HideKBSettings
-
-Package: com.susu.hidekbsettings
-Version: 1.0.7
-Architecture: iphoneos-arm64e
-Maintainer: 苏苏
-Installed-Size: 404
-Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.susu.hidekbsettings_1.0.7_iphoneos-arm64e.deb
-Size: 30642
-MD5sum: 17e3c3b559d2e194beb11dda372a26b3
-SHA1: ba91e0282459bf7f2eaeb75c766d34c554adebe9
-SHA256: 585b5048b1f3a84593a1d36bbc3f458d87fa16bfb15d4527e430dccbd3b1f3c8
-Section: 插件
-Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
-Icon: https://www.susubaby.top/images/HidekBSettings.png
-Name: HideKBSettings
 
 Package: com.susu.nopreferencetips
 Version: 1.0.4
