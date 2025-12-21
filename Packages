@@ -8592,41 +8592,6 @@ Author: starry6
 Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
 Name: 汽水音乐NoAds
 
-Package: com.sttt.easybikenoads
-Version: 1.0.5
-Architecture: iphoneos-arm64e
-Maintainer: sttt
-Installed-Size: 184
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sttt.easybikenoads_1.0.5_iphoneos-arm64e.deb
-Size: 4858
-MD5sum: 34b27bc90644dddea767ea50505cd087
-SHA1: 93f9c5807081ded4004d330230d469b8d3237394
-SHA256: db3c6b6fc851f0d549b1ac2508f6336542ff3ccc8922d81fc2a266d4766b242b
-Section: 去广告
-Description: 哈啰去广告，版本：6.88.5
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/haluo.png
-Name: EasyBikeNoAds
-
-Package: com.sttt.easybikenoads
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: sttt
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sttt.easybikenoads_1.0.5_iphoneos-arm64.deb
-Size: 3548
-MD5sum: 5912527e2b97f498eb5e546316b17972
-SHA1: 83e94142e3246d8d4726f6e950f6cc98c789476d
-SHA256: 59dfc1a1500b5541405e1a81f11b4ddf8a08122b11ec3a656a3a128b96e24d29
-Section: 去广告
-Description: 哈啰去广告，版本：6.88.5
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/haluo.png
-Name: EasyBikeNoAds
-
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
 Architecture: iphoneos-arm64
@@ -9683,23 +9648,6 @@ Size: 6200
 MD5sum: 72e8d95a734a345f0f027a1a0843ca67
 SHA1: 9a8d41665bf71c873e0c370fcb4b30451be99b6d
 SHA256: 0ce822b5705e30e50d59b4da72a168acb6092b4a81a5486f15e6425208c9133e
-Section: 去广告
-Priority: optional
-Description: 菜鸟去广告 by Vita
-Author: vita
-Name: CNNoAd
-
-Package: com.vita.cnnoad
-Version: 0.1-2-3
-Architecture: iphoneos-arm64e
-Maintainer: vita
-Installed-Size: 168
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.vita.cnnoad_0.1-2-3_iphoneos-arm64e.deb
-Size: 6136
-MD5sum: 616caa38ecc4428b3c8147da275dfb49
-SHA1: 1ca96e52cd053b35d1acbe29d37633c9ecd00e09
-SHA256: 3700ec7a6eed7a3217b1333fbc4580e56f23858cd34c5bff1af10f513a48c89f
 Section: 去广告
 Priority: optional
 Description: 菜鸟去广告 by Vita
@@ -11156,6 +11104,41 @@ Description: 通过点击主屏幕背景快速锁定，锁定/解锁的触觉反
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/icon.png
 Name: FastLock
+
+Package: com.wkk.fbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fbhook_1.0-1_iphoneos-arm64e.deb
+Size: 6128
+MD5sum: 58fe55c95f501ce2cda02eeb52ac5b61
+SHA1: e9943b38d2ffb48b99020da4c622dda0fb3dbb19
+SHA256: 1ef3ca30235a9fa57cd7cec5300c60bb1066d22383b0ce24a6acb86b295c799e
+Section: 去广告
+Description: 去开屏和内置一些广告，版本：6.18.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/22/00b6117613d77d97df0051ed293c84f9.png
+Name: 粉笔NoAds
+
+Package: com.wkk.fbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.fbhook_1.0-1_iphoneos-arm64.deb
+Size: 4336
+MD5sum: 03d0d3c679beddac7593d47f17a11136
+SHA1: 286bc751a4c37ca7e2a31505a1077433ccf78477
+SHA256: b2572507182d7aacbb9c1ad37c521a2eb71963a272935f9d71643c29ce570951
+Section: 去广告
+Description: 去开屏和内置一些广告，版本：6.18.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/22/00b6117613d77d97df0051ed293c84f9.png
+Name: 粉笔NoAds
 
 Package: com.wkk.feizhuhook
 Version: 1.0-1
