@@ -1496,39 +1496,6 @@ Author: 灰灰
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 字体一键替换
 
-Package: com.Talkatonehook
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: mull
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.Talkatonehook_1.0_iphoneos-arm64.deb
-Size: 2620
-MD5sum: 6f7d3d390af4b483e1c27157fb6f400d
-SHA1: 8b797343b216b2a810ddce9778c31e4fc86e1b0b
-SHA256: 6b54de1f8593f7eecfa7afbff85d3433aeb5677f1d8acd4d6a854e3035f54fcd
-Section: 去广告
-Description: 无广体验Talkatone，激活设置页面的“Remove Ads”，去除底部的飘浮广告，通话记录和信息顶部飘浮的官方广告没去除，点右上角“X”关闭。
-Author: null
-Icon: https://s1.imagehub.cc/images/2025/06/15/57b69ab9edb5fe7970bc3d47268389fc.png
-Name: TalkatoneNoAds
-
-Package: com.Talkatonehook
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: mull
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.Talkatonehook_1.0_iphoneos-arm64e.deb
-Size: 3886
-MD5sum: b6caf08cf0deff033b84c7815622bf83
-SHA1: 390c15368b93175088d6d75746b34f8b8882764e
-SHA256: a81fd58dae866a03c8dc734d217e86101d4e6145f3e3244e60831f39e0f1b1a3
-Section: 去广告
-Description: 无广体验Talkatone，激活设置页面的“Remove Ads”，去除底部的飘浮广告，通话记录和信息顶部飘浮的官方广告没去除，点右上角“X”关闭。
-Author: null
-Icon: https://s1.imagehub.cc/images/2025/06/15/57b69ab9edb5fe7970bc3d47268389fc.png
-Name: TalkatoneNoAds
-
 Package: com.be-huge.floating-view
 Version: 1.4.6
 Architecture: iphoneos-arm64e
@@ -4957,41 +4924,6 @@ Author: 狗哥
 Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
 Name: 哔哩哔哩净化
 
-Package: com.cameronkatri.quickactions
-Version: 1.0.0-2
-Architecture: iphoneos-arm64e
-Maintainer: Cameron Katri <me+quickactions@cameronkatri.com>
-Installed-Size: 458
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.cameronkatri.quickactions_1.0.0-2_iphoneos-arm64e.deb
-Size: 51012
-MD5sum: 792c65959b02bbac26862a89b89e24e6
-SHA1: d1d5ff0047e4edd1380ef949350a3fbe2e3da855
-SHA256: 1b91c314fdfd711f72b262bb3239b33ba72cc811c6c5ae6d8c0168ccd891d172
-Section: 插件
-Description: 锁屏相机和手电筒可以设置其他快捷方式的功能。不仅仅再是相机与手电筒！
-Author: Cameron Katri <me+quickactions@cameronkatri.com>
-Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
-Name: QuickActions
-
-Package: com.cameronkatri.quickactions
-Version: 1.0.0-2
-Architecture: iphoneos-arm64
-Maintainer: Cameron Katri <me+quickactions@cameronkatri.com>
-Installed-Size: 458
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.cameronkatri.quickactions_1.0.0-2_iphoneos-arm64.deb
-Size: 40248
-MD5sum: d3ce884b67fe19c9e38fb6dcc50469b2
-SHA1: f422415268bd001853e3f2c1410c71548dee7184
-SHA256: b72a5b7f92886cd152cc618d937fd35979501ad9dbafbc4e681268f8611b958e
-Section: 插件
-Description: 锁屏相机和手电筒可以设置其他快捷方式的功能。不仅仅再是相机与手电筒！
-Author: Cameron Katri <me+quickactions@cameronkatri.com>
-Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
-Name: QuickActions
-
 Package: com.cccellularrate
 Version: 1.1-1
 Architecture: iphoneos-arm64e
@@ -7320,41 +7252,6 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPush2Chat
 
-Package: com.huami.WCPush2Chat
-Version: 1.0-2
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.huami.WCPush2Chat_1.0-2_iphoneos-arm64e.deb
-Size: 48680
-MD5sum: 7ad17c0cb7a2bfcabe7779d73a45b58a
-SHA1: f1e157cdd01d7cd588f327bbe794fb9128be37ab
-SHA256: 579a33b0ed5a91d0a0177ccd82db441ef9c99edc0b238f91d8e677860226ff7e
-Section: 微信插件
-Description: 微信消息直达。
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: WCPush2Chat
-
-Package: com.huami.WCPush2Chat
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.huami.WCPush2Chat_1.0-2_iphoneos-arm64.deb
-Size: 35708
-MD5sum: 5fe9ca86598dc3053d05d1185395f9f8
-SHA1: 9104dd471fb6eaf73bb228d2885be57e25e308a7
-SHA256: 55e094ae46d3e6379f1322c14a7ae93217ab741cabe345e5db2d4ec83480967e
-Section: 微信插件
-Description: 微信消息直达。
-Author: huami
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: WCPush2Chat
-
 Package: com.huami.WCSafeMode
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -9003,76 +8900,6 @@ Description: 牛X的本地内购买破解器，已包含简体中文包。
 Author: Paisseon
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Satella中文版
-
-Package: com.settingsrevamp
-Version: 2.1.1
-Architecture: iphoneos-arm64
-Maintainer: SOPPPra
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
-Filename: ./debs/com.settingsrevamp_2.1.1_iphoneos-arm64.deb
-Size: 97684
-MD5sum: f1edf22cefeadb5d9508567ddd904bb8
-SHA1: b2c63a893ccae940216092cb088e115ec1fdd49f
-SHA256: 4807244b3e5fa4cc38428cf7e7005d238c1309fb36a48bfd5960d7cfd08d139c
-Section: 插件
-Description: 设置归类插件，211版本备份。
-Author: SOPPPra
-Icon: https://s1.imagehub.cc/images/2025/02/15/c4f2fd60bc7eafadc70f350d5e8e0008.png
-Name: SettingsRevamp
-
-Package: com.settingsrevamp
-Version: 2.1.1
-Architecture: iphoneos-arm64e
-Maintainer: SOPPPra
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
-Filename: ./debs/com.settingsrevamp_2.1.1_iphoneos-arm64e.deb
-Size: 119220
-MD5sum: 489c1929e1585f510dce478c123136af
-SHA1: acb997ba6473a7e9ea71db275ac991ad272b8ccf
-SHA256: 58c3869b0cf6e23e8bfa8656f1831eb826002c9dce211db45286965c28dc50c0
-Section: 插件
-Description: 设置归类插件，211版本备份。
-Author: SOPPPra
-Icon: https://s1.imagehub.cc/images/2025/02/15/c4f2fd60bc7eafadc70f350d5e8e0008.png
-Name: SettingsRevamp
-
-Package: com.shuffle
-Version: 1.6.2
-Architecture: iphoneos-arm64e
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 1484
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.creaturecoding.libcspreferences
-Filename: ./debs/com.shuffle_1.6.2_iphoneos-arm64e.deb
-Size: 329714
-MD5sum: 75936848708060edfb2d9b241178c534
-SHA1: a63de06eaba53fe4c2eb82be2b209f794bc40de0
-SHA256: fe7a9dce6d09e27c39cca7bd4e47a65c583c8e933eafdf5f96b11d9a0f7e0a69
-Section: 插件
-Description: 插件设置归类。
-Author: CreatureSurvive <support@creaturecoding.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
-Name: Shuffle
-
-Package: com.shuffle
-Version: 1.6.2
-Architecture: iphoneos-arm64
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 1484
-Depends: com.creaturecoding.libcspreferences
-Filename: ./debs/com.shuffle_1.6.2_iphoneos-arm64.deb
-Size: 260588
-MD5sum: 0f18f2f1aca420a5c3442c71b218e81d
-SHA1: bdd071b78bb18348c3841323b4937958959aefc8
-SHA256: 4ad6a4b176db950b1d1130710418e2161c10e0642e49eaba782a859f222cfb5d
-Section: 插件
-Description: 插件设置归类。
-Author: CreatureSurvive <support@creaturecoding.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
-Name: Shuffle
 
 Package: com.skypain.flexloader
 Version: 5.25.19-1
@@ -14311,45 +14138,6 @@ Description: 下载后文件在目录/var/mobile/Documents/iPhoneOS16.5.sdk.tar
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: iPhoneOS16.5.sdk
-
-Package: com.wkk.smartnetwork
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 1272
-Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
-Conflicts: com.eliassfeir.smartnetwork
-Filename: ./debs/com.wkk.smartnetwork_1.1_iphoneos-arm64.deb
-Size: 286280
-MD5sum: 26d79f3024e605cc1e6cb3bf873e16ad
-SHA1: 649d7be0b1dc676e56c92070fc7ac56f4bb97a85
-SHA256: 04875b1d39af8de0b38bc2adde640856ce8801803588d97634d83f5352050d10
-Section: 插件
-Description: 可以信任当前Wi-Fi/蓝牙等，直接解锁手机，其他的功能自己研究。（汉化：wkk）
-Author: elias
-Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.png
-Name: SmartNetwork
-Sponsor: wkk
-
-Package: com.wkk.smartnetwork
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 1272
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
-Conflicts: com.eliassfeir.smartnetwork
-Filename: ./debs/com.wkk.smartnetwork_1.1_iphoneos-arm64e.deb
-Size: 345704
-MD5sum: 14efd8726d10e6abc3a6880853ee5dda
-SHA1: d38432f6ddf66b93c1e6764956f837f09c720662
-SHA256: 76a5c15b528e72594ee29293624fe834df8b740596b5530898cb43f3ef31c9ab
-Section: 插件
-Description: 可以信任当前Wi-Fi/蓝牙等，直接解锁手机，其他的功能自己研究。（汉化：wkk）
-Author: elias
-Icon: https://s1.imagehub.cc/images/2025/01/06/58051bd0daf4b97476b4d02f4f667ddf.png
-Name: SmartNetwork
-Sponsor: wkk
 
 Package: com.wkk.sn3hook
 Version: 1.1
