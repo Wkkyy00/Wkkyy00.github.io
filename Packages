@@ -5291,53 +5291,6 @@ Author: Christopher Anderson
 Icon: https://s1.imagehub.cc/images/2025/01/23/9c5a987da2e0c87f7ba1dbabef0cf03c.png
 Name: Everest
 
-Package: com.creaturecoding.tweaksettings
-Version: 1.0.9
-Architecture: iphoneos-arm64
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 1064
-Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
-Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
-Size: 386624
-MD5sum: 39a347e1cf9b4e837a3a02adacf71b74
-SHA1: 1d4859cbbc8fad2921a2905da7ca2d91a9eae96f
-SHA256: a81e0536b513bb376777de1b98e5b59a266fe43d7df7f9ef5211e509a16732d7
-Section: Applications
-Priority: optional
-Homepage: https://creaturecoding.com/
-Description: 桌面生成App，直达越狱插件页面。
-Tag: purpose::application, compatible_min::ios10
-Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
-Dev: CreatureSurvive
-Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
-Name: TweakSettings
-Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
-
-Package: com.creaturecoding.tweaksettings
-Version: 1.0.9
-Architecture: iphoneos-arm64e
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 1064
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
-Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64e.deb
-Size: 389168
-MD5sum: 6f6c8a85149c7da8e36874220d411a2e
-SHA1: 7649c221a71cebc24ef822c717e0abda71d3355f
-SHA256: 98d793d08799cc8b91268415876bd8d4a2166c3d27c73b96a450e812af789fdb
-Section: Applications
-Priority: optional
-Homepage: https://creaturecoding.com/
-Description: 桌面生成App，直达越狱插件页面。
-Tag: purpose::application, compatible_min::ios10
-Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
-Dev: CreatureSurvive
-Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
-Name: TweakSettings
-Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
-
 Package: com.curtin.pkc
 Version: 0.7-0
 Architecture: iphoneos-arm64
@@ -6461,154 +6414,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
 Name: Snapper3 自用美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
-
-Package: com.forSnapper3.wkk
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3.wkk_1.1_iphoneos-arm64e.deb
-Size: 23856
-MD5sum: ea99c94d9f35e58c68c2e25d5bd22b85
-SHA1: 3a033f06de0de52a9f9e50338e22fc4aa2a3283c
-SHA256: f7080273093dcca893a0ae0c7bb4c49bea8ae95deeeeb63a8743ea64b149f051
-Section: 一切美化的东西都是垃圾
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
-
-Package: com.forSnapper3.wkk
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3.wkk_1.1_iphoneos-arm64.deb
-Size: 21804
-MD5sum: b0fb62c7a70a80afb7eda1648fc469f9
-SHA1: d80f4c10315f3c420d4898ca583c71f56def682f
-SHA256: b382e2472ff17da77439865ec784999786c501b91fe5dee40afb31f91679c63d
-Section: 一切美化的东西都是垃圾
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
-
-Package: com.forSnapper3four.wkk
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3four.wkk_1.0_iphoneos-arm64.deb
-Size: 40548
-MD5sum: c8a5aeaf843261b8f83f5e6bd3121ac1
-SHA1: d1168974961e413127ab082f666048c46fd1888c
-SHA256: 9ac3aff86c186fb4a1d5a213da0e0726a864a815263db17bbea3d604a9109c28
-Section: 一切美化的东西都是垃圾
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化（4）
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3four.json
-
-Package: com.forSnapper3four.wkk
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3four.wkk_1.0_iphoneos-arm64e.deb
-Size: 42346
-MD5sum: 341c2b283fc3c10fdeb6a1c748007978
-SHA1: 7185cd1a489267e50f46d5f87d0d83ed65ca6ad2
-SHA256: 84a11d67b2d3148e7291e37feda533f7de5512acb462c0c0961197b5c5e5bf67
-Section: 一切美化的东西都是垃圾
-Description: 自用美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 自用美化（4）
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3four.json
-
-Package: com.forSnapper3three.wkk
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3three.wkk_1.0_iphoneos-arm64.deb
-Size: 26168
-MD5sum: 2bb98752cb97135e22cc3caf5002ac7b
-SHA1: f1be047d7e4f630a3b56553b2b6344cfe4921aea
-SHA256: 6574aaa4096d00cb9f595db7a9831fdf46b8cfa87c8cfed76813614c4226f952
-Section: 一切美化的东西都是垃圾
-Description: 美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 美化（3）
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3three.json
-
-Package: com.forSnapper3three.wkk
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3three.wkk_1.0_iphoneos-arm64e.deb
-Size: 27624
-MD5sum: cd8d58e2f56fde4459c1b4bb47535c7e
-SHA1: 1b79144b1ca6aa0686bb663ab7c96a09b54443f2
-SHA256: d05851abbae93d3fceb4eacc1974ca66273bb4cf512df74e73aa1f60ecbfe1b1
-Section: 一切美化的东西都是垃圾
-Description: 美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 美化（3）
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3three.json
-
-Package: com.forSnapper3two.wkk
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3two.wkk_1.0_iphoneos-arm64e.deb
-Size: 91826
-MD5sum: 368c32ebad81a97c60c5939c2125edde
-SHA1: b0e3e507ed53fe2e04909aa113d0e09dda2dc708
-SHA256: cf1f88260c5ba0715f0764a2ff7b14ef180e01d636be26900b9cef650600756b
-Section: 一切美化的东西都是垃圾
-Description: 美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 美化（2）
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
-
-Package: com.forSnapper3two.wkk
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/com.forSnapper3two.wkk_1.0_iphoneos-arm64.deb
-Size: 90848
-MD5sum: 2aa9c82348fc8eb5d67e5609a592d0e3
-SHA1: 41bbab3696ee23b6dc02fa78f53153d1be51a0e7
-SHA256: 59a99e08e5f46042b0f704aa03f3c8fc16b3c541252e3435a3588063c123e5a5
-Section: 一切美化的东西都是垃圾
-Description: 美化。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
-Name: Snapper3 美化（2）
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
 
 Package: com.gilshahar7.dndmyrecording
 Version: 1.3
@@ -10995,41 +10800,6 @@ Author: Paisseon
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Satella中文版
 
-Package: com.serena.AppIndex
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Serena <hanzikashi@gmail.com>
-Installed-Size: 1677
-Filename: ./debs/com.serena.AppIndex_1.0_iphoneos-arm64.deb
-Size: 779168
-MD5sum: b8b0056a05760422a413b8dc4163a055
-SHA1: cf2fac1ea1ca0de5a258ab75699fcc17014ef3f9
-SHA256: 1cbf1e8744fc4422d572158f447e61ee100e8db2294f021793986f01e8a8af88
-Section: Applications
-Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
-Tag: compatible_min::ios13.0
-Author: Serena <hanzikashi@gmail.com>
-Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
-Name: AppIndex
-
-Package: com.serena.AppIndex
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: Serena <hanzikashi@gmail.com>
-Installed-Size: 1677
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.serena.appindex_1.0_iphoneos-arm64e.deb
-Size: 853022
-MD5sum: f45eb95062ca033d54add9ce9202f849
-SHA1: ad645cd4891974325ba882d64c64125494f5cbb1
-SHA256: 7798a8945b0c3e55d81cd781318efe1ef14c75d01c6aef22c2c02088b62ec60f
-Section: Applications
-Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
-Tag: compatible_min::ios13.0
-Author: Serena <hanzikashi@gmail.com>
-Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
-Name: AppIndex
-
 Package: com.settingsrevamp
 Version: 2.1.1
 Architecture: iphoneos-arm64
@@ -12433,23 +12203,6 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
-Package: com.vincent.polyphian.depths
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: Vincent
-Depends: com.spark.snowboard
-Filename: ./debs/com.vincent.polyphian.depths_1.4.1_iphoneos-arm64.deb
-Size: 27951464
-MD5sum: e548503dfba2b8acb25270fbfece49a0
-SHA1: a65f1affc2d21962a3f8d6970bd10d9f15e2595a
-SHA256: c13a9b1ddd6861bf8150609498576c0f40346930d9e3ad501c4b290cad03790c
-Section: 一切美化的东西都是垃圾
-Description: 高度可定制的3D风格的图标主题，由某网友补充中国大陆常用软件图标。
-Author: Polyphian, Vincent
-Icon: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/Icon.png
-Name: Depths
-Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/js.json
-
 Package: com.vita.cnnoad
 Version: 0.1-2-2
 Architecture: iphoneos-arm64
@@ -13457,61 +13210,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
-Package: com.wkk.AppStoremh
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.AppStoremh_1.0_iphoneos-arm64e.deb
-Size: 64548
-MD5sum: 2859d58879addb2002dd45940d3c49c7
-SHA1: 674fcd81bc63aff06d9ff6edb12ab60d0201c4b4
-SHA256: 9072a7310eec5057309746fa742366da4b321774778f95582d84a44843b4f71c
-Section: 一切美化的东西都是垃圾
-Description: App Store美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/03/06/a39704438b10be358870f50e0fae8320.png
-Name: App Store美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/App%20Store.json
-
-Package: com.wkk.AppStoremh
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.AppStoremh_1.0_iphoneos-arm64.deb
-Size: 62092
-MD5sum: ac867b2a3c701f0eabe145edc7f7e33a
-SHA1: b173829e29bb8c1a07d70f3f037177b530d9cb79
-SHA256: 3a8561fcae5402651a29c34314af141dea524135d006000199b27187d5e1828a
-Section: 一切美化的东西都是垃圾
-Description: App Store美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/03/06/a39704438b10be358870f50e0fae8320.png
-Name: App Store美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/App%20Store.json
-
-Package: com.wkk.Desa
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Gleptech
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.Desa_1.0_iphoneos-arm64.deb
-Size: 10985588
-MD5sum: 79ced8238ed158a2329fd673129e0873
-SHA1: 2e304b962a61dfa710b9828d9957a93b6deb4741
-SHA256: 11b28519f98558bb3dce711933ba9d84bf7c5e4fd2b9dd3742c28e8c4b5c00a3
-Section: 一切美化的东西都是垃圾
-Description: 图标。
-Author: Gleptech
-Icon: https://s1.imagehub.cc/images/2025/03/11/93c5ac92ef7458d85ca58ab57c58b613.jpeg
-Name: Desa
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Desa.json
-
 Package: com.wkk.HideEdit
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -13737,41 +13435,6 @@ Author: P2Kdev
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
 Name: AppLock
 
-Package: com.wkk.apptoolsmh
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.apptoolsmh_1.0_iphoneos-arm64e.deb
-Size: 109444
-MD5sum: d0ce982255788256691f664615a93191
-SHA1: 6332e870303b5b07b918f46e9c4877d80dadc521
-SHA256: 317cdaeb2bb5b3dc29796b2cc3b54db6dccdf3f886c99a9b22480cbfdff88861
-Section: 一切美化的东西都是垃圾
-Description: 安装Apptools插件后直装。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Apptools美化
-
-Package: com.wkk.apptoolsmh
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.apptoolsmh_1.0_iphoneos-arm64.deb
-Size: 108932
-MD5sum: 27dc9dcafc465d66641d5fb24b9f9e3e
-SHA1: 22ad90a046582a92db20bf140a7b1d779c277f05
-SHA256: 8c7a7c6e8ee5602ac92a74f9006a55ac1adb5f7f03fd21751ebe3a9e24c129cb
-Section: 一切美化的东西都是垃圾
-Description: 安装Apptools插件后直装。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Apptools美化
-
 Package: com.wkk.aqyhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -13912,41 +13575,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
 
-Package: com.wkk.batteryhook
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.batteryhook_1.0_iphoneos-arm64e.deb
-Size: 6194
-MD5sum: 41187739ae8a2c57e148d3d782305716
-SHA1: 7b4b8cf67654fa28dc90da50cbb0e4d9c411710a
-SHA256: 528ddd0d0321210a1793f29ec5eb580ab4b5d90f74ee3f98e37f827489dd2c74
-Section: 一切美化的东西都是垃圾
-Description: 电池美化，毫无卵用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/11/05/ea71bd7ab6c914de6df8cb044f7251a9.jpeg
-Name: 电池美化
-
-Package: com.wkk.batteryhook
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.batteryhook_1.0_iphoneos-arm64.deb
-Size: 4516
-MD5sum: 74d2cf3fd000db49bbd2c6bce1395ef7
-SHA1: f22488063c892b506e3fcd2abd382399138c1617
-SHA256: 1963fe67f95471fb36eff4167ad35cc50763065a2b275d42b411f55ae3ea51ab
-Section: 一切美化的东西都是垃圾
-Description: 电池美化，毫无卵用。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/11/05/ea71bd7ab6c914de6df8cb044f7251a9.jpeg
-Name: 电池美化
-
 Package: com.wkk.bdhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -14051,24 +13679,6 @@ Author: Miguelaka95
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: BetterCC
 Sponsor: wkk
-
-Package: com.wkk.bhmh
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 百度主题
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.bhmh_1.0_iphoneos-arm64.deb
-Size: 326944
-MD5sum: ae1de98da3501753887cbe9ed9872fea
-SHA1: 1c8947b8bfc47e39e46d97fc8eca3d22588f3fbf
-SHA256: f69a33a8d57c4a5344ba505ae923164b331ba71a10e435ae91a7b741e59792e0
-Section: 一切美化的东西都是垃圾
-Description: 拨号键盘美化。
-Author: 百度主题
-Icon: https://s1.imagehub.cc/images/2025/03/08/0364f8251947561dd09612ea1ee9a016.png
-Name: 拨号键盘美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/bohaojp.json
 
 Package: com.wkk.bilibilihook
 Version: 1.0
@@ -15689,41 +15299,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
 Name: 煎蛋NoAds
 
-Package: com.wkk.kaiguan
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
-Filename: ./debs/com.wkk.kaiguan_1.0_iphoneos-arm64.deb
-Size: 3277908
-MD5sum: 243733c4a6f9c9b1295f7e46bc225705
-SHA1: caae783c37eb67d1f2922b3cdbf2c15fe43f649e
-SHA256: 588608002e0975d972b37f172c69f560d21547d9c879478ed895473573fcb74c
-Section: 一切美化的东西都是垃圾
-Description: 54款开关大集合！直装！告别四处求爷爷告奶奶的日子，需要snowboard扩展。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
-Name: snowboard开关集合
-Sponsor: wkk
-
-Package: com.wkk.kaiguan
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
-Filename: ./debs/com.wkk.kaiguan_1.0_iphoneos-arm64e.deb
-Size: 6649436
-MD5sum: 08f37a7185e3dfa8131fd8f44b15a4c6
-SHA1: 2a31e97d3fec7de8a037553e073fd0d26e6701fb
-SHA256: 04ea5e80fa0d3be06963697226295861cd693a4fb092e1572ccb0334137c2067
-Section: 一切美化的东西都是垃圾
-Description: 54款开关大集合！直装！告别四处求爷爷告奶奶的日子，需要snowboard扩展。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
-Name: snowboard开关集合
-Sponsor: wkk
-
 Package: com.wkk.kghook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -15758,41 +15333,6 @@ Description: 对酷狗音乐版本20.0.0的极致精简+优化，去掉一切杂
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐20（养老自用）
-
-Package: com.wkk.kkkk
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kkkk_1.0_iphoneos-arm64.deb
-Size: 15312
-MD5sum: 6c2564596c7c582b88ff96dd61aa0e9e
-SHA1: 212c76d95e56abe902b9f9b05cd4caa1af9668a1
-SHA256: eb1a08597e65632b27223286f5baa23e9f4b80e49b084ea6e9978fa311dfa8ad
-Section: 一切美化的东西都是垃圾
-Description: snowboard开关 修改版 直装 需要扩展 源里有
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: SnowBoard开关-闪电
-
-Package: com.wkk.kkkk
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.kkkk_1.0_iphoneos-arm64e.deb
-Size: 16202
-MD5sum: da3a6e63bac9ab36f446aade4c795947
-SHA1: 7532faac51d574f4a6adf5bdd234233e7b0d4de8
-SHA256: 85ad6f8312e97abb70de8b15a0ee2071b90f6b15a642128371e19e0d5353aec8
-Section: 一切美化的东西都是垃圾
-Description: snowboard开关 修改版 直装 需要扩展 源里有
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: SnowBoard开关-闪电
 
 Package: com.wkk.kuanhook
 Version: 1.0
@@ -16794,45 +16334,6 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Name: QuickPrefs
 
-Package: com.wkk.randomicons
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 226
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15), ellekit (>= 0.6.3)
-Filename: ./debs/com.wkk.randomicons_1.0_iphoneos-arm64e.deb
-Size: 15476
-MD5sum: c290b2ec7107aa4aaab71dde7c0550cd
-SHA1: 16851b917e39928fa21395f27be2781d8750f990
-SHA256: cb7eec5a385a7e86d2cd82e33fbff2f2703027edc99a02c2a00fe198560de525
-Section: 一切美化的东西都是垃圾
-Priority: optional
-Description: 安装后重启springboard。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 桌面图标随机动画
-Sponsor: wkk
-
-Package: com.wkk.randomicons
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 226
-Depends: firmware (>= 15), ellekit (>= 0.6.3)
-Filename: ./debs/com.wkk.randomicons_1.0_iphoneos-arm64.deb
-Size: 11548
-MD5sum: 6192e7b8347e00a05203e39550b6556a
-SHA1: 37f6c0045ef7d02abab9c4517ce096c6990b716f
-SHA256: f46dc1c1de623e6ac45d0c41cb1de2413aee141c652a4c92093b125b566b7115
-Section: 一切美化的东西都是垃圾
-Priority: optional
-Description: 安装后重启springboard。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 桌面图标随机动画
-Sponsor: wkk
-
 Package: com.wkk.sdk16.5
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -16867,43 +16368,6 @@ Description: 下载后文件在目录/var/mobile/Documents/iPhoneOS16.5.sdk.tar
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: iPhoneOS16.5.sdk
-
-Package: com.wkk.sileomh
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.sileomh_1.0_iphoneos-arm64e.deb
-Size: 45500
-MD5sum: bcdd9d51dd08f0fb7173ef4a580514a6
-SHA1: 9975d9131e1d75c98eedeeca490b4a92c5ee8637
-SHA256: 136083b231e4179e7c70b90b751140540dee6ab7b5de6a1e03469a20638361f9
-Section: 一切美化的东西都是垃圾
-Description: Sileo美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Sileo美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
-
-Package: com.wkk.sileomh
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.sileomh_1.0_iphoneos-arm64.deb
-Size: 44756
-MD5sum: 6771daf1f8fa768251870c8e2a9aa7b5
-SHA1: 6d64c5f123e93a975d743392cf2705c00b993758
-SHA256: 179ead259d5cc8d5bfe441c4bb01b116b505d4d67ca75d3364e7f77106f2ac00
-Section: 一切美化的东西都是垃圾
-Description: Sileo美化
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Sileo美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
 
 Package: com.wkk.smartnetwork
 Version: 1.1
@@ -18900,76 +18364,6 @@ Author: Dcsyhi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu
 
-Package: com.zhezhaojihe.2
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: bdzt
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
-Filename: ./debs/com.zhezhaojihe.2_1.0_iphoneos-arm64e.deb
-Size: 56282
-MD5sum: 371edd608d3d428f5c123be332c27f43
-SHA1: f15a9317fa9f312780492bfdca1a31334394bb62
-SHA256: aa130407ea743dacf57c3c9c1f74c738790dab59647d95baa3e639ba1c698291
-Section: 一切美化的东西都是垃圾
-Description: 四款好看的立体遮罩，素材来自威锋网友。
-Author: null
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 四款立体遮罩
-Sponsor: null
-
-Package: com.zhezhaojihe.2
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: bdzt
-Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
-Filename: ./debs/com.zhezhaojihe.2_1.0_iphoneos-arm64.deb
-Size: 54568
-MD5sum: 363be3798a9d8e01bba278209af55db1
-SHA1: 041e99fd79d0afadd142b8eaab5ed82c1fab40d4
-SHA256: 44e0a7e57ef148d6058762df08ff0d30a58cfdde9235193148104118cf3bd6b0
-Section: 一切美化的东西都是垃圾
-Description: 四款好看的立体遮罩，素材来自威锋网友。
-Author: null
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 四款立体遮罩
-Sponsor: null
-
-Package: com.zhezhaojihe.baidu
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: bdzt
-Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
-Filename: ./debs/com.zhezhaojihe.baidu_1.0_iphoneos-arm64.deb
-Size: 1017576
-MD5sum: 1806efb8286b4260d0f9e5104fb33887
-SHA1: c84da30762a1be2d2b886f747d0d0e430738d834
-SHA256: 89719ede363171174c716b4e2d3cf74e4407a73bf56f8fa2661931a31637454e
-Section: 一切美化的东西都是垃圾
-Description: 十八款好看的遮罩大集合！
-Author: bdzt
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 遮罩集合大全
-Sponsor: bdzt
-
-Package: com.zhezhaojihe.baidu
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: bdzt
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
-Filename: ./debs/com.zhezhaojihe.baidu_1.0_iphoneos-arm64e.deb
-Size: 2077566
-MD5sum: 222451dc1b34abc591fa100c6f3b848c
-SHA1: e5478993d5e0e9ef8f4a834539b396c1498776f9
-SHA256: 61e6ab052dabad4a59d28fd641fc30181d23624e0d622b4c4d4ef5321b743532
-Section: 一切美化的东西都是垃圾
-Description: 十八款好看的遮罩大集合！
-Author: bdzt
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 遮罩集合大全
-Sponsor: bdzt
-
 Package: com.zqbb.Snapper3
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -19365,46 +18759,6 @@ Description: 配合解压car使用，用于提取Assets.car
 Author: Elias Limneos <limneoselias@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: uncar
-
-Package: wiki.qaq.chromatic.rootless
-Version: 3.0-rootless-release-1724937362.2952e67
-Architecture: iphoneos-arm64
-Maintainer: Saily Team <support.0xa1@qaq.wiki>
-Pre-Depends: firmware (>= 13.0), dpkg, uikittools
-Conflicts: wiki.qaq.chromatic
-Filename: ./debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64.deb
-Size: 3416520
-MD5sum: 7d09465fc3f6672930da31f619b1da9b
-SHA1: a6eaa353e82148a60cad92b6150d96383aecc4cb
-SHA256: 731b09f9008deba285f89994c632b7d4b3d9b2e2a40eab0251507d803cd6e830
-Section: 应用程序
-Homepage: https://sailyteam.github.io/Saily/index.html
-Description: 越狱商店saily。仅备份。
-Author: Saily Team <support.0xa1@qaq.wiki>
-Depiction: https://sailyteam.github.io/Saily/index.html
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Saily
-Website: https://sailyteam.github.io/Saily/index.html
-
-Package: wiki.qaq.chromatic.rootless
-Version: 3.0-rootless-release-1724937362.2952e67
-Architecture: iphoneos-arm64e
-Maintainer: Saily Team <support.0xa1@qaq.wiki>
-Pre-Depends: rootless-compat(>= 0.9), firmware (>= 13.0), dpkg, uikittools
-Conflicts: wiki.qaq.chromatic
-Filename: ./debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64e.deb
-Size: 8664500
-MD5sum: 6163078104566760624a0c986909d2e8
-SHA1: 2c5a76cef790b9dc7aff0f94fefb747d1c4b2651
-SHA256: 6aeb4124af3126a274a32ebc0d4b555d473dcfea16e0b37c826749c3ec45792d
-Section: 应用程序
-Homepage: https://sailyteam.github.io/Saily/index.html
-Description: 越狱商店saily。仅备份。
-Author: Saily Team <support.0xa1@qaq.wiki>
-Depiction: https://sailyteam.github.io/Saily/index.html
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Saily
-Website: https://sailyteam.github.io/Saily/index.html
 
 Package: ws.hbang.newterm3
 Version: 3.0~beta1-1042+debug
