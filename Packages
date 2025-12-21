@@ -6083,42 +6083,6 @@ Description: Safari多功能增强插件。
 Icon: https://s1.imagehub.cc/images/2025/01/01/0b8d820e9bbcacd9a6035ad65d7f9e3f.png
 Name: SafariX
 
-Package: com.dao.speedy
-Version: 0.3
-Architecture: iphoneos-arm64e
-Maintainer: alias20 & daodao
-Installed-Size: 404
-Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Conflicts: alias20.speedy, com.hk.speedy.cn.rl
-Filename: ./debs/com.dao.speedy_0.3_iphoneos-arm64e.deb
-Size: 29804
-MD5sum: 9dfde8ad9038370a431adbcb92397463
-SHA1: bb6869763569474720e533ea78bd556319ee49ab
-SHA256: 930a0dd8f645e2e345e0c85b06440909e3b6eb0de1068e5f8f732fd320ee69e0
-Section: 插件
-Description: 更细节的 iOS 动画加速，根据开源编译，已带汉化。
-Author: alias20 & daodao
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Speedy
-
-Package: com.dao.speedy
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: alias20 & daodao
-Installed-Size: 420
-Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Conflicts: alias20.speedy, com.hk.speedy.cn.rl
-Filename: ./debs/com.dao.speedy_0.3_iphoneos-arm64.deb
-Size: 32100
-MD5sum: f1329f4cd004c9549be01bb9556ed8b5
-SHA1: 57f110a8c254a33d65da31886fc4b86d8fd3855c
-SHA256: 029ed139d708e88ee96cf19d4500331379c2456c15281bc2c57f2526397bf792
-Section: 插件
-Description: 更细节的 iOS 动画加速，根据开源编译，已带汉化。
-Author: alias20 & daodao
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Speedy
-
 Package: com.dao.stella
 Version: 1.1.5
 Architecture: iphoneos-arm64
@@ -9064,45 +9028,6 @@ Author: 预言小猫
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键备份和恢复工具
 
-Package: com.lazycursor
-Version: 1.0.3
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 385
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.lazycursor_1.0.3_iphoneos-arm64e.deb
-Size: 44378
-MD5sum: b67143d2f664b5868497d107e06d7898
-SHA1: e692d25e7c7725165c03e8c46243c69d905a734b
-SHA256: 555e9bf3c6cfac2b30a1262f86e5f0e459167728e907de738e110853de5cf0ec
-Section: 插件
-Priority: optional
-Description: 光标移除闪烁动画，自定义光标颜色。
-Author: CydiaGeek <lucaluca86@aol.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
-Name: LazyCursor
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.lazycursor
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 385
-Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/com.lazycursor_1.0.3_iphoneos-arm64.deb
-Size: 39576
-MD5sum: 26901a3d8b714f79f76569aa91940b9a
-SHA1: 603909d24d55d2a56ab41ec376a1705744a52084
-SHA256: 30bf971011809a4c7163e600ef3c7157cccd8416a38017c36f8ce50696963502
-Section: 插件
-Priority: optional
-Description: 光标移除闪烁动画，自定义光标颜色。
-Author: CydiaGeek <lucaluca86@aol.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
-Name: LazyCursor
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -9274,39 +9199,6 @@ Description: 系统键盘圆角
 Author: liuf <(null)>
 Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
 Name: 系统键盘圆角
-
-Package: com.lstimeseconds16
-Version: 0.3
-Architecture: iphoneos-arm64e
-Maintainer: b4db1r3
-Installed-Size: 432
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.lstimeseconds16_0.3_iphoneos-arm64e.deb
-Size: 45456
-MD5sum: 815cc779ef59f707530a593f4b8ad570
-SHA1: 2b59c4aefdb6d9bc5aa5af61581a9f2c9f8191e8
-SHA256: d966be112493367fc870dc2d424f86991ecca726345128ac6029cb74a37a6dbf
-Section: 插件
-Description: 锁屏时间增加秒数。
-Author: b4db1r3
-Icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
-Name: LSTimeSeconds
-
-Package: com.lstimeseconds16
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: b4db1r3
-Installed-Size: 432
-Filename: ./debs/com.lstimeseconds16_0.3_iphoneos-arm64.deb
-Size: 38116
-MD5sum: 739bc5d3c01ac33e55fa407873e48aa5
-SHA1: e9051377b4e1471a54853d46a02b642b62952293
-SHA256: 0d7a3fb7e997861dda665af0cdb1444849edb1951aec0cef9ed4900d70fa37f9
-Section: 插件
-Description: 锁屏时间增加秒数。
-Author: b4db1r3
-Icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
-Name: LSTimeSeconds
 
 Package: com.luo.actionpro
 Version: 1.1.0
@@ -10338,41 +10230,6 @@ Author: opa334
 Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Name: Crane
 
-Package: com.p2kdev.nofaceidwait
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: P2KDev
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm64.deb
-Size: 3240
-MD5sum: fc04570c6f56ce04aee94cb546d6efc8
-SHA1: 1316ed8de7dfe56c4e7ac52a5c91bab231b8b0f9
-SHA256: adaf4299546cd5189f2ea6fda6579463a8456a7ce31a480af96d7202a230bbf0
-Section: Tweaks
-Description: 跳过频繁的面容验证，直接调出密码界面。
-Author: P2KDev
-Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
-Name: NoFaceIDWait
-
-Package: com.p2kdev.nofaceidwait
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: P2KDev
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.nofaceidwait_1.0_iphoneos-arm64e.deb
-Size: 4564
-MD5sum: 9365f858dc178ee7d5441a29711bcc64
-SHA1: bf1746a91d9b323f9e41914e314d8dc47b85bb51
-SHA256: d915dd852c65415a7ee78b031ebf80d1978fc34afe3db3774a6641d95cf3e0f7
-Section: Tweaks
-Description: 跳过频繁的面容验证，直接调出密码界面。
-Author: P2KDev
-Icon: https://s1.imagehub.cc/images/2025/01/21/22c73c1c96853e66396032a08953f522.png
-Name: NoFaceIDWait
-
 Package: com.p2kdev.tapticboard
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -10529,43 +10386,6 @@ Description: 将文件夹显示为文件夹里第一个app的图标，动画略�
 Author: ichitaso
 Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
 Name: PrimalFolder2
-
-Package: com.ps.smoothcursorios13
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: PoomSmart
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 6.0)
-Conflicts: org.thebigboss.smoothcursor
-Filename: ./debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64e.deb
-Size: 4388
-MD5sum: 6666a180c13f5d5321e49b39f17c3049
-SHA1: e53ae9090d7b037df672f5de662bc26c644b4d64
-SHA256: 7af2a93f8334573c4b7b82de5776958e8a31be7c5901ac0c9d3c6f1f449eb34c
-Section: Tweaks
-Description: 仿Office 2013的输入光标
-Author: PoomSmart
-Icon: https://www.susubaby.top/images/smoothcursor.png
-Name: SmoothCursor (iOS 13+)
-
-Package: com.ps.smoothcursorios13
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 6.0)
-Conflicts: org.thebigboss.smoothcursor
-Filename: ./debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64.deb
-Size: 3156
-MD5sum: eabb55cd2f1e2f3d60cef5c089d90bdf
-SHA1: 77fc0d3c9c949cac4570301d0dbb82b7aa84d064
-SHA256: 63a7c7e076f9b0d4592265c3d62d3ce6f2acac5a0dfe24e43947bedf3f727d82
-Section: Tweaks
-Description: 仿Office 2013的输入光标
-Author: PoomSmart
-Icon: https://www.susubaby.top/images/smoothcursor.png
-Name: SmoothCursor (iOS 13+)
 
 Package: com.pullclearnc
 Version: 1.1-8
@@ -11244,41 +11064,6 @@ Description: 设置归类插件，211版本备份。
 Author: SOPPPra
 Icon: https://s1.imagehub.cc/images/2025/02/15/c4f2fd60bc7eafadc70f350d5e8e0008.png
 Name: SettingsRevamp
-
-Package: com.shiftcmdk.bookmarkicons
-Version: 1.0-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: shiftcmdk
-Installed-Size: 232
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0-1+debug_iphoneos-arm64e.deb
-Size: 22830
-MD5sum: c15891992e3b71c2b71ff950ff824c92
-SHA1: ca8af481497d18be31bb0505867270b1f6bb374b
-SHA256: f05a65db684bfea39b209da68731703989bd9acffbd2bb5326dcd0a420de24e8
-Section: 插件
-Description: 为Safari浏览器书签设置自定义图标。
-Author: shiftcmdk
-Icon: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/icon.png
-Name: SafariBookmarkIcons
-
-Package: com.shiftcmdk.bookmarkicons
-Version: 1.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: shiftcmdk
-Installed-Size: 232
-Depends: mobilesubstrate
-Filename: ./debs/com.shiftcmdk.bookmarkicons_1.0-1+debug_iphoneos-arm64.deb
-Size: 16908
-MD5sum: 61e9266e82a62bc2d2e07d9762d38cbd
-SHA1: 786eeb4b8f0b03ba51afd8dd7cdf95db7466e603
-SHA256: 5d5a2190ed1c87d7e62c8570ef58d614114b5f127ebfbcd71292e5967c3eb542
-Section: 插件
-Description: 为Safari浏览器书签设置自定义图标。
-Author: shiftcmdk
-Icon: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/icon.png
-Name: SafariBookmarkIcons
 
 Package: com.shuffle
 Version: 1.6.2
@@ -12647,45 +12432,6 @@ Description: 学习交流。
 Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
-
-Package: com.teslaman3092.popoutbuttons
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
-Installed-Size: 481
-Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.1_iphoneos-arm64.deb
-Size: 57612
-MD5sum: 00daa1d44d7814b11a9277825abf71dc
-SHA1: 76bfdd038c4e67b87a8f8980edb374cd57047554
-SHA256: 20a589e7088e5a632bc5a4b2b9eb2bc6bf7c7bf733987cda17f69ce3cd886052
-Section: 插件
-Description: 仿ios18按键反馈！
-Tag: compatible_min::ios13.0
-Author: tesla_man <computerman939+POBsupport@gmail.com>
-Depiction: https://chariz.com/get/popoutbuttons
-Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
-Name: PopOutButtons
-
-Package: com.teslaman3092.popoutbuttons
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
-Installed-Size: 481
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.1_iphoneos-arm64e.deb
-Size: 73022
-MD5sum: 976c5f928f0ae0507c37ccb9732ecc33
-SHA1: a2ed538c2178b28a4f370b190427c4cc61e163b9
-SHA256: 2b489ee288ae1634ae4849f38e9901f425784a64ac175a1e19539b903bfc1614
-Section: 插件
-Description: 仿ios18按键反馈！
-Tag: compatible_min::ios13.0
-Author: tesla_man <computerman939+POBsupport@gmail.com>
-Depiction: https://chariz.com/get/popoutbuttons
-Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
-Name: PopOutButtons
 
 Package: com.vincent.polyphian.depths
 Version: 1.4.1
@@ -19436,41 +19182,6 @@ Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
 Icon: https://s1.imagehub.cc/images/2025/01/02/db0552c3269c402cf762bc2ffda80f7f.png
 Name: Canna
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
-
-Package: me.zsaaiq.springhooker
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: zSaaiq
-Installed-Size: 428
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/me.zsaaiq.springhooker_1.1_iphoneos-arm64.deb
-Size: 50920
-MD5sum: 5bbddd3bf0380c5c26ce546a204829cc
-SHA1: 9d232665fbd0cd0975d2d01a0ac8f983ffca360f
-SHA256: 3ce2fe731ae4af19b4b111a7a5d1550f26f2951d7cca0c0d2f87c46f8f674b82
-Section: Tweaks
-Description: 比较小众的插件，具体功能下载自己玩吧，已汉化。
-Author: zSaaiq
-Icon: https://zsaaiq.github.io/jailbreakrepo/images/iconFullSize.png
-Name: SpringHooker
-
-Package: me.zsaaiq.springhooker
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: zSaaiq
-Installed-Size: 428
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/me.zsaaiq.springhooker_1.1_iphoneos-arm64e.deb
-Size: 58244
-MD5sum: d7ac3d8513e16fbc1878a5ba06da5f25
-SHA1: 436637de260c308e56c9f92951c1f5dc03b4690c
-SHA256: f63026c111903b7dcc1c9d0e2bfc6300a19726325f269b43661697753369146d
-Section: Tweaks
-Description: 比较小众的插件，具体功能下载自己玩吧，已汉化。
-Author: zSaaiq
-Icon: https://zsaaiq.github.io/jailbreakrepo/images/iconFullSize.png
-Name: SpringHooker
 
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
