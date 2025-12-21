@@ -6681,45 +6681,6 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
-Package: com.hapticsleep
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 173
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/com.hapticsleep_1.0.1_iphoneos-arm64e.deb
-Size: 5038
-MD5sum: 48a3bd981bb3112319cd253bc1cabe45
-SHA1: ae65d424569b5bfe475eb418e4169c858252f143
-SHA256: a3edd67f72bc9aec8cff88edf9d27306314453a5e3052099355f9a093c6a276a
-Section: 插件
-Priority: optional
-Description: 锁屏的时候震动一下，无设置项，支持无根隐根。
-Author: <lucaluca86@aol.com>
-Icon: https://s1.imagehub.cc/images/2025/02/16/645bce926562f373e092158d903db4ce.png
-Name: HapticSleep
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.hapticsleep
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 173
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/com.hapticsleep_1.0.1_iphoneos-arm64.deb
-Size: 3636
-MD5sum: 6ea158bd46f494497814fd23b0e220e9
-SHA1: 6997a62444f21afd40e0f4fab131c53b5af8ebf1
-SHA256: 98860b3a7d2bedd4414005c0e2f0d791ed7bf7819aead064f6f5541503b64b17
-Section: 插件
-Priority: optional
-Description: 锁屏的时候震动一下，无设置项，支持无根隐根。
-Author: <lucaluca86@aol.com>
-Icon: https://s1.imagehub.cc/images/2025/02/16/645bce926562f373e092158d903db4ce.png
-Name: HapticSleep
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.hauncundaochu
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -6942,41 +6903,6 @@ Description: 改变您的iOS体验，这是声音定制的终极调整，允许�
 Author: Hitori <xuanhua880@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hikari
-
-Package: com.huadong
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: k
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.huadong_1.0_iphoneos-arm64.deb
-Size: 8196
-MD5sum: 89ea87c177b6b434a6f45ca421fdf1d0
-SHA1: 5aa2451e775d2f83ab77a26b042195a049bf197b
-SHA256: b6d77ccedc50941dac0d8af2e74299018662fc9c5609e8944fea627f027cf2f1
-Section: 插件
-Description: 进入系统设置-声音与触感-打开系统触感反馈，随便点哪里都会有震动。
-Author: developlab
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Globaltouchvibration
-Sponsor: k
-
-Package: com.huadong
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: k
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.huadong_1.0_iphoneos-arm64e.deb
-Size: 10946
-MD5sum: e80d6fa428d91d7694bb75dd983de4a7
-SHA1: c4d9fde71c6d382c346e226e7df1cf687be99088
-SHA256: e0710a6bafe79979d9eee5aae57c8cec5b3f326788a1c92494ca1df694a7cbee
-Section: 插件
-Description: 进入系统设置-声音与触感-打开系统触感反馈，随便点哪里都会有震动。
-Author: developlab
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: Globaltouchvibration
-Sponsor: k
 
 Package: com.huami.DYYY
 Version: 1.8.2
@@ -9073,80 +8999,6 @@ Author: ichitaso
 Icon: https://i.imgur.com/bNyKUSs.png
 Name: RingerToggle
 
-Package: com.immortalizer
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: sergy & daodao
-Installed-Size: 660
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
-Conflicts: com.sergy.immortalizer
-Filename: ./debs/com.immortalizer_2.0.1_iphoneos-arm64.deb
-Size: 49236
-MD5sum: 96f01776ef9d74ffdaab85306226f4c9
-SHA1: 98eb955f61a5b15bae96ab9f25403a72ea69f76e
-SHA256: 86c31e1906d6a7584186c4b1bb7b951c8285e4923f4919264e47aef33cb1f880
-Section: 插件
-Description: 可将应用置于前台，达到「真后台」效果，应用图标长按菜单——开启/禁用「真后台」，CC模块控制，需先打开要控制的app，然后点击模块，根据开源重新编译。
-Author: sergy
-Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
-Name: Immortalizer真后台
-
-Package: com.immortalizer
-Version: 2.0.1
-Architecture: iphoneos-arm64e
-Maintainer: sergy & daodao
-Installed-Size: 660
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
-Conflicts: com.sergy.immortalizer
-Filename: ./debs/com.immortalizer_2.0.1_iphoneos-arm64e.deb
-Size: 65784
-MD5sum: 91e070fc0215edae781f75bed975e55b
-SHA1: 163392e1382890c299e6ec394cb96b83f4dc11c3
-SHA256: 2e7cea20d9b7168389f9f60fe488d7d5dffe55a070542acdc412997642965775
-Section: 插件
-Description: 可将应用置于前台，达到「真后台」效果，应用图标长按菜单——开启/禁用「真后台」，CC模块控制，需先打开要控制的app，然后点击模块，根据开源重新编译。
-Author: sergy
-Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
-Name: Immortalizer真后台
-
-Package: com.jontelang.instalauncher2
-Version: 1.11.0
-Architecture: iphoneos-arm64
-Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
-Installed-Size: 1188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/com.jontelang.instalauncher2_1.11.0_iphoneos-arm64.deb
-Size: 203632
-MD5sum: c9a6cff7227779b85a9c89db61933bbe
-SHA1: 3259c294aad05977316e0334b043648f0d8ff046
-SHA256: 021425eccae39bf79aa3d115bd42d8aff43ff05365721890022f50e24d1edf42
-Section: 插件
-Description: 侧边呼出app！
-Author: Jonathan Winger Lang <jontelang@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
-Name: InstaLauncher 2
-
-Package: com.jontelang.instalauncher2
-Version: 1.11.0
-Architecture: iphoneos-arm64e
-Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
-Installed-Size: 1188
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/com.jontelang.instalauncher2_1.11.0_iphoneos-arm64e.deb
-Size: 265514
-MD5sum: 53a94b08927d353d6427154641d1873d
-SHA1: 896fb42b1a614fec61d4adacef2586cc0506ace3
-SHA256: 73fcb8c37cc9d4330755e83d86b6589f4c5b8c64201cab1ee547e331bfbf686e
-Section: 插件
-Description: 侧边呼出app！
-Author: Jonathan Winger Lang <jontelang@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
-Name: InstaLauncher 2
-
 Package: com.k.alpine
 Version: 1.4
 Architecture: iphoneos-arm64e
@@ -9179,41 +9031,6 @@ Description: 系统的弹窗美化。
 Author: MTAC
 Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
 Name: Alpine
-
-Package: com.keyswipe-rootless
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: CyPwn <xuanhua880@gmail.com>
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: org.thebigboss.keyswipe, xyz.cypwn.keyswipe
-Filename: ./debs/com.keyswipe-rootless_1.0.2_iphoneos-arm64.deb
-Size: 13136
-MD5sum: 22d876b5ffa6d60fa65427479ccf0fdc
-SHA1: cc2b853ce5ebdcc612faa5959954636d257e6bd0
-SHA256: df981b5f77f89031e0ac013024d6b070b1c33aae4424bd91bacd3eec194b15db
-Section: 插件
-Description: 通过向上/向下滑动更改键盘
-Author: Delewhopper & julioverne <xuanhua880@gmail.com>
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/keyswipe.png
-Name: KeySwipe-Rootless
-
-Package: com.keyswipe-rootless
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: CyPwn <xuanhua880@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: org.thebigboss.keyswipe, xyz.cypwn.keyswipe
-Filename: ./debs/com.keyswipe-rootless_1.0.2_iphoneos-arm64e.deb
-Size: 16170
-MD5sum: a5e5b29cad0011b2acb30628e1d42e73
-SHA1: 967ee1ee5404f6f4957e391e94ebb5c8be39f306
-SHA256: 25b950b8c8058400e5ffeabbb93ae13aac90421bba1328c3fe31ccefcf6c79a0
-Section: 插件
-Description: 通过向上/向下滑动更改键盘
-Author: Delewhopper & julioverne <xuanhua880@gmail.com>
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/keyswipe.png
-Name: KeySwipe-Rootless
 
 Package: com.kitten.tweaktool
 Version: 2.0.0-beta
@@ -10592,32 +10409,6 @@ Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
-
-Package: com.pantsthief.flexing
-Version: 1.5.2
-Architecture: iphoneos-arm64e
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 284
-Pre-Depends: firmware (>= 8.0)
-Depends: libflex, mobilesubstrate
-Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
-Filename: ./debs/com.pantsthief.flexing_1.5.2_iphoneos-arm64e.deb
-Size: 19880
-MD5sum: 861c6ef747da959f02540f2c46212183
-SHA1: 77aff5a12e537fdb9e877bfa328b398659d29cb9
-SHA256: a7dd840bbc022c049cd8390beb57385312169b0959708529a2a2a235c06b3d43
-Section: Tweaks
-Description: Open FLEX anywhere!  aka FLEXTool/FLEXList
-  .
-  Usage:
-  - long press status bar on home screen
-  - three-finger long press on app views
-  .
-Author: Tanner Bennett <thepantsthief@me.com>
-Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: FLEXing
-Sileodepiction-Unused: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
 Package: com.picsewpro
 Version: 1.0.0
