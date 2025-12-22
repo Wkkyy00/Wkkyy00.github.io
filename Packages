@@ -147,37 +147,6 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
 Name: Hello AppData
 
-Package: cn.zqbb.editpre
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 144
-Filename: ./debs/cn.zqbb.editpre_0.0.1_iphoneos-arm64.deb
-Size: 33044
-MD5sum: be8b2ff412360e3c28849f971fbb88b0
-SHA1: 4ed0fc5f28d9e6200d38233476b72a8a62249281
-SHA256: c1fdc05e0c19656f9e36bc409035f3d5ca23e6560308b835c74fd94365e1a29e
-Section: 插件
-Description: An awesome application!
-Author: zqbb
-Name: editPre
-
-Package: cn.zqbb.editpre
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: zqbb
-Installed-Size: 144
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/cn.zqbb.editpre_0.0.1_iphoneos-arm64e.deb
-Size: 34248
-MD5sum: e9a349fd84a6d747211c4bb97ad81f25
-SHA1: 55bbcd42d04279ca1e53b6674402458272c0b642
-SHA256: 0a542d87b9202d3c18d2354d909b77b5d36c2ee63f7faaafc5449cec8c91da72
-Section: 插件
-Description: An awesome application!
-Author: zqbb
-Name: editPre
-
 Package: cn.zqbb.fix120hz
 Version: 1.2.0-30
 Architecture: iphoneos-arm64
@@ -9945,6 +9914,37 @@ Description: 去开屏广告，测试版本：11.43.13
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
 Name: 大众点评NoAds
+
+Package: com.wkk.editpre
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 144
+Filename: ./debs/com.wkk.editpre_0.0.1_iphoneos-arm64.deb
+Size: 33124
+MD5sum: f4368db49679f862020a8265202fdcf4
+SHA1: 0c7efe7024cdf019a3fe296953f6559600a7134a
+SHA256: 64c181f20cf0cd40c3d154b3eb47d6194781ec4f75692c5c132ba94075122d63
+Section: Tweaks
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 隐藏设置里插件
+
+Package: com.wkk.editpre
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.editpre_0.0.1_iphoneos-arm64e.deb
+Size: 38678
+MD5sum: 4f780d69c870933a188377f86852a4c6
+SHA1: 11416e431070570afdfda7d09e42f25e4d2fe52c
+SHA256: 5d4b3976ca35e09c620eb644ce0d34fb5c59b08b2cf5a5069e7d2f9da8aaa47a
+Section: Tweaks
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 隐藏设置里插件
 
 Package: com.wkk.fanqiehook
 Version: 1.0
