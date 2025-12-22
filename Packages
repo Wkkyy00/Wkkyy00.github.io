@@ -10719,6 +10719,43 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
 
+Package: com.wkk.instalauncher2
+Version: 1.11.0
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
+Installed-Size: 1188
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/com.wkk.instalauncher2_1.11.0_iphoneos-arm64.deb
+Size: 204644
+MD5sum: d91dbc89eb22d53ae4a64ac7139d0b66
+SHA1: 2bdbcd76bb742d060891ff1361776a4ab7963e0f
+SHA256: 090470e85e1f4fd402bd7ba5aff01111bff7ec37643f15b13376585d6446d9e4
+Section: Tweaks
+Description: 侧边呼出app。
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
+Name: InstaLauncher 2
+
+Package: com.wkk.instalauncher2
+Version: 1.11.0
+Architecture: iphoneos-arm64e
+Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
+Installed-Size: 1188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/com.wkk.instalauncher2_1.11.0_iphoneos-arm64e.deb
+Size: 266670
+MD5sum: e8986e4d36b62a6a04b295a53ebc6c89
+SHA1: 369f16c7b8ea4cf40f688ec12102d8937532bc5a
+SHA256: 9346b83da05dacdc09fc8df0f2a89783b7426921116fbf1797392f4ba24fa25a
+Section: Tweaks
+Description: 侧边呼出app。
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
+Name: InstaLauncher 2
+
 Package: com.wkk.jdhook
 Version: 1.0
 Architecture: iphoneos-arm64
