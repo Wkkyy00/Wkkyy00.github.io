@@ -73,61 +73,6 @@ Author: RlPNDlP
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 虚拟内存优化
 
-Package: cn.llld.qsyy
-Version: 2.3.1-2
-Architecture: iphoneos-arm
-Maintainer: 来了老弟
-Installed-Size: 4936
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm.deb
-Size: 1948444
-MD5sum: e0708cc2f5bcef649abbef1762d07f14
-SHA1: 88b5e25761667d8010ca36ddddf45a00741a88fe
-SHA256: c5d4d199e44a4ec3326aec13e0d5bf862df614b5b829aed295c5593f5b2c0b08
-Section: 插件
-Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
-Author: 来了老弟
-Icon: https://s1.imagehub.cc/images/2025/04/01/22140f053325217e1c585cd47637a886.png
-Name: FT Plus
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
-
-Package: cn.llld.qsyy
-Version: 2.3.1-2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 4964
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64.deb
-Size: 1949060
-MD5sum: 15250dc98cfb6daf2770a30a4c656f0b
-SHA1: c62daea84f8cbab849e4d9282655f54b75826d00
-SHA256: 545ba8ec8d57468356621075a7d625b09726afe264f7a21d41800a2e76da85c0
-Section: 插件
-Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
-Author: 来了老弟
-Icon: https://s1.imagehub.cc/images/2025/04/01/22140f053325217e1c585cd47637a886.png
-Name: FT悬浮文本增强替换翻译汉化
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
-
-Package: cn.llld.qsyy
-Version: 2.3.1-2
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 4964
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/cn.llld.qsyy_2.3.1-2_iphoneos-arm64e.deb
-Size: 1955064
-MD5sum: 6a650e1267af685ef634e1688ea95766
-SHA1: 4c1255451ec34a76d8eb7deaa4202567c6e747ee
-SHA256: e3a6c35afc6465ec8b8abca61e3c138a2825b15ba20951a99ae6911a4ded731d
-Section: 插件
-Description: ***一款支持批量替换文本的悬浮窗工具***，使用说明：悬浮窗内填写：文本替换前===文本替换后，===是替换符。使用场景：修改通话时间，修改联系人，修改通话记录，翻译替换文本，自定义文字替换，自定义文字大小，自定义文字视图宽度，高度，自定义文字视图横向纵向的坐标，自定义文字颜色，自定义文字字体，自定义文字透明度，隐藏设备实际信息，靓仔装逼等，这只是应用类插件，不会影响到系统全局或桌面。
-Author: 来了老弟
-Icon: https://s1.imagehub.cc/images/2025/04/01/22140f053325217e1c585cd47637a886.png
-Name: FT悬浮文本增强替换翻译汉化
-Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
-
 Package: cn.sunshinesong.split-view-pro
 Version: 1.1.6
 Architecture: iphoneos-arm64
@@ -5351,41 +5296,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
 Name: Filza Crack
 
-Package: com.gilshahar7.dndmyrecording
-Version: 1.3
-Architecture: iphoneos-arm64e
-Maintainer: gilshahar7, 0xkuj
-Installed-Size: 216
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.gilshahar7.dndmyrecording_1.3_iphoneos-arm64e.deb
-Size: 9384
-MD5sum: 099b8be288c9b0dd8adc4b9849767a79
-SHA1: 80f03a7c35c0c2db9ba076108345cd69fd371f48
-SHA256: a21c35f400f91efb222404d13616dbc0b9d25634c56ebab11506fea8b8db3a92
-Section: 插件
-Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏！（录屏结束自动关闭）
-Author: gilshahar7, 0xkuj
-Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
-Name: DNDMyRecording
-
-Package: com.gilshahar7.dndmyrecording
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: gilshahar7, 0xkuj
-Installed-Size: 216
-Depends: mobilesubstrate
-Filename: ./debs/com.gilshahar7.dndmyrecording_1.3_iphoneos-arm64.deb
-Size: 7004
-MD5sum: 17452cf266e3680a2cd9bcd6e569854c
-SHA1: de9d82b24d8199862a12145f301345a7d5ddb23a
-SHA256: 099cee369337823b3e3ed2bc9c209339bf6d9155e23911f0cafb2d102994aa37
-Section: 插件
-Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏！（录屏结束自动关闭）
-Author: gilshahar7, 0xkuj
-Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
-Name: DNDMyRecording
-
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -9849,6 +9759,41 @@ Description: 去开屏，版本：9.0.6，接大量冷门热门app定制去广�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
 Name: 大麦NoAds
+
+Package: com.wkk.dndmyrecording
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: gilshahar7, 0xkuj
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.dndmyrecording_1.3_iphoneos-arm64.deb
+Size: 7016
+MD5sum: 503b79e4d52be91fb33cd62ac5d0e4ea
+SHA1: c604286f396cda4324da6202b4c8f001181efd75
+SHA256: e3608f8287c57d6cd08a0a2ef22f5dddf8aa68d5c4aceaaf38d9428dfe46619c
+Section: Tweaks
+Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏！（录屏结束自动关闭）
+Author: gilshahar7, 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
+Name: DNDMyRecording
+
+Package: com.wkk.dndmyrecording
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: gilshahar7, 0xkuj
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.dndmyrecording_1.3_iphoneos-arm64e.deb
+Size: 8172
+MD5sum: 8f6ce4f213a4b22970eb2361b9f1f3d0
+SHA1: 5fe990726f079a9c882a5892ddb5068561fe1468
+SHA256: 9bc0ca08f5085d057f9d33d47ea3178c0e1c685105e75c1fc7984561b8a8bd74
+Section: Tweaks
+Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏！（录屏结束自动关闭）
+Author: gilshahar7, 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
+Name: DNDMyRecording
 
 Package: com.wkk.douyutvhook
 Version: 1.0
