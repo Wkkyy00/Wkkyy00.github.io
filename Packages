@@ -5261,41 +5261,6 @@ Author: dvntm
 Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
 Name: SilentNotifs
 
-Package: com.filzacrack
-Version: 1.1-9
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
-Filename: ./debs/com.filzacrack_1.1-9_iphoneos-arm64.deb
-Size: 28744
-MD5sum: 96320a4239c26c21a90eef555f2c9567
-SHA1: 4be1cd26605361179321d925bb97a66bc1f19f77
-SHA256: 48dc107757017eff1c03c44d2f9a89cfc28b08f13c76f83ac4ad0fa067ec59d3
-Section: 插件
-Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
-Name: Filza Crack
-
-Package: com.filzacrack
-Version: 1.1-9
-Architecture: iphoneos-arm64e
-Maintainer: Nets
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
-Filename: ./debs/com.filzacrack_1.1-9_iphoneos-arm64e.deb
-Size: 39954
-MD5sum: ec1c840b7ff54c985ea624a88374cbd8
-SHA1: 2b72a4019bedbb31600851ed46b1c20a2a2e9667
-SHA256: 93315902477aa95557e65961a33c3ba9cff429e4b8991908d439fc5021d6d7cb
-Section: 插件
-Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
-Name: Filza Crack
-
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -9287,6 +9252,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/26/625c73dceb27fb1a3ad61fda0d615a95.jpeg
 Name: HideCameraPreview
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/camera.json
+
+Package: com.wkk.canna
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Luki
+Installed-Size: 288
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.canna_1.0-1_iphoneos-arm64e.deb
+Size: 71418
+MD5sum: 35fbd444b4b87f240efbc01aa6d51c35
+SHA1: 7386c5321c8b0eac5ca9740a24c9c8b82e0b3e9d
+SHA256: 03cd4fe9cd38ee22c4db2369d744983e614ab50be5950f0db53833be3aec2b38
+Section: Tweaks
+Description: IOS6（或自定义）充电和锁定声音。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/01/02/db0552c3269c402cf762bc2ffda80f7f.png
+Name: Canna
+
+Package: com.wkk.canna
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.canna_1.0-1_iphoneos-arm64.deb
+Size: 51576
+MD5sum: f2229f878984f3656bc8b5826dd6032c
+SHA1: 226610ae49e209e5cc7f10e93f3d678e7210f25e
+SHA256: 0fa8f11ba6cc6f6a65232190a28490aff969430724259e27fdc0bd40db349879
+Section: Tweaks
+Description: IOS6（或自定义）充电和锁定声音。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/01/02/db0552c3269c402cf762bc2ffda80f7f.png
+Name: Canna
 
 Package: com.wkk.car
 Version: 1.0
@@ -13457,45 +13457,6 @@ Description: 解锁画中画限制，双指随意放大，无设置项。
 Author: Soh Satoh
 Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
 Name: FreePIP
-
-Package: me.luki.canna
-Version: 0.9.0
-Architecture: iphoneos-arm64
-Maintainer: Luki
-Installed-Size: 288
-Depends: mobilesubstrate
-Filename: ./debs/me.luki.canna_0.9.0_iphoneos-arm64.deb
-Size: 53116
-MD5sum: 165dce7480da1f6b7d739365e14126eb
-SHA1: d2f124c8e72309943a5fae191338155a5298fae7
-SHA256: 6cae1ee130ec1176110e3cb09e7cab3d8e7e94a6a1ed4e29f4ab05a6d25d350b
-Section: 插件
-Description: iOS 6 (or custom) charging & lock sounds
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
-Icon: https://s1.imagehub.cc/images/2025/01/02/db0552c3269c402cf762bc2ffda80f7f.png
-Name: Canna
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
-
-Package: me.luki.canna
-Version: 0.9.0
-Architecture: iphoneos-arm64e
-Maintainer: Luki
-Installed-Size: 288
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/me.luki.canna_0.9.0_iphoneos-arm64e.deb
-Size: 70254
-MD5sum: c640845fdefdef96a657f762ee45715b
-SHA1: 66a0d8b5ea36c92091cd7878fe81be33283d99c9
-SHA256: 6a9512a682db2d4ab50aa0f0d964e577b903fc5112493d0f7376b7a941b30be6
-Section: 插件
-Description: iOS 6 (or custom) charging & lock sounds
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
-Icon: https://s1.imagehub.cc/images/2025/01/02/db0552c3269c402cf762bc2ffda80f7f.png
-Name: Canna
-Sileodepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
 
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
