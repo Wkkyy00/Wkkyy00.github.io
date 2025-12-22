@@ -8907,6 +8907,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
 Name: 爱奇艺NoAds
 
+Package: com.wkk.atria
+Version: 1.4.1-6
+Architecture: iphoneos-arm64
+Maintainer: ren7995 & SINI
+Installed-Size: 1104
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.atria_1.4.1-6_iphoneos-arm64.deb
+Size: 375968
+MD5sum: cd4b0b16ec6502d6c96fa49702d3a7da
+SHA1: f539ee50ad80c0f451532ad16709516b015cc042
+SHA256: dc4fde31c4092a803d33e9050a32f386c5c2f6eed0c6365b9e7d51e4512f6e4f
+Section: Tweaks
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
+Package: com.wkk.atria
+Version: 1.4.1-6
+Architecture: iphoneos-arm64e
+Maintainer: ren7995 & SINI
+Installed-Size: 1072
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.atria_1.4.1-6_iphoneos-arm64e.deb
+Size: 374424
+MD5sum: 3c811fc0a39904b8a874d3b95a0ddede
+SHA1: 48aa4f2fd831ad70b764df3f77788237c020a196
+SHA256: 3feac42ec0cf97a601b8c64cf7d716af2b8037b3f0e51328bcf676787420abcd
+Section: Tweaks
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
 Package: com.wkk.baiduwangpanhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -9348,6 +9382,39 @@ Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEmoticoncolorsocool
 
+Package: com.wkk.cozybadges
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
+Filename: ./debs/com.wkk.cozybadges_2.1_iphoneos-arm64e.deb
+Size: 78652
+MD5sum: 47a167f7c553669780d23307d4cbbf14
+SHA1: 2a59517e3fd3aa8c85bee76dfaf6f957e3cfe258
+SHA256: 784c35c3ad7a1719622a3dfb347753b453f9a38a45433f3d316596e865013275
+Section: Tweaks
+Description: 彩色通知，显示在app图标下方。
+Author: NoisyFlake
+Icon: https://s1.imagehub.cc/images/2025/01/21/3d6e93c08b2ebd3c38071d511802c932.jpeg
+Name: CozyBadges
+
+Package: com.wkk.cozybadges
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
+Filename: ./debs/com.wkk.cozybadges_2.1_iphoneos-arm64.deb
+Size: 60016
+MD5sum: fe77e741f328e999ec1a25aa9feba11c
+SHA1: b87648322014a7c72c9b78d21cded40a409557f7
+SHA256: 2785cf256a29c109f89383f148799f51580bd4ceddba5667f570ea37398b8de3
+Section: Tweaks
+Description: 彩色通知，显示在app图标下方。
+Author: NoisyFlake
+Icon: https://s1.imagehub.cc/images/2025/01/21/3d6e93c08b2ebd3c38071d511802c932.jpeg
+Name: CozyBadges
+
 Package: com.wkk.cqkjlogo
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -9728,6 +9795,39 @@ Description: 去开屏广告，应用内广告去除需要定制，版本：8.03
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/24/8f2e76ebde0b1b42f3c65b5dd7ebd719.png
 Name: 斗鱼NoAds
+
+Package: com.wkk.dualswipeshot
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Filename: ./debs/com.wkk.dualswipeshot_1.0-1_iphoneos-arm64.deb
+Size: 4272
+MD5sum: c3fc4b21526166bbd4c54a33732079cc
+SHA1: 13cce3462aca9d736c14d2eb986760ed14360e63
+SHA256: a1dc18df8850801d4ec17773bd40f0bd6aab06727e5c90704918c16ebae0d24c
+Section: Tweaks
+Description: 双指从手机屏幕顶部下滑，即启用截图。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.png
+Name: 双指下滑截图
+
+Package: com.wkk.dualswipeshot
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.dualswipeshot_1.0-1_iphoneos-arm64e.deb
+Size: 5730
+MD5sum: 188b662ef0f3cd21771e92daa023ba52
+SHA1: 57582f6452578b37a16adfaddfc92462d619b25b
+SHA256: 34d8ba0fa6bf7f15e93f591715c9d6cb8df14c24fc9513ae25d9790f8b1105e5
+Section: Tweaks
+Description: 双指从手机屏幕顶部下滑，即启用截图。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.png
+Name: 双指下滑截图
 
 Package: com.wkk.dy
 Version: 1.0
@@ -10966,6 +11066,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
 
+Package: com.wkk.latchkey
+Version: 2.3.3
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.latchkey_2.3.3_iphoneos-arm64.deb
+Size: 423000
+MD5sum: 3b3fa7b32b6c7875053dd0f8ba25ef95
+SHA1: a2b588fcb927753d185669e3d4f7cd5cca652aae
+SHA256: d51e7361694e9364c41671dda503bdc154556f783591574bd43e512abfd06a49
+Section: Tweaks
+Description: 自定义锁头最终版本，去掉无用选项
+Author: Maxwell Dausch
+Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
+Name: Latchkey
+
+Package: com.wkk.latchkey
+Version: 2.3.3
+Architecture: iphoneos-arm64e
+Maintainer: Maxwell Dausch
+Installed-Size: 13476
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.latchkey_2.3.3_iphoneos-arm64e.deb
+Size: 425772
+MD5sum: 32051bfde70d35633dab3b710ea0d0fa
+SHA1: 76c2902d1624bddbc7fcd9659b0e85fe45ba1c69
+SHA256: e29da226d68237c70af3b4bd181733be1deb72e2939fa727a6206dacb5cdeefc
+Section: Tweaks
+Description: 自定义锁头最终版本，去掉无用选项
+Author: Maxwell Dausch
+Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
+Name: Latchkey
+
 Package: com.wkk.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -11893,6 +12028,37 @@ Description: 设置里的项目抓取，已汉化，上架备份。
 Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Name: QuickPrefs
+
+Package: com.wkk.ravitation
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ravitation_1.0-1_iphoneos-arm64.deb
+Size: 75520
+MD5sum: e32f07b7bec7945199bef9c222bf101e
+SHA1: 95bcdd9fbf1f6f5529e68b35f6cc1e244af22f81
+SHA256: 4157cedfec1768c2d0fa9202527403ecd1aaa8e71689b6f1030926cac6340ee8
+Section: Tweaks
+Description: 桌面晃动手机图标则会抖动下落。
+Author: Kritanta
+Icon: https://s1.imagehub.cc/images/2025/12/23/55751480aa1be9607a3de0115db15421.png
+Name: Gravitation
+
+Package: com.wkk.ravitation
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ravitation_1.0-1_iphoneos-arm64e.deb
+Size: 88646
+MD5sum: bb059f30ee4ed9ff307a69aa8f4bc528
+SHA1: 9ad67cfbcdbbecd0e65dc97c905202f4e3583d76
+SHA256: 565c4fe944c9709362073f2e6d9a95809e71d4c178a6963cfdf5006af958fea8
+Section: Tweaks
+Description: 桌面晃动手机图标则会抖动下落。
+Author: Kritanta
+Icon: https://s1.imagehub.cc/images/2025/12/23/55751480aa1be9607a3de0115db15421.png
+Name: Gravitation
 
 Package: com.wkk.recordanywhere
 Version: 1.1.0
@@ -13605,6 +13771,46 @@ Description: 微信净化，还原聊天本质，干净的微信给你，仅支�
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信净化END
+
+Package: preferenceloader.top
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: ProcursusTeam <support@procurs.us>
+Installed-Size: 148
+Depends: mobilesubstrate
+Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Provides: preferenceloader (= 2.2.6)
+Filename: ./debs/preferenceloader.top_2.2.7_iphoneos-arm64.deb
+Size: 12976
+MD5sum: acef277f3eef41ca364f73f4006ace7c
+SHA1: c631258c2011ef98610159d9d836cd404a0ffc40
+SHA256: 7be68c83086fafaa71592d9bbfce1ab774b7e2a0296959774b555a2e0abf9bc2
+Section: Tweaks
+Description: load preferences in style
+Author: Dhinak G <dhinak@dhinak.net>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PreferenceLoader (Top)
+
+Package: preferenceloader.top
+Version: 2.2.7
+Architecture: iphoneos-arm64e
+Maintainer: ProcursusTeam <support@procurs.us>
+Installed-Size: 148
+Depends: mobilesubstrate
+Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Provides: preferenceloader (= 2.2.6)
+Filename: ./debs/preferenceloader.top_2.2.7_iphoneos-arm64e.deb
+Size: 12032
+MD5sum: 470f05060d3d79d8bf2e322a218ccc34
+SHA1: 9159509420225d64c6033f72ed212ca81cb4b5fc
+SHA256: 678191bdbfe242fc7de3269370a4720130efeed66017bd787ccc1e22eda8ec1d
+Section: Tweaks
+Description: load preferences in style
+Author: Dhinak G <dhinak@dhinak.net>
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: PreferenceLoader (Top)
 
 Package: ru.domo.cocoatop64
 Version: 2.2.4-1
