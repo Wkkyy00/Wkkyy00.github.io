@@ -6384,39 +6384,6 @@ Author: 预言小猫
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键备份和恢复工具
 
-Package: com.lclrc.recordanywhere
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Maintainer: Muirey03 & lclrc
-Depends: mobilesubstrate
-Filename: ./debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64e.deb
-Size: 4224
-MD5sum: c9807cf16e992720e3af2e3404688336
-SHA1: dfbfea02ee542bb1b7cb7da512ed96e832f33271
-SHA256: c506a577f235a484421b8862377050b37300f065557762f7b0ee634bb9b4ea14
-Section: 插件
-Description: 使手机在锁屏状态也可以继续录屏。
-Author: Muirey03 & lclrc
-Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
-Name: RecordAnywhere
-
-Package: com.lclrc.recordanywhere
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: Muirey03 & lclrc
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64.deb
-Size: 4580
-MD5sum: 3c37cab43ce04de13d8f73f0ba854f18
-SHA1: 3ad4f8ea49a8ba9c51904ae5a728f5224fcdb529
-SHA256: 41d59fdf18244fc2330f4fe01514f9bbb5c486bef9554bf12e0490f1e9cf5b41
-Section: 插件
-Description: 使手机在锁屏状态也可以继续录屏。
-Author: Muirey03 & lclrc
-Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
-Name: RecordAnywhere
-
 Package: com.lhyee.wcfix
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -11856,6 +11823,41 @@ Description: 设置里的项目抓取，已汉化，上架备份。
 Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Name: QuickPrefs
+
+Package: com.wkk.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.recordanywhere_1.1.0_iphoneos-arm64.deb
+Size: 4580
+MD5sum: 65ffeefae882ce1273a0c1909eb2a172
+SHA1: f6cd4fbdd77f3d11c508b7dad4059c39e22bc6d3
+SHA256: 984a4040ed181158ba13cc753cdc55bd6e900ea6071c0acdfbd8d9b43c454120
+Section: Tweaks
+Description: 使手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc
+Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
+Name: RecordAnywhere
+
+Package: com.wkk.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.recordanywhere_1.1.0_iphoneos-arm64e.deb
+Size: 6224
+MD5sum: 4b7c8a98fc5c9b85af815adac1e5cd8f
+SHA1: 334834f69cbb3b7d67bb6cdb382b2312eeed7046
+SHA256: b0e45b987178843efbb02ca6cf639930e2431a923dc35080db870a552baca688
+Section: Tweaks
+Description: 使手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc
+Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
+Name: RecordAnywhere
 
 Package: com.wkk.sdk16.5
 Version: 1.0
