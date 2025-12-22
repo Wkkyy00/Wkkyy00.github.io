@@ -11279,6 +11279,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/20/054b3d51d5c8b82a205282047a409964.png
 Name: 米游社NoAds
 
+Package: com.wkk.nochargingsound
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.nochargingsound_1.0-1_iphoneos-arm64.deb
+Size: 3216
+MD5sum: 9613433a294ac1ada185554227e9e57c
+SHA1: 97aae07750b8ad27556efee21c899b1d07a79879
+SHA256: 7c9807d15396d7cb0cbf0cc8e85854f802ed8604dbffcb69151f17915cc853d4
+Section: Tweaks
+Description: 充电器连接到设备时禁用声音/振动，无设置项。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/05/88e9e30fb0e2ed87767b4d3280c200e1.png
+Name: 禁用充电声音
+
+Package: com.wkk.nochargingsound
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.nochargingsound_1.0-1_iphoneos-arm64e.deb
+Size: 4468
+MD5sum: 3b7a8c57096c8aad82b42dc66ce5348f
+SHA1: 897e7f459454714c7c2b72fa0045a42b44c287ea
+SHA256: 93d5051a79dedfa12288563656914c7bb8f5128b0e75565d6a79bed2c440b0fc
+Section: Tweaks
+Description: 充电器连接到设备时禁用声音/振动，无设置项。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/05/88e9e30fb0e2ed87767b4d3280c200e1.png
+Name: 禁用充电声音
+
 Package: com.wkk.photohook
 Version: 1.0-6
 Architecture: iphoneos-arm64e
