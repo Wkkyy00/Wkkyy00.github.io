@@ -9151,6 +9151,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩NoAds
 
+Package: com.wkk.boardswipe
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: AnubisTweaks
+Installed-Size: 1036
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.boardswipe_1.0.0_iphoneos-arm64.deb
+Size: 486804
+MD5sum: fb18521c2efcd8c9e0696f6082164421
+SHA1: 677eff6ca1be1f681538a2701365f8b32f1e3e3e
+SHA256: c82744cb9f2db449568ed326afb16eb4f3265f9a2a68b3ea0352fceae1d634e1
+Section: Tweaks
+Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉化。
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
+Name: BoardSwipe
+
+Package: com.wkk.boardswipe
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 1036
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.boardswipe_1.0.0_iphoneos-arm64e.deb
+Size: 488900
+MD5sum: de5e25c177ca98f8bdeee6414973c221
+SHA1: 962adee31d42af77279858592a57079be917bf59
+SHA256: 35fa9a08e8b1ca3d760e5f5cb6554e5e2ddb91d1f2de27ec9c2015cb9b7f66af
+Section: Tweaks
+Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉化。
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
+Name: BoardSwipe
+
 Package: com.wkk.cadhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
