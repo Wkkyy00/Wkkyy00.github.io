@@ -4524,6 +4524,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.7-1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.7-1_iphoneos-arm64e.deb
+Size: 1724530
+MD5sum: a5197b32c07cf8bd4be95a107a6c338a
+SHA1: bce1cb6a574bd51d613e752fb285e7fc44db8009
+SHA256: 232fa855fb8bd3df8ed5d5ba6f375d729c0022f3ff32bda4f9cde39ac147bca1
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.7-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.7-1_iphoneos-arm64.deb
+Size: 642904
+MD5sum: afe14c959f41f924f8211390970470b9
+SHA1: e8bfb8409e048b9273e91ff809efe9f07d1cc8e3
+SHA256: 3219670ee8d6cd524078725b2a0c0e43c88e00428df2f28f2b6525a9ad83f8f5
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.blbl
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -8473,6 +8510,41 @@ Size: 13062056
 MD5sum: 281b8af7e3946ac39fb181bc6fb36b47
 SHA1: c17fc4e7e76246c75a86b73993afd352314c9f89
 SHA256: 7a64b579992a67ab8ec26269b36268ef46732ccd83c8e53f547a3da6fed5d649
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.2.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.1_iphoneos-arm64.deb
+Size: 4808764
+MD5sum: ddd6b0dc5b47af5439ebfe69abc8e723
+SHA1: 92f9117c4de0fb7b24fdcfc500bbc4bd93580194
+SHA256: 258167385a5c54c99d3856378e47847bda2b1f86254443c262253ba76991dee0
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.2.1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.1_iphoneos-arm64e.deb
+Size: 12981630
+MD5sum: 7f89026839691f3abf723fd41eea671e
+SHA1: 2cf1f610da235402654edbb834bef7b3b2218ac0
+SHA256: 206bfdf757e7ec5bf0af6a5167ec00ce8089f2ef5c40f5525574697f9e9fba21
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
