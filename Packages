@@ -11558,6 +11558,46 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/20/054b3d51d5c8b82a205282047a409964.png
 Name: 米游社NoAds
 
+Package: com.wkk.newterm3
+Version: 3.1
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24244
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/com.wkk.newterm3_3.1_iphoneos-arm64e.deb
+Size: 3730988
+MD5sum: cdcf4cf2d01bd14863279074bf1af01b
+SHA1: 1d9ed57740f597422e7183d2a91ed21701a8370e
+SHA256: 855e9d9f0fc869719f990ed29c9f09d6918e6f488ec577506379fabcedb3c4b5
+Section: 应用程序
+Description: 自用的版本。
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://s1.imagehub.cc/images/2025/12/25/f80733f286faa3e95704c3fcd17d7dfb.png
+Name: NewTerm 3 Beta
+
+Package: com.wkk.newterm3
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24244
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/com.wkk.newterm3_3.1_iphoneos-arm64.deb
+Size: 3835492
+MD5sum: 3b439a3ad401a448d028b39ff8c3080f
+SHA1: a3439bf602f27184c9f3065f3ca2e384c94432d6
+SHA256: 980a6b4c3b7fcee5788f268876ab2c351f6f06bbb7bf670eca9d2e79fef0bed3
+Section: 应用程序
+Description: 自用的版本。
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://s1.imagehub.cc/images/2025/12/25/f80733f286faa3e95704c3fcd17d7dfb.png
+Name: NewTerm 3 Beta
+
 Package: com.wkk.nochargingsound
 Version: 1.0-1
 Architecture: iphoneos-arm64
