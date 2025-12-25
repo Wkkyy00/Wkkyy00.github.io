@@ -8917,6 +8917,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChat自用气泡
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
 
+Package: com.wkk.aaaaaaaaaa
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaa_1.0-1_iphoneos-arm64e.deb
+Size: 968
+MD5sum: b20ff68c781bb898dbdbc912adfd38f4
+SHA1: 879bb2bf012adfb00418cc304b1f5b7df662f368
+SHA256: 6c29d8ba7ae8adf6bec921c352027271030ee403cb1b389b67b354321e8da903
+Section: 插件配置
+Description: 所有的配置文件下载后均在/var/mobile/Documents目录下（无根隐根都是一样的）下载后自己去翻即可。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAAA插件配置说明（必看）
+
 Package: com.wkk.afakerxi
 Version: 1.0.3
 Architecture: iphoneos-arm64
