@@ -10216,14 +10216,14 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.dynamicislandsucai_1.0-1_iphoneos-arm64.deb
-Size: 39977228
-MD5sum: 13b5e0b392111dcd806de413ced11c78
-SHA1: 713cbe74c11a0739bf47f43cc0f36705e230ce74
-SHA256: 3fb41ac6e1ab005de61ec1cf1f394424c93d3e7da27b57e5fb3880a7e7f4bd41
+Size: 39977240
+MD5sum: cfd0f67eb2588f511f430f80d389f91a
+SHA1: 14397fa0e488cf2f9de8311b22d28628264f05d7
+SHA256: 9f2ea9e3ee43a7999f84a97acab1fb3039a52191959d41b15e526af4a0040872
 Section: 插件配置
 Description: 下载后素材/var/mobile/Documents/灵动岛素材
 Author: 网络资源
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 灵动岛跳舞动画素材
 
 Package: com.wkk.dynamicislandsucai
@@ -10232,14 +10232,14 @@ Architecture: iphoneos-arm64e
 Maintainer: wkk
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
 Filename: ./debs/com.wkk.dynamicislandsucai_1.0-1_iphoneos-arm64e.deb
-Size: 39977232
-MD5sum: 4407fd2f7fa7eb8e80807783f713f95f
-SHA1: b036f5fbcfceda774d3e858abd654e2b929013dc
-SHA256: 3f82532411cc16587136eba28f97c1358e411624f31f28f02e552be4dba5dc01
+Size: 39977236
+MD5sum: 94219d31f3f480db3f08cfd4b182f574
+SHA1: 939998f429ac74ec330d7bc79f4b0d1a1ab80e5d
+SHA256: 3d6d1d3ac2a90851ea8686714333a65a8b108738b3346958e231ec600bafc924
 Section: 插件配置
 Description: 下载后素材/var/mobile/Documents/灵动岛素材
 Author: 网络资源
-Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 灵动岛跳舞动画素材
 
 Package: com.wkk.dzdphook
