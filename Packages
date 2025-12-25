@@ -9587,6 +9587,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 重启用户空间logo制作终端(自用)
 
+Package: com.wkk.crane
+Version: 1.3.16-4
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.wkk.crane_1.3.16-4_iphoneos-arm64e.deb
+Size: 609116
+MD5sum: 97ff2701a15ed6ba0abd1293cbba5553
+SHA1: b8f23bcfe5849f94922f66196fd1c2a81dbbd2b4
+SHA256: b3176407429a4d51402ccf3aa0a12e0c18e42195730f0354ff73bc2c37dd87f6
+Section: Tweaks
+Description: 正版砸壳备份，请支持正版。
+Author: opa334
+Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
+Name: Crane
+
 Package: com.wkk.cxdebdylib
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -11309,6 +11327,24 @@ Description: 去应用内所有广告需走个人定制，此版本只去开屏�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/22/323c5fd6f763fe498e721570bba6092a.png
 Name: 雷速体育NoAds
+
+Package: com.wkk.manager
+Version: 1.3.6
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 1060
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.wkk.manager_1.3.6_iphoneos-arm64e.deb
+Size: 744648
+MD5sum: 5a78c585845917911c1ef578459a4b41
+SHA1: 87352695b5539eb7f77c8496d69c52917eeb0f3f
+SHA256: 0dbb3a1c593179732932d3e9eab1724701341ea0b7e1c3392d9e2ce9c19280b5
+Section: Tweaks
+Description: 配置RootHide的功能（去掉挂载提示）
+Author: roothide
+Depiction: https://github.com/roothide/RootHideManagerApp
+Name: RootHide Manager
+Support: https://github.com/roothide/RootHideManagerApp
 
 Package: com.wkk.megahook
 Version: 1.0
