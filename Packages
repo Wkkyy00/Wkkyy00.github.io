@@ -9659,6 +9659,41 @@ Author: fiore
 Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
 Name: CCBorder15
 
+Package: com.wkk.ccdnd
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.wkk.ccdnd_1.0_iphoneos-arm64e.deb
+Size: 14188
+MD5sum: e01dcd9ea76dbc45e0acef8485a4687f
+SHA1: 5fc519388ab309de10c1285536762cc73dfe728f
+SHA256: 390a70d78e7abbedb69fa6e41a1ba0e9319e0f7f0b7c5ab80c77ab256024e92b
+Section: Tweaks
+Description: 控制中心勿扰模式单模块。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
+Name: CCDND
+
+Package: com.wkk.ccdnd
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 180
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.wkk.ccdnd_1.0_iphoneos-arm64.deb
+Size: 13036
+MD5sum: 2456bd51a9e94b4b4483c7055afa2927
+SHA1: e164696f5c634a2f395bf52a31df40fb4efc28df
+SHA256: 2b412839ef51c97ef35b211ea0819038ea16bcacafe06307313a00ee52b2838b
+Section: Tweaks
+Description: 控制中心勿扰模式单模块。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
+Name: CCDND
+
 Package: com.wkk.center
 Version: 1.1-1
 Architecture: iphoneos-arm64
