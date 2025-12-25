@@ -8812,6 +8812,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
 Name: SquidExtender配置
 
+Package: com.wkk.WCEhance
+Version: 2.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Lxcloud
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCEhance_2.0-1_iphoneos-arm64e.deb
+Size: 5106722
+MD5sum: 94b7ddb4bbfb0f07d62c0b102da548d8
+SHA1: 6b44a24867710b3b0258cd22db20452dbe7e15fb
+SHA256: b60eabf15dad5fa734fda64810885a3618f1176298990031e6ea07ddd9091a8f
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.wkk.WCEhance
+Version: 2.0-1
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCEhance_2.0-1_iphoneos-arm64.deb
+Size: 1806104
+MD5sum: 9187045df858b0d391435f682eaf0504
+SHA1: 4c2f413e27ba2f98822a8f9b30dc4d03715a14ee
+SHA256: 97e36efda04712ec0b7c9c08aa0d5a0a11b50ef13ca4b1d24a86a7e3b3f37b2b
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
 Package: com.wkk.WeChatbeautifully
 Version: 1.0
 Architecture: iphoneos-arm64e
