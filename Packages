@@ -89,6 +89,24 @@ Author: LF
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: A1
 
+Package: cn.Bswbw.fixsets
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.Bswbw.fixset
+Filename: ./debs/cn.Bswbw.fixsets_1.1_iphoneos-arm64e.deb
+Size: 36752
+MD5sum: 082cdcbb97c3a4f8537f88c521398823
+SHA1: 3bdc7dd1e3a17058f69cf72263a05812ed0ee150
+SHA256: cc59618b6ea2678b247aaf9932a0988e0e4caf550378bec206ac96d36aac4517
+Section: 插件
+Description: 修复部分插件转RootHide配置不保存问题。
+Author: bswbw
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: FixSet
+
 Package: cn.sunshinesong.split-view-pro
 Version: 1.1.6
 Architecture: iphoneos-arm64
@@ -12155,6 +12173,78 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/05/88e9e30fb0e2ed87767b4d3280c200e1.png
 Name: 禁用充电声音
 
+Package: com.wkk.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/com.wkk.onesettings_2.2_iphoneos-arm64.deb
+Size: 217156
+MD5sum: f0694f188d7ebbff92ddc7a195b7b13e
+SHA1: bebdc844bc0955c0fdce4b26129b584093beb6f3
+SHA256: 1096d0470da7fa2601d737f32e8f6181d549a38a3dc4a29ba5d738441f65144b
+Section: Tweaks
+Description: 插件归类，已汉化。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
+Name: OneSettings
+Sponsor: wkk
+
+Package: com.wkk.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 1084
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/com.wkk.onesettings_2.2_iphoneos-arm64e.deb
+Size: 296438
+MD5sum: 0c49c0a2c94c336f5a90b1485cdac948
+SHA1: 24a6ae8218763a079450d83ed70214a1b4929c1e
+SHA256: fb426a1bad42ae032bdc9e5b1e0a1402b27bd6bf999ab7ba3bf1d5553b0dd124
+Section: Tweaks
+Description: 插件归类，已汉化。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
+Name: OneSettings
+Sponsor: wkk
+
+Package: com.wkk.pancake
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.wkk.pancake_2.3_iphoneos-arm64e.deb
+Size: 128006
+MD5sum: b8c5fce3b1d61285bdea8dbb6edd5693
+SHA1: 42ccd12b3f6775b6209a8d28b88def2ef580bac4
+SHA256: 427aaf8eb153d173be2bfd1df1a1c60cd66eec2feb1b48210ed4e5c497e62c37
+Section: Tweaks
+Description: 全局右滑手势，已汉化。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
+Name: PanCake
+
+Package: com.wkk.pancake
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.wkk.pancake_2.3_iphoneos-arm64.deb
+Size: 112868
+MD5sum: 9da3aa5e855338906b830209a1cd77eb
+SHA1: e5588e321b75015c8543f08570cf29fc3eb6531f
+SHA256: 62c3acf75460aca8792c0ece85606de8b0cd19d52869649993f1b4e7ad782ffe
+Section: Tweaks
+Description: 全局右滑手势，已汉化。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
+Name: PanCake
+
 Package: com.wkk.photohook
 Version: 1.0-6
 Architecture: iphoneos-arm64e
@@ -12801,6 +12891,43 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: iPhoneOS16.5.sdk
 
+Package: com.wkk.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.wkk.smoothcursorios13_0.0.1_iphoneos-arm64.deb
+Size: 3152
+MD5sum: e47fda80850091a4652290ab710e09cd
+SHA1: a4d66dfe2d6f28bc01b6512b42b9e0cbbaa08493
+SHA256: d1285d97bc0c0229b5c15ba81050f7c29d4e0f8988dca2738db7def41b775498
+Section: Tweaks
+Description: Office 2013风格的光标动画。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SmoothCursor(Rootless)
+
+Package: com.wkk.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.wkk.smoothcursorios13_0.0.1_iphoneos-arm64e.deb
+Size: 4454
+MD5sum: 78fc5fa392267c33aea319b97bd646d5
+SHA1: 4486c8958e063a4a83c9ad70adbe44d7ced54578
+SHA256: 4e954d23d315caeb9f450337f4674a1efe1a0b483627d90beaca004d18aed040
+Section: Tweaks
+Description: Office 2013风格的光标动画。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SmoothCursor(Rootless)
+
 Package: com.wkk.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64
@@ -12936,6 +13063,41 @@ Description: 去开屏广告，版本：11.17.6，接大量冷门热门app定制
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
 Name: 淘票票NoAds
+
+Package: com.wkk.tvlock
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: Wes <wes.hamster@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
+Filename: ./debs/com.wkk.tvlock_1.2.3_iphoneos-arm64e.deb
+Size: 42414
+MD5sum: 770c885330d6310f3b8fdf7023027571
+SHA1: b9de8785c01a4d567aade4e5588d49f4cdc8d5ea
+SHA256: 6560f3ddaa40df275ffa95956661340b520adbd984f0e5d3be7119ea3d57ae8b
+Section: Tweaks
+Description: 很棒的老电视关屏动画，已内置简体中文。
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
+Name: TVLock
+
+Package: com.wkk.tvlock
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: Wes <wes.hamster@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
+Filename: ./debs/com.wkk.tvlock_1.2.3_iphoneos-arm64.deb
+Size: 34384
+MD5sum: f4a024058b75ec34e45db64160f4a4b2
+SHA1: 4e2395f79cda94901687f5e33d20151a60b9ab37
+SHA256: 236183c5f40f58d9452a16c3cc6bca55efb1528a2de27fb18880af6699e34789
+Section: Tweaks
+Description: 很棒的老电视关屏动画，已内置简体中文。
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
+Name: TVLock
 
 Package: com.wkk.txsphook
 Version: 1.0
@@ -14070,6 +14232,39 @@ Description: 去开屏，版本：11.1.15
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/06/15/b316043d10ba63ae984e22bc0c193efd.png
 Name: 什么值得买NoAds
+
+Package: com.wkk.zetsu
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.ccsupport, ws.hbang.common
+Filename: ./debs/com.wkk.zetsu_1.5_iphoneos-arm64.deb
+Size: 9658008
+MD5sum: 76232d3fa4d730f623408025e8e245b5
+SHA1: 89077a2834dabfe49d44931b53d26e965d012d1e
+SHA256: cb683238c1cf34fc35582264a1c3a1d88fe5d798bead359f9e4cc83871b917ae
+Section: Tweaks
+Description: 一个很舒服的分屏版本，已汉化。
+Author: Dcsyhi
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
+Name: Zetsu
+
+Package: com.wkk.zetsu
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.ccsupport, ws.hbang.common
+Filename: ./debs/com.wkk.zetsu_1.5_iphoneos-arm64e.deb
+Size: 19769536
+MD5sum: a26225f78a49842fbd21c2b2cc85bfcc
+SHA1: f2ce5b9460c883347c3d2dacca6df0ce99921f64
+SHA256: ee91c0453d706c6631523aebbbaa5a3d783bea4a14834e357aca3962c8cf4261
+Section: Tweaks
+Description: 一个很舒服的分屏版本，已汉化。
+Author: Dcsyhi
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
+Name: Zetsu
 
 Package: com.wkk.zgdxhook
 Version: 1.0
