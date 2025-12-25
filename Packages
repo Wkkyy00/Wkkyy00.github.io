@@ -9042,6 +9042,43 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/12/25/84d30bdfaeb41881309878d3cc6c574d.png
 Name: AFakerXI
 
+Package: com.wkk.apppad
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Filename: ./debs/com.wkk.apppad_1.1.3_iphoneos-arm64e-1.deb
+Size: 8720
+MD5sum: 073c1c2cd33ca9bb320446aa4436763c
+SHA1: 984b3c70cb861394a64977c312514fedabb23f2a
+SHA256: b30d955877a18f2c74b895c6ebcc5b861a9840b640c180834ae8297a452486e4
+Section: Tweaks
+Description: 使任意应用强制全屏/强制竖横屏，解决有些App不全屏和有白边的问题。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/12/25/1df6fc1bd38fbdceb828e1f0a7df43ed.png
+Name: AppPad
+
+Package: com.wkk.apppad
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 172
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Filename: ./debs/com.wkk.apppad_1.1.3_iphoneos-arm64.deb
+Size: 6616
+MD5sum: 023e2c496859d42d41afa0673c85139d
+SHA1: e535fb167cd2216cb5456af4a60da725b5617378
+SHA256: ab1c5d5863a806dbe774655b620c86072b2b907464be10e245ed339e6e9f2ecb
+Section: Tweaks
+Description: 使任意应用强制全屏/强制竖横屏，解决有些App不全屏和有白边的问题。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/12/25/1df6fc1bd38fbdceb828e1f0a7df43ed.png
+Name: AppPad
+
 Package: com.wkk.aqyhook
 Version: 1.0
 Architecture: iphoneos-arm64e
