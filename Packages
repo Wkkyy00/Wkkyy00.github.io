@@ -9015,14 +9015,14 @@ Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 212
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/com.wkk.afakerxi_1.0.3_iphoneos-arm64.deb
-Size: 20416
-MD5sum: fd0c35368c699dbdb2dcc348367f9dc6
-SHA1: 397861a0a49ab7ed43df28f244b2c93217bc03e6
-SHA256: 3c7f48ceb2ee8c68e5880f9cc088d317c5e9d08e93594fa646502afab8049cf0
+Size: 20428
+MD5sum: 93a6b3141520f6c13c498e9162407e95
+SHA1: bfffc11ef2d7196bc3b71ea845f0f432b9958370
+SHA256: 61c25476919e5a7be64e8454de1492a444cf2466ef61e0792bece87e83045d98
 Section: Tweaks
 Description: 伪装电量，步数修改。
 Author: lenglengyu
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/12/25/84d30bdfaeb41881309878d3cc6c574d.png
 Name: AFakerXI
 
 Package: com.wkk.afakerxi
@@ -9032,14 +9032,14 @@ Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 212
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/com.wkk.afakerxi_1.0.3_iphoneos-arm64e.deb
-Size: 20256
-MD5sum: abbbcefa9e72ee084aa340ddc6430864
-SHA1: b27da3702052d6329c594f14d92858774a1a260b
-SHA256: af63c55ba2ad1330422878fec78a9f183bde398ce32559c2829f9030a1256704
+Size: 20240
+MD5sum: ff1434daf5c1d5852b16ce5b505f3f04
+SHA1: 0ceb30616f0347271b32a938014aa3268b079266
+SHA256: ec2fbf93713388e2748eaf4dd3f5fd720d9b156b1dde31ab2fd8f73cefd1c90a
 Section: Tweaks
 Description: 伪装电量，步数修改。
 Author: lenglengyu
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/12/25/84d30bdfaeb41881309878d3cc6c574d.png
 Name: AFakerXI
 
 Package: com.wkk.aqyhook
@@ -10483,6 +10483,40 @@ Section: Tweaks
 Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 隐藏设置里插件
+
+Package: com.wkk.ersatz
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Skitty
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.ersatz_1.0_iphoneos-arm64e.deb
+Size: 32492
+MD5sum: e7e93d30c83f989513d69ee1196b4f76
+SHA1: 7687060713c57612f9ad7523c14f646e5f3a5cde
+SHA256: fe30895a108553db33befca1afafe28a0c40c392c44e8a94bea0a97a81357780
+Section: Tweaks
+Description: 替换系统范围内的任何文本。
+Author: Skitty
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
+Name: Ersatz
+
+Package: com.wkk.ersatz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.ersatz_1.0_iphoneos-arm64.deb
+Size: 34072
+MD5sum: 0b8027f31c4c6f00c03ccf73c17c6dda
+SHA1: 9a75d41f843ba1f11506d980497b5b2b1c7de429
+SHA256: 4d0f957982ba305ca73f01d433ab96ab9f00cbcc34db9eedc0fb585aafa9ba27
+Section: Tweaks
+Description: 替换系统范围内的任何文本。
+Author: Skitty
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
+Name: Ersatz
 
 Package: com.wkk.everest
 Version: 1.0.1
