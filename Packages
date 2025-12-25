@@ -11413,6 +11413,41 @@ Author: Maxwell Dausch
 Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
 Name: Latchkey
 
+Package: com.wkk.lecard
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.wkk.lecard_0.1_iphoneos-arm64.deb
+Size: 408888
+MD5sum: 724db6cf11bf6be28be844426006da6f
+SHA1: f781fd52ebdbf39ad60eee5778641c30f1eb11b0
+SHA256: 2dcb593c3e0ceb2f19a5c7dacebfcbff9d1d3b3d52e8f16918f5c6c673c7a0a9
+Section: Tweaks
+Description: 15系统完美使用，16系统横屏有些用户会有问题。免费，备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
+Name: Applecard
+
+Package: com.wkk.lecard
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 1948
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.wkk.lecard_0.1_iphoneos-arm64e.deb
+Size: 410920
+MD5sum: 4173f786bcd398ccaf2490998bcc4e15
+SHA1: 01b36faccaa610f2431ee5396c82e86dcc9c1944
+SHA256: 7c609f41d649bf6fef2a6d42a53d44aecf842236931206d4c539b6ac1ace1560
+Section: Tweaks
+Description: 15系统完美使用，16系统横屏有些用户会有问题。免费，备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
+Name: Applecard
+
 Package: com.wkk.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64e
