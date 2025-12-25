@@ -8839,6 +8839,38 @@ Icon: https://s1.imagehub.cc/images/2025/03/25/dbdacd5798135a4cbb0a807e4be96505.
 Name: HideEdit
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/hideedit.json
 
+Package: com.wkk.SquidExtender
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SquidExtender_1.0-7_iphoneos-arm64.deb
+Size: 51096
+MD5sum: 412507851719723fd6356fa484ea9296
+SHA1: 9c95aae921c53e6f672d453b259b6f189edf3845
+SHA256: 2859f47a523d9dba469f4d72b850e6bee6cb5e884fbdc887c9f0351f5af6d84a
+Section: 插件配置
+Description: 已更新至最新配置：2025/12/25
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Name: SquidExtender配置
+
+Package: com.wkk.SquidExtender
+Version: 1.0-7
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.SquidExtender_1.0-7_iphoneos-arm64e.deb
+Size: 51096
+MD5sum: 888db235003993b2a221f62381293189
+SHA1: b723b214de1846b618764a4846ffcbb762105bb4
+SHA256: 837eb5e4831cc1228ac298c946f2fef9d3db66653dbacbf6879f8dcff431d5db
+Section: 插件配置
+Description: 已更新至最新配置：2025/12/25
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Name: SquidExtender配置
+
 Package: com.wkk.WeChatbeautifully
 Version: 1.0
 Architecture: iphoneos-arm64e
