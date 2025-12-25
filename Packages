@@ -9008,6 +9008,40 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChat自用气泡
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
 
+Package: com.wkk.afakerxi
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 212
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.wkk.afakerxi_1.0.3_iphoneos-arm64.deb
+Size: 20416
+MD5sum: fd0c35368c699dbdb2dcc348367f9dc6
+SHA1: 397861a0a49ab7ed43df28f244b2c93217bc03e6
+SHA256: 3c7f48ceb2ee8c68e5880f9cc088d317c5e9d08e93594fa646502afab8049cf0
+Section: Tweaks
+Description: 伪装电量，步数修改。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AFakerXI
+
+Package: com.wkk.afakerxi
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 212
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.wkk.afakerxi_1.0.3_iphoneos-arm64e.deb
+Size: 20256
+MD5sum: abbbcefa9e72ee084aa340ddc6430864
+SHA1: b27da3702052d6329c594f14d92858774a1a260b
+SHA256: af63c55ba2ad1330422878fec78a9f183bde398ce32559c2829f9030a1256704
+Section: Tweaks
+Description: 伪装电量，步数修改。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: AFakerXI
+
 Package: com.wkk.aqyhook
 Version: 1.0
 Architecture: iphoneos-arm64e
