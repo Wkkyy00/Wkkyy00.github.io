@@ -12103,7 +12103,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/20/054b3d51d5c8b82a205282047a409964.
 Name: 米游社NoAds
 
 Package: com.wkk.newterm3
-Version: 3.1
+Version: 1.0-2
 Architecture: iphoneos-arm64e
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 24244
@@ -12111,36 +12111,16 @@ Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
 Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
 Conflicts: ws.hbang.newterm, ws.hbang.newterm2
 Replaces: ws.hbang.newterm, ws.hbang.newterm2
-Filename: ./debs/com.wkk.newterm3_3.1_iphoneos-arm64e.deb
-Size: 3730988
-MD5sum: cdcf4cf2d01bd14863279074bf1af01b
-SHA1: 1d9ed57740f597422e7183d2a91ed21701a8370e
-SHA256: 855e9d9f0fc869719f990ed29c9f09d6918e6f488ec577506379fabcedb3c4b5
+Filename: ./debs/com.wkk.newterm3_1.0-2_iphoneos-arm64e.deb
+Size: 5521192
+MD5sum: 8455eb3ced2fbd4316c53f96a7727b36
+SHA1: 8e7b543b5e4bb55f540352ccd33e80836d5d4efc
+SHA256: 9e0dd2fcf0368609b5cbe8d9f369c85ec7eacc060c2dec82671a6546ff77f437
 Section: 应用程序
 Description: 自用的版本。
 Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://s1.imagehub.cc/images/2025/12/25/f80733f286faa3e95704c3fcd17d7dfb.png
-Name: NewTerm 3 Beta
-
-Package: com.wkk.newterm3
-Version: 3.1
-Architecture: iphoneos-arm64
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 24244
-Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
-Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
-Conflicts: ws.hbang.newterm, ws.hbang.newterm2
-Replaces: ws.hbang.newterm, ws.hbang.newterm2
-Filename: ./debs/com.wkk.newterm3_3.1_iphoneos-arm64.deb
-Size: 3835492
-MD5sum: 3b439a3ad401a448d028b39ff8c3080f
-SHA1: a3439bf602f27184c9f3065f3ca2e384c94432d6
-SHA256: 980a6b4c3b7fcee5788f268876ab2c351f6f06bbb7bf670eca9d2e79fef0bed3
-Section: 应用程序
-Description: 自用的版本。
-Author: HASHBANG Productions <support@hbang.ws>
-Icon: https://s1.imagehub.cc/images/2025/12/25/f80733f286faa3e95704c3fcd17d7dfb.png
-Name: NewTerm 3 Beta
+Name: NewTerm 3
 
 Package: com.wkk.nochargingsound
 Version: 1.0-1
@@ -14617,52 +14597,6 @@ MD5sum: 4ea4c83478649ae8169cc7b2f59ba82c
 SHA1: 3577571c435f038c78f5555d6c6bd5fbd46921fa
 SHA256: ac909d1d2e806a26f0bc17e22d9ec95452baae87a1daf0349f530bda5345ad08
 Section: 应用程序
-Description: Powerful terminal app for iOS
-Tag: compatible_min::ios14.0
-Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/newterm-beta
-Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
-Name: NewTerm 3 Beta
-Support: https://hashbang.productions/support/
-
-Package: ws.hbang.newterm3
-Version: 3.0~beta1-3+debug
-Architecture: iphoneos-arm64
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 24244
-Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
-Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
-Conflicts: ws.hbang.newterm, ws.hbang.newterm2
-Replaces: ws.hbang.newterm, ws.hbang.newterm2
-Filename: ./debs/ws.hbang.newterm3_3.0~beta1-3+debug_iphoneos-arm64.deb
-Size: 3941952
-MD5sum: 78d5da43b7233563dfae6152cc8fb9e6
-SHA1: d5fbc846b48182a9c15f6c54d9263c517af42836
-SHA256: 07485fecb2ff33783be3d72d3fc41f1311baa34da385625e98e9b3575746c849
-Section: 插件
-Description: Powerful terminal app for iOS
-Tag: compatible_min::ios14.0
-Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/newterm-beta
-Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
-Name: NewTerm 3 Beta
-Support: https://hashbang.productions/support/
-
-Package: ws.hbang.newterm3
-Version: 3.0~beta1-670+debug
-Architecture: iphoneos-arm64e
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 24128
-Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
-Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
-Conflicts: ws.hbang.newterm, ws.hbang.newterm2
-Replaces: ws.hbang.newterm, ws.hbang.newterm2
-Filename: ./debs/ws.hbang.newterm3_3.0~beta1-670+debug_iphoneos-arm64e.deb
-Size: 3834532
-MD5sum: 60bb98567861f5d0f4bb4fdad08e8e50
-SHA1: 9a0f70aa2fe08aeb15ec07ffe7d90eee573172de
-SHA256: 707b073a566ee239db72dad7fa79a880a68cf8f99481336bf4106b2f0cf87688
-Section: 插件
 Description: Powerful terminal app for iOS
 Tag: compatible_min::ios14.0
 Author: HASHBANG Productions <support@hbang.ws>
