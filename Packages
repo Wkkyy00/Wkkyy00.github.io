@@ -6812,43 +6812,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
 Name: WeChatUISwitchLoader
 
-Package: com.p2kdev.tapticboard
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 396
-Depends: mobilesubstrate,firmware (>= 13.0)
-Filename: ./debs/com.p2kdev.tapticboard_1.2_iphoneos-arm64.deb
-Size: 23568
-MD5sum: 94e5bee15bc91940eef034051b09f5fc
-SHA1: d86c169d5ad5dceec1ac420bff38eb6b1ca1b9cd
-SHA256: f974cdb5d0fd9edc83610c7990cd3522ec9827d4a3db5b79bd71eeffc4b67808
-Section: 插件
-Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都是震动，
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
-Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
-Name: TapticBoard
-
-Package: com.p2kdev.tapticboard
-Version: 1.2
-Architecture: iphoneos-arm64e
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 396
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate,firmware (>= 13.0)
-Filename: ./debs/com.p2kdev.tapticboard_1.2_iphoneos-arm64e.deb
-Size: 27642
-MD5sum: a4e30d702b43b5593bc9e2ab794e2522
-SHA1: 4e557ba015a1f17846bd9bc9d43d182ce529114d
-SHA256: 8280eea1a1425af2d3b6d2e1283f20a8832069b335d1eacc0a544a6cfae724a6
-Section: 插件
-Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都是震动，
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.tapticboard
-Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
-Name: TapticBoard
-
 Package: com.picsewpro
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -10241,12 +10204,12 @@ Installed-Size: 4064
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: preferenceloader
 Filename: ./debs/com.wkk.doodle_1.2_iphoneos-arm64e.deb
-Size: 7210626
-MD5sum: ed107a94b7ce47d06eded65e449b8363
-SHA1: cbfca0bdf92d91fa8c887b0fa5a3fc98d37574b1
-SHA256: 5ec86c1ef04fd46e82f1786f10f2b1b27f11f5fccbd5ff9ce1d2bdad02383d58
+Size: 7210708
+MD5sum: 4cbbe3e85cdfc4a8ac26e5187a545ee0
+SHA1: 5348952dff1667ef9cedf52f6f065f3287e26c11
+SHA256: 995e76d9066a545f39d356bb128b883cf056ae45537565ded2e73807e3f05f05
 Section: Tweaks
-Description: 用自定义图案解锁手机。
+Description: 用自定义图案解锁手机，已汉化。
 Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/12/26/df63b507da975481b7b8509e318b24cf.png
 Name: Doodle
@@ -10258,12 +10221,12 @@ Maintainer: Ethan Whited
 Installed-Size: 4064
 Depends: preferenceloader
 Filename: ./debs/com.wkk.doodle_1.2_iphoneos-arm64.deb
-Size: 3577340
-MD5sum: 65d6e08d082dd74b1bc99050ef677238
-SHA1: 2395fc61d8314166c8dba6defd52d9e93a2884b3
-SHA256: e403a8197afac40fd99c0b1dab007c0df71fe6a8b594e9c95fad271a3fef81e3
+Size: 3577580
+MD5sum: c91d4cccc376b9e04482f48c5837e40e
+SHA1: e57e23dbec9981b1baa055e8d15c0fc4cc28b614
+SHA256: 9269ffd84376314c80ebe2c3ae15bbd40d920c3aa2685b9130a0bf1d6b83fc04
 Section: Tweaks
-Description: 用自定义图案解锁手机。
+Description: 用自定义图案解锁手机，已汉化。
 Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/12/26/df63b507da975481b7b8509e318b24cf.png
 Name: Doodle
@@ -11251,6 +11214,41 @@ Description: 桌面的图标随意摆放。
 Author: mikifp
 Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
 Name: Griddy
+
+Package: com.wkk.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.wkk.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 977872
+MD5sum: 2d33a209a38544889eff87d26bf21059
+SHA1: 477f3dd2ece0f81bf8b6f8f692ab54ebe6b3769c
+SHA256: 3a25748929a5430e981764cc1c14486e5b5c36ecc4db88f8a14b03a511dc5aa3
+Section: Tweaks
+Description: 分词，翻译。
+Author: lclrc(SquidForce)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hammer It
+
+Package: com.wkk.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.wkk.hammerit_1.7.1_iphoneos-arm64e.deb
+Size: 2753770
+MD5sum: 8e702651f468d82f649570e2a30e7950
+SHA1: 94a6cdfd430458b47758530daee0f8afc39a87e6
+SHA256: 74745112e2efa18d5f1d434303934ef2b02f93b8f8326a06aa273a1f707e1529
+Section: Tweaks
+Description: 分词，翻译。
+Author: lclrc(SquidForce)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hammer It
 
 Package: com.wkk.hideiconbadge
 Version: 1.0
@@ -13239,6 +13237,41 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.wkk.tapticboard
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.wkk.tapticboard_1.2_iphoneos-arm64e.deb
+Size: 27524
+MD5sum: 1e83cfa1db8ef1c652a89f8e58c38dec
+SHA1: 3bfa5fecc2c34dc32ad3a27b2d9f623255853999
+SHA256: 193e572b608ad74ed47c53442f32e9dbf7f9e53c3beb57b64f8d8eea39de9061
+Section: Tweaks
+Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都是震动，
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
+Name: TapticBoard
+
+Package: com.wkk.tapticboard
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.wkk.tapticboard_1.2_iphoneos-arm64.deb
+Size: 23524
+MD5sum: 84c80b1bf64ae578051f04496bad46d9
+SHA1: 594bb40d0647e24c5c780afa78d2b760d64dfd53
+SHA256: 707d32f12fbcd62ac4d5bf9452d73811cc0e6970faa2de3a64e60535f67831c7
+Section: Tweaks
+Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都是震动，
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
+Name: TapticBoard
+
 Package: com.wkk.tiebahook
 Version: 1.0-5
 Architecture: iphoneos-arm64
@@ -13308,6 +13341,45 @@ Description: 好看的角标，有能力请支持正版，已汉化。
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/e1773edb2bf04d92112a9b709efdf7be.png
 Name: Tinge
+
+Package: com.wkk.tinticonlabel
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 447
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.tinticonlabel_1.0.5_iphoneos-arm64.deb
+Size: 67112
+MD5sum: acd58484bc4ddc1a1584cc5df531cbbb
+SHA1: a994d41260365441436a588cf7e81d08459b119d
+SHA256: 48dca52558f082dda13316069f63c7499c6f0a87ef21016690a6537079604c23
+Section: Tweaks
+Priority: optional
+Description: 高度自由的自定义图标标签的颜色。
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://s1.imagehub.cc/images/2025/01/02/a2c50494115bb77d04956d94c4728f76.png
+Name: TintIconLabel
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.wkk.tinticonlabel
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 447
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.tinticonlabel_1.0.5_iphoneos-arm64e.deb
+Size: 74960
+MD5sum: 5df02d85a5ba0f9a7870a04d0c72845c
+SHA1: 1dfeadf028fa530f42d284c866c0f15c12753e15
+SHA256: 1d0ff84196453f4f41971ddef7acdda637e7048b1348daf17bf159c5342e8d18
+Section: Tweaks
+Priority: optional
+Description: 高度自由的自定义图标标签的颜色。
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://s1.imagehub.cc/images/2025/01/02/a2c50494115bb77d04956d94c4728f76.png
+Name: TintIconLabel
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.wkk.tpphook
 Version: 1.0
@@ -13689,6 +13761,43 @@ Description: 去掉可见的所有广告，版本：7.0.8，接大量冷门热�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/23/318813ae8987a6ff33c7f64b318b9a70.png
 Name: 威锋NoAds
+
+Package: com.wkk.whereplays
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.whereplay
+Filename: ./debs/com.wkk.whereplays_0.0.2_iphoneos-arm64e.deb
+Size: 8278
+MD5sum: 3f1135b66afef2a4a4c7dd296b3e63c2
+SHA1: 53595041eec9e13ebe6a66b757c99f4782b98570
+SHA256: 5949a10fa41f7070b78b3928cecb1b4fd2f3791a7889244b1dd4555043c86dc9
+Section: Tweaks
+Description: 将隔空播放图标替换为已连接设备。
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
+Name: WherePlay
+
+Package: com.wkk.whereplays
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.whereplay
+Filename: ./debs/com.wkk.whereplays_0.0.2_iphoneos-arm64.deb
+Size: 6160
+MD5sum: 5bb5cafadd7b4db5654bfc111fc287dd
+SHA1: ab69bf39a35b429c901e1a0f02882ba64c8cd6f6
+SHA256: a4a77189551b2f535bd6d136c6a327527ccf7264b62c5d4d8d7fd4867bcc47e8
+Section: Tweaks
+Description: 将隔空播放图标替换为已连接设备。
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
+Name: WherePlay
 
 Package: com.wkk.wyxwhook
 Version: 1.0-2
