@@ -13975,6 +13975,57 @@ Author: Ruphane
 Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
 Name: WherePlay
 
+Package: com.wkk.wtvrbglauncher
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.wtvrbglauncher_1.2_iphoneos-arm64e.deb
+Size: 23280
+MD5sum: 1357f10c1472ed7f81c795e8b6a5b58a
+SHA1: bc94221efe6b99effc44d39beaa0ede220f4c997
+SHA256: f69c40a0e1d15cf6766c95fbc5128cba49d771b51ea69fa7ddd3dd993d1244e9
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞。
+Author: Lessica
+Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
+Name: 语音转文字免跳转
+
+Package: com.wkk.wtvrbglauncher
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.wtvrbglauncher_1.2_iphoneos-arm64.deb
+Size: 23316
+MD5sum: fa3e60ae40d3a545a3a98b7026f3b11a
+SHA1: 9e37900172fef3c333f94816d92c1f0f448230bb
+SHA256: d00f1b9f629d4cd6f873e576fa272f335aed85e9231c9b13cc8a7986a5059c2a
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞。
+Author: Lessica
+Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
+Name: 语音转文字免跳转
+
+Package: com.wkk.wtvrbglauncher
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.wtvrbglauncher_1.2_iphoneos-arm.deb
+Size: 23244
+MD5sum: 3615e65b1f407fe7c8f7ec67c9b1da08
+SHA1: 42fe9912cffe5efc6e7c89d9f2a0f62c7bd01ee1
+SHA256: 82b3ad25e326d7b9cc74b52a05e5e0daeff647868c94aa0cbf347c1b5f06a197
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞。
+Author: Lessica
+Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
+Name: 语音转文字免跳转
+
 Package: com.wkk.wyxwhook
 Version: 1.0-2
 Architecture: iphoneos-arm64
