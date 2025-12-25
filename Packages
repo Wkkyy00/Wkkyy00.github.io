@@ -10432,6 +10432,41 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 隐藏设置里插件
 
+Package: com.wkk.everest
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 17276
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0)
+Filename: ./debs/com.wkk.everest_1.0.1_iphoneos-arm64e.deb
+Size: 958558
+MD5sum: a7881cd8e14691ffa1e7bc7dd302cb03
+SHA1: f5a50e16987c4b5cac6965d198e81832850366ef
+SHA256: b4fe427f0951968ac8b7eeb86f62ccff34b20599d8fb5aee5731192a13e4763c
+Section: Tweaks
+Description: app打开之前图标会动，有很多种设置方式.
+Author: Christopher Anderson
+Icon: https://s1.imagehub.cc/images/2025/01/23/9c5a987da2e0c87f7ba1dbabef0cf03c.png
+Name: Everest
+
+Package: com.wkk.everest
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 17276
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 2.0)
+Filename: ./debs/com.wkk.everest_1.0.1_iphoneos-arm64.deb
+Size: 373300
+MD5sum: 532f273f0cdedb92b7db225d0f17184c
+SHA1: d624d6ea5eeea78f8622e128dc80c1059f3a2660
+SHA256: 6330a15a7806857db1b98d795a2140b872a7be28dee1673bdfd6046a6992bac4
+Section: Tweaks
+Description: app打开之前图标会动，有很多种设置方式.
+Author: Christopher Anderson
+Icon: https://s1.imagehub.cc/images/2025/01/23/9c5a987da2e0c87f7ba1dbabef0cf03c.png
+Name: Everest
+
 Package: com.wkk.fanqiehook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -11238,6 +11273,43 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
 
+Package: com.wkk.immortalizer
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: sergy & daodao
+Installed-Size: 660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: ./debs/com.wkk.immortalizer_2.0.1_iphoneos-arm64e.deb
+Size: 65772
+MD5sum: d0aaf4127726f4fcca6283511b79c6be
+SHA1: 9e6d69b6ad924b569e05d9ead2c3eed2ac3cd9d1
+SHA256: 62d8c34372c75e65761fd8b146efbfb679110652c899161f34257f655d8b4afe
+Section: Tweaks
+Description: 可将应用置于前台，达到真后台效果，应用图标长按菜单 —— 开启/禁用「真后台」CC模块控制，需先打开要控制的app，然后控制中心点击模块即可。
+Author: sergy
+Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
+Name: Immortalizer
+
+Package: com.wkk.immortalizer
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: sergy & daodao
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: ./debs/com.wkk.immortalizer_2.0.1_iphoneos-arm64.deb
+Size: 49664
+MD5sum: eb69381e868ed4b9cefdafed6121c587
+SHA1: 2b734af54fc210349666f528b49fb07ee7e1b807
+SHA256: 487ef0773a4c3c9e199be4189dad97d78bb1fd6b2d7b81ddb36a0725dfa85029
+Section: Tweaks
+Description: 可将应用置于前台，达到真后台效果，应用图标长按菜单 —— 开启/禁用「真后台」CC模块控制，需先打开要控制的app，然后控制中心点击模块即可。
+Author: sergy
+Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
+Name: Immortalizer
+
 Package: com.wkk.instalauncher2
 Version: 1.11.0
 Architecture: iphoneos-arm64
@@ -11520,6 +11592,45 @@ Author: Maxwell Dausch
 Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
 Name: Latchkey
 
+Package: com.wkk.lazycursor
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 385
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.lazycursor_1.0.3_iphoneos-arm64.deb
+Size: 39528
+MD5sum: c0bdde8f0056bba211e2d3831f57333a
+SHA1: 12ce7c9bcd1e00c5983f560413b71b57a206cbe2
+SHA256: f2f2a2ac358519f39a460239febd033936024899d1d9ea11e71786954fc5fd77
+Section: Tweaks
+Priority: optional
+Description: 光标移除闪烁动画，自定义光标颜色。
+Author: CydiaGeek
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
+Name: LazyCursor
+Sponsor: thebigboss
+
+Package: com.wkk.lazycursor
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss
+Installed-Size: 385
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.lazycursor_1.0.3_iphoneos-arm64e.deb
+Size: 44302
+MD5sum: 63da6283be5d25acc1745c4b8f63afd6
+SHA1: 8409d9a64eb1b3946b2234f04a44a0d04409b9b8
+SHA256: d07e47e92d05bb5972d2b596471d685822d4b9f8f79f1b86b790efa494b38c87
+Section: Tweaks
+Priority: optional
+Description: 光标移除闪烁动画，自定义光标颜色。
+Author: CydiaGeek
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
+Name: LazyCursor
+Sponsor: thebigboss
+
 Package: com.wkk.lecard
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -11590,6 +11701,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/26/e30c13abda043be281eed1b5e690023c.png
 Name: HideLockMusic
 
+Package: com.wkk.lstimeseconds16
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Installed-Size: 432
+Filename: ./debs/com.wkk.lstimeseconds16_1.0-1_iphoneos-arm64.deb
+Size: 38164
+MD5sum: 9ab5d78a4abe68712a8a273445c1388b
+SHA1: d5d8e54512529583cfa31661c01e8c7adbccf049
+SHA256: a29ed32230a1827aba6368f1fa08ea6b9ba0c59b7c9ace8bc45cf05e531dc2c0
+Section: Tweaks
+Description: 锁屏时间增加秒数。
+Author: b4db1r3
+Icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
+Name: LSTimeSeconds
+
+Package: com.wkk.lstimeseconds16
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.lstimeseconds16_1.0-1_iphoneos-arm64e.deb
+Size: 45458
+MD5sum: 9d3a4053c47747ac6357002925c24e21
+SHA1: 14e7e836380b53b2437b2a9de51f2bc72a16f608
+SHA256: caa285f1d7cf7942083e393cff358efa6816c7f1c9c1ed5a957dfb4289561553
+Section: Tweaks
+Description: 锁屏时间增加秒数。
+Author: b4db1r3
+Icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
+Name: LSTimeSeconds
+
 Package: com.wkk.lstyhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -11624,6 +11768,41 @@ Description: 去应用内所有广告需走个人定制，此版本只去开屏�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/22/323c5fd6f763fe498e721570bba6092a.png
 Name: 雷速体育NoAds
+
+Package: com.wkk.lynxtwo
+Version: 2.5.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 2952
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.wkk.lynxtwo_2.5.4_iphoneos-arm64.deb
+Size: 677340
+MD5sum: 9c3330c4a1a9ca5c5ff7918ecdb42fef
+SHA1: 51e7487acbaec496a2a56d7e3813f9f1b5ff0357
+SHA256: 1d649d8eaa28de0c06960fbe5dada05cfbab387d5e2de8a72c838b227c101352
+Section: Tweaks
+Description: 一个系统增强的插件，已汉化。
+Author: MTAC
+Icon: https://s1.imagehub.cc/images/2025/01/23/16cac85a9470fec0d2ed4cb0af1eac4f.png
+Name: Lynx 2
+
+Package: com.wkk.lynxtwo
+Version: 2.5.4
+Architecture: iphoneos-arm64e
+Maintainer: MTAC
+Installed-Size: 2952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.wkk.lynxtwo_2.5.4_iphoneos-arm64e.deb
+Size: 1719590
+MD5sum: 1587a0b7e8c5c02069082c60cd00f0b2
+SHA1: 65d191f03ee2b38143fe4d8d5bc7be31a285c855
+SHA256: b8fb372c8d68bcf720c3b5819e548f31e625b56e917894e3fdc9e8c64327db48
+Section: Tweaks
+Description: 一个系统增强的插件，已汉化。
+Author: MTAC
+Icon: https://s1.imagehub.cc/images/2025/01/23/16cac85a9470fec0d2ed4cb0af1eac4f.png
+Name: Lynx 2
 
 Package: com.wkk.manager
 Version: 1.3.6
@@ -14172,6 +14351,39 @@ Description: Snapper3全屏截图按钮增加(保存至相册)功能，超过7�
 Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Hello Snapper
+
+Package: cum.wkk.hidevpn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Filename: ./debs/cum.wkk.hidevpn_1.1_iphoneos-arm64.deb
+Size: 3532
+MD5sum: fd14a6d47441d77a76d48016e4eb3300
+SHA1: 815ea21815f705997bb98c4db0a95eeef2a46e13
+SHA256: 4cb115b7f2f415ff03d82b629c54f15a74de51937f087f990dd40c2392b2e3a0
+Section: Tweaks
+Description: 隐藏状态栏一切vpn展示。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/b15bc0d82eb3578fcc1afab7a9d2b991.png
+Name: HideVPN
+
+Package: cum.wkk.hidevpn
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/cum.wkk.hidevpn_1.1_iphoneos-arm64e.deb
+Size: 4816
+MD5sum: 835e1717d0c7427774f6efea7cb670f8
+SHA1: 0c1922846fae0eb783bfea34cb7a6ebd57d1f1b4
+SHA256: 3e3eb9b96495452002e299c1138da9301e87b380643f9448b107ba7991286d42
+Section: Tweaks
+Description: 隐藏状态栏一切vpn展示。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/b15bc0d82eb3578fcc1afab7a9d2b991.png
+Name: HideVPN
 
 Package: flex3beta.roothide
 Version: 3.1-roothide
