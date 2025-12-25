@@ -8509,6 +8509,24 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.thermal.hook
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: ash
+Installed-Size: 100
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.thermal.hook_1.0_iphoneos-arm64e.deb
+Size: 306556
+MD5sum: 0c6f0ff9cb6d0eacd485287f6b1ab63c
+SHA1: 89b41404e3b63907131b36f92790e656df57917e
+SHA256: d3c84a5f67df87fbff9400bd3364a8198982f83ad55c2a6dfc1ea5c91a1d8e72
+Section: Tweaks
+Description: 无感去控温。
+Author: aodmin & zqbb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: IOSThermal
+
 Package: com.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -9690,6 +9708,41 @@ Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
 Name: CCDND
 
+Package: com.wkk.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.ccmusic_1.0.5_iphoneos-arm64.deb
+Size: 28748
+MD5sum: 81664b8f3994f6e7e9d8a2c69d48f4a1
+SHA1: 8824ac3f9f49f88842bb893dd30d8e16e73a05bf
+SHA256: 5d4b9f6b0e25e751257e4738c72e2927f67715df41cbfe35c4a008aab2d32040
+Section: Tweaks
+Description: 为控制中心的音乐模块添加旋转动画。
+Author: simon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 控制中心音乐模块动画
+
+Package: com.wkk.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: simon
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.ccmusic_1.0.5_iphoneos-arm64e.deb
+Size: 36772
+MD5sum: f8b562b95bba7316de91fa973152fb27
+SHA1: 195fdf34549fba66a20f76ebd5bd0893845f7b50
+SHA256: 17b2f6e63e054b7621c023e7094db7ea906a04b3a89f4ec4cb0745c2d545163a
+Section: Tweaks
+Description: 为控制中心的音乐模块添加旋转动画。
+Author: simon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 控制中心音乐模块动画
+
 Package: com.wkk.center
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -9763,6 +9816,24 @@ Description: 统一表情背景色，仅供学习交流，请在 24 小时内自
 Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEmoticoncolorsocool
+
+Package: com.wkk.collection
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: SuSu
+Installed-Size: 520
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.collection_1.0_iphoneos-arm64e.deb
+Size: 62480
+MD5sum: e252b4c5afd9018beb15e4b986ba6946
+SHA1: 784481867d3901c5f139d78c451f6c6d5716a2a5
+SHA256: 36acc1e3ffbdcd7834b26cfe65052e5bdd005c498cc0a073f8ba2e501e50a140
+Section: Tweaks
+Description: 自用合集插件。
+Author: SuSu
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SuCollection
 
 Package: com.wkk.cozybadges
 Version: 2.1
@@ -10775,6 +10846,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/13/064c56d88547b559d879e72da7027027.png
 Name: 飞猪旅行NoAds
 
+Package: com.wkk.filzacrack
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 120
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.wkk.filzacrack_1.1-9_iphoneos-arm64e.deb
+Size: 39714
+MD5sum: f92cfd12b06818736287b6125151e664
+SHA1: 95ed36ec759ece16d2024afe35b082162ee9bab6
+SHA256: 9a156f4e44d05ef9b25e165b993de461fadc1f429031c984c1cd2d6700538e74
+Section: Tweaks
+Description: Filza Crack
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: Filza Crack
+
+Package: com.wkk.filzacrack
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 120
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.wkk.filzacrack_1.1-9_iphoneos-arm64.deb
+Size: 28712
+MD5sum: 6e4bd2460f844aab59154caeba3f62a5
+SHA1: 1a87474faca50cc1aff1272684e57ad01d510c0f
+SHA256: 82608b0a1c7670e1e7a1faf492cef1ffc0daff373c34f3fba1ff87810778f67e
+Section: Tweaks
+Description: Filza Crack
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: Filza Crack
+
 Package: com.wkk.filzaswipeselect
 Version: 0.0.2
 Architecture: iphoneos-arm64e
@@ -11216,6 +11322,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.
 Name: Griddy
 
 Package: com.wkk.hammerit
+Version: 1.5.0
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.wkk.hammerit_1.5.0_iphoneos-arm64e.deb
+Size: 1066682
+MD5sum: e847900215ab8cf10075341b7eaca1b2
+SHA1: e8862242d55a2f11b178a5c8003a7eb32306c0f7
+SHA256: 89b548c64699493541ae135ce25beaf54e81ff445a3b96c8815992a8a8415d0f
+Section: Tweaks
+Description: 分词，翻译。
+Author: lclrc(SquidForce)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hammer It
+
+Package: com.wkk.hammerit
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.wkk.hammerit_1.5.0_iphoneos-arm64.deb
+Size: 434220
+MD5sum: 379e9817b90772dfe137c1c5536a38a9
+SHA1: 092583923f12acc98de1b44d375abd85591b0335
+SHA256: 31e560ac31a2751ad825c3189a87a61d9cde62e17b39eea12584e16ea5942ec3
+Section: Tweaks
+Description: 分词，翻译。
+Author: lclrc(SquidForce)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hammer It
+
+Package: com.wkk.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
 Maintainer: lclrc(SquidForce)
@@ -11603,6 +11744,24 @@ Description: 去掉帖子中穿插的广告。接大量冷门热门app定制去�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
 Name: 煎蛋NoAds
+
+Package: com.wkk.keyboardhook
+Version: 2.1-3
+Architecture: iphoneos-arm64e
+Maintainer: baiy
+Installed-Size: 524
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.wkk.keyboardhook_2.1-3_iphoneos-arm64e.deb
+Size: 46356
+MD5sum: ccac6b16f43dfd4955d88c1b57b09b6f
+SHA1: 19da212a9f6b6d4b5650b79ddb60f72aeb72aa31
+SHA256: 934fd2e5e66194813b73dc5b58aa116030b5615e6c959aa56786b2163bdd8090
+Section: Tweaks
+Description: 关于系统输入法和微信输入法的一些自定义，让键盘更个性化，备份。
+Author: baiy
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: KeyboardHook
 
 Package: com.wkk.kghook
 Version: 1.0
