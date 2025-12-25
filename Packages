@@ -9498,6 +9498,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩NoAds
 
+Package: com.wkk.blurryalerts
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: SlyFabi
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.wkk.blurryalerts_1.2.4_iphoneos-arm64.deb
+Size: 30144
+MD5sum: 4f0ce05ae9c09fd41e142886e47ba86b
+SHA1: acba95875d4f5b6299de287d136b4afae5dbd849
+SHA256: b2ddaa17639a84917eeb22546fbaf7af823f8e41f37406829f6dca07986b1b3b
+Section: Tweaks
+Description: 系统的弹窗美化，已汉化。
+Author: SlyFabi
+Icon: https://s1.imagehub.cc/images/2025/12/26/af7b7149ee3c5227d5d80ff582fd0147.png
+Name: BlurryAlerts
+
+Package: com.wkk.blurryalerts
+Version: 1.2.4
+Architecture: iphoneos-arm64e
+Maintainer: SlyFabi
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.wkk.blurryalerts_1.2.4_iphoneos-arm64e.deb
+Size: 39262
+MD5sum: 1252801e9439d981508cbf6475929444
+SHA1: 24f58c0c66abcfd7eef44d5ce64e07f23462c183
+SHA256: 43d7adb738483ea41e4c26f9e2f51e72dead59b5dd1ba6b9730910c47627a56d
+Section: Tweaks
+Description: 系统的弹窗美化，已汉化。
+Author: SlyFabi
+Icon: https://s1.imagehub.cc/images/2025/12/26/af7b7149ee3c5227d5d80ff582fd0147.png
+Name: BlurryAlerts
+
 Package: com.wkk.boardswipe
 Version: 1.0.0
 Architecture: iphoneos-arm64
