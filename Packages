@@ -10270,6 +10270,41 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
+Package: com.wkk.doodle
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Ethan Whited
+Installed-Size: 4064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: preferenceloader
+Filename: ./debs/com.wkk.doodle_1.2_iphoneos-arm64e.deb
+Size: 7210626
+MD5sum: ed107a94b7ce47d06eded65e449b8363
+SHA1: cbfca0bdf92d91fa8c887b0fa5a3fc98d37574b1
+SHA256: 5ec86c1ef04fd46e82f1786f10f2b1b27f11f5fccbd5ff9ce1d2bdad02383d58
+Section: Tweaks
+Description: 用自定义图案解锁手机。
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/12/26/df63b507da975481b7b8509e318b24cf.png
+Name: Doodle
+
+Package: com.wkk.doodle
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 4064
+Depends: preferenceloader
+Filename: ./debs/com.wkk.doodle_1.2_iphoneos-arm64.deb
+Size: 3577340
+MD5sum: 65d6e08d082dd74b1bc99050ef677238
+SHA1: 2395fc61d8314166c8dba6defd52d9e93a2884b3
+SHA256: e403a8197afac40fd99c0b1dab007c0df71fe6a8b594e9c95fad271a3fef81e3
+Section: Tweaks
+Description: 用自定义图案解锁手机。
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/12/26/df63b507da975481b7b8509e318b24cf.png
+Name: Doodle
+
 Package: com.wkk.douyutvhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -13171,6 +13206,41 @@ Author: PoomSmart
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SmoothCursor(Rootless)
 
+Package: com.wkk.stella
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1328
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.wkk.stella_1.1.5_iphoneos-arm64.deb
+Size: 361300
+MD5sum: 4cc46b2798adebeb0f080c600ee43bf4
+SHA1: 568cc982908d2b3303e785740680d11b1bedd84c
+SHA256: f793c261224cbe8356b60fb2ee9d36ba0005cb2a8d17b82040fb5b8b7b286808
+Section: Tweaks
+Description: 屏幕下雪。
+Author: yan
+Icon: https://s1.imagehub.cc/images/2025/12/26/a33eaf6e39094de1d78f60df4264c7b1.png
+Name: Stella❄️
+
+Package: com.wkk.stella
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: yan
+Installed-Size: 1328
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.wkk.stella_1.1.5_iphoneos-arm64e.deb
+Size: 429386
+MD5sum: 385c2d373b7d4e4114ca1aafbd2fcbe3
+SHA1: 136aee860461c1781bb4aa9faf8e0c80e7bbacbf
+SHA256: 7a64f095ed61a7f836f9a064890eb38e3b6fae7e56d151107ad1458fd0502609
+Section: Tweaks
+Description: 屏幕下雪。
+Author: yan
+Icon: https://s1.imagehub.cc/images/2025/12/26/a33eaf6e39094de1d78f60df4264c7b1.png
+Name: Stella❄️
+
 Package: com.wkk.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64
@@ -13240,6 +13310,41 @@ Description: 去除百度贴吧所有可见广告，版本：12.93.1接大量冷
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
 Name: 百度贴吧NoAds
+
+Package: com.wkk.tinge
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.tinge_1.2.2_iphoneos-arm64.deb
+Size: 40960
+MD5sum: 727a5c7d70382c6c278969a1a02197e7
+SHA1: eedf0999366aecd4870a0063a19e0ac9c8ca9f20
+SHA256: 4443161c51effe394cca5b250143ecae46371d6798ff1ef9e9407ef8fc41fa00
+Section: Tweaks
+Description: 好看的角标，有能力请支持正版，已汉化。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/e1773edb2bf04d92112a9b709efdf7be.png
+Name: Tinge
+
+Package: com.wkk.tinge
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.tinge_1.2.2_iphoneos-arm64e.deb
+Size: 51120
+MD5sum: 7727c80241bb8537ac9e119df74da6f2
+SHA1: 3953fa302d3bb8a2c63bb383078dbdf46b7335cd
+SHA256: 3ac3d6641345812e23615b3ac549a788291c6251ad9c224d1361d3c6faf804df
+Section: Tweaks
+Description: 好看的角标，有能力请支持正版，已汉化。
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/e1773edb2bf04d92112a9b709efdf7be.png
+Name: Tinge
 
 Package: com.wkk.tpphook
 Version: 1.0
@@ -14475,6 +14580,43 @@ Description: 去开屏，版本：11.1.15
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/06/15/b316043d10ba63ae984e22bc0c193efd.png
 Name: 什么值得买NoAds
+
+Package: com.wkk.zeppelinreborn
+Version: 1.4.2
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Installed-Size: 3100
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/com.wkk.zeppelinreborn_1.4.2_iphoneos-arm64e.deb
+Size: 3001266
+MD5sum: e576b5bab79c087d87391b06496647fd
+SHA1: 25f88d9011bfcca14a243ede9c541a5152acfb01
+SHA256: bed2b58502208eb0eead2d2bba3038c00ee59d9c0f4639804dc258f277f8082c
+Section: Tweaks
+Description: 添加一个GIF图美化你的时间，内置一个蜡笔小新GIF（Thinking目录下）已内置中文。
+Author: Hitori
+Icon: https://s1.imagehub.cc/images/2025/12/26/9bf5f767cda1ee363743e6523916fb3c.png
+Name: Zeppelin Reborn
+
+Package: com.wkk.zeppelinreborn
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 3100
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/com.wkk.zeppelinreborn_1.4.2_iphoneos-arm64.deb
+Size: 1472492
+MD5sum: 5cb4ec323dddea837c7ee532e59129d0
+SHA1: 4b3a866d1e6b3dc458df4b74e1d2ce91fc826ab5
+SHA256: fde815786bfbc6981f9d34f63156c1aeb1ab2fe3f88894bc77c7f9aacc0a1ba8
+Section: Tweaks
+Description: 添加一个GIF图美化你的时间，内置一个蜡笔小新GIF（Thinking目录下）已内置中文。
+Author: Hitori
+Icon: https://s1.imagehub.cc/images/2025/12/26/9bf5f767cda1ee363743e6523916fb3c.png
+Name: Zeppelin Reborn
 
 Package: com.wkk.zetsu
 Version: 1.5
