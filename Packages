@@ -7334,6 +7334,39 @@ Author: 热心网友
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.qimiao.WCRefine
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-9_iphoneos-arm64e.deb
+Size: 3685714
+MD5sum: 9261f4da57d32a6978df61c82d40ac34
+SHA1: e53eb78119f8e47c4fe40412f0b16aeb43d1f8bc
+SHA256: 72c31c245b10d86620b39c858b843dc479c3442343f6fa7b8c32194d3fc6dbfe
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.qimiao.WCRefine_1.1-9_iphoneos-arm64.deb
+Size: 1355264
+MD5sum: d684e2591246b1dfee1d0538093e80f8
+SHA1: a833d7d6de4380d893884fc3e0355860a092f708
+SHA256: 734370e07a42345b69aba0a8d4af7c19104f47d01ec9a8998cb9dd7fa2289457
+Section: 微信插件
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64版本制作。
+Author: 热心网友
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.qwq.wcautoclaimhb
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9430,6 +9463,45 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Car解压终端(自用)
 
+Package: com.wkk.carbridge13
+Version: 2.0.15
+Architecture: iphoneos-arm64e
+Maintainer: leftyfl1p
+Installed-Size: 7344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.wkk.carbridge13_2.0.15_iphoneos-arm64e.deb
+Size: 441480
+MD5sum: 658c45756961d4b22bdf3314f5c5ddc5
+SHA1: 95f8a3fd697c6ddff3919f5a63d9371041c26660
+SHA256: 31f2f93f60f6760e49652eea990fcbc33092edc47ebe3a477ff441488e0c6eb6
+Section: Tweaks
+Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
+Name: CarBridge
+
+Package: com.wkk.carbridge13
+Version: 2.0.15
+Architecture: iphoneos-arm64
+Maintainer: leftyfl1p
+Installed-Size: 7344
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.wkk.carbridge13_2.0.15_iphoneos-arm64.deb
+Size: 434060
+MD5sum: d29984c700181b7237fc00714782cdba
+SHA1: 6b2c8d944f0a0cbe8f56bf381618ca69dceb3623
+SHA256: 276bf205faffecbd71323f3a11f6b4714b0603de300deb0b006a7bc4eb61e59a
+Section: Tweaks
+Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
+Name: CarBridge
+
 Package: com.wkk.ccborder15
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -10086,6 +10158,73 @@ Description: 下载后文件在目录/var/mobile/Documents/dylib-batch.sh
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键提取dylib(自用)
+
+Package: com.wkk.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.dynamicislandanimation_1.1.8_iphoneos-arm64e.deb
+Size: 30596
+MD5sum: 968faffd2b140a7c82e90f70c3858f65
+SHA1: 20ac62a407c2157dcebec3eb216338fb5abfcaf2
+SHA256: 14461b9f752d7f204e1df310eae00349762d0b1a5fe1cb86af36f7bf462ca05f
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合，无需挂载不再卑微！（源内插件配置有素材）
+Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/12/25/5762436f315bd8e5b7813fc02c1fe21a.png
+Name: 灵动岛跳舞动画PLUS
+
+Package: com.wkk.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.dynamicislandanimation_1.1.8_iphoneos-arm64.deb
+Size: 29132
+MD5sum: d377352e20e1414278d8de243afb1243
+SHA1: 37432b833ba3dd999eb5137ee1f281cdb1a5d632
+SHA256: ad22eff338cd30f2ae32d054635173153c9e22bd6f24e0418d939c4c18c409e7
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合，无需挂载不再卑微！（源内插件配置有素材）
+Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/12/25/5762436f315bd8e5b7813fc02c1fe21a.png
+Name: 灵动岛跳舞动画PLUS
+
+Package: com.wkk.dynamicislandsucai
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dynamicislandsucai_1.0-1_iphoneos-arm64.deb
+Size: 39977228
+MD5sum: 13b5e0b392111dcd806de413ced11c78
+SHA1: 713cbe74c11a0739bf47f43cc0f36705e230ce74
+SHA256: 3fb41ac6e1ab005de61ec1cf1f394424c93d3e7da27b57e5fb3880a7e7f4bd41
+Section: 插件配置
+Description: 下载后素材/var/mobile/Documents/灵动岛素材
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Name: 灵动岛跳舞动画素材
+
+Package: com.wkk.dynamicislandsucai
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.dynamicislandsucai_1.0-1_iphoneos-arm64e.deb
+Size: 39977232
+MD5sum: 4407fd2f7fa7eb8e80807783f713f95f
+SHA1: b036f5fbcfceda774d3e858abd654e2b929013dc
+SHA256: 3f82532411cc16587136eba28f97c1358e411624f31f28f02e552be4dba5dc01
+Section: 插件配置
+Description: 下载后素材/var/mobile/Documents/灵动岛素材
+Author: 网络资源
+Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
+Name: 灵动岛跳舞动画素材
 
 Package: com.wkk.dzdphook
 Version: 1.0
@@ -11257,47 +11396,6 @@ Description: 自定义锁头最终版本，去掉无用选项
 Author: Maxwell Dausch
 Icon: https://s1.imagehub.cc/images/2025/01/02/1ecf17a568762f12c379fdb9a9302143.png
 Name: Latchkey
-
-Package: com.wkk.leftyfl1p.carbridge13
-Version: 2.0.15
-Architecture: iphoneos-arm64
-Maintainer: leftyfl1p
-Installed-Size: 7344
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.wkk.leftyfl1p.carbridge13_2.0.15_iphoneos-arm64.deb
-Size: 434484
-MD5sum: 1533ee709cdfdd02b3f2f20a62764fe5
-SHA1: 16bd19bcf826f982d58978c87936aa0d72e25d86
-SHA256: 4bc8e215bdaaae316782fb4ce0d308aa816066c89e214fd36212191e349b0303
-Section: Tweaks
-Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
-Tag: cydia::commercial
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://havoc.app/package/carbridge
-Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
-Name: CarBridge
-
-Package: com.wkk.leftyfl1p.carbridge13
-Version: 2.0.15
-Architecture: iphoneos-arm64e
-Maintainer: leftyfl1p
-Installed-Size: 7344
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.wkk.leftyfl1p.carbridge13_2.0.15_iphoneos-arm64e.deb
-Size: 981382
-MD5sum: 7fc2c0844e638a9e948a8bc899e36c80
-SHA1: 18dbc14f0f1ade63a4b00fe82d19b4eca2defc75
-SHA256: 700a56561b245d30dca38973cb0a50b09dc9af5479f7983bbe691677551f5541
-Section: Tweaks
-Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
-Tag: cydia::commercial
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://havoc.app/package/carbridge
-Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
-Name: CarBridge
 
 Package: com.wkk.lockmusic
 Version: 1.0
