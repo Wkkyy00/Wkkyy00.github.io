@@ -73,6 +73,22 @@ Author: RlPNDlP
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 虚拟内存优化
 
+Package: a1
+Version: 1.8.4-beta3
+Architecture: iphoneos-arm64e
+Maintainer: LF，AD
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk, shell-cmds, zstd
+Filename: ./debs/a1_1.8.4-beta3_iphoneos-arm64e.deb
+Size: 19496
+MD5sum: b076ce92cd77cc3e2d0303ca9db03628
+SHA1: 7b5028409790b50225efebbf7dd7e16d6739b0ba
+SHA256: 74021e3185b1ab8389715af0bd51ecd23f3a82a3f74c83013e0c75a2c60d945b
+Section: 插件配置
+Description: 自用款。
+Author: LF
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: A1
+
 Package: cn.sunshinesong.split-view-pro
 Version: 1.1.6
 Architecture: iphoneos-arm64
