@@ -6937,41 +6937,6 @@ Author: 平凡
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 虚拟视频
 
-Package: com.primalfolder2
-Version: 0.1.2
-Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
-Filename: ./debs/com.primalfolder2_0.1.2_iphoneos-arm64.deb
-Size: 51028
-MD5sum: 9ce7ca3be179493073b41d3d0918b3d4
-SHA1: 73a444c390ca1f7933c3e3e15f4e300414701e8c
-SHA256: b21c20e622511c908a7932542aad2e2974508d6a35db9a009519efacbb923ecb
-Section: 插件
-Description: 将文件夹显示为文件夹里第一个app的图标，动画略丝滑，暂无汉化，有设置项，支持无根隐根。（不要和源里的FirstAppicon同时安装！）
-Author: ichitaso
-Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
-Name: PrimalFolder2
-
-Package: com.primalfolder2
-Version: 0.1.2
-Architecture: iphoneos-arm64e
-Maintainer: ichitaso
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
-Filename: ./debs/com.primalfolder2_0.1.2_iphoneos-arm64e.deb
-Size: 62856
-MD5sum: a49dc2f910fa66ed4da3f3f11cb422d6
-SHA1: 1e8412bb74b2d6ba54a6da91ec5554a2b2f0a264
-SHA256: a1a007b308201d4a7076f87d6b69db0b65154f0dd29120f3c64ba63f907127ca
-Section: 插件
-Description: 将文件夹显示为文件夹里第一个app的图标，动画略丝滑，暂无汉化，有设置项，支持无根隐根。（不要和源里的FirstAppicon同时安装！）
-Author: ichitaso
-Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
-Name: PrimalFolder2
-
 Package: com.qimiao.WCRefine
 Version: 1.0-2
 Architecture: iphoneos-arm64
@@ -12569,6 +12534,41 @@ Description: 去开屏广告，版本：11.1.2，接大量冷门热门app定制�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/19/b940557f5fdadf3783d1b6db597f4de2.png
 Name: 澎湃新闻NoAds
+
+Package: com.wkk.primalfolder2
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
+Filename: ./debs/com.wkk.primalfolder2_0.1.2_iphoneos-arm64.deb
+Size: 54428
+MD5sum: bec0936a36c3d7542cf81fc3affbc4e5
+SHA1: da1659297eb390e9a8ab491e52b3a013d26cf685
+SHA256: 91e938bfc9084f4651e58a99e1ff02dd8212f75c3ec5b7ee9809360d316098f8
+Section: Tweaks
+Description: 将文件夹显示为文件夹里第一个app的图标且有多种玩法，已加入汉化。
+Author: ichitaso
+Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
+Name: PrimalFolder2
+
+Package: com.wkk.primalfolder2
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
+Filename: ./debs/com.wkk.primalfolder2_0.1.2_iphoneos-arm64e.deb
+Size: 67680
+MD5sum: 195889f77c82c233c6b122e885af51d4
+SHA1: 0a34d1d7528c910c5cbe6477b3f783a19265b018
+SHA256: 68dd51ab52b91f37da98a22ff3f3f116887632f84d4624f1f7413ae67e407c6c
+Section: Tweaks
+Description: 将文件夹显示为文件夹里第一个app的图标且有多种玩法，已加入汉化。
+Author: ichitaso
+Icon: https://s1.imagehub.cc/images/2025/02/15/03f3330068f5fbbafcd30c2a6a9faf32.png
+Name: PrimalFolder2
 
 Package: com.wkk.proxysc
 Version: 1.0
