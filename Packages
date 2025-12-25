@@ -9094,6 +9094,78 @@ Author: ren7995 & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
 Name: Atria
 
+Package: com.wkk.autoscroll
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: pxcex
+Depends: mobilesubstrate
+Conflicts: com.pxcex.autoscroll, com.autoscroll.jb, com.wkk.autoscroll
+Filename: ./debs/com.wkk.autoscroll_1.0_iphoneos-arm64.deb
+Size: 5404
+MD5sum: ac85d9026af46bd2704047795574293f
+SHA1: 1733307c3c46f0a5f6bae494a23316904b09af33
+SHA256: fd4adc990d9179f34b4569c984156bb662b0803879a38034ea64d07c5a623c74
+Section: Tweaks
+Description: 手指滑动自动滚动页面，直到再次触摸屏幕停止滚动，安装生效无设置项。
+Author: pxcex
+Icon: https://s1.imagehub.cc/images/2025/03/13/2e6958e882916c6bf4062b6fb0761054.jpeg
+Name: AutoScroll
+
+Package: com.wkk.autoscroll
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: pxcex
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.pxcex.autoscroll, com.autoscroll.jb, com.wkk.autoscroll
+Filename: ./debs/com.wkk.autoscroll_1.0_iphoneos-arm64e.deb
+Size: 7316
+MD5sum: a2bb485155261d486d6223b28d8cfe22
+SHA1: d5c255f0e594f270d1e08dd57e36fac9082be84b
+SHA256: b3e575466fb129b966bc857c4fea4c8a6c3e3d3265e427d544a45479fd2acd3e
+Section: Tweaks
+Description: 手指滑动自动滚动页面，直到再次触摸屏幕停止滚动，安装生效无设置项。
+Author: pxcex
+Icon: https://s1.imagehub.cc/images/2025/03/13/2e6958e882916c6bf4062b6fb0761054.jpeg
+Name: AutoScroll
+
+Package: com.wkk.axon
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon, com.wkk.axon
+Filename: ./debs/com.wkk.axon_1.5.5_iphoneos-arm64e.deb
+Size: 177000
+MD5sum: 3dbb49ab82dda143e248545c4fafea66
+SHA1: d2c11c069e9a002b012d37a2608ca3bf9203ffdc
+SHA256: 0c63429b73cf900dd46ddc594eafbcb83b2bd12b72744a02f53cf83455590833
+Section: Tweaks
+Description: 锁屏聚合通知插件，已加入汉化。
+Author: Nepeta
+Icon: https://s1.imagehub.cc/images/2025/01/07/dfa708813bd72a0a42ccc3eaaab30020.png
+Name: Axon
+
+Package: com.wkk.axon
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 692
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon, com.wkk.axon
+Filename: ./debs/com.wkk.axon_1.5.5_iphoneos-arm64.deb
+Size: 144572
+MD5sum: 425e488aadacdb63864337f6c7d63846
+SHA1: 25ead313eb0477969146697841942c7ca3fcaae7
+SHA256: 6b84dd8f56d7fbfdc5b373123119be8d3194b5a2549b0f3ca7ed6b2b05852bde
+Section: Tweaks
+Description: 锁屏聚合通知插件，已加入汉化。
+Author: Nepeta
+Icon: https://s1.imagehub.cc/images/2025/01/07/dfa708813bd72a0a42ccc3eaaab30020.png
+Name: Axon
+
 Package: com.wkk.baiduwangpanhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -9865,6 +9937,41 @@ Description: 去滴滴开屏广告，测试版本：7.0.0.其他版本自测，�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/fbbb3ee1bb742f01530324aecc450222.png
 Name: 滴滴出行NoAds
+
+Package: com.wkk.ding
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nebula
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.wkk.ding_1.1.0_iphoneos-arm64e.deb
+Size: 30672
+MD5sum: ba471399a3a26360db90bf116e40ef64
+SHA1: f8c5e014f2e256521b63911e804467b4b31126e6
+SHA256: 146d81c84d3a81fb28159d6a925ed5d9a1091d7f69d7a9d6f6b9820008ff0c0f
+Section: Tweaks
+Description: 静音拨片物理按键自定义一键开启其他功能(手电筒，方向锁定，飞行模式，无线网络开关，蓝牙，低电量模式，请勿打扰，移动数据，黑暗模式等)
+Author: Nebula
+Depiction: nebula
+Icon: https://s1.imagehub.cc/images/2025/02/01/35cc41ac1e924657c3e222247af3a198.png
+Name: Ding
+
+Package: com.wkk.ding
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Nebula
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/com.wkk.ding_1.1.0_iphoneos-arm64.deb
+Size: 25580
+MD5sum: c996eed901f397e1a57305b026db016f
+SHA1: 3a08a7b4f7dc0281cb0e807ccf1b13f87b341bed
+SHA256: c1ebedbdcabc8c4c47b8885fe4e4fd87218d565d3e5ba766dac7f933300fa52f
+Section: Tweaks
+Description: 静音拨片物理按键自定义一键开启其他功能(手电筒，方向锁定，飞行模式，无线网络开关，蓝牙，低电量模式，请勿打扰，移动数据，黑暗模式等)
+Author: Nebula
+Depiction: nebula
+Icon: https://s1.imagehub.cc/images/2025/02/01/35cc41ac1e924657c3e222247af3a198.png
+Name: Ding
 
 Package: com.wkk.dkkjhook
 Version: 1.0
