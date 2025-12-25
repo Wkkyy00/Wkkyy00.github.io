@@ -12556,12 +12556,12 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
 Filename: ./debs/com.wkk.nopreferencetips_1.0.4_iphoneos-arm64e.deb
-Size: 7238
-MD5sum: c6e5c18ecb8edba3806893b3eeb23b77
-SHA1: fbdef734e13669185742ae7d8db462b88d0348b9
-SHA256: c59835d7d33985115ead000d0b307f54836bfefdc340beaf434616b84400ca3e
+Size: 7242
+MD5sum: 2556d74ab3e46abf23d2411d2d0b81d1
+SHA1: d972e0323984bd9bde1fafae7c82908c71957538
+SHA256: b53156d7d8fd887a7af9e0f1ff57c85b5134b62231668562f02a1e983e542d6a
 Section: Tweaks
-Description: l移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标，移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Description: 移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标，移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
 Name: NoPreferencesTips
@@ -12573,12 +12573,12 @@ Maintainer: 苏苏
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
 Filename: ./debs/com.wkk.nopreferencetips_1.0.4_iphoneos-arm64.deb
-Size: 5372
-MD5sum: 0e9edbf13caeaffeb04440132d2ac3c9
-SHA1: 937eedbaef38ae7b0adb34fae4f54efca9241994
-SHA256: cf67e9dca20655357ce303015e0717a5101b2d846fe200351945785851a89f7b
+Size: 5368
+MD5sum: ba4ab245fde8c7f022d53cb96aa8d93b
+SHA1: 5fa0479def4fa01f3888b0730ca91f135c2efd69
+SHA256: ed089a8a708f9db310b6f98f4fca148891429166406c2df48827a306721945ab
 Section: Tweaks
-Description: l移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标，移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Description: 移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标，移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
 Name: NoPreferencesTips
