@@ -10200,6 +10200,23 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
+Package: com.wkk.dockcontroller
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 409
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.tomaszpoliszuk.colorpickerwell, com.chpwn.iconsupport | firmware (>= 13.0)
+Filename: ./debs/com.wkk.dockcontroller_1.0-2_iphoneos-arm64.deb
+Size: 62656
+MD5sum: 5be2e9ba94f2f8db2ef2bd9d2aa37c62
+SHA1: 52c28535bd785391ab9c198fd1b4d21739d90b77
+SHA256: 8c3d937d7b81130554947ed35c5c7b21ec268bfdace1cc7f1a24af805b21a056
+Section: Tweaks
+Description: 功能最全的dock栏插件，不支持隐根，已汉化。
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/05/2f42e79413d50394252055690756dfaf.png
+Name: Elegant dock
+
 Package: com.wkk.douyutvhook
 Version: 1.0
 Architecture: iphoneos-arm64
