@@ -7574,41 +7574,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: split-view-pro
 Ts: sp-sss
 
-Package: com.susu.nopreferencetips
-Version: 1.0.4
-Architecture: iphoneos-arm64e
-Maintainer: 苏苏
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.nopreferencetips_1.0.4_iphoneos-arm64e.deb
-Size: 7408
-MD5sum: 8a8f11c5f9e86ac7cb4d08f0558673cf
-SHA1: 59dbdf8441145417246aebb3af982a39c490b471
-SHA256: 547b0005546599a081d50ace53b248580f8638f04d127bf228f3fd1c7502a16b
-Section: 插件
-Description: 支持ios15-16无根隐根，移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标（只显示15天），移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）仅备份，作者源：苏苏源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
-Name: NoPreferencesTips
-
-Package: com.susu.nopreferencetips
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
-Filename: ./debs/com.susu.nopreferencetips_1.0.4_iphoneos-arm64.deb
-Size: 5436
-MD5sum: 74acfa296d4b95d07d044aafb4f43d30
-SHA1: 71995eb946451f271870490f62b0e488b2624077
-SHA256: 9acfd97c793945cc7aa8c40abaf2089b0ffa974a29ad367e08f2cc585db275a1
-Section: 插件
-Description: 支持ios15-16无根隐根，移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标（只显示15天），移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）仅备份，作者源：苏苏源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
-Name: NoPreferencesTips
-
 Package: com.susu.snapper3.picta
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -11815,6 +11780,36 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐20（养老自用）
 
+Package: com.wkk.kkgg
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.kkgg_1.0-1_iphoneos-arm64.deb
+Size: 4712
+MD5sum: a5c69ff39707583e69acb52fa98bda4c
+SHA1: 25a6d4a6d467e8e3feba7e251ed5d5cf6993ff08
+SHA256: ffb1ef457ce78988001d38635a34cc2c87356b9c793b8de17764b8cd595c5db5
+Section: 插件配置
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP打开就关闭（TrollFools注入）
+
+Package: com.wkk.kkgg
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.kkgg_1.0-1_iphoneos-arm64e.deb
+Size: 4712
+MD5sum: 69d04f5574b725860e0d0a373fa0062c
+SHA1: 8f5f73222ed4ef6e0094c5c04513dbebe0a1508a
+SHA256: 199e15224d7e8c8981e58b51616724f04af0314b9be8dd1c63eb4d46df60b0af
+Section: 插件配置
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP打开就关闭（TrollFools注入）
+
 Package: com.wkk.kuanhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -12553,6 +12548,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/05/88e9e30fb0e2ed87767b4d3280c200e1.png
 Name: 禁用充电声音
 
+Package: com.wkk.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.wkk.nopreferencetips_1.0.4_iphoneos-arm64e.deb
+Size: 7238
+MD5sum: c6e5c18ecb8edba3806893b3eeb23b77
+SHA1: fbdef734e13669185742ae7d8db462b88d0348b9
+SHA256: c59835d7d33985115ead000d0b307f54836bfefdc340beaf434616b84400ca3e
+Section: Tweaks
+Description: l移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标，移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
+Name: NoPreferencesTips
+
+Package: com.wkk.nopreferencetips
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/com.wkk.nopreferencetips_1.0.4_iphoneos-arm64.deb
+Size: 5372
+MD5sum: 0e9edbf13caeaffeb04440132d2ac3c9
+SHA1: 937eedbaef38ae7b0adb34fae4f54efca9241994
+SHA256: cf67e9dca20655357ce303015e0717a5101b2d846fe200351945785851a89f7b
+Section: Tweaks
+Description: l移除“设置-电池-电池健康与充电”的提醒并显示健康值，移除桌面上的设置角标，移除“关于本机”页面中-部件和服务历史记录下的未知部件提醒（如：电池-未知部件）
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
+Name: NoPreferencesTips
+
 Package: com.wkk.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -13271,6 +13301,74 @@ Author: Muirey03 & lclrc
 Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
 Name: RecordAnywhere
 
+Package: com.wkk.removewidgetbg
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 388
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.wkk.removewidgetbg_2.0_iphoneos-arm64e.deb
+Size: 30856
+MD5sum: 7f749a089673403cd5428cf6928a79de
+SHA1: e3140d17f21bebee2b277826e0188d289d68c8d7
+SHA256: 983cb94654c4945b2f1ae9513f515c6a3e9f8b9983adfb2751163f050b0b3002
+Section: Tweaks
+Description: Remove the background of the widgets on the home screen.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
+Name: 移除小组件背景
+
+Package: com.wkk.removewidgetbg
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.wkk.removewidgetbg_2.0_iphoneos-arm64.deb
+Size: 31036
+MD5sum: 8d88d1ba9d44c92cfad20e7725aa1da8
+SHA1: 8526d885ef59896dd8f5b64060b2dc571084feb0
+SHA256: 2131e3946022e93cd46e0c58d7c3d3f20fef75212af80eb2f9f9f91423d4b84a
+Section: Tweaks
+Description: Remove the background of the widgets on the home screen.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
+Name: 移除小组件背景
+
+Package: com.wkk.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 2832
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/com.wkk.rose_1.1.0_iphoneos-arm64.deb
+Size: 428940
+MD5sum: 41d41b39a6c6c737bdbc2bd0146f0009
+SHA1: 460c88dd5205276b3a92ed9683207d28dcf3009f
+SHA256: 91c31bc0c950a4d078e84167df7b76e16a071102937f34a63a07f0cce837254d
+Section: Tweaks
+Description: 极致舒服的系统级震动调整。
+Author: Litten
+Icon: https://s1.imagehub.cc/images/2025/12/26/8d4cd6f523a5edc968fb5ce15f8d14f8.png
+Name: Rose 🌹
+
+Package: com.wkk.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Litten
+Installed-Size: 2816
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/com.wkk.rose_1.1.0_iphoneos-arm64e.deb
+Size: 427720
+MD5sum: fc6db5e40ef72b7cd43fe93748838233
+SHA1: 053831be6947bb0c2ef7596904613d4ecb456ddf
+SHA256: eb3d69428080dc160f9e3f7abb7d4dc238f8741a10f6ab1c6bb522690e516ad2
+Section: Tweaks
+Description: 极致舒服的系统级震动调整。
+Author: Litten
+Icon: https://s1.imagehub.cc/images/2025/12/26/8d4cd6f523a5edc968fb5ce15f8d14f8.png
+Name: Rose 🌹
+
 Package: com.wkk.sdk16.5
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -13305,6 +13403,39 @@ Description: 下载后文件在目录/var/mobile/Documents/iPhoneOS16.5.sdk.tar
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: iPhoneOS16.5.sdk
+
+Package: com.wkk.settingswidgets
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: shepgoba <arm64.deb@icloud.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.settingswidgets_1.2.2_iphoneos-arm64e.deb
+Size: 85670
+MD5sum: 1db76902fd9eb0ee28beeb5ac8fdd0a1
+SHA1: 6e2f972e1fbf9a813dc603d424a9ccd68c25239b
+SHA256: 82d82dfe319031a63df89c9a7a403ac2947eedcb5eeeb6ab3bb3d8abb6d27b57
+Section: Tweaks
+Description: 将美观的小部件带到设置的顶部，已汉化。
+Author: shepgoba <arm64.deb@icloud.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SettingsWidgets
+
+Package: com.wkk.settingswidgets
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: shepgoba <arm64.deb@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.settingswidgets_1.2.2_iphoneos-arm64.deb
+Size: 73360
+MD5sum: 86d9f78d71400efadb36bca0de17cdef
+SHA1: 62a6193f0cd41faae7865f65d2633063d40bf00a
+SHA256: 5ad5512bcac258a183d98fe4e29bca10b87bbbae897b207c8e698f08e20483fb
+Section: Tweaks
+Description: 将美观的小部件带到设置的顶部，已汉化。
+Author: shepgoba <arm64.deb@icloud.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SettingsWidgets
 
 Package: com.wkk.smoothcursorios13
 Version: 0.0.1
