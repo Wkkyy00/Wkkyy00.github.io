@@ -861,43 +861,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信URL扩展
 Sponsor: admin@25mao.com
 
-Package: com.FirstAppicon
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
-Filename: ./debs/com.FirstAppicon_0.3_iphoneos-arm64.deb
-Size: 54408
-MD5sum: fba1832ba03495409864a05191981729
-SHA1: 571fd6d7bf3b03670505aed04308536922a21aa7
-SHA256: 0cf76093a9da1e4b9ee6cd18d369eab7fcd47e904766db657710bfdab9899cdb
-Section: 插件
-Description: 显示为文件夹图标为第一个APP图标，无设置项，根据开源重新编译修了一下微小bug，支持无根隐根iOS15-16！
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/25/d0f9c9a96bfa7a2dfc2afcda00da0149.png
-Name: FirstAppicon
-Sponsor: wkk
-
-Package: com.FirstAppicon
-Version: 0.3
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
-Filename: ./debs/com.firstappicon_0.3_iphoneos-arm64e.deb
-Size: 67688
-MD5sum: 26ffbcc3d53a47b13a5fe155ce6ad048
-SHA1: 42945bae465d10bf7b2731ab16139c78a5d7d2dd
-SHA256: b3c8d17a6c2334f4f2025112c53a98a99ef7817db028a1562242d7b49a626e18
-Section: 插件
-Description: 显示为文件夹图标为第一个APP图标，无设置项，根据开源重新编译修了一下微小bug，支持无根隐根iOS15-16！
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/25/d0f9c9a96bfa7a2dfc2afcda00da0149.png
-Name: FirstAppicon
-Sponsor: wkk
-
 Package: com.HBWechatHelper.ailun
 Version: 1.7-8
 Architecture: iphoneos-arm64
