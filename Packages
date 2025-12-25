@@ -14984,6 +14984,43 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
 Name: Hello Snapper
 
+Package: con.wkk.april
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 808
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debs/con.wkk.april_3.1_iphoneos-arm64.deb
+Size: 393272
+MD5sum: 13e961471515b3f9a7d07f982f0223c0
+SHA1: 034504335b2edf448b7ac5da5a39f59344d3e6dd
+SHA256: 2d9edbbd724ed1228dffda4d105a23ba894d126d636aa441d7158c669bbb0022
+Section: Tweaks
+Description: 对设置页面的背景进行美化，已汉化。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: April
+
+Package: con.wkk.april
+Version: 3.1
+Architecture: iphoneos-arm64e
+Maintainer: Luki
+Installed-Size: 808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debs/con.wkk.april_3.1_iphoneos-arm64e.deb
+Size: 412152
+MD5sum: 376d4b2b73c798a02223cbe00d3eb741
+SHA1: 6bcc0f90e0031dfd4af701c3e2139c79e29faa06
+SHA256: 96321fae83300cb57e2e43cfcb120d8b213a5586e17426afa32a98978ee26cf5
+Section: Tweaks
+Description: 对设置页面的背景进行美化，已汉化。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: April
+
 Package: cum.wkk.hidevpn
 Version: 1.1
 Architecture: iphoneos-arm64
