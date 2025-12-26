@@ -15800,6 +15800,24 @@ Author: Soh Satoh
 Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
 Name: FreePIP
 
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 492
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.3_iphoneos-arm64.deb
+Size: 67460
+MD5sum: 3bfcc1d7db3c3188a1639d4fb43c797c
+SHA1: 2a720aca8077a972dd0967da97e9a40be1c22fb1
+SHA256: f487fdc2f03e34c084e37897c8ca25a995f0b4860a6e5e86f14a81feb20f0285
+Section: 应用程序
+Description: 无根越狱隐藏越狱，已汉化，在需要时开启，即用即关，不要常开。（仅支持iOS15-16系统Dopamine无根越狱）
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Name: Vnodebypass
+
 Package: netskao.wcpureextension-rootless
 Version: 4.2-6
 Architecture: iphoneos-arm64e
