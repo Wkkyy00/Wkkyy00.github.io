@@ -11454,6 +11454,41 @@ Author: korboy <korboybeats@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
 Name: FilzaSwipeSelect
 
+Package: com.wkk.flexibleexpressions
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 920
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.flexibleexpressions_1.2.0_iphoneos-arm64.deb
+Size: 3649108
+MD5sum: 7c472d62ec8b43de673d7d39e2959e7c
+SHA1: 47a40e5cc5ee89de573ab8b13cf093edc1082165
+SHA256: 9b9295fd9f8de8d4e4b654fa4c2abc744d2754bd07f76d4e47996e90ed3af45b
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画，也可以对原生通知进行背景美化。
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: FlexibleExpression
+
+Package: com.wkk.flexibleexpressions
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 920
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.flexibleexpressions_1.2.0_iphoneos-arm64e.deb
+Size: 7367030
+MD5sum: e688c926fbb059341219214bb2d2b1ba
+SHA1: 26a2bcbf8173b84831bc48bde3650b953ee3c852
+SHA256: d774ba8c7af2ec42cbb8df49877a600496bdef1f89f4ce8792a2719a2b1311f3
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画，也可以对原生通知进行背景美化。
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: FlexibleExpression
+
 Package: com.wkk.ftpz
 Version: 1.0
 Architecture: iphoneos-arm64e
