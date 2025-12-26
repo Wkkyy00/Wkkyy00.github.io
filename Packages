@@ -9003,6 +9003,39 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/12/25/84d30bdfaeb41881309878d3cc6c574d.png
 Name: AFakerXI
 
+Package: com.wkk.akara
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debs/com.wkk.akara_2.0.2_iphoneos-arm64e.deb
+Size: 672368
+MD5sum: 4f95318dac3cd8a02a29119b405bd7c8
+SHA1: 4ec11b4f23ebf1033b1c8743977a4b65dd3f824d
+SHA256: d098e457d3e58ab4d883c3682c60092ceb87af5acd7337aa5bf6385a1e1bcb50
+Section: Tweaks
+Description: 毫不妥协的控制中心简约设计，已加入汉化。
+Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+Name: Akara
+
+Package: com.wkk.akara
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debs/com.wkk.akara_2.0.2_iphoneos-arm64.deb
+Size: 618048
+MD5sum: 985ef1914b219ebb68552b802c17df68
+SHA1: 5ad0d5d6b0a0c025022bea4589cae926c448189e
+SHA256: 836a731395c7945c4e2fe74c670b8c143d4af26e8b06e1aeeb99688a8dae99c7
+Section: Tweaks
+Description: 毫不妥协的控制中心简约设计，已加入汉化。
+Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
+Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
+Name: Akara
+
 Package: com.wkk.alpine
 Version: 1.4
 Architecture: iphoneos-arm64e
