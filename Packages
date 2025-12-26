@@ -12283,6 +12283,41 @@ Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
 Name: InstaLauncher 2
 
+Package: com.wkk.intelligentpass5
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Geometric Software
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware(>=15.0), firmware(<<17), preferenceloader, se.geometric.graphite
+Filename: ./debs/com.wkk.intelligentpass5_1.0.2_iphoneos-arm64e.deb
+Size: 99538
+MD5sum: 4c8dbe4ac1087548ec27125f6e74f791
+SHA1: 80339391950b9ca3a1beb0aa9c0aa2b65aa83e92
+SHA256: 350fdb8c04c9f7a2ef2eba58af160def10eb11e85e1facec19aba7340ba3db39
+Section: Tweaks
+Description: 最好用的跳过密码插件，信任Wi-Fi/蓝牙/定时间段/深浅色模式等等...已加入汉化。
+Author: Geometric Software
+Icon: https://s1.imagehub.cc/images/2025/12/27/ef8224270e0b59a70ff47d7bb0f6f964.png
+Name: IntelligentPass 5
+
+Package: com.wkk.intelligentpass5
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Geometric Software
+Installed-Size: 444
+Depends: mobilesubstrate, firmware(>=15.0), firmware(<<17), preferenceloader, se.geometric.graphite
+Filename: ./debs/com.wkk.intelligentpass5_1.0.2_iphoneos-arm64.deb
+Size: 87100
+MD5sum: 38774c615d5170852a540961946a1f18
+SHA1: cd7a09160bdfdc83ecca3942fcfda21d3208c937
+SHA256: c73b9fb58b8b3e42fec648b9b1da7a7209dca4c60724f93f307edf7a255c4532
+Section: Tweaks
+Description: 最好用的跳过密码插件，信任Wi-Fi/蓝牙/定时间段/深浅色模式等等...已加入汉化。
+Author: Geometric Software
+Icon: https://s1.imagehub.cc/images/2025/12/27/ef8224270e0b59a70ff47d7bb0f6f964.png
+Name: IntelligentPass 5
+
 Package: com.wkk.jdhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -12352,6 +12387,40 @@ Description: 去掉帖子中穿插的广告。接大量冷门热门app定制去�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
 Name: 煎蛋NoAds
+
+Package: com.wkk.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.wkk.kayoko_3.0_iphoneos-arm64.deb
+Size: 131412
+MD5sum: 6526d42d726b9223e8c487c339adcd49
+SHA1: 71d3df83d47f085bac7c71d11cc5766522848fdd
+SHA256: dc4880274433820b64ce05ca4cc0d152015cad8df203a2696f43084426909fff
+Section: Tweaks
+Description: 剪贴板（支持范围IOS14-17）
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
+Name: Kayoko
+
+Package: com.wkk.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.wkk.kayoko_3.0_iphoneos-arm64e.deb
+Size: 131888
+MD5sum: 2a2a4429a8bdc45270101298c2c31af8
+SHA1: 76b9d0390aa508702cccc53a7cdffede99d5f8d3
+SHA256: 96d65a903c316f74c31abd625c03c09167c8ed142bb32b3ccfe94b62e3d954c6
+Section: Tweaks
+Description: 剪贴板（支持范围IOS14-17）
+Author: Alexandra Aurora Göttlicher
+Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
+Name: Kayoko
 
 Package: com.wkk.keyboardhook
 Version: 2.1-3
@@ -12649,6 +12718,39 @@ Description: 15系统完美使用，16系统横屏有些用户会有问题。免
 Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
 Name: Applecard
+
+Package: com.wkk.lockeddnd
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.lockeddnd_1.0_iphoneos-arm64e.deb
+Size: 6394
+MD5sum: 231128e2311cd8938b232f94c46371ea
+SHA1: f59027a6ef9b436c58ebe9a0b40d7f71b8e25aaa
+SHA256: a622e9e091c394a88f4250cefd216af6028265c74251d822c6eac8efdc74f4e7
+Section: Tweaks
+Description: 设备锁定时激活勿扰，解锁后解除。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
+Name: Locked DND
+
+Package: com.wkk.lockeddnd
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 168
+Filename: ./debs/com.wkk.lockeddnd_1.0_iphoneos-arm64.deb
+Size: 4712
+MD5sum: 7585d0c419102ae3f6477857cd7603d6
+SHA1: bf591398ed4ade9044409fbd000ec72cc7da9f95
+SHA256: e8711e66181b5c79d94f0b984634b622a9959acf22dbdbfb6db8ef600cd0af62
+Section: Tweaks
+Description: 设备锁定时激活勿扰，解锁后解除。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
+Name: Locked DND
 
 Package: com.wkk.lockmusic
 Version: 1.0
@@ -13174,6 +13276,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/05/88e9e30fb0e2ed87767b4d3280c200e1.png
 Name: 禁用充电声音
 
+Package: com.wkk.noline
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: ./debs/com.wkk.noline_1.0.1_iphoneos-arm64e.deb
+Size: 5148
+MD5sum: b010ceca886a9cc5f5afc51b6cf4226e
+SHA1: fe89e8be3a5801308a5ea5c4329b20f7741d19ba
+SHA256: 0c9bf13665b26fa459bbadb0a8bd093ddacd532d4cfcb9896f4364742b77101f
+Section: Tweaks
+Description: 去除弹窗/UI/长按菜单等地方的分割线。
+Author: 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
+Name: PurifyLine
+
+Package: com.wkk.noline
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: ./debs/com.wkk.noline_1.0.1_iphoneos-arm64.deb
+Size: 3740
+MD5sum: 4b3e7c971f1a5cca751e1d8a14221738
+SHA1: e05c54e9689343025b89919c2125e84c16e3688b
+SHA256: ce4f88ac65b5b3f41218b374d9ec4d7bbf172796092f706466d71fe5837fc00f
+Section: Tweaks
+Description: 去除弹窗/UI/长按菜单等地方的分割线。
+Author: 妖刀
+Icon: https://s1.imagehub.cc/images/2025/01/01/135e9192996151208956bded1a4cedaf.png
+Name: PurifyLine
+
 Package: com.wkk.nopreferencetips
 Version: 1.0.4
 Architecture: iphoneos-arm64e
@@ -13280,6 +13417,41 @@ Description: 全局右滑手势，已汉化。
 Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
 Name: PanCake
+
+Package: com.wkk.passtext
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.passtext_1.0.1_iphoneos-arm64.deb
+Size: 127624
+MD5sum: ce0be8f5ca65888ad925bff2e58179df
+SHA1: 6301d6341be2aab93003c8bb897d4104e0d0bba6
+SHA256: d682acb19bc8c64475a5261296740565c5920f3b2077cd4074477f257cface02
+Section: Tweaks
+Description: 自定义你的锁屏密码，改为数字/表情/符号等。
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
+Name: PassText
+
+Package: com.wkk.passtext
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 544
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.passtext_1.0.1_iphoneos-arm64e.deb
+Size: 134624
+MD5sum: 7049b71349deb2d762596f03d6edd138
+SHA1: ddaa52e9193108f49a5de8ea230705c909f14cac
+SHA256: e57ca84cef8d8404f3dfb1933d25ef4d223c0eb42bc2df3d9d4fe88585a700ca
+Section: Tweaks
+Description: 自定义你的锁屏密码，改为数字/表情/符号等。
+Author: Hitori <mikasa-san@outlook.jp>
+Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
+Name: PassText
 
 Package: com.wkk.photohook
 Version: 1.0-6
@@ -14169,6 +14341,39 @@ Author: yan
 Icon: https://s1.imagehub.cc/images/2025/12/26/a33eaf6e39094de1d78f60df4264c7b1.png
 Name: Stella❄️
 
+Package: com.wkk.stepup
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: ETHN
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.stepup_1.2_iphoneos-arm64e.deb
+Size: 52090
+MD5sum: 47545b7b96d5107ec0c4c73039455314
+SHA1: 6c91d942dc1c1088b2209ed399d591de2ec421f4
+SHA256: bd3c82ab4763c107221b7521805c21c4656c3850e394e14698309dccdc61b8c9
+Section: Tweaks
+Description: 可以自由定义音量按键值，按一下调到最大/最小等等。
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
+Name: StepUp
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+
+Package: com.wkk.stepup
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: ETHN
+Filename: ./debs/com.wkk.stepup_1.2_iphoneos-arm64.deb
+Size: 43208
+MD5sum: 0c99395f8e491832e5db6a12a9a5c8a2
+SHA1: 841d8e98d2fe1087362745a97a778acd3a38fd75
+SHA256: 50e6df5274e7f6e74a3a2bb12a35ae845705a4b5e86e95d562aa2ec169dc2185
+Section: Tweaks
+Description: 可以自由定义音量按键值，按一下调到最大/最小等等。
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
+Name: StepUp
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+
 Package: com.wkk.stormsnifferhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -14273,6 +14478,41 @@ Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都�
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
+
+Package: com.wkk.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 672
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.tie-gesture_1.0.0_iphoneos-arm64e.deb
+Size: 132202
+MD5sum: 0cfb74490e6b5bc5a0e9ed81cfb31cd3
+SHA1: 1ad105cbb922638dbd3f3f2ce7a899870e6ffd94
+SHA256: 17349d13e3f8e92590a81fe5ff267c1b74a84164c8d2046c656ce8abdc8143a9
+Section: Tweaks
+Description: 手势插件，一切从简即可，免费版本。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/12/27/9f3a995f14a2eb42995785263ad96d7b.png
+Name: TieGesture
+
+Package: com.wkk.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.tie-gesture_1.0.0_iphoneos-arm64.deb
+Size: 102196
+MD5sum: d8e6f644937d74f1b57242bc617558ba
+SHA1: c36b8720ce18e9e10c55d73dee082aeeb06275e0
+SHA256: 2139b24d243d53976d12eceba8856ba8e6f6c8183676d6d975952af2744b437e
+Section: Tweaks
+Description: 手势插件，一切从简即可，免费版本。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/12/27/9f3a995f14a2eb42995785263ad96d7b.png
+Name: TieGesture
 
 Package: com.wkk.tiebahook
 Version: 1.0-5
@@ -14483,6 +14723,27 @@ Description: 很棒的老电视关屏动画，已内置简体中文。
 Author: Wes <wes.hamster@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
 Name: TVLock
+
+Package: com.wkk.tweaksettings
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.wkk.tweaksettings_1.0.9_iphoneos-arm64e.deb
+Size: 389276
+MD5sum: fb91c4e3b84a418accd8bb47696ac750
+SHA1: 31ec3959054ba26b34d5c50473d71c434b989518
+SHA256: f35c54dd4b0115368b06cb96ffc05239265ac7c77bbdaa0c757f8e1e6c1aecc8
+Section: 应用程序
+Priority: optional
+Description: 桌面生成App，直达越狱插件页面，已汉化，觉得app图标丑的可以找我换。
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Dev: CreatureSurvive
+Icon: https://s1.imagehub.cc/images/2025/12/27/cf1e2e152c6f7753e36ae33902aa3886.png
+Name: TweakSettings
 
 Package: com.wkk.txsphook
 Version: 1.0
@@ -14800,6 +15061,41 @@ Description: 将隔空播放图标替换为已连接设备。
 Author: Ruphane
 Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
 Name: WherePlay
+
+Package: com.wkk.wicellswitcher
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: com.brunonfl.wicellswitcher
+Filename: ./debs/com.wkk.wicellswitcher_1.2_iphoneos-arm64e.deb
+Size: 26702
+MD5sum: 234a281115cd0979a3c7c7be609fe4f8
+SHA1: a00d4a3bb112c8430ad19a6466a2bda72c0bcb9a
+SHA256: 0ed2b02b3c5ea54fd9462de077b478eea77f98cf265d0788a354573873141daf
+Section: Tweaks
+Description: 控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi。
+Author: Bruno Andrade <brubiluco@globo.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/65559e36ac987c56556a7ab5daff0665.png
+Name: WiCellSwitcher
+
+Package: com.wkk.wicellswitcher
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: com.brunonfl.wicellswitcher
+Filename: ./debs/com.wkk.wicellswitcher_1.2_iphoneos-arm64.deb
+Size: 23324
+MD5sum: ecb59a9c72542838c81a5be2e4f894f3
+SHA1: aa8ce5bb67ef50de4802fc11bc5e0ac4c7399eb5
+SHA256: df1e9307e9971c14573cabfdd4ad0fcde2fe4b526daac1fd0bd707083a4a10af
+Section: Tweaks
+Description: 控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi。
+Author: Bruno Andrade <brubiluco@globo.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/65559e36ac987c56556a7ab5daff0665.png
+Name: WiCellSwitcher
 
 Package: com.wkk.wtvrbglauncher
 Version: 1.2
