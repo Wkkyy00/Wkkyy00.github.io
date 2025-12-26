@@ -13451,6 +13451,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/1cb46c4a119429e59516fd3f0287e49d.png
 Name: 七猫小说NoAds
 
+Package: com.wkk.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64e
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2540
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.wkk.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64e.deb
+Size: 574820
+MD5sum: d1c58e5e4dd3500d025d5a11226e79ca
+SHA1: 74229b54488eeffc0f7e1444797cf9de33c7fa22
+SHA256: 152aa4a276cddb08cff9c002f054606217019ed162527192d22ee2e8242b2d3f
+Section: Tweaks
+Description: 高度自定义歌词全局显示，支持无根隐根。
+Author: Brend0n <brendonjkding@126.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/9e682ccf2cfd7cea8920b62fa006cca5.png
+Name: DesktopLyrics
+
+Package: com.wkk.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.wkk.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64.deb
+Size: 622680
+MD5sum: 59286d9b2746144ba381b987035b9d4c
+SHA1: fab9eea0dbe951cca2d80a4fe38b4412935e85d1
+SHA256: 93a145ef4660d699ae4aacc64d27f7c4b20d353cafaf0b2430d578479b7cc16c
+Section: Tweaks
+Description: 高度自定义歌词全局显示，支持无根隐根。
+Author: Brend0n <brendonjkding@126.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/9e682ccf2cfd7cea8920b62fa006cca5.png
+Name: DesktopLyrics
+
 Package: com.wkk.qqmusichook
 Version: 1.0
 Architecture: iphoneos-arm64e
