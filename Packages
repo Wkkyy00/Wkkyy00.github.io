@@ -10030,6 +10030,41 @@ Author: SuSu
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SuCollection
 
+Package: com.wkk.cornbar
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.wkk.cornbar_1.1.0_iphoneos-arm64e.deb
+Size: 117914
+MD5sum: 5dd480d7e9099e2ce07c4175bba03199
+SHA1: 70324159daabd17343e175b1c2d5c62d4c9ae999
+SHA256: 13aec3dcd5b5ff5bf22b653a9d748e598995dd16d5ac33c17c873b5745acec37
+Section: Tweaks
+Description: 可以把手势横条变成玉米，或者自定义图片，已汉化。
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cornbar.png
+Name: CornBar
+
+Package: com.wkk.cornbar
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.wkk.cornbar_1.1.0_iphoneos-arm64.deb
+Size: 111004
+MD5sum: 92fa38351ceb5206f171f35eec6f72f9
+SHA1: 7ed1ed8676ba2da38f53ac9bc9aa628ee4a7bfee
+SHA256: 1dd1b2cedb575383a5057e951354df573b4ea86ca7fea93705e2fa4982bb4866
+Section: Tweaks
+Description: 可以把手势横条变成玉米，或者自定义图片，已汉化。
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cornbar.png
+Name: CornBar
+
 Package: com.wkk.cozybadges
 Version: 2.1
 Architecture: iphoneos-arm64e
