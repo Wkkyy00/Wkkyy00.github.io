@@ -9902,6 +9902,41 @@ Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/01/3db11086ea6cf08a97f71f69e0dd03df.png
 Name: CCDND
 
+Package: com.wkk.ccglow
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ccglow_2.0.2_iphoneos-arm64e.deb
+Size: 30710
+MD5sum: c65bbc99d2dc7a142b7d754f20379893
+SHA1: 7d3391bb61a7a6fd1e5d59351c8136724aea7533
+SHA256: 94c0b26ce93e33b78b8f753b7f9cfef4b7df2ab672922f6288ea876c2f968dc6
+Section: Tweaks
+Description: 高度自定义控制中心发光。
+Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/12/27/9c87ab6f13db32cf819dca8179708c57.png
+Name: 控制中心发光
+
+Package: com.wkk.ccglow
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ccglow_2.0.2_iphoneos-arm64.deb
+Size: 25136
+MD5sum: 7e1d640139fb8b438c96319c02262b7a
+SHA1: 429b2ca2629b50a03158276fb79689d0b096899e
+SHA256: 851be263bbcc7c2095e8c1e0ec72f53af138dc11bbbcfc2a53eb1a4fe865ffc0
+Section: Tweaks
+Description: 高度自定义控制中心发光。
+Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/12/27/9c87ab6f13db32cf819dca8179708c57.png
+Name: 控制中心发光
+
 Package: com.wkk.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64
