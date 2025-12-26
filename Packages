@@ -10284,6 +10284,42 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
+Package: com.wkk.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.wkk.dockx_2.6.2_iphoneos-arm64e.deb
+Size: 415592
+MD5sum: 0b76e7f2686fe9f3167f86aaed37027a
+SHA1: eae58d0de2429069056ebba751760806cdd5087e
+SHA256: dc468f4cb79edb6518f22878abb0299155c9677f49e66e8390a239de620f89a9
+Section: Tweaks
+Description: 在键盘底座上自定义快捷键。
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+
+Package: com.wkk.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.wkk.dockx_2.6.2_iphoneos-arm64.deb
+Size: 421004
+MD5sum: 14bc6f69bae0f8167746e529dcf8ae13
+SHA1: 42dcff670adb8334f2040f6c25bae5413d6a4f52
+SHA256: b79f7ffe3536dc020221c3f30eab70577909d502f08e86e30afb929a0be2b963
+Section: Tweaks
+Description: 在键盘底座上自定义快捷键。
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+
 Package: com.wkk.doodle
 Version: 1.2
 Architecture: iphoneos-arm64e
