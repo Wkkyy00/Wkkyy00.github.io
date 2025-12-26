@@ -8710,6 +8710,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.AppIndex
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Filename: ./debs/com.wkk.AppIndex_1.0_iphoneos-arm64.deb
+Size: 779288
+MD5sum: 9b722d1abae6a167f7c8ebecf97e6503
+SHA1: 9b868afdfb964fd8d1c87b3b8d5d9d6d77155985
+SHA256: 046b96dd5502be0c09bf0f260b43930a28ba806f1ed5a2f802d603094e7207b3
+Section: 应用程序
+Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
+Tag: compatible_min::ios13.0
+Author: Serena <hanzikashi@gmail.com>
+Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
+Name: AppIndex
+
+Package: com.wkk.AppIndex
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.AppIndex_1.0_iphoneos-arm64e.deb
+Size: 780688
+MD5sum: 454b0b054a2fc7e29dbbad73db3ea15e
+SHA1: 6e1fad34d223bcd4a671fb330f5496ca22a85939
+SHA256: 43597ead66ed6dc56f8328ff9c0114d374a9628ea715bd64e0f0923936ca73ef
+Section: 应用程序
+Description: 查看app的标识符，下载日期，类型，版本，最低系统要求，占用，受限，url，路径。
+Tag: compatible_min::ios13.0
+Author: Serena <hanzikashi@gmail.com>
+Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
+Name: AppIndex
+
 Package: com.wkk.HideEdit
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9280,6 +9315,40 @@ Description: 去开屏广告和我的页面广告，版本：16.11.8，接大量
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
 Name: 爱奇艺NoAds
+
+Package: com.wkk.artworkspinner
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.artworkspinner_1.6_iphoneos-arm64.deb
+Size: 39064
+MD5sum: 9bef5d9afd63da3508a744379fc5d3a0
+SHA1: dd944adee3074da3c59a0500dad7a2ac020b6d88
+SHA256: b74646bd843bed0a02c30ccd2ca55c8afe542a23f2e71a7fe1e09d46748fbfc9
+Section: Tweaks
+Description: 灵动岛/锁屏旋转专辑封面。
+Author: Lessica
+Icon: https://s1.imagehub.cc/images/2025/12/27/43a5af47a5cd96bbc59d7f06d6206b78.png
+Name: ArtworkSpinner
+
+Package: com.wkk.artworkspinner
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.artworkspinner_1.6_iphoneos-arm64e.deb
+Size: 39028
+MD5sum: 39a04eab10274e39ef20c454db7fb9f1
+SHA1: 20213bd44ed81a7b24e96fcca3398a651ab0daec
+SHA256: a4baf80ccfea0ab2e56e744c4bf96625a49c5dc36cc2494ba4c832ba46f67d78
+Section: Tweaks
+Description: 灵动岛/锁屏旋转专辑封面。
+Author: Lessica
+Icon: https://s1.imagehub.cc/images/2025/12/27/43a5af47a5cd96bbc59d7f06d6206b78.png
+Name: ArtworkSpinner
 
 Package: com.wkk.atria
 Version: 1.4.1-6
