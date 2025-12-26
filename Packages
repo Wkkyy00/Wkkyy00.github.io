@@ -9001,6 +9001,76 @@ Author: MTAC
 Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
 Name: Alpine
 
+Package: com.wkk.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.1_iphoneos-arm64e.deb
+Size: 13992198
+MD5sum: 513b4098ec683c5c8a459f2c9429bc9d
+SHA1: 83322f002be78cc3358a04f2a8315c7a13af6971
+SHA256: c5c2a0f088dd980b65f64400fe6d891c70177d856da72eb33961eb630fe5ca83
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.1_iphoneos-arm64.deb
+Size: 4644928
+MD5sum: 228b4faa3e5c4714f3cf53cb101f52c4
+SHA1: 80da3440a28a01a8b5df30a7a2fffd02ee38e61f
+SHA256: 4f884130d295aa6f906668ae772e2a81fca02d8c4d5f122ebdf95da198814d37
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5049680
+MD5sum: 90ef2af0503acb0d04890d1c59ba9e28
+SHA1: efb17778e0d3a78e9ee0975810a0803a8cd27d0b
+SHA256: 1f980984c094280c7431bf2ff8c2e53b14c4c43b56f5a00fd75b6073df78439d
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.4_iphoneos-arm64e.deb
+Size: 14517894
+MD5sum: 1c8bb393a3633af79c8bb66951068067
+SHA1: 1a4a00463a73ba99dda831548467c41f6563e5c8
+SHA256: c1cb32b011fb3f26930b450f4c4099448b1f8ce38547297673619ff97fd958ea
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
 Package: com.wkk.apppad
 Version: 1.1.3
 Architecture: iphoneos-arm64e
