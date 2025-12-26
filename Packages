@@ -8934,6 +8934,42 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA插件配置说明（必看）
 
+Package: com.wkk.adsspee
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.wkk.adsspee_1.1.3_iphoneos-arm64e.deb
+Size: 108396
+MD5sum: 667d9743f3ae0dac31c9e87e4872f5eb
+SHA1: 1a234b7456f10eb077a32b519005aba662a6cad1
+SHA256: 238e0f1847eace2095faa89efe495b9696afc3b4d44e5fbd1f370773b56b4ced
+Section: Tweaks
+Description: 快速跳过激励视频广告，奖励正常领取。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/03/05/5e7750e53f47782c0f1f2d5ea3e69638.png
+Name: VideoAdsSpeed
+
+Package: com.wkk.adsspee
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.wkk.adsspee_1.1.3_iphoneos-arm64.deb
+Size: 108276
+MD5sum: 336fb039af938ba392419d9bb5143477
+SHA1: 815d0a358337b97a9a6de8cac1949afab4b6aadd
+SHA256: d041e579797bd12626dad57fd53524919f3bd4bf974d6eaf1952ac4ef68de63c
+Section: Tweaks
+Description: 快速跳过激励视频广告，奖励正常领取。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/03/05/5e7750e53f47782c0f1f2d5ea3e69638.png
+Name: VideoAdsSpeed
+
 Package: com.wkk.afakerxi
 Version: 1.0.3
 Architecture: iphoneos-arm64
