@@ -9001,6 +9001,41 @@ Author: MTAC
 Icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
 Name: Alpine
 
+Package: com.wkk.alwaysdark
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.wkk.alwaysdark_1.2.3_iphoneos-arm64.deb
+Size: 33888
+MD5sum: 5c9754d7a0cd5443cf0501eefa187c86
+SHA1: 583c5db06d0e011e64f371fb567a6454dd425880
+SHA256: 9176fe5ccc41836bbb5be4aff1d285c31942de2e96adcc84a6a35b3651c87174
+Section: Tweaks
+Description: 始终在深色/浅色模式下运行指定的应用程序。
+Author: KingPuffdaddi
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AlwaysDark
+Sponsor: wkk
+
+Package: com.wkk.alwaysdark
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.wkk.alwaysdark_1.2.3_iphoneos-arm64e.deb
+Size: 39144
+MD5sum: c7de5061233029ac6b92bb38f1c284da
+SHA1: 5f58ab6519ba33cffe0752b5fe48424330265593
+SHA256: 1cd87c36d7ece3dbefa70eca9a32f1d50b4ef03124c1810ccaadf08ede0a542a
+Section: Tweaks
+Description: 始终在深色/浅色模式下运行指定的应用程序。
+Author: KingPuffdaddi
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AlwaysDark
+Sponsor: wkk
+
 Package: com.wkk.appdata
 Version: 1.4.1
 Architecture: iphoneos-arm64e
@@ -9423,6 +9458,43 @@ Description: 去开屏广告，版本：10.1.60，接大量冷门热门app定制
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/20/e0e10ac56b0ada289ace126e11ca4564.png
 Name: 百度文库NoAds
+
+Package: com.wkk.betterccbrightness
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.betterccbrightness_1.0.2_iphoneos-arm64.deb
+Size: 43664
+MD5sum: c7f0fd4f5ca983ef685b458b30dfafb3
+SHA1: f7dde38dcc45c3127ea482ff9c0e066ad5acdb67
+SHA256: 4ba0368bbcb2222fec7773c026be24cb3e6087aff094ce052952c72ec31de126
+Section: Tweaks
+Description: 控制中心亮度模块长按后，新增降低白点值和夜览的滑块。
+Author: level3tjg
+Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.png
+Name: BetterCCBrightness
+Sponsor: wkk
+
+Package: com.wkk.betterccbrightness
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.betterccbrightness_1.0.2_iphoneos-arm64e.deb
+Size: 59640
+MD5sum: 3a8441264ef3be06d5d3b9a29c3fa329
+SHA1: ac7f38bca0d1c1ab423464b15603b30fe845edda
+SHA256: ef9c055297913bf3073664dcc8c13b18c9d0a2285d914dab189e565f4a45fbd8
+Section: Tweaks
+Description: 控制中心亮度模块长按后，新增降低白点值和夜览的滑块。
+Author: level3tjg
+Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.png
+Name: BetterCCBrightness
+Sponsor: wkk
 
 Package: com.wkk.bilibilihook
 Version: 1.0
@@ -10038,6 +10110,41 @@ Description: 使用方法：Filza进入/var/mobile/Documents/目录，运行“d
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键查询已安装插件
+
+Package: com.wkk.dawn
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 565
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.wkk.dawn_1.1_iphoneos-arm64e.deb
+Size: 186442
+MD5sum: e35b6a9deb4b78c1f03f05a1feac983c
+SHA1: 0bd384c7e1d688d6e543e8260b105606243cf10c
+SHA256: d617d848a3f91503ff3a7ca08b5cd6f0051429746f5fb136a9ba33644cc2b351
+Section: Tweaks
+Description: 自定义黑暗模式和浅色模式，可以单独设置通知横幅、dock栏、小组件等等处于亮模式或黑暗模式。
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/23/fb1c7478338ccafa7bd419c07dfc2be3.png
+Name: Dawn
+
+Package: com.wkk.dawn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 565
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.wkk.dawn_1.1_iphoneos-arm64.deb
+Size: 165276
+MD5sum: 4e73f4738ef190e69191de06f00ec791
+SHA1: f96039e1a7f051a470035af0424f8f4df183a1e9
+SHA256: bf75f71d0efa168bfa64ea4924273066db73a4f3bdf6decb81e1fd8115aeff56
+Section: Tweaks
+Description: 自定义黑暗模式和浅色模式，可以单独设置通知横幅、dock栏、小组件等等处于亮模式或黑暗模式。
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/23/fb1c7478338ccafa7bd419c07dfc2be3.png
+Name: Dawn
 
 Package: com.wkk.dbhook
 Version: 1.0-1
