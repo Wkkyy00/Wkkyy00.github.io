@@ -15525,6 +15525,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/cdf64e516d0fb0f51be2a24f4385f2cd.png
 Name: 小蚕惠生活NoAds
 
+Package: com.wkk.xhshook
+Version: 1.1.6-8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 4296
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xhshook_1.1.6-8_iphoneos-arm64.deb
+Size: 1452204
+MD5sum: d7fcf30de43bc08ad5ae17a595bf2381
+SHA1: 3a407d5047b1ad98b91d486f1b99c3bbce879a8c
+SHA256: 4415ff505cdcbc2008d3581b03bd63c9f8fc4a1b3a947d4b3827ede7abc843cf
+Section: Tweaks
+Description: 24小时内删除。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯
+
+Package: com.wkk.xhshook
+Version: 1.1.6-8
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 4296
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xhshook_1.1.6-8_iphoneos-arm64e.deb
+Size: 4019618
+MD5sum: 18b3f09f1d353a516d8490f630beb0d8
+SHA1: a18ae328112e2a9ec0f3903109a2e83f8da2f11e
+SHA256: 5646f87bc5dae28dfd373a55d96ad61f9fd1a864fe0bbb7aad9909433f31bda0
+Section: Tweaks
+Description: 24小时内删除。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯
+
 Package: com.wkk.xianyuhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -16312,41 +16347,6 @@ Description: 去开屏，版本：11.12.5
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/06/16/4d8b76fc09393fdae4119792925bf6da.png
 Name: 转转NoAds
-
-Package: com.xx.xhshook
-Version: 1.1.6-3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 4488
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.1.6-3_iphoneos-arm64.deb
-Size: 1521516
-MD5sum: 2506352d4a7c5198d1a1e853c2ca4340
-SHA1: dd53f5b231f66a7458ea7b50ffba8df5d1831b97
-SHA256: e1c7bbf0589884215a26e9cd0fe0ed5321a1c33e6f3d89733cae7f417a92a320
-Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
-Author: x✨
-Icon: https://s1.imagehub.cc/images/2025/05/02/8d8474811dcf0b53c2a353639c522568.png
-Name: 小红薯
-
-Package: com.xx.xhshook
-Version: 1.1.6-3
-Architecture: iphoneos-arm64e
-Maintainer: x✨
-Installed-Size: 4488
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.1.6-3_iphoneos-arm64e.deb
-Size: 4204086
-MD5sum: 45b8b9c0a4968ac078302090908c4a4e
-SHA1: a9015374127ffa95e4047cf1ab2f79b6db931367
-SHA256: bb2ee2f1b61fcca892135fb899acb8e43bdc734cde1e36cd1aec5bd5d65c67c8
-Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
-Author: x✨
-Icon: https://s1.imagehub.cc/images/2025/05/02/8d8474811dcf0b53c2a353639c522568.png
-Name: 小红薯
 
 Package: com.zqbb.Snapper3
 Version: 1.0-1
