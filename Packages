@@ -11126,6 +11126,40 @@ Author: zqbb
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 隐藏设置里插件
 
+Package: com.wkk.eneko
+Version: 1.4-5
+Architecture: iphoneos-arm64e
+Maintainer: Traurige & SINI
+Installed-Size: 628
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.eneko_1.4-5_iphoneos-arm64e.deb
+Size: 208492
+MD5sum: 01356d377c12f67f268f9309c48fd73e
+SHA1: c65b18caa4cadb43a5ebd43a162a9d98458555cf
+SHA256: 3c0fad4fe8fb079031dc72bbae1d879a114fc4340e2a68d7444c07ac4a2277b4
+Section: Tweaks
+Description: 使用自定义视频为锁屏与桌面壁纸。
+Author: Traurige & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
+Name: Eneko
+
+Package: com.wkk.eneko
+Version: 1.4-5
+Architecture: iphoneos-arm64
+Maintainer: Traurige & SINI
+Installed-Size: 644
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.eneko_1.4-5_iphoneos-arm64.deb
+Size: 210568
+MD5sum: 7d11c15103e132906ff966e176c8c2b1
+SHA1: 1980b3c586e35503cf31584bfb285e907394f8f3
+SHA256: 06c4606e2bcc49c0476cbb345bcba9c7f2a5020e872412e5d1b0070a2acbb649
+Section: Tweaks
+Description: 使用自定义视频为锁屏与桌面壁纸。
+Author: Traurige & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
+Name: Eneko
+
 Package: com.wkk.ersatz
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -13345,6 +13379,40 @@ Description: 移除“设置-电池-电池健康与充电”的提醒并显示�
 Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/02/14/a2e56499e255b0a754bebf8803f037c8.png
 Name: NoPreferencesTips
+
+Package: com.wkk.noredirect
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 832
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/com.wkk.noredirect_2.1_iphoneos-arm64.deb
+Size: 90460
+MD5sum: ef79ca9f8792542d306342299c96d4b0
+SHA1: cd75bcbb3a393edd1a537fe9e31e84af890a9c2f
+SHA256: e9eb71b7f16ca66f7d6ac0426e975aa294f9ef71dd8e8cdf8a7b24db5400a171
+Section: Tweaks
+Description: 阻止指定应用程序重定向到App Store、Safari或其他应用程序。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/27/4a23398f59384c6633e9a0687a9f6d4b.png
+Name: 禁字决
+
+Package: com.wkk.noredirect
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 832
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/com.wkk.noredirect_2.1_iphoneos-arm64e.deb
+Size: 91356
+MD5sum: d2f2f2d1e0f2d7e36a43c3237095479f
+SHA1: 7632eb8b9a0e854588eba86dc77067621a079bf7
+SHA256: 2a0a084dea6a6df98d571aedbf6f83c1675c2ceb480b8262f4206f6d58953c75
+Section: Tweaks
+Description: 阻止指定应用程序重定向到App Store、Safari或其他应用程序。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/27/4a23398f59384c6633e9a0687a9f6d4b.png
+Name: 禁字决
 
 Package: com.wkk.onesettings
 Version: 2.2
