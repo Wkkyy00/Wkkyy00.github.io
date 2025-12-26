@@ -9883,6 +9883,40 @@ Depiction: https://havoc.app/package/carbridge
 Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
 Name: CarBridge
 
+Package: com.wkk.ccborder
+Version: 1.1.2-25
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 712
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.wkk.ccborder_1.1.2-25_iphoneos-arm64e.deb
+Size: 109160
+MD5sum: 7390f496b332abe59f1e9743b5181e26
+SHA1: 6db470d453ba0e5c7e3c1328d0bf221fc6779d1a
+SHA256: c0a646d1519846963b8abd0019bc338ca329944e2c242e46606599e4fd3306e2
+Section: Tweaks
+Description: 控制中心高度自定义调整。
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.wkk.ccborder
+Version: 1.1.2-25
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 732
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/com.wkk.ccborder_1.1.2-25_iphoneos-arm64.deb
+Size: 111256
+MD5sum: 1bda716d927ee133e08f45cb133ca0a8
+SHA1: 3fa2079c54441da4e9c55c86d373a680585029f5
+SHA256: 89ee7318799c4056e300f84835ad9b674ac8ccb473b30d03f1a00ea016cbe451
+Section: Tweaks
+Description: 控制中心高度自定义调整。
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
 Package: com.wkk.ccborder15
 Version: 1.1.2
 Architecture: iphoneos-arm64
