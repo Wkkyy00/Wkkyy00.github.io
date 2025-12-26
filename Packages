@@ -10319,6 +10319,40 @@ Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/12/26/df63b507da975481b7b8509e318b24cf.png
 Name: Doodle
 
+Package: com.wkk.doubletapflipcamera
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.1.5000)
+Filename: ./debs/com.wkk.doubletapflipcamera_1.1_iphoneos-arm64.deb
+Size: 4976
+MD5sum: ce711afce82e616b0a9c1618ec68bd38
+SHA1: 3bc2732b21a58e66434a19cd4b4cd4ea1204ceb0
+SHA256: bfd3fbcf691e45cec3e80117322d4681c8957c0a04f14304142eadc36ca134cd
+Section: Tweaks
+Description: 双击取景框翻转相机前置和后置镜头，无设置项，目前支持系统相机拍照和录像，微信拍照和视频，QQ拍照，理论上调用系统相机拍照的应用都可以，在DoubleTapFlipCamera.plist中加入应用的Bundle ID即可。
+Author: SquidForce
+Icon: https://s1.imagehub.cc/images/2025/12/26/4eeb970bf2c4db32c7f60f54d61b2587.png
+Name: DoubleTapFlipCamera
+
+Package: com.wkk.doubletapflipcamera
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.1.5000)
+Filename: ./debs/com.wkk.doubletapflipcamera_1.1_iphoneos-arm64e.deb
+Size: 4932
+MD5sum: 3a9dd32782e9dc02b5c9f8eadc3acfcb
+SHA1: cd5aff5e3472cd04df29f1be71065497cb36c526
+SHA256: 964a18586441ed01e90c42bd55a49a24fc5413d634453cb9f199754d48206e0e
+Section: Tweaks
+Description: 双击取景框翻转相机前置和后置镜头，无设置项，目前支持系统相机拍照和录像，微信拍照和视频，QQ拍照，理论上调用系统相机拍照的应用都可以，在DoubleTapFlipCamera.plist中加入应用的Bundle ID即可。
+Author: SquidForce
+Icon: https://s1.imagehub.cc/images/2025/12/26/4eeb970bf2c4db32c7f60f54d61b2587.png
+Name: DoubleTapFlipCamera
+
 Package: com.wkk.douyutvhook
 Version: 1.0
 Architecture: iphoneos-arm64
