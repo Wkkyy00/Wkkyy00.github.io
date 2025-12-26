@@ -8934,6 +8934,38 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA插件配置说明（必看）
 
+Package: com.wkk.actionbarreborn
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.actionbarreborn_1.0-1_iphoneos-arm64.deb
+Size: 161396
+MD5sum: b27858590aecf04b44fcef36945c7c3d
+SHA1: 11981449e52a786aab2b07d920392f2c88a34342
+SHA256: cd8fadf086ebd8f2e06b59dc1579f466ccea3d8698554a5eb309d720b3d75b5b
+Section: 插件配置
+Description: 注入到你屏蔽越狱的app，弥补原生键盘一些没有的操作（全选/复制/粘贴/撤销/重做/收起键盘）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP内键盘底部扩展（TrollFools注入）
+
+Package: com.wkk.actionbarreborn
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.actionbarreborn_1.0-1_iphoneos-arm64e.deb
+Size: 161400
+MD5sum: 88a2c0bb054e961d31c609c70db8b75a
+SHA1: b2f143d63b441b68ebefe69aafecc59344993e0a
+SHA256: 8a83117412f3ac3cfa01798e8d04b844fbe8dbd3e8989b54ac8f6923beec98b2
+Section: 插件配置
+Description: 注入到你屏蔽越狱的app，弥补原生键盘一些没有的操作（全选/复制/粘贴/撤销/重做/收起键盘）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP内键盘底部扩展（TrollFools注入）
+
 Package: com.wkk.adsspee
 Version: 1.1.3
 Architecture: iphoneos-arm64e
