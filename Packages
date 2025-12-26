@@ -13578,6 +13578,41 @@ Author: yan
 Icon: https://s1.imagehub.cc/images/2025/12/26/a33eaf6e39094de1d78f60df4264c7b1.png
 Name: Stella❄️
 
+Package: com.wkk.stormsnifferhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.stormsnifferhook_1.0-1_iphoneos-arm64.deb
+Size: 3188
+MD5sum: 534be5bdb7a4d9770cf961a5fd1bcfa4
+SHA1: 5c2776c45b1363c8cc84c85a3fac7cd2d613a866
+SHA256: b45e36cbf25f4ebade90ff86c8ac0caf063b2772500a728a0013f90189ec8ae0
+Section: 去广告
+Description: 去掉2.1.6版本烦人的强制升级弹窗。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/882110d3a7893df3ce2588ed7f59d223.jpeg
+Name: StormSnifferHook
+
+Package: com.wkk.stormsnifferhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.stormsnifferhook_1.0-1_iphoneos-arm64e.deb
+Size: 4494
+MD5sum: 2f252ecef0221db45b9da786d76e07b6
+SHA1: b1bbeaf79aab3120f96ac5a63eb1a34711d27df3
+SHA256: 4160948993fdc2494e3a16b54321faf3e3e10c93d568e5a970300df047e07a87
+Section: 去广告
+Description: 去掉2.1.6版本烦人的强制升级弹窗。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/882110d3a7893df3ce2588ed7f59d223.jpeg
+Name: StormSnifferHook
+
 Package: com.wkk.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64
