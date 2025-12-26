@@ -304,39 +304,6 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
 Name: Hello Folder
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
 
-Package: com.0xkuj.filzadirprobe
-Version: 1.7.2
-Architecture: iphoneos-arm64e
-Maintainer: 0xkuj
-Installed-Size: 240
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.filzadirprobe_1.7.2_iphoneos-arm64e.deb
-Size: 45074
-MD5sum: 6a6587875829167aa89072b1a350ceb6
-SHA1: 4cf16a68bb10964c663c7fdf1b1620b5a08e2ab5
-SHA256: 40e60e4bca34f779cf22c8d6cfd964d61bf49330aca8120171ba6154393ed49c
-Section: Tweaks
-Description: 计算Filza里文件夹大小。
-Author: 0xkuj
-Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
-Name: FilzaDirProbe
-
-Package: com.0xkuj.filzadirprobe
-Version: 1.7.2
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 240
-Filename: ./debs/com.0xkuj.filzadirprobe_1.7.2_iphoneos-arm64.deb
-Size: 33272
-MD5sum: b5931a518815c65e6701af210a80fc45
-SHA1: 687cca1c8a14ad8d3ef51581f318d173f7dd518b
-SHA256: 622b42ef55365aa5210b8f2f2ea1e8524f98966940fdf4fc3cc4d0c32d35a9d3
-Section: Tweaks
-Description: 计算Filza里文件夹大小。
-Author: 0xkuj
-Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
-Name: FilzaDirProbe
-
 Package: com.0xkuj.safarix
 Version: 1.9.9.1
 Architecture: iphoneos-arm64
@@ -11247,6 +11214,39 @@ Description: Filza Crack
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
 Name: Filza Crack
+
+Package: com.wkk.filzadirprobe
+Version: 1.7.3
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.filzadirprobe_1.7.3_iphoneos-arm64e.deb
+Size: 48030
+MD5sum: 290f26969250ebea7804dc7e8c6fb82d
+SHA1: 0366119e561aa2c6ce81768b875f6cf61e1116e3
+SHA256: a5f9ef1914e2165e738aac0c4efafa0c8c104bb3eeb9eb8ff918e12af72caad7
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: FilzaDirProbe
+
+Package: com.wkk.filzadirprobe
+Version: 1.7.3
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.wkk.filzadirprobe_1.7.3_iphoneos-arm64.deb
+Size: 35636
+MD5sum: 9cfd86d485f30f4e768f70cd768fffbd
+SHA1: 9227b5efac487b3cfead6252c4827243e3b2a257
+SHA256: be49f3f9a6aec31a6eb274104316e74988383793794d54ab3bbc34d7ed24409d
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: FilzaDirProbe
 
 Package: com.wkk.filzaswipeselect
 Version: 0.0.2
