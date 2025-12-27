@@ -12644,6 +12644,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/10/04/217340c30ed0dfd05970462e023a6221.png
 Name: 酷狗音乐Streamline
 
+Package: com.wkk.kuku
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.wkk.kuku_1.5_iphoneos-arm64.deb
+Size: 254476
+MD5sum: f625d4d7bfa658f6abc4769cf00b8645
+SHA1: 2a51b7098680da14a7739ae60a9d184b46e50b6e
+SHA256: a4699be281ad3fa9169dadaf2df81686c69d909399e22f97e1d02bd277cd0dea
+Section: Tweaks
+Description: 自定义通知横幅，已汉化。
+Author: b4db1r3
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kuku.png
+Name: KuKu Reborn
+
+Package: com.wkk.kuku
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.wkk.kuku_1.5_iphoneos-arm64e.deb
+Size: 273364
+MD5sum: 4ad050dfb5aad4066090452e4068221b
+SHA1: f61201beef30be364cb4723e04327751b8df878c
+SHA256: d562c7aa5f32c88202fd9b0fbe24d14ab7460dc32d57bcb03cc3ea1e8a11634c
+Section: Tweaks
+Description: 自定义通知横幅，已汉化。
+Author: b4db1r3
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kuku.png
+Name: KuKu Reborn
+
 Package: com.wkk.latchkey
 Version: 2.3.3
 Architecture: iphoneos-arm64
