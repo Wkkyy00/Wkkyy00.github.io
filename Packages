@@ -4599,6 +4599,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.8-2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.8-2_iphoneos-arm64.deb
+Size: 645640
+MD5sum: d73736ab173b6beb27b24cb142e6ed1d
+SHA1: 2d3d8bff01cb762290e55694998564faeee2a81c
+SHA256: 21302a626b75d66c0d2d5a9fbcb6d82cf3cade74a9fda173a8059941907c9582
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-2
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.8-2_iphoneos-arm64e.deb
+Size: 1733274
+MD5sum: d0fa78fcc8df72ec19e482eccf96ff50
+SHA1: 77c7c15d2d6b07fe8ecd380d31ea3aba223fcfef
+SHA256: 39968e704cebf9fc5e79229d32dec3693ad144fed78d78ed29f501af32d00e8d
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.blbl
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -12141,6 +12178,41 @@ Description: 隐藏App所有角标。（即使来通知也没有，强迫症患�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/01/9907d147c9ab5cc57a511ed0496cf4d8.jpeg
 Name: HideIconBadge
+
+Package: com.wkk.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.horizontalsliders_0.0.1_iphoneos-arm64e.deb
+Size: 13950
+MD5sum: 365615def5cc2fd731855d615af8467d
+SHA1: 3966fc85c4ca7e2c9155e0faa6fd3a672c52f59b
+SHA256: 68923ab4fd1292f5d63d579b3f47171ba562737bf25a239b3d2fb1ad5b2cbaa5
+Section: Tweaks
+Description: 将控制中心的亮度和音量滑块横过来。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/horizontalsliders.png
+Name: HorizontalSliders
+
+Package: com.wkk.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.horizontalsliders_0.0.1_iphoneos-arm64.deb
+Size: 10592
+MD5sum: e50704488203f128ac085da0cc40bcdb
+SHA1: 14b0e0f99514c82fe880db89e1b287fccce61ac0
+SHA256: 45b15c3ed8b08a804cd9838e67c4b73d07af0e380e9d735d5a937aeed06e44b1
+Section: Tweaks
+Description: 将控制中心的亮度和音量滑块横过来。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/horizontalsliders.png
+Name: HorizontalSliders
 
 Package: com.wkk.hphook
 Version: 1.0-1
