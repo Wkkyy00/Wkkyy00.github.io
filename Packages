@@ -8856,6 +8856,111 @@ Author: Serena <hanzikashi@gmail.com>
 Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
 Name: AppIndex
 
+Package: com.wkk.AppStore
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.AppStore_1.0-2_iphoneos-arm64.deb
+Size: 62060
+MD5sum: 72763f875e0b9eb864ab0cad02e8ce1b
+SHA1: 21c64bde600af79a74b304e7e480db35210a9d55
+SHA256: 1e2cfb6ee5105082aeb4c794b4fbbba3dd436b14bff1a45471c4500b9377ab3b
+Section: 美化
+Description: App Store美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/06/a39704438b10be358870f50e0fae8320.png
+Name: App Store美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/App%20Store.json
+
+Package: com.wkk.AppStore
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.AppStore_1.0-2_iphoneos-arm64e.deb
+Size: 64472
+MD5sum: 5474854b91d4c6ed6fb2df8e2817f654
+SHA1: 02cfb85972f5c4238c0ee83c47a291e70962e3a1
+SHA256: 30c68d58513da39d35444ce9a2603b443db57eb4aeff6fd7d6195bef0544aad9
+Section: 美化
+Description: App Store美化
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/03/06/a39704438b10be358870f50e0fae8320.png
+Name: App Store美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/App%20Store.json
+
+Package: com.wkk.Desa
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Gleptech
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.Desa_1.0-1_iphoneos-arm64.deb
+Size: 10985612
+MD5sum: 5f87a706b7ffea65002fcc7fc9e59bda
+SHA1: fd7b52917c9c5ba009364ee5af08555dac8d168b
+SHA256: 17a104dd203004b7f4dca3696482782c5e61332ab772ff386f14269bec72a687
+Section: 美化
+Description: 一款精致的付费美化图标。
+Author: Gleptech
+Icon: https://s1.imagehub.cc/images/2025/03/11/93c5ac92ef7458d85ca58ab57c58b613.jpeg
+Name: Desa
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Desa.json
+
+Package: com.wkk.Desa
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Gleptech
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.Desa_1.0-1_iphoneos-arm64e.deb
+Size: 22158072
+MD5sum: fc1e2c6e3420cb99a97c751948d18340
+SHA1: bfd7805da35f9c23cb4a9480d7a32c485325695a
+SHA256: cd4641a8c0b55c39d920bd765e6a469a25f2165fa73a9112f003f05fb4cf17b1
+Section: 美化
+Description: 一款精致的付费美化图标。
+Author: Gleptech
+Icon: https://s1.imagehub.cc/images/2025/03/11/93c5ac92ef7458d85ca58ab57c58b613.jpeg
+Name: Desa
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/Desa.json
+
+Package: com.wkk.ExplosiveIcons
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Wes
+Filename: ./debs/com.wkk.ExplosiveIcons_1.1.1_iphoneos-arm64.deb
+Size: 40048
+MD5sum: 627e207d3ebdf043c1701f157edbe61e
+SHA1: 84200a979244d8d25fe912267b347d8ca1767d1b
+SHA256: a1f038bd3bd8316213d14e77703ce647e82311b3d982de70f6b24abffd15176d
+Section: Tweaks
+Description: 炫酷吊爆的图标卸载动画，不支持在atria上启用，已汉化。
+Author: Wes
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: ExplosiveIcons
+
+Package: com.wkk.ExplosiveIcons
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Wes
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.ExplosiveIcons_1.1.1_iphoneos-arm64e.deb
+Size: 46380
+MD5sum: 81dadd3b2c834cf11fe73c99df5afdb5
+SHA1: 7e4b63d4f2db08a96af29f02e5fe77e5ef43430f
+SHA256: 253cdb90b4d1d5eeb5725d2916de065059563ec68d1aaf5efab2db5214310ec6
+Section: Tweaks
+Description: 炫酷吊爆的图标卸载动画，不支持在atria上启用，已汉化。
+Author: Wes
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: ExplosiveIcons
+
 Package: com.wkk.HideEdit
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9781,6 +9886,43 @@ Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.
 Name: BetterCCBrightness
 Sponsor: wkk
 
+Package: com.wkk.bhmh
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: 百度主题
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bhmh_1.0-1_iphoneos-arm64e.deb
+Size: 327172
+MD5sum: 56ad5a4e8bb8b82e2e8b0841f173b88a
+SHA1: e4f2a9e2d2eeeea11864bd4e95da7a89dfd77419
+SHA256: a2a88e4829c17b9070d9e425cf4574affb6291185d3c44dc6f756ab9c038698c
+Section: 美化
+Description: 拨号键盘美化。
+Author: 百度主题
+Icon: https://s1.imagehub.cc/images/2025/03/08/0364f8251947561dd09612ea1ee9a016.png
+Name: 拨号键盘美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/bohaojp.json
+
+Package: com.wkk.bhmh
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 百度主题
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bhmh_1.0-1_iphoneos-arm64.deb
+Size: 326916
+MD5sum: 2908d70f769f4cc8e317568f992f09b0
+SHA1: 9712d8bf3f0908e5be2b7496538d54586dbeb03a
+SHA256: 17a598707666100c2402bb99da355be22671669bfa67bf7e5cfadc3427fadcdb
+Section: 美化
+Description: 拨号键盘美化。
+Author: 百度主题
+Icon: https://s1.imagehub.cc/images/2025/03/08/0364f8251947561dd09612ea1ee9a016.png
+Name: 拨号键盘美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/bohaojp.json
+
 Package: com.wkk.bilibilihook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -10490,6 +10632,39 @@ Author: SuSu
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SuCollection
 
+Package: com.wkk.coolapp
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.coolapp_1.5_iphoneos-arm64.deb
+Size: 807376
+MD5sum: 3e10624c03d5fd9e9784b17b477d02a0
+SHA1: dd4e76113e03d45ab0a556508dc85947fd4949b0
+SHA256: 7f0595803501f50e575bcf838a4f5622eaf6a9750efb926565d76e5848848733
+Section: Tweaks
+Description: 在键盘底部添加快捷按钮/App，已汉化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: KBApp
+
+Package: com.wkk.coolapp
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.coolapp_1.5_iphoneos-arm64e.deb
+Size: 841796
+MD5sum: 88db1c5eacf7f243e9ea24c5b7e6568e
+SHA1: a83f0e4fc3e156fb519174940907533aa89998cd
+SHA256: 97a9f97fc09e00cd93c2f6c7449adc2dbf3297bc135b6627b4d682c0c9f3eb79
+Section: Tweaks
+Description: 在键盘底部添加快捷按钮/App，已汉化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: KBApp
+
 Package: com.wkk.cornbar
 Version: 1.1.0
 Architecture: iphoneos-arm64e
@@ -10781,6 +10956,41 @@ Description: 下载后文件在目录/var/mobile/Documents/deb-batch.sh
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键解压/打包deb(自用)
+
+Package: com.wkk.depths
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: Vincent
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard
+Filename: ./debs/com.wkk.depths_1.4.1_iphoneos-arm64e.deb
+Size: 55838982
+MD5sum: 8426b54049eaf59a027e7be4c73d9926
+SHA1: 856b7dce62425d92bea3e49d97d1a1a6cbf60d76
+SHA256: 69485cb75d6ded157a8ebc162065b84c2988a31e94c7c99f44a234e7bcd72830
+Section: 美化
+Description: 高度可定制的3D风格的图标主题，由某网友补充中国大陆常用软件图标。
+Author: Polyphian, Vincent
+Icon: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/Icon.png
+Name: Depths
+Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/js.json
+
+Package: com.wkk.depths
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Vincent
+Depends: com.spark.snowboard
+Filename: ./debs/com.wkk.depths_1.4.1_iphoneos-arm64.deb
+Size: 27951496
+MD5sum: fff30592452a1590d69c764af40ed544
+SHA1: 8af459425b2b5588a4d8deabe097d48fd9a8b2bb
+SHA256: ebdc1ac5060d6da040fcc93aabc51e580df8de63cb1efec01d9093b62401fadf
+Section: 美化
+Description: 高度可定制的3D风格的图标主题，由某网友补充中国大陆常用软件图标。
+Author: Polyphian, Vincent
+Icon: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/Icon.png
+Name: Depths
+Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/js.json
 
 Package: com.wkk.didihook
 Version: 1.0
