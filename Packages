@@ -9567,6 +9567,43 @@ Author: Nepeta
 Icon: https://s1.imagehub.cc/images/2025/01/07/dfa708813bd72a0a42ccc3eaaab30020.png
 Name: Axon
 
+Package: com.wkk.badgebreathing
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.badgebreathing_0.0.1_iphoneos-arm64.deb
+Size: 4224
+MD5sum: 56b65c66ace2b787166742571e0073ae
+SHA1: f7dae3a6ec946a0b75c925a8234de4ab455cb8a5
+SHA256: ac9efc9c5fd241552acdf0911bbeb1c8302c6cc70561b323798af4efa900cd49
+Section: Tweaks
+Description: APP角标呼吸灯效果，注销生效无设置项。
+Author: Phuc Do
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Badge
+Sponsor: wkk
+
+Package: com.wkk.badgebreathing
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.badgebreathing_0.0.1_iphoneos-arm64e.deb
+Size: 5722
+MD5sum: 5f3c39b2ad02c3637568c20156e75921
+SHA1: 69075c01795b9ed687712fdf0189f4aa98a7b699
+SHA256: dadc199e19de96715cb32094e47a9c9a6b08d35b84dc79cf38f79ea39b28605a
+Section: Tweaks
+Description: APP角标呼吸灯效果，注销生效无设置项。
+Author: Phuc Do
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Badge
+Sponsor: wkk
+
 Package: com.wkk.baiduwangpanhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -10114,6 +10151,43 @@ Author: fiore
 Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
 Name: CCBorder15
 
+Package: com.wkk.cccellularrate
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.cccellularrate_1.1-1_iphoneos-arm64.deb
+Size: 89492
+MD5sum: 9f0b46939588d4d354dd06da76da54ae
+SHA1: 52ae0924d0549d95f6df0ad07ffee42b5bfbc05d
+SHA256: 9b7dd9a5884fe2f3fbeb67cc6395e35932560326245499db7a1e66c86fdb0c79
+Section: Tweaks
+Description: 控制中心快速开启2/3/4/5G。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CCCellularRate
+Sponsor: wkk
+
+Package: com.wkk.cccellularrate
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.cccellularrate_1.1-1_iphoneos-arm64e.deb
+Size: 115968
+MD5sum: e0455138047ec00a3290833271fe1a37
+SHA1: 8d6b19ec8b407fa4521b4c2df1e7999a83ab8537
+SHA256: 8794d10c8a81c94e1ce362f4a66f5eba87fa080e6848c8e6b0e14306a3826bbe
+Section: Tweaks
+Description: 控制中心快速开启2/3/4/5G。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CCCellularRate
+Sponsor: wkk
+
 Package: com.wkk.ccdnd
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -10218,6 +10292,39 @@ Description: 为控制中心的音乐模块添加旋转动画。
 Author: simon
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 控制中心音乐模块动画
+
+Package: com.wkk.ccsim
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Installed-Size: 188
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.ccsim_1.1-9_iphoneos-arm64.deb
+Size: 23456
+MD5sum: 6e9bb3763b64230118d212829e33374b
+SHA1: ad7997f5ce436d662b08594e12455c9cc166d1a3
+SHA256: ab239c1a59a2cac08ca47dbe469cb4c8dfbb695e35555e7a207db32970cf7c4d
+Section: Tweaks
+Description: 控制中心快速启用或禁用其中一张SIM卡。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/29/f806534d4e4696c52413ed07e629a1be.png
+Name: CCSIM
+
+Package: com.wkk.ccsim
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.ccsim_1.1-9_iphoneos-arm64e.deb
+Size: 28908
+MD5sum: d79c2b21e577ea36decf96c50bc624f4
+SHA1: c2cd70c5b2d685ee17ec809d3015b56eb9e54048
+SHA256: dae3c1a33ce59d81887be36de8483bf51ef28395cab091db63244331f0490fd6
+Section: Tweaks
+Description: 控制中心快速启用或禁用其中一张SIM卡。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/29/f806534d4e4696c52413ed07e629a1be.png
+Name: CCSIM
 
 Package: com.wkk.center
 Version: 1.1-1
@@ -13702,6 +13809,43 @@ Author: Hitori <mikasa-san@outlook.jp>
 Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
 Name: PassText
 
+Package: com.wkk.perfectxtime
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.wkk.perfectxtime_1.1-3_iphoneos-arm64.deb
+Size: 8640
+MD5sum: 00aeded3448f4a50fe44e689b75b94bc
+SHA1: 8e18268549565c80fde0fc81ab2751515ef53a5c
+SHA256: f8c205ba7d9406d3f7410dce737419a7ff290b7acd7db8cc8e9a1fa95a132947
+Section: Tweaks
+Description: 状态栏的时间后+星期几，默认生效，无设置项。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: PerfectXTime
+Sponsor: wkk
+
+Package: com.wkk.perfectxtime
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.wkk.perfectxtime_1.1-3_iphoneos-arm64e.deb
+Size: 11566
+MD5sum: 7e7a67f7bf67ab4bcde56d5251cd61c2
+SHA1: 9b30229d84c83ab62f8fd16fd87498886fc7728f
+SHA256: 31336480a47bc0d29cdbac8dbbda924b2ed7a2980fb0e3322e073a551b6eb939
+Section: Tweaks
+Description: 状态栏的时间后+星期几，默认生效，无设置项。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: PerfectXTime
+Sponsor: wkk
+
 Package: com.wkk.photohook
 Version: 1.0-6
 Architecture: iphoneos-arm64e
@@ -15133,6 +15277,43 @@ Description: 去开屏广告，版本：7.8.90，接大量冷门热门app定制�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/19/e7f05d5ae0dd964c58131ab814df26d3.png
 Name: 腾讯体育NoAds
+
+Package: com.wkk.upsidedowned
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.wkk.upsidedowned_1.1-4_iphoneos-arm64.deb
+Size: 4704
+MD5sum: d9f2497e0498c418fa215d12a121bde7
+SHA1: c58823c8e5218f12cef3b5a0d6e25d037d0f1477
+SHA256: 2ade1a2876b717d9b15ff33759be332490b2db335a95979a1bdbdad457e3ef74
+Section: Tweaks
+Description: 手机颠倒显示。禁用锁定方向后手机倒过来即可。
+Author: 34306, KhanhDuyTran
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Upsidedowned
+Sponsor: wkk
+
+Package: com.wkk.upsidedowned
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.wkk.upsidedowned_1.1-4_iphoneos-arm64e.deb
+Size: 6318
+MD5sum: 20729cec0960b3a9152550861fb12945
+SHA1: 03e6a4fbd89126c0a15c46ea6ce6443f6980e49f
+SHA256: f951f813e8feca77342e791c9d50e8c1cd37fb68fec42bf14970a09c9b4a0484
+Section: Tweaks
+Description: 手机颠倒显示。禁用锁定方向后手机倒过来即可。
+Author: 34306, KhanhDuyTran
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Upsidedowned
+Sponsor: wkk
 
 Package: com.wkk.wctimelinereplacefind
 Version: 1.1-2
