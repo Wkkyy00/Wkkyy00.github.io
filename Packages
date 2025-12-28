@@ -5221,41 +5221,6 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/7dac6febf5f38720ca04e1e565bc6a2e.
 Name: MoreLinesNotifications
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.dao.icleanerpro
-Version: 7.10.0
-Architecture: iphoneos-arm64e
-Maintainer: Ivano Bilenchi
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
-Filename: ./debs/com.dao.icleanerpro_7.10.0_iphoneos-arm64e.deb
-Size: 2758884
-MD5sum: 9e251b6f098d6b062dc0a48398ab6697
-SHA1: 9f7cac7d99585a12edcd17ff56e9dc873fe40822
-SHA256: 4b4a6c63a0107eedd7cf306c03bb94c4489ed9ddebe27d7de7fd7045b7c9b7a8
-Section: 应用程序
-Description: 真正的iOS系统清理和管理实用程序，默认简体中文。
-Author: Ivano Bilenchi
-Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
-Name: iCleaner Pro
-
-Package: com.dao.icleanerpro
-Version: 7.10.0
-Architecture: iphoneos-arm64
-Maintainer: Ivano Bilenchi
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
-Filename: ./debs/com.dao.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 1101672
-MD5sum: 55ef48dce2bc3ff4f4aa23c89c736e1d
-SHA1: d9d9257284ca735d08d732ec1d405a81858e3e78
-SHA256: 99165bc276a377aa0d2423037b87d76060e8b23c3cf0b0a1dfba6b6b9193314e
-Section: 应用程序
-Description: 真正的iOS系统清理和管理实用程序，默认简体中文。
-Author: Ivano Bilenchi
-Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
-Name: iCleaner Pro
-
 Package: com.dvntm.fbo
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -10326,6 +10291,43 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/12/29/f806534d4e4696c52413ed07e629a1be.png
 Name: CCSIM
 
+Package: com.wkk.ccswitchdata
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.ccswitchdata_1.1-4_iphoneos-arm64e.deb
+Size: 26502
+MD5sum: b069398a9f132dee554c45d70fb11919
+SHA1: a0ffb19cbb6a5250e4a6cbb81d325c308fd9466e
+SHA256: ce9a62c2877753c7636967728f26c17bb8ef78a186e614544209dd56d27e3043
+Section: Tweaks
+Description: 控制中心切换双卡流量。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/29/79018e0c97a38b0c2da262e3bf40edb1.png
+Name: CCswitchdata
+Sponsor: wkk
+
+Package: com.wkk.ccswitchdata
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 132
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.ccswitchdata_1.1-4_iphoneos-arm64.deb
+Size: 20792
+MD5sum: b1e5057426bbdb7bb777d1ba13bba71d
+SHA1: f565fa84997392c2fe3280978452790dff18bfc8
+SHA256: a89839917df4165a97a58e286ba2e92e7f8aea98367d5cee046702b24700f9e3
+Section: Tweaks
+Description: 控制中心切换双卡流量。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/29/79018e0c97a38b0c2da262e3bf40edb1.png
+Name: CCswitchdata
+Sponsor: wkk
+
 Package: com.wkk.center
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -10779,6 +10781,41 @@ Author: Nebula
 Depiction: nebula
 Icon: https://s1.imagehub.cc/images/2025/02/01/35cc41ac1e924657c3e222247af3a198.png
 Name: Ding
+
+Package: com.wkk.disablebottombarlrswipe
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.wkk.disablebottombarlrswipe_1.1-2_iphoneos-arm64e.deb
+Size: 7696
+MD5sum: 01811389614580303bea5f71c1cb18ee
+SHA1: ba3c521dbb2c6e0be77ce13302d0e2a3ff91b4d6
+SHA256: 8172435b551d754696737fe78d8b2c9bee665cf7f6363832be9ab012d04c5c82
+Section: Tweaks
+Description: 禁用底部横条左/右滑动切换应用。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: DisableBottomBarLRSwipe
+
+Package: com.wkk.disablebottombarlrswipe
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.wkk.disablebottombarlrswipe_1.1-2_iphoneos-arm64.deb
+Size: 5808
+MD5sum: ffff10839bcf27af1e559b871cd8bdde
+SHA1: 4bdd09ca8ecb2726a65319805aeb5576754c59c3
+SHA256: ad4a2a1bde4483d7b941ddc4851d158cdc088eabc810239b20bb37ea5adbd7f0
+Section: Tweaks
+Description: 禁用底部横条左/右滑动切换应用。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: DisableBottomBarLRSwipe
 
 Package: com.wkk.dkkjhook
 Version: 1.0
@@ -12392,6 +12429,41 @@ Description: 去开屏广告，应用内广告或精简需走个人定制，版�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/24/4ab3c82016d49d76a9e59c40a774337a.png
 Name: 虎牙直播NoAds
+
+Package: com.wkk.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: ./debs/com.wkk.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1101900
+MD5sum: 5ad21634a3a88d5934771e011f47c570
+SHA1: 9020014104f9d31ec5ba8561987457e8c6ecdae8
+SHA256: 783c97c6a48850cdf541293795032f35d7aa85d482a36bf25ecfbf07795ce920
+Section: 应用程序
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文。
+Author: Ivano Bilenchi
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
+Name: iCleaner Pro
+
+Package: com.wkk.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: ./debs/com.wkk.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 1108244
+MD5sum: 0bc1225c0de28430eb0ce4789e4cfbbf
+SHA1: b9305861ae00e1539cd62f0e407f067a0ad44ce6
+SHA256: 6a2cc5408b6a7fcae1b56005e65bbf206b4a1ae3a1cb88c91a06ea9475a72f7c
+Section: 应用程序
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文。
+Author: Ivano Bilenchi
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
+Name: iCleaner Pro
 
 Package: com.wkk.iconx
 Version: 1.0
@@ -14733,6 +14805,117 @@ Description: Office 2013风格的光标动画。
 Author: PoomSmart
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: SmoothCursor(Rootless)
+
+Package: com.wkk.snapper31
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.wkk.snapper31_1.1-1_iphoneos-arm64e.deb
+Size: 23800
+MD5sum: 21fde9a5d17de7e226467640170a62da
+SHA1: a41c21be42a737b5c91da933eab609b69f156861
+SHA256: 45ef2e1ee6a21ae0fc5703e325055c6c3d1a3fd97ee2ec4baced2515b38d86f6
+Section: 美化
+Description: 纯文字美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
+
+Package: com.wkk.snapper31
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.wkk.snapper31_1.1-1_iphoneos-arm64.deb
+Size: 21776
+MD5sum: 2eb306b8917febfff51cc47055a7b99a
+SHA1: 31d274e2b0480359f978755e6b85d6e4b738148b
+SHA256: 6808f36e4155450544bda46f4ede3cf211bb6ab931fdfbc8ad0ececef655c50e
+Section: 美化
+Description: 纯文字美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3.json
+
+Package: com.wkk.snapper32
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.wkk.snapper32_1.0-1_iphoneos-arm64e.deb
+Size: 27550
+MD5sum: dc1d92dffbdf32aeb630f802eaa09789
+SHA1: 68fb211a393c3db295ddaca7227f05393a677edb
+SHA256: 2e36a1b053fc6a0fe1cab5abc14c4fe3e7e5e5c63d7dbec8da3e8a4a086417a1
+Section: 美化
+Description: 文字美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3three.json
+
+Package: com.wkk.snapper32
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.wkk.snapper32_1.0-1_iphoneos-arm64.deb
+Size: 26136
+MD5sum: 3f25e4e6a9596127dd1ee5bac770f066
+SHA1: e193e6727f26425ea0dfe3aa238a5899ece7297f
+SHA256: 77721b6c145c5083119ef7766cd2a62ea2c0675295109e732ff27ffa497f939f
+Section: 美化
+Description: 文字美化。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3three.json
+
+Package: com.wkk.snapper33
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.wkk.snapper33_1.0-1_iphoneos-arm64.deb
+Size: 90824
+MD5sum: 859a9b78a93df6648a27ee11c1c075d9
+SHA1: 88730b2648fe6806219c8a8b8dee2e5a4842dbf0
+SHA256: 477950b132c986eec980aff1130f54f93be0e478d10a9c5bd5bd12f8a0271a84
+Section: 美化
+Description: 发光图标。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
+
+Package: com.wkk.snapper33
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
+Filename: ./debs/com.wkk.snapper33_1.0-1_iphoneos-arm64e.deb
+Size: 91742
+MD5sum: 32cf807cd4433bb78d1e1eee5a300835
+SHA1: 438fd691439536e81a3d14a080384a17585d77f5
+SHA256: 79aa66aad365827318483a364f0131666f489fe00b66f302b3110686156a7c50
+Section: 美化
+Description: 发光图标。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
+Name: Snapper3美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
 
 Package: com.wkk.stella
 Version: 1.1.5
