@@ -11377,6 +11377,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/24/8f2e76ebde0b1b42f3c65b5dd7ebd719.png
 Name: 斗鱼NoAds
 
+Package: com.wkk.down
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.down_1.0-1_iphoneos-arm64e.deb
+Size: 5114
+MD5sum: 0e001278a83ae8f9638e948f9ca8f443
+SHA1: ffd4e46c3ff41877cb15b6efc40d3020f1e9b33a
+SHA256: d88a11fe0d29674b9d9994d46ccd2f3185e8d3d98bb3424a2e7bc6a34113859a
+Section: Tweaks
+Description: 为了解决我的手机不自动锁屏，手机朝下时，自动锁屏。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 小太阳🌼
+
+Package: com.wkk.down
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.down_1.0-1_iphoneos-arm64.deb
+Size: 3704
+MD5sum: d86d1dae7dee5d1131a5a51502ae0fbe
+SHA1: bd56244243b6e5cb22a06e89bfcea01d807706b5
+SHA256: 2b2117268e54576fd9f902b4e06114b8b96afc2d0c86de5c6a9dba3c84a7b0d7
+Section: Tweaks
+Description: 为了解决我的手机不自动锁屏，手机朝下时，自动锁屏。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 小太阳🌼
+
 Package: com.wkk.dualclock2
 Version: 2.0.3
 Architecture: iphoneos-arm64e
@@ -14560,6 +14595,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/02/94b6e500b63de1f90231fd07d93166bc.png
 Name: PikPakNoAds
 
+Package: com.wkk.pkq
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.pkq_1.0-1_iphoneos-arm64e.deb
+Size: 771036
+MD5sum: 1262b0a93aa7de120e5f848f8e52be1f
+SHA1: 8c1766fa995d4b7aa60d616c8b3efadfa18542f9
+SHA256: 73c4d75c18a8c01290f5404250508a7056131592d4955f60a0982b0e551bdb8d
+Section: 美化
+Description: 仅支持无根/隐根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，最后重启Springboard后随便找个插件注销即可看到一个可爱的动态皮卡丘。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
+Name: 皮卡丘注销动画
+
+Package: com.wkk.pkq
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.pkq_1.0-1_iphoneos-arm64.deb
+Size: 771152
+MD5sum: af5dc47cadb6af1d5f42cf09c095a90d
+SHA1: d1db865fd4f0d52dc5845646af59f7e8459d1b78
+SHA256: a4b144abb950291138438cd0987e3913d458364c94c0c2e990a7cef1f90b265a
+Section: 美化
+Description: 仅支持无根/隐根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，最后重启Springboard后随便找个插件注销即可看到一个可爱的动态皮卡丘。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
+Name: 皮卡丘注销动画
+
 Package: com.wkk.ppxwhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -15468,6 +15538,43 @@ Description: 插件设置归类，已汉化。
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
 Name: Shuffle
+
+Package: com.wkk.sileomh
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sileomh_1.0-1_iphoneos-arm64.deb
+Size: 44764
+MD5sum: af18a303ca3416fcdb932933ddd3c622
+SHA1: f3d5d99ea0df7df8a162d346592cc2859d356fbe
+SHA256: 3278987f2d41187fc8ad441145c025582bfae1986bba97d75dda3e6960ce6214
+Section: 美化
+Description: Sileo美化，无根隐根直装。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
+
+Package: com.wkk.sileomh
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sileomh_1.0-1_iphoneos-arm64e.deb
+Size: 46776
+MD5sum: ad47c2a6467d95a03703c04c40780251
+SHA1: 8423411b4c9b07232d706d00046dc238399f6140
+SHA256: 805785ea4c9358e9edb46682f8d059784e3b224e8c405281e0a8b1019f44212f
+Section: 美化
+Description: Sileo美化，无根隐根直装。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo美化
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
 
 Package: com.wkk.smoothcursorios13
 Version: 0.0.1
@@ -17385,6 +17492,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/09/fe8f224bc3aa74a35f57edb499dc0127.png
 Name: 萤石云视频NoAds
 
+Package: com.wkk.zaire
+Version: 0.9.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.zaire_0.9.0_iphoneos-arm64e.deb
+Size: 7200
+MD5sum: 833ecf189f226f3cb8f299515538b6ae
+SHA1: fb744290d57e9a7aca670673d60362d1f1c40375
+SHA256: a284d5bdb0a1e026b809ab392b4b497f0e36f3dc1c1d85283e57968c55e5777d
+Section: Tweaks
+Description: 存储页面中右上角显示已安装的应用程序的数量。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Zaire
+Sponsor: ekk
+
+Package: com.wkk.zaire
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.zaire_0.9.0_iphoneos-arm64.deb
+Size: 5368
+MD5sum: 3df9229ea9925dd2bbb9dba178bad9ec
+SHA1: 699075fe266d416c47b9d1495f5fcc8473685a22
+SHA256: bce00db8b53b7de0449d0151d04f968b7de05515d922f8a61581e53cc4d8ecbb
+Section: Tweaks
+Description: 存储页面中右上角显示已安装的应用程序的数量。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Zaire
+Sponsor: ekk
+
 Package: com.wkk.zdmhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -17523,6 +17665,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/07/05/a5778ca861ddac510494241b6e58cb06.jpeg
 Name: 中国电信NoAds
 
+Package: com.wkk.zhezhao
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: bdzt
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.zhezhao_1.0-1_iphoneos-arm64e.deb
+Size: 1017268
+MD5sum: 0ef8f4d574186155055533a049bfb1dc
+SHA1: 951d890a523b9447f9078bab452f7a461fbbf95e
+SHA256: 987cbf2040d3bb8c19a3c4d5cf7743798d3b597b9f1ee394dea950037fcad99d
+Section: 美化
+Description: 告别求爷爷告奶奶的日子，需要snowboard诸多扩展，立体圆线遮罩/半透立体遮罩/果冻遮罩/雪落遮罩/水墨风遮罩/炫彩遮罩/超级立体遮罩/暗底立体遮罩/全透立体遮罩/原版立体遮罩/全透立体遮罩/原版立体遮罩/水滴遮罩/小水滴遮罩/七彩遮罩/立体圆滑遮罩/反光玻璃遮罩/龟裂遮罩/水晶遮罩/四角玻璃遮罩。
+Author: bdzt
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 18款App🐻罩
+Sponsor: bdzt
+
+Package: com.wkk.zhezhao
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: bdzt
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.zhezhao_1.0-1_iphoneos-arm64.deb
+Size: 1017608
+MD5sum: f28c80642f76591c9a2c68deee60e303
+SHA1: 560b8abdacc3333de59426c4fe8e955170457546
+SHA256: 0ed3d0435e477e3902615919f9a09a7a37399aec4524ea7818470811968f5594
+Section: 美化
+Description: 告别求爷爷告奶奶的日子，需要snowboard诸多扩展，立体圆线遮罩/半透立体遮罩/果冻遮罩/雪落遮罩/水墨风遮罩/炫彩遮罩/超级立体遮罩/暗底立体遮罩/全透立体遮罩/原版立体遮罩/全透立体遮罩/原版立体遮罩/水滴遮罩/小水滴遮罩/七彩遮罩/立体圆滑遮罩/反光玻璃遮罩/龟裂遮罩/水晶遮罩/四角玻璃遮罩。
+Author: bdzt
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 18款App🐻罩
+Sponsor: bdzt
+
 Package: com.wkk.zhihuhook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -17592,6 +17769,41 @@ Description: 去开屏广告，测试版本：10.78.0，接大量冷门热门app
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
 Name: 知乎NoAds
+
+Package: com.wkk.zhuanjixuanzhuan
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0-1_iphoneos-arm64.deb
+Size: 4060
+MD5sum: a8e3c98bfe23edaf78cc5a1462eb98b1
+SHA1: dc509e29cea5d1689bd385aa184533776e3867ca
+SHA256: 62d91b5f20e6df561859304f83912f7c331e1d3cc9642bd010e79aac22648e94
+Section: 美化
+Description: 仅支持ios16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+  * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，最后重启Springboard即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
+Name: 灵动岛音乐专辑旋转
+
+Package: com.wkk.zhuanjixuanzhuan
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0-1_iphoneos-arm64e.deb
+Size: 4012
+MD5sum: 65287d248f853dacc2a2e5c49be244c4
+SHA1: 751a2aee580b2e23ead3c2522e44ea84d739c320
+SHA256: 2af682a5ad0efa3af5318082b7723439e5f09adcb0e7a35365ce7465f99e2c4d
+Section: 美化
+Description: 仅支持ios16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+  * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
+  * 注意：先挂载灵动岛音乐专辑路径再下载此插件，最后重启Springboard即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
+Name: 灵动岛音乐专辑旋转
 
 Package: com.wkk.zslmhook
 Version: 1.0
