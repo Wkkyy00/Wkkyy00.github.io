@@ -14299,6 +14299,41 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/12/27/4a23398f59384c6633e9a0687a9f6d4b.png
 Name: 禁字决
 
+Package: com.wkk.ocd5
+Version: 5.4.1.0
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3 <nfive060@gmail.com>
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd
+Filename: ./debs/com.wkk.ocd5_5.4.1.0_iphoneos-arm64.deb
+Size: 329228
+MD5sum: 38575d32fc94bc8a67c581176f509a82
+SHA1: 3148990b91a276604c9f59ec1468efd823d0c64d
+SHA256: c1058d0122cf1f982054561e43515cdd3437bf3507489514a2a9e6f1fea5dfa4
+Section: Tweaks
+Description: 通知角标的自定义，已加入汉化。
+Author: b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
+Name: OCD5
+
+Package: com.wkk.ocd5
+Version: 5.4.1.0
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3 <nfive060@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd
+Filename: ./debs/com.wkk.ocd5_5.4.1.0_iphoneos-arm64e.deb
+Size: 389204
+MD5sum: 61db9c3fa3ca7db1eb4e1fd780380af9
+SHA1: 0bac547370345aa433318bd43d3f7cbd53bc7721
+SHA256: f3013c7f1e53fd24a6ece63e6f92b8f2f0cd56656b8af564bccf7114337c2894
+Section: Tweaks
+Description: 通知角标的自定义，已加入汉化。
+Author: b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
+Name: OCD5
+
 Package: com.wkk.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64
