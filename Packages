@@ -6680,6 +6680,41 @@ Author: zhaonan <invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: debd（自用）
 
+Package: com.netskao.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64.deb
+Size: 393732
+MD5sum: fdf6d6e3d74ffec8f6ccd7ed97c40dca
+SHA1: 4d9c97b5628e015135aabcd6686eb53ce0321174
+SHA256: 559f4fdd7181cd4831752daf9889f85ee5a589e16e211aa44d838f60bc4ce1fa
+Section: 应用程序
+Description: 全权限砸壳神器。上架备份。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/21/4a33ca43d96d8af81a6a2a5c7aa18993.png
+Name: DumpDecrypter
+
+Package: com.netskao.dumpdecrypter
+Version: 1.5-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64e.deb
+Size: 535518
+MD5sum: c1d0398cbb9d2b3f0a7ed7c82417a84f
+SHA1: 760a8958507188cb2001600c3b5edc27cb1b3b21
+SHA256: c4fc5a0232026dc8c7e623b62d360bf178634c8d3cb4cfce4fa99eafb1727d2e
+Section: 应用程序
+Description: 全权限砸壳神器。上架备份。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/21/4a33ca43d96d8af81a6a2a5c7aa18993.png
+Name: DumpDecrypter
+
 Package: com.netskao.wechatdragdropimages
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -10366,6 +10401,41 @@ Name: wkkCenter
 Sponsor: wkk
 
 Package: com.wkk.ceshi
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ceshi_0.0.1_iphoneos-arm64.deb
+Size: 4132
+MD5sum: 026514db6fe75bb620aa9b17df262a17
+SHA1: ee9ade1246318080024b683dc98cd19bd5e9c5d3
+SHA256: 78791311bc5b2262ff41b8015538616c5e6f380877f534545cbcc25d029623ae
+Section: 美化
+Description: Sileo首页头像旋转。
+Author: liuf <1602389262>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: sileo头像旋转
+
+Package: com.wkk.ceshi
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: liuf
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ceshi_0.0.1_iphoneos-arm64e.deb
+Size: 5548
+MD5sum: d6ed61d414f2ce545d7633c136f8cbca
+SHA1: 4126f16a7721a3d741142179637fcc1e3065201f
+SHA256: c2b39e0622206713844a0fd92b014974ab3ac839d117a65e1c544bc4661dd6d3
+Section: 美化
+Description: Sileo首页头像旋转。
+Author: liuf <1602389262>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: sileo头像旋转
+
+Package: com.wkk.ceshi
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: qwq
@@ -12498,6 +12568,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/10/16c5d5f4cb691ac2573a733f1681f756.png
 Name: 虎扑NoAds
 
+Package: com.wkk.huadong
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.huadong_1.0-1_iphoneos-arm64.deb
+Size: 8224
+MD5sum: d579b48967ee7462a4e4e3762bb8baef
+SHA1: 38adc922ad59c1a0638348c490c4f668fc84ee62
+SHA256: f6792d8999bb99a94fd830a52e3aa441e7b11c503f283ff76f17dd74f7f59bfa
+Section: Tweaks
+Description: 进入系统设置-声音与触感-打开系统触感反馈，随便点🐔哪里都会有震动。
+Author: developlab
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Globaltouchvibration
+Sponsor: wkk
+
+Package: com.wkk.huadong
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.huadong_1.0-1_iphoneos-arm64e.deb
+Size: 10968
+MD5sum: 6ea392437868fdcf4432498fbad5fd14
+SHA1: 49ea11d3e29583c3542fd7cbfe5f474b0043b56c
+SHA256: 850fb13dd2b84590ca33d62c4863b224b9d1f26ba73c7f611de88e8113b776ba
+Section: Tweaks
+Description: 进入系统设置-声音与触感-打开系统触感反馈，随便点🐔哪里都会有震动。
+Author: developlab
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Globaltouchvibration
+Sponsor: wkk
+
 Package: com.wkk.huyahook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -13791,6 +13896,41 @@ Description: 去开屏广告，版本：2.98.0，接大量冷门热门app定制�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/20/054b3d51d5c8b82a205282047a409964.png
 Name: 米游社NoAds
+
+Package: com.wkk.networkmanager
+Version: 1.4.3
+Architecture: iphoneos-arm64e
+Maintainer: k
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.networkmanager_1.4.3_iphoneos-arm64e.deb
+Size: 46094
+MD5sum: 72c9ba3058442320ad2162c08f73204f
+SHA1: 2e45e5152c4bfeb45f1650bfd5a0153f376e86da
+SHA256: a797c97180753be3204653c07b3f29965b7a8b260c14dd1ebe771d5ac2fcf2fa
+Section: Tweaks
+Description: 控制中心切换4G/5G网络，安装后注销去控制中心添加即可。
+Author: NoisyFlake, Nixuge
+Depiction: k
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: NetworkManagerReborn
+
+Package: com.wkk.networkmanager
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: k
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.networkmanager_1.4.3_iphoneos-arm64.deb
+Size: 37680
+MD5sum: c6d32834ed063f4fc99408f7dd6bf854
+SHA1: f3b638d8c6636c0e3ad91015c78fa33be609de22
+SHA256: bd5dd49aa1da0eed43fbc4b4fd19fd4167bf2b78697c8452d65429f5801b8bd8
+Section: Tweaks
+Description: 控制中心切换4G/5G网络，安装后注销去控制中心添加即可。
+Author: NoisyFlake, Nixuge
+Depiction: k
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: NetworkManagerReborn
 
 Package: com.wkk.newterm3
 Version: 1.0-2
