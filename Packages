@@ -97,14 +97,14 @@ Installed-Size: 123
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: cn.Bswbw.fixset
 Filename: ./debs/cn.Bswbw.fixsets_1.1_iphoneos-arm64e.deb
-Size: 36752
-MD5sum: 082cdcbb97c3a4f8537f88c521398823
-SHA1: 3bdc7dd1e3a17058f69cf72263a05812ed0ee150
-SHA256: cc59618b6ea2678b247aaf9932a0988e0e4caf550378bec206ac96d36aac4517
-Section: 插件
+Size: 36764
+MD5sum: 7dc2095af44b31870db365ddeb17fff9
+SHA1: 53e9241668dd5dfc36c95ea6606f7ed529cdf195
+SHA256: 3082e97ab0cf3bc9bbff337454046716ea7785135b6ccf86e3521a2f05a0e561
+Section: Tweaks
 Description: 修复部分插件转RootHide配置不保存问题。
 Author: bswbw
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: FixSet
 
 Package: cn.sunshinesong.split-view-pro
@@ -15439,6 +15439,39 @@ Author: ETHN <ethanwhited2208@gmail.com>
 Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
 Name: StepUp
 Tags: compatible_min::ios13.0, compatible_max::ios16.4
+
+Package: com.wkk.storeswitcher2
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Filename: ./debs/com.wkk.storeswitcher2_1.0.5_iphoneos-arm64.deb
+Size: 17776
+MD5sum: 75f794260365492afd78fd80847aa659
+SHA1: 8cbbe162ee63e7a627c4cbf54a4f735d544f80f1
+SHA256: 33dff20d5492cd545c73d6a128a1b914dec3cea3f36b2cd55b57c53c0e819bbf
+Section: Tweaks
+Description: 商店内头像处点击，快速切换/删除AppStore账号。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher 2
+
+Package: com.wkk.storeswitcher2
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11)
+Filename: ./debs/com.wkk.storeswitcher2_1.0.5_iphoneos-arm64e.deb
+Size: 23102
+MD5sum: ae7e7adca0d50541ec590d9f1bbe72fc
+SHA1: 686ffe76916bedd3f29f3d9f0cab9ab4793b434f
+SHA256: ad3a3688af3412c6ad5f158946d6b59377f7e425c7532eda554d03fc4021544b
+Section: Tweaks
+Description: 商店内头像处点击，快速切换/删除AppStore账号。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher 2
 
 Package: com.wkk.stormsnifferhook
 Version: 1.0-1
