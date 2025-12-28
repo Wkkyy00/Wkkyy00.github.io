@@ -14518,6 +14518,41 @@ Author: shepgoba <arm64.deb@icloud.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SettingsWidgets
 
+Package: com.wkk.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1484
+Depends: com.libcspreferences
+Filename: ./debs/com.wkk.shuffle_1.6.2_iphoneos-arm64.deb
+Size: 260504
+MD5sum: 520f4ecd8c59fb95885b0fad0447efa6
+SHA1: 192340ad2b3490998dc7e018e02a39cf2d0cef29
+SHA256: 24b472f56b71c8cb73ef1d4648ede7493a4eab98f97b93b779e291755e485b16
+Section: Tweaks
+Description: 插件设置归类，已汉化。
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
+Name: Shuffle
+
+Package: com.wkk.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1484
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.libcspreferences
+Filename: ./debs/com.wkk.shuffle_1.6.2_iphoneos-arm64e.deb
+Size: 329740
+MD5sum: fdb532880ab99714f8ba668eb08b4054
+SHA1: 39e5c49d736fefddb64e82abc926a098dd156b28
+SHA256: b7a69f6be55fc98797f5404b2da5ec0c1a2a7cc42fa51d47d58e933842766430
+Section: Tweaks
+Description: 插件设置归类，已汉化。
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
+Name: Shuffle
+
 Package: com.wkk.smoothcursorios13
 Version: 0.0.1
 Architecture: iphoneos-arm64
