@@ -11097,6 +11097,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/24/8f2e76ebde0b1b42f3c65b5dd7ebd719.png
 Name: 斗鱼NoAds
 
+Package: com.wkk.dualclock2
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 3832
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), preferenceloader, com.ginsu.gscore, com.ginsu.comet
+Filename: ./debs/com.wkk.dualclock2_2.0.3_iphoneos-arm64e.deb
+Size: 1135406
+MD5sum: 1dd0dbcfbc4984be5adc862337602982
+SHA1: 5e4a7224ebcb01b99d752015b6ea0949d10991f3
+SHA256: 9f70d92c75b39e83643bfc89ce63b89a358f56dcb52093fabeaf57964c55e58d
+Section: Tweaks
+Description: 锁屏显示两个时间，以便于我在线上监督缅北的办公时间。
+Author: Ginsu
+Icon: https://s1.imagehub.cc/images/2025/02/07/6cd14280a9059e694174bb32f79d51d8.png
+Name: DualClock2
+
+Package: com.wkk.dualclock2
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 3832
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), preferenceloader, com.ginsu.gscore, com.ginsu.comet
+Filename: ./debs/com.wkk.dualclock2_2.0.3_iphoneos-arm64.deb
+Size: 397096
+MD5sum: 5919689b239ce60b196a5bd99a0353b8
+SHA1: 5257720ca7f42aa43de2b6233beacd4e33d971e5
+SHA256: f7f6ba6c41131f2d4f2aa3246d01c642dfd21a2302ebff4082cc6c51d8738d90
+Section: Tweaks
+Description: 锁屏显示两个时间，以便于我在线上监督缅北的办公时间。
+Author: Ginsu
+Icon: https://s1.imagehub.cc/images/2025/02/07/6cd14280a9059e694174bb32f79d51d8.png
+Name: DualClock2
+
 Package: com.wkk.dualswipeshot
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -11485,6 +11520,41 @@ Description: app打开之前图标会动，有很多种设置方式.
 Author: Christopher Anderson
 Icon: https://s1.imagehub.cc/images/2025/01/23/9c5a987da2e0c87f7ba1dbabef0cf03c.png
 Name: Everest
+
+Package: com.wkk.fakesignalbar
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: alias20
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.wkk.fakesignalbar_0.1_iphoneos-arm64e.deb
+Size: 20360
+MD5sum: 5c146dcee85ab859f25532d02df89fec
+SHA1: 7a5f673010cdf798cd6cf12b87b1eb6c3beb914a
+SHA256: 872c828e0e0a32b816d3401c2c8f3cfe0e709f7da3fec07f837fea2da67fc2dc
+Section: Tweaks
+Description: 自定义你的运营商/名字/伪装双卡/信号等等，已汉化。
+Author: alias20
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: FakeSignalBar
+
+Package: com.wkk.fakesignalbar
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.wkk.fakesignalbar_0.1_iphoneos-arm64.deb
+Size: 15420
+MD5sum: 47edd2ac49b196a57a62fd394f481b91
+SHA1: 73746da8a8f3c1d88e4ffa73ae0d37615ebe6a36
+SHA256: 771a219e483f5da3568b1b845f418ccfe8c0622061b3506ff1ae740d6a1d889c
+Section: Tweaks
+Description: 自定义你的运营商/名字/伪装双卡/信号等等，已汉化。
+Author: alias20
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: FakeSignalBar
 
 Package: com.wkk.fanqiehook
 Version: 1.0
@@ -12325,6 +12395,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/04/01/9907d147c9ab5cc57a511ed0496cf4d8.jpeg
 Name: HideIconBadge
 
+Package: com.wkk.hideserialnumber
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.hideserialnumber_1.0-4_iphoneos-arm64.deb
+Size: 58640
+MD5sum: d058cb4ddb83773e26f40e5fa6511997
+SHA1: b85f63ddea4954b2029497aafc728d0d2596ef7f
+SHA256: 82db710c8e7927c85851578acbd8b24d33ddf28436afd0eb912086e449695bfe
+Section: Tweaks
+Description: 自定义序列号机型等多个信息，装逼用。
+Author: ichitaso <qiaozhani000@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: HideSerialNumber
+
+Package: com.wkk.hideserialnumber
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.hideserialnumber_1.0-4_iphoneos-arm64e.deb
+Size: 71746
+MD5sum: 459e26cdfc2e8611c38eadaa803a02d1
+SHA1: 8fc74fc319c8b63d526905640e3aaf3c0941932a
+SHA256: 31f5b5e12e04305aa90a5d8d948cbd973ef01076233e8f2e7590edc44bf5897f
+Section: Tweaks
+Description: 自定义序列号机型等多个信息，装逼用。
+Author: ichitaso <qiaozhani000@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: HideSerialNumber
+
 Package: com.wkk.horizontalsliders
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -12679,6 +12782,43 @@ Author: Geometric Software
 Icon: https://s1.imagehub.cc/images/2025/12/27/ef8224270e0b59a70ff47d7bb0f6f964.png
 Name: IntelligentPass 5
 
+Package: com.wkk.iwanttranslucent
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.iwanttranslucent_0.0.1_iphoneos-arm64e.deb
+Size: 7422
+MD5sum: bdaa615a900f172d6ddfe25f61b61404
+SHA1: fe767b9d540896a059a3ad8649ac06004047ba2f
+SHA256: 1da53a5cd735d03216c39ed09173be6de39fd47cc79850962cdebce9f003b015
+Section: Tweaks
+Description: 一款让你的3Dtouch透明的插件。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 3Dtouch透明
+Sponsor: wkk
+
+Package: com.wkk.iwanttranslucent
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.iwanttranslucent_0.0.1_iphoneos-arm64.deb
+Size: 5576
+MD5sum: 28face2f38525c83c4e1f8984ecd9129
+SHA1: eeab2bb6d0c2641247479e96ef73355f51f0f382
+SHA256: a24cc4c0fa6c0ed3fcf4c84d68a1a3b0012f898c4b67479a4ff95d86318636e9
+Section: Tweaks
+Description: 一款让你的3Dtouch透明的插件。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 3Dtouch透明
+Sponsor: wkk
+
 Package: com.wkk.jdhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -12782,6 +12922,41 @@ Description: 剪贴板（支持范围IOS14-17）
 Author: Alexandra Aurora Göttlicher
 Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
 Name: Kayoko
+
+Package: com.wkk.kbstyle
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 372
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.wkk.kbstyle_1.0_iphoneos-arm64e.deb
+Size: 40920
+MD5sum: 333cdd01a00cc1f99d8a459f54acc539
+SHA1: f4f19187c63402de34d05bba1b577d33ab0849d3
+SHA256: 99a5bfd009d57bee966f5474dedd4b5bd00ba25b7c744f0ff79d19159f2a13cd
+Section: Tweaks
+Description: 自定义微信/原生键盘颜色。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: KBStyle
+
+Package: com.wkk.kbstyle
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.wkk.kbstyle_1.0_iphoneos-arm64.deb
+Size: 35152
+MD5sum: a157a3220c48a87a7c5c994f474d9e99
+SHA1: 42194cac0a9f8e18e420180061fb18ad86a55ea2
+SHA256: 5b31d34e43fb9957f6e390ebfbfc656a33f0f69c32ab0411676f798c48204d0a
+Section: Tweaks
+Description: 自定义微信/原生键盘颜色。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: KBStyle
 
 Package: com.wkk.keyboardhook
 Version: 2.1-3
