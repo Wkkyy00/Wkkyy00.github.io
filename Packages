@@ -14748,6 +14748,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/4108ea149f9397c09ef9cc59c0546c52.png
 Name: QQ音乐NoAds
 
+Package: com.wkk.qqnotiavatar
+Version: 1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Conflicts: com.netskao.qqnotiavatar, netskao.qqnotiavatar
+Filename: ./debs/com.wkk.qqnotiavatar_1.2-2_iphoneos-arm64e.deb
+Size: 36070
+MD5sum: c775196a258c1267d0dd6cec072c38ae
+SHA1: da4140c3b19bb980eb5ba71c1665c8dd0ee31752
+SHA256: 1c09ebca2f796c57502b4140d96c675c18f3e31dda102df9fb582a415a9683c7
+Section: Tweaks
+Description: QQ显示通知头像。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
+Name: QQ通知头像
+
+Package: com.wkk.qqnotiavatar
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Conflicts: com.netskao.qqnotiavatar, netskao.qqnotiavatar
+Filename: ./debs/com.wkk.qqnotiavatar_1.2-2_iphoneos-arm64.deb
+Size: 25652
+MD5sum: ea59414646dbeaae269513c67ffce326
+SHA1: 94ecf276b53237cdcd7b92049a5182adda82d23a
+SHA256: 3aa16bb2cbdce0efc7cfa30fd63f4d2e388ce8127ceec64d6e88c41bb42e46c4
+Section: Tweaks
+Description: QQ显示通知头像。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
+Name: QQ通知头像
+
 Package: com.wkk.qsyyhook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -14913,6 +14948,41 @@ Author: Muirey03 & lclrc
 Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
 Name: RecordAnywhere
 
+Package: com.wkk.recordpause
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.wkk.recordpause_2.0.6_iphoneos-arm64.deb
+Size: 11552
+MD5sum: 9a22ff0f5a429cad50ea8f2371c1ec5b
+SHA1: f5abaa97e0553a8cdf82ad5439e70ca316b9395f
+SHA256: dea0af6685270c95c8ba6a8ed56c7894d4222d14e3ca5b15ba0ed186e2bff468
+Section: Tweaks
+Description: 录制视频时，可以手动暂停/恢复。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: RecordPause
+
+Package: com.wkk.recordpause
+Version: 2.0.6
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.wkk.recordpause_2.0.6_iphoneos-arm64e.deb
+Size: 15388
+MD5sum: 1c3438159d4902fd5019a96a4deb4773
+SHA1: 1fbc162f8e2b88ba84fa39b09e6add4478a1638c
+SHA256: c67e42498eb0f126f25a0242e9b03f2225ee46aba1b64f337aa53ce86c7fc056
+Section: Tweaks
+Description: 录制视频时，可以手动暂停/恢复。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: RecordPause
+
 Package: com.wkk.removewidgetbg
 Version: 2.0
 Architecture: iphoneos-arm64e
@@ -14981,6 +15051,41 @@ Author: Litten
 Icon: https://s1.imagehub.cc/images/2025/12/26/8d4cd6f523a5edc968fb5ce15f8d14f8.png
 Name: Rose 🌹
 
+Package: com.wkk.satella
+Version: 1.9.0-1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Conflicts: com.wkk.satella,xyz.cypwn.satella, emt.paisseon.satella, com.dao.satella.cn
+Filename: ./debs/com.wkk.satella_1.9.0-1_iphoneos-arm64.deb
+Size: 73484
+MD5sum: 29c6ba39557eef42c4bef844838e965a
+SHA1: 1bdade8efe1c577bf42a00e85c2e37bd961fbe8f
+SHA256: 8e1a3ff999d78d8338d85d85eba3aaf27c9a587937cfca9c39c7691c3b9889e6
+Section: Tweaks
+Description: 牛X的本地内购买破解器，已汉化。
+Author: Paisseon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Satella
+
+Package: com.wkk.satella
+Version: 1.9.0-1
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Conflicts: com.wkk.satella,xyz.cypwn.satella, emt.paisseon.satella, com.dao.satella.cn
+Filename: ./debs/com.wkk.satella_1.9.0-1_iphoneos-arm64e.deb
+Size: 94546
+MD5sum: 8952012087996b6077a869ccd76f3adf
+SHA1: 1cb582e9275d26d0882cb4ea74748a6da2fd7074
+SHA256: 080996003c00b5ceeeb51919193881dab2c89fbdf9eec2848fe091dd9f48885f
+Section: Tweaks
+Description: 牛X的本地内购买破解器，已汉化。
+Author: Paisseon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Satella
+
 Package: com.wkk.sdk16.5
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -15015,6 +15120,41 @@ Description: 下载后文件在目录/var/mobile/Documents/iPhoneOS16.5.sdk.tar
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: iPhoneOS16.5.sdk
+
+Package: com.wkk.settingsrevamp
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: SOPPPra
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: ./debs/com.wkk.settingsrevamp_2.1.1_iphoneos-arm64e.deb
+Size: 119192
+MD5sum: 059374b29e7645df7220efade945cd38
+SHA1: e520eeb07322098d680ba723b809e66ea8ec87a5
+SHA256: 98ace2d32774b9baf843fe0851cda0620590d31017b759e2a2d138eae914013d
+Section: Tweaks
+Description: 设置归类插件.
+Author: SOPPPra
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SettingsRevamp
+
+Package: com.wkk.settingsrevamp
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: ./debs/com.wkk.settingsrevamp_2.1.1_iphoneos-arm64.deb
+Size: 97780
+MD5sum: f371fbfa6929bdd583148d68122b6367
+SHA1: d5d356aef60e1b6291e53962de1481b112b4d267
+SHA256: ceee174e1761f30d256e61b62f55802e471a9510291be5d84db70cdcfaea45d0
+Section: Tweaks
+Description: 设置归类插件.
+Author: SOPPPra
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SettingsRevamp
 
 Package: com.wkk.settingswidgets
 Version: 1.2.2
