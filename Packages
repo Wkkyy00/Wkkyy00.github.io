@@ -9152,6 +9152,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA插件配置说明（必看）
 
+Package: com.wkk.aaaaaaaaaa
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaa_1.0-1_iphoneos-arm64.deb
+Size: 972
+MD5sum: f9f83a3616ed5a6bc906625772c955a8
+SHA1: 92f540e1b7781e3f8545654186e04723bd9e49e6
+SHA256: 0d83116bad9634d3da43b8b3127beb71b0e34925a1ccae07d1f2e72e66eda6a7
+Section: 插件配置
+Description: 所有的配置文件下载后均在/var/mobile/Documents目录下（无根隐根都是一样的）下载后自己去翻即可。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAAA插件配置说明（必看）
+
 Package: com.wkk.actionbarreborn
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -15330,6 +15347,42 @@ Description: Remove the background of the widgets on the home screen.
 Author: Lessica <82flex@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
 Name: 移除小组件背景
+
+Package: com.wkk.roothide
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.roothide_1.0-1_iphoneos-arm64e.deb
+Size: 5964
+MD5sum: 5f4c061fb0ee0ab8b3bb933e1c1ff67d
+SHA1: e8750ff14b8497bf8bb59bf43dbbab1d36ff262c
+SHA256: 712205c1a4bae92b4ba481030de9d6dd088af349cd7a875cacdd88bf6ddca60b
+Section: 插件配置
+Description: 挂vpn查看。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 无根转隐根提示残留解决办法
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
+
+Package: com.wkk.roothide
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.roothide_1.0-1_iphoneos-arm64.deb
+Size: 5964
+MD5sum: bc1e3e75495eb55cc2281a3370c83dfe
+SHA1: e0369df4baa5445a5e591f35ee4b4586b158bba1
+SHA256: 4ea50cb2eabe11e4eaaca2ed43e903c36832fa61ea3b9abdead8dfedf822c65e
+Section: 插件配置
+Description: 挂vpn查看。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+Name: 无根转隐根提示残留解决办法
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
 
 Package: com.wkk.rose
 Version: 1.1.0
