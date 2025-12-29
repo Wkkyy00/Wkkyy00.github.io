@@ -18115,12 +18115,12 @@ Version: 1.0-1
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0-1_iphoneos-arm64.deb
-Size: 4060
-MD5sum: a8e3c98bfe23edaf78cc5a1462eb98b1
-SHA1: dc509e29cea5d1689bd385aa184533776e3867ca
-SHA256: 62d91b5f20e6df561859304f83912f7c331e1d3cc9642bd010e79aac22648e94
+Size: 4068
+MD5sum: 5bf6d26ec6af9ba02773618b33cf7d88
+SHA1: 064e34d39407e73241c73a767fdee6ef4c91e78b
+SHA256: b7faf37916a15d3dc6493a2eccec6e8a778bd5f72fd241bb807c4af3d77ac329
 Section: 美化
-Description: 仅支持ios16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
   * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
   * 注意：先挂载灵动岛音乐专辑路径再下载此插件，最后重启Springboard即可。
 Author: wkk
@@ -18133,12 +18133,12 @@ Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.wkk.zhuanjixuanzhuan_1.0-1_iphoneos-arm64e.deb
-Size: 4012
-MD5sum: 65287d248f853dacc2a2e5c49be244c4
-SHA1: 751a2aee580b2e23ead3c2522e44ea84d739c320
-SHA256: 2af682a5ad0efa3af5318082b7723439e5f09adcb0e7a35365ce7465f99e2c4d
+Size: 4024
+MD5sum: 016dfdfd141251597f4b01462f2b8feb
+SHA1: 21a6a09a3590f8a0d6ddcbbdfd79e4c07f94276d
+SHA256: a1aaa65e670e9ec1497e87369c01f4d1c3c5ba10ee1d78bf31ab0faf7e581d07
 Section: 美化
-Description: 仅支持ios16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛音乐专辑变成圆形并且旋转！
   * 灵动岛音乐专辑路径：/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca
   * 注意：先挂载灵动岛音乐专辑路径再下载此插件，最后重启Springboard即可。
 Author: wkk
