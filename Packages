@@ -9549,6 +9549,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/f1023fd8a63f7323cc3bf502e4e91a53.png
 Name: 爱奇艺NoAds
 
+Package: com.wkk.arizona
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 796
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.wkk.arizona_0.9.2_iphoneos-arm64.deb
+Size: 427732
+MD5sum: 9394c05907ff335d3ea97530c96e0901
+SHA1: 04a0a49fc3fa89f1e8b27dec9f3424bd395b0142
+SHA256: d137c21ed1206b742dff44fb333476fa3f76695e05a78e8ac219c02c3e8e11f2
+Section: Tweaks
+Description: 自定义锁屏时间位置，已汉化。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Arizona
+
+Package: com.wkk.arizona
+Version: 0.9.2
+Architecture: iphoneos-arm64e
+Maintainer: Luki
+Installed-Size: 796
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.wkk.arizona_0.9.2_iphoneos-arm64e.deb
+Size: 445804
+MD5sum: d11de44a55edf2e16a5c3cb3004a17d1
+SHA1: 5ae39ac15dea902f500fc7e27c9b0a8f9e925607
+SHA256: ef1ebbb8ff752a8354259c1bad204669eb5667f5b807567af11887f5ab3c2a6f
+Section: Tweaks
+Description: 自定义锁屏时间位置，已汉化。
+Author: Luki
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Arizona
+
 Package: com.wkk.artworkspinner
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -13654,6 +13689,41 @@ Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/01/09/06130549c430dd824cd811789f56a47b.png
 Name: Applecard
 
+Package: com.wkk.lightsout
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Skitty
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.wkk.lightsout_1.2_iphoneos-arm64e.deb
+Size: 70112
+MD5sum: 76b4af60696f295cca54604d216563c9
+SHA1: 61a7e7772f3f732222f8cce578180a3ccf3f58da
+SHA256: d59f82cd80acf22edd75e3ac9b693b9b8f0b621eb37ba4242f767b392fdbfadb
+Section: Tweaks
+Description: 使用光线传感器在黑暗/明亮的场景下自动切换深色模式，已汉化。
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+
+Package: com.wkk.lightsout
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.wkk.lightsout_1.2_iphoneos-arm64.deb
+Size: 56204
+MD5sum: 3e16bb61643eaa3be02bebd7de9a7624
+SHA1: 4537607d616a5a4685b44b64bd3be68734e75743
+SHA256: 1fcb0cded48dca32cf1b010f07de4f863a3a9e3d0e9b44070c69a15e7b2e7174
+Section: Tweaks
+Description: 使用光线传感器在黑暗/明亮的场景下自动切换深色模式，已汉化。
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+
 Package: com.wkk.lockeddnd
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -14645,6 +14715,47 @@ Description: 仅支持无根/隐根越狱
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
 Name: 皮卡丘注销动画
+
+Package: com.wkk.pmp
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 792
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Filename: ./debs/com.wkk.pmp_2.0_iphoneos-arm64.deb
+Size: 54528
+MD5sum: dc5b71b18b56d5eea9c073f6f5168aa2
+SHA1: d31c46e9cdadc535665ff6179db523445e2e560f
+SHA256: 353eb6b4c9129edba488d5e14eb4a9111f53266122e2fdb8f7a5077210d50cd3
+Section: Tweaks
+Description: 控制中心开启，一键隐藏所有照片，不要开启频繁/太快，会有微小bug。
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios17.8
+Author: iKarwan <ikghd3@gmail.com>
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+Name: PMP
+
+Package: com.wkk.pmp
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Filename: ./debs/com.wkk.pmp_2.0_iphoneos-arm64e.deb
+Size: 62068
+MD5sum: 88caffbe931853b3fa7d3bf0defc1cb8
+SHA1: 6124332a48de32b3292bca7e708c0e486d3416c1
+SHA256: be844e741e727a6c157ac840c7478a9e7744ab78fe0a9b994969632f95d9533a
+Section: Tweaks
+Description: 控制中心开启，一键隐藏所有照片，不要开启频繁/太快，会有微小bug。
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios17.8
+Author: iKarwan <ikghd3@gmail.com>
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+Name: PMP
 
 Package: com.wkk.ppxwhook
 Version: 1.0-1
@@ -18282,6 +18393,46 @@ Description: 配合解压car使用，用于提取Assets.car
 Author: Elias Limneos <limneoselias@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: uncar
+
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1724937362.2952e67
+Architecture: iphoneos-arm64
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64.deb
+Size: 3411212
+MD5sum: acf28c9f966eb88928b2796e038dd2ba
+SHA1: e13a23efd71eb379f8292eaafd3a97578b8adead
+SHA256: 1b5dafe0894ac713f29a12c9927287709da674d59bb133dc6eb7c419b74f4122
+Section: 应用程序
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: 越狱商店saily
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1724937362.2952e67
+Architecture: iphoneos-arm64e
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1724937362.2952e67_iphoneos-arm64e.deb
+Size: 8664446
+MD5sum: 6c85b2bc63e6a585f5a95c7e6a6a2e23
+SHA1: d5df8cae59f92107120417c41cc63c0084214c3a
+SHA256: 54b2d20eb2bbece27b74465ca2cfdbc2f4ab644a41e83a174916cbe682e9dd45
+Section: 应用程序
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: 越狱商店saily
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: Saily
+Website: https://sailyteam.github.io/Saily/index.html
 
 Package: ws.hbang.newterm3
 Version: 3.0~beta1-1042+debug
