@@ -10557,6 +10557,40 @@ Icon: https://s1.imagehub.cc/images/2025/12/29/79018e0c97a38b0c2da262e3bf40edb1.
 Name: CCswitchdata
 Sponsor: wkk
 
+Package: com.wkk.ccweathermodule
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 380
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.ccweathermodule_1.0.2_iphoneos-arm64.deb
+Size: 88128
+MD5sum: d881a3f69fac99ff334e9209f6765fc4
+SHA1: e9b5f8c2c48bac451d34db6ec84f79fbbe15e7d1
+SHA256: c1e458b69c013e088583180c1aea2f8f8090ceb5bc615fed85b309c2b491d59c
+Section: Tweaks
+Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
+Author: simon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CCWeather Module
+
+Package: com.wkk.ccweathermodule
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: simon
+Installed-Size: 444
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.wkk.ccweathermodule_1.0.2_iphoneos-arm64e.deb
+Size: 95896
+MD5sum: c9c33af14d8d3b9352f841666756fe49
+SHA1: 401727fc5905550be5672393e4b858bdf0d8ac51
+SHA256: c5f1788c73462e5f7213a6923b20e773dbdab3b93afcc67cb5b5b42ec9900b17
+Section: Tweaks
+Description: 控制中心的天气模块。显示当前天气、温度和每小时预报。
+Author: simon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CCWeather Module
+
 Package: com.wkk.center
 Version: 1.1-1
 Architecture: iphoneos-arm64
