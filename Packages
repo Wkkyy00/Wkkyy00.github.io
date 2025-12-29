@@ -14716,6 +14716,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
 Name: 相册优化
 
+Package: com.wkk.picturemodule
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 4nni3 <kk99588077@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport, oldabi
+Conflicts: com.4nni3.picturemodule
+Filename: ./debs/com.wkk.picturemodule_1.2_iphoneos-arm64.deb
+Size: 6273360
+MD5sum: e873421d002fdad94d9bf7c462f1d86f
+SHA1: 9dafee2aa32a47a00acde34d7f50b489ea32b023
+SHA256: ce3926c70e81149261873c4847edc2d897abf88319777c68098167aceab6595d
+Section: Tweaks
+Description: 用照片/视频和小部件装饰控制中心模块。
+Author: 4nni3 <kk99588077@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: PictureModule
+
+Package: com.wkk.picturemodule
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 4nni3 <kk99588077@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport, oldabi
+Conflicts: com.4nni3.picturemodule
+Filename: ./debs/com.wkk.picturemodule_1.2_iphoneos-arm64e.deb
+Size: 22862438
+MD5sum: 995a913ec349e2971df334d1e7c75f16
+SHA1: bf72adb8f12d25673b3a47bf37c38e3a22a67a53
+SHA256: 45fa684f30e3edf3d3a38a259aa1df6fee85d4ea153c2314412f4a6f0c647c84
+Section: Tweaks
+Description: 用照片/视频和小部件装饰控制中心模块。
+Author: 4nni3 <kk99588077@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: PictureModule
+
 Package: com.wkk.pkpkhook
 Version: 1.0
 Architecture: iphoneos-arm64
