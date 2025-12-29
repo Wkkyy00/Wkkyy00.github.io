@@ -810,24 +810,6 @@ Author: Mao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信插件管理
 
-Package: com.25mao.wxurlexpand.rootless
-Version: 0.2-0
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.wxurlexpand.rootless_0.2-0_iphoneos-arm64.deb
-Size: 34000
-MD5sum: b3e0d3f53ccad0fbf9d3b6d8ef83534b
-SHA1: 29fc8d7b4ae3d250ec3b0754b7208e33a2bfdb2b
-SHA256: 286c2cc9124da32f513b70913f372e04e9b5fd58c783eccc4bb23c0cd20e7cbd
-Section: 微信插件
-Priority: optional
-Description: 扩展微信URLScheme接口，方便从外部调用。
-Author: Mao
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: 微信URL扩展
-Sponsor: admin@25mao.com
-
 Package: com.HBWechatHelper.ailun
 Version: 1.7-8
 Architecture: iphoneos-arm64
@@ -6855,41 +6837,6 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatNotiAvatar
 
-Package: com.netskao.wechatuiswitchloader
-Version: 1.1-4
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 320
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-4_iphoneos-arm64.deb
-Size: 121068
-MD5sum: 45dd014544c34d6b69d083c0cc9547ea
-SHA1: 86ac33af08f1be17ebb595920f86e73d39d52f9a
-SHA256: 22ec7b530b63800e645ca48f625fd80be391d6abbed990b1b27437192a644830
-Section: 微信插件
-Description: 皮卡丘按钮
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
-Name: WeChatUISwitchLoader
-Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
-
-Package: com.netskao.wechatuiswitchloader
-Version: 1.1-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 304
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-5_iphoneos-arm64.deb
-Size: 119372
-MD5sum: 634b6345b2da3b493b0a1233421dc5fa
-SHA1: 26496bdc2f16c66390ebe3ad6c83f959f90d4143
-SHA256: a500c0f57fce632c8987e0d8fb2f3069e74f25a23b9292772405d1b56c1692ae
-Section: 微信插件
-Description: 微信按钮。默认皮卡丘。
-Author: Netskao
-Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
-Name: WeChatUISwitchLoader
-
 Package: com.picsewpro
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -7686,74 +7633,6 @@ Description: Picta适配 Snapper3 的插件
 Author: SuSu
 Icon: https://s1.imagehub.cc/images/2025/12/13/f934f840753cc376919f03e706ab50ab.png
 Name: Picta
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.wcfrostedglass_1.0.3_iphoneos-arm64.deb
-Size: 5076
-MD5sum: c3a12f5584e790bc4cc06d0b4b85c39a
-SHA1: 9628a58f909cf3c3dd89c69d6daed2d1b1e2bfe2
-SHA256: 416b9d521e04de22b8445d6961d4403bf9fbfb48c7839f82627927ab69f70429
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
-Name: SuWCFrostedGlass
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.wcfrostedglass_1.0.4_iphoneos-arm64.deb
-Size: 5400
-MD5sum: c168877e0b448d68badca7b70b069da6
-SHA1: 8eed9d7baa689c97f5fd532caf4f30f5e216555c
-SHA256: e412f28e6c6d0a6e00911707a58ffafe31488dc5b80359d2ee1735f4852ae0c7
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
-Name: SuWCFrostedGlass
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.4-2
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.wcfrostedglass_1.0.4-2_iphoneos-arm64.deb
-Size: 4476
-MD5sum: 5cd93e369310ed4209acba48584a36f6
-SHA1: b50baa4bbe68ab2369f36440c7a0750c15133541
-SHA256: 129317dc437217233b581abcb9a0035187c21c53fd51d1beffe2b00c9aa2a056
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
-Name: SuWCFrostedGlass
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: 苏苏
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.susu.wcfrostedglass_1.0.5_iphoneos-arm64.deb
-Size: 4888
-MD5sum: 373e0a77dc19ce8fb5002cf1c4bee664
-SHA1: dc4575143c1a9c4a40931cbd8ea894867ffcbe4c
-SHA256: 1638b02f4ed0cea9c044c2e83ccd8ab535e8afb95c94f5e13c5031ebd3c3bc6c
-Section: 微信插件
-Description: 微信界面上下添加毛玻璃效果，作者源：https://susubaby.top/0107/
-Author: 苏苏
-Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
-Name: SuWCFrostedGlass
 
 Package: com.tencent.themebox
 Version: 1.0.8-1
@@ -10345,6 +10224,24 @@ Author: fiore
 Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
 Name: CCBorder15
 
+Package: com.wkk.ccborder15
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.wkk.ccborder15_1.1.2_iphoneos-arm64e.deb
+Size: 18946
+MD5sum: 557f486f068a38ea811275ec209d7ec0
+SHA1: 3008d30a4481b1627ced73b021ea3575cdf71e54
+SHA256: 683f9c1ac98f0cb9dc7489ce22cf3470fb05f092bf673966c47a1cf8a1ed8067
+Section: 插件
+Description: 不支持iOS16！iOS16用源里的另一款。类似iOS18样式的控制中心。
+Author: fiore
+Icon: https://s1.imagehub.cc/images/2025/01/21/b5fcd38fb9f974d8467fc93c3aa7902f.png
+Name: CCBorder15
+
 Package: com.wkk.cccellularrate
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -12249,6 +12146,41 @@ Description: 为灵动岛设备添加特效动画，也可以对原生通知进�
 Author: SHTM
 Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
 Name: FlexibleExpression
+
+Package: com.wkk.freepip
+Version: 0.0.3-1
+Architecture: iphoneos-arm64e
+Maintainer: Soh Satoh
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.freepip_0.0.3-1_iphoneos-arm64e.deb
+Size: 8410
+MD5sum: 77a2e6abcfbed44d444a259a16d5ef52
+SHA1: e4032710a7121355b3394eebcd720e54d6bcd958
+SHA256: ebf1d3f3f4672d2c912da335c9b5d4ac8f91bd4fb130cc338a66009df0e0cde8
+Section: Tweaks
+Description: 解锁画中画限制，双指随意放大，无设置项。
+Author: Soh Satoh
+Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
+Name: FreePIP
+
+Package: com.wkk.freepip
+Version: 0.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.freepip_0.0.3-1_iphoneos-arm64.deb
+Size: 6384
+MD5sum: 86923bfd881ec0ddf6440da3c4c62148
+SHA1: e98530ebd997fc337c9353e059277615a2564b37
+SHA256: a233ee9d153f83701c80f407650df3925b0733c74a1f1461fa2a7e29c2c2f1ff
+Section: Tweaks
+Description: 解锁画中画限制，双指随意放大，无设置项。
+Author: Soh Satoh
+Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
+Name: FreePIP
 
 Package: com.wkk.ftpz
 Version: 1.0
@@ -16606,6 +16538,41 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: Upsidedowned
 Sponsor: wkk
 
+Package: com.wkk.wcfrostedglass
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wcfrostedglass_1.0.5_iphoneos-arm64.deb
+Size: 4864
+MD5sum: 3e8445cee2ee02a4b97ccfb6f692514c
+SHA1: 84e3e724850752b233b66bf0cf514f3455f5e66c
+SHA256: 99f312b508aab317ec6a511b8009548ba1804e8df799d52ce361e47f74a990b2
+Section: 微信插件
+Description: 微信界面上下添加毛玻璃效果。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: SuWCFrostedGlass
+
+Package: com.wkk.wcfrostedglass
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wcfrostedglass_1.0.5_iphoneos-arm64e.deb
+Size: 6500
+MD5sum: f4a74e64e365cf0f2e9b0523cc40c72a
+SHA1: f8e3dcec9e6242ab98974d4321d560bf82b7982b
+SHA256: dff66359dd52d69839748e2e37d13130c3c767e2c0bbde35b6983e4ab41fec51
+Section: 微信插件
+Description: 微信界面上下添加毛玻璃效果。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: SuWCFrostedGlass
+
 Package: com.wkk.wctimelinereplacefind
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -16675,6 +16642,41 @@ Description: 去开屏广告，版本：7.9.29，接大量冷门热门app定制�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/10/5ebea7df2da0fc778720cf25653e5053.png
 Name: 微店NoAds
+
+Package: com.wkk.wechatuiswitchloader
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 304
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.wechatuiswitchloader_1.1-5_iphoneos-arm64.deb
+Size: 119240
+MD5sum: a56abcb0b4836787a23584e9834c62db
+SHA1: a38c6a5c342671e348e5329f8de04eb4989590b8
+SHA256: c4d3544f7b9a96717048073a560b41d98a8de406cc7e76dadf0aacaaaed8f5f9
+Section: 微信插件
+Description: 微信按钮，默认皮卡丘。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
+Name: WeChatUISwitchLoader
+
+Package: com.wkk.wechatuiswitchloader
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.wechatuiswitchloader_1.1-5_iphoneos-arm64e.deb
+Size: 151106
+MD5sum: 01b6a15ac2224e333674eda1c11708be
+SHA1: 02911a29f66df5e1743374d5e5b37c9f5640f458
+SHA256: 1ac6557d4c83abed181d3db725784172f14d0f795678ce106ab73d2ef85e0fbd
+Section: 微信插件
+Description: 微信按钮，默认皮卡丘。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.png
+Name: WeChatUISwitchLoader
 
 Package: com.wkk.weibohook
 Version: 1.0
@@ -16903,6 +16905,51 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
 Name: 语音转文字免跳转
+
+Package: com.wkk.wxurlexpand
+Version: 0.2-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.wxurlexpand_0.2-0_iphoneos-arm64.deb
+Size: 34236
+MD5sum: b9f2043c711cb39c369cd90abc44f61d
+SHA1: bea8568d38d36312b47a23b16475a463f20e9aa1
+SHA256: 49d750eb4c4f87fffad16d6e62c21fac7b97a304340ca8a0ecbb6048cdff2e8e
+Section: 微信插件
+Priority: optional
+Description: * 扩展微信URLScheme接口，方便从外部调用，添加以下接口
+ * 发送消息 weixin://aiwmao/user=用户/群id&msg=消息内容，多个用户使用#分开
+ * 打开聊天框 weixin://aiwmao/chat=用户/群id
+ * 打开小程序 weixin://aiwmao/weapp=小程序原始id
+ * 打开网页 weixin://aiwmao/url=网页链接
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信URL扩展
+Sponsor: admin@25mao.com
+
+Package: com.wkk.wxurlexpand
+Version: 0.2-0
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.wxurlexpand_0.2-0_iphoneos-arm64e.deb
+Size: 45090
+MD5sum: 874b8e647e4e27d9959b25e58b64a6dd
+SHA1: fbe305bcab623fef232100cd97f93af96043ca0e
+SHA256: fed5ae02f69cad16a0124e258b4fb737fa5cdb1baae473943a47c8790375d415
+Section: 微信插件
+Priority: optional
+Description: * 扩展微信URLScheme接口，方便从外部调用，添加以下接口
+ * 发送消息 weixin://aiwmao/user=用户/群id&msg=消息内容，多个用户使用#分开
+ * 打开聊天框 weixin://aiwmao/chat=用户/群id
+ * 打开小程序 weixin://aiwmao/weapp=小程序原始id
+ * 打开网页 weixin://aiwmao/url=网页链接
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信URL扩展
+Sponsor: admin@25mao.com
 
 Package: com.wkk.wyxwhook
 Version: 1.0-2
@@ -18353,23 +18400,6 @@ Section: Tweaks
 Description: Develop your own tweaks and share them on the Flex Community Cloud. (dopamine 版本flex3可解析应用，不用兼容层，粗体会闪退,建议正在学习或者会做补丁者使用(已知点击应用补丁列表不可以，需要搜索) Roothide
 Author: John Coates <xuanhua880@gmail.com>
 Name: Flex3 Beta
-
-Package: jp.soh.freepip
-Version: 0.0.3-1
-Architecture: iphoneos-arm64
-Maintainer: Soh Satoh
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/jp.soh.freepip_0.0.3-1_iphoneos-arm64.deb
-Size: 6356
-MD5sum: 98a8c2e324154ee66650c061297cfe66
-SHA1: d2f387ffe89da8204ef3e3d72517207b053bb5c0
-SHA256: d929e4f0700732ac64aa0dab546a1a482db99dc29f0690910cc75b3bf73dc47e
-Section: 插件
-Description: 解锁画中画限制，双指随意放大，无设置项。
-Author: Soh Satoh
-Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
-Name: FreePIP
 
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.3
