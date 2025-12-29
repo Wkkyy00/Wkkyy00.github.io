@@ -11377,41 +11377,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/24/8f2e76ebde0b1b42f3c65b5dd7ebd719.png
 Name: 斗鱼NoAds
 
-Package: com.wkk.down
-Version: 1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.wkk.down_1.0-1_iphoneos-arm64e.deb
-Size: 5114
-MD5sum: 0e001278a83ae8f9638e948f9ca8f443
-SHA1: ffd4e46c3ff41877cb15b6efc40d3020f1e9b33a
-SHA256: d88a11fe0d29674b9d9994d46ccd2f3185e8d3d98bb3424a2e7bc6a34113859a
-Section: Tweaks
-Description: 为了解决我的手机不自动锁屏，手机朝下时，自动锁屏。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 小太阳🌼
-
-Package: com.wkk.down
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.wkk.down_1.0-1_iphoneos-arm64.deb
-Size: 3704
-MD5sum: d86d1dae7dee5d1131a5a51502ae0fbe
-SHA1: bd56244243b6e5cb22a06e89bfcea01d807706b5
-SHA256: 2b2117268e54576fd9f902b4e06114b8b96afc2d0c86de5c6a9dba3c84a7b0d7
-Section: Tweaks
-Description: 为了解决我的手机不自动锁屏，手机朝下时，自动锁屏。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 小太阳🌼
-
 Package: com.wkk.dualclock2
 Version: 2.0.3
 Architecture: iphoneos-arm64e
