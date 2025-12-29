@@ -17387,6 +17387,43 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/21/c37d7656c9be6ad0b7c7cdee716e7e1b.png
 Name: 小桔充电hook
 
+Package: com.wkk.xly
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.xly_1.0-1_iphoneos-arm64e.deb
+Size: 37880
+MD5sum: d4e61c73ddb101583729d3355eb123e6
+SHA1: e3264bdc476f5e93f59ae452beb29b506c34f308
+SHA256: c8e023286d72010ea0f79d7e1e8cc8bb9caefc208c392843ded615f7c718d6d5
+Section: 美化
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛录屏变成写轮眼！
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 注意：先挂载路径再下载此插件，最后重启Springboard即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/30/d4c66f162988cbda1fe9e73e896929f4.jpeg
+Name: 录屏写轮眼
+
+Package: com.wkk.xly
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Filename: ./debs/com.wkk.xly_1.0-1_iphoneos-arm64.deb
+Size: 37892
+MD5sum: a86d6bd312ba81923017b250bdba21b7
+SHA1: 794eda0aef7067aac886579d0a4f5405ae9f530f
+SHA256: a1b822491c310a66de38b41ad69353be54d987ecbd966f41efb78279de0df76b
+Section: 美化
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛录屏变成写轮眼！
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 注意：先挂载路径再下载此插件，最后重启Springboard即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/30/d4c66f162988cbda1fe9e73e896929f4.jpeg
+Name: 录屏写轮眼
+
 Package: com.wkk.xxautoskip
 Version: 1.0.4
 Architecture: iphoneos-arm64
