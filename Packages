@@ -13290,6 +13290,42 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
 Name: 煎蛋NoAds
 
+Package: com.wkk.kaiguan
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0-1_iphoneos-arm64e.deb
+Size: 3277776
+MD5sum: 157c49716cb2921efe7f613b30e2b7a0
+SHA1: f2a033e5e59a28bc9e0d5234dbbee1e6f12130e3
+SHA256: 2c81dc61d79f40760cc8c273f92626985e80aa27602b61ff5035d949e30d37e7
+Section: 美化
+Description: 50多款开关大集合，无/隐根直装，告别四处求爷爷告奶奶的日子。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: 滑雪板开关集合
+Sponsor: wkk
+
+Package: com.wkk.kaiguan
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.masks, com.spark.snowboard.effects
+Filename: ./debs/com.wkk.kaiguan_1.0-1_iphoneos-arm64.deb
+Size: 3277864
+MD5sum: 8e94330645d0701975fa5a24bfaed00d
+SHA1: 841f8b484118d919b9ee9d4ff8e960f470addc82
+SHA256: 85f5476b5af3fae7f2bf72260af96ae843b8045e2196243374e09be8f8d23b12
+Section: 美化
+Description: 50多款开关大集合，无/隐根直装，告别四处求爷爷告奶奶的日子。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/21/f6fc596574b95a93ba343da65e2e6964.png
+Name: 滑雪板开关集合
+Sponsor: wkk
+
 Package: com.wkk.kayoko
 Version: 3.0
 Architecture: iphoneos-arm64
