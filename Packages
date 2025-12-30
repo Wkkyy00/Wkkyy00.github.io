@@ -15082,6 +15082,40 @@ Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.
 Name: Snapper3美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
 
+Package: com.wkk.springboardanimation
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.springboardanimation_1.0-1_iphoneos-arm64e.deb
+Size: 3276
+MD5sum: 35273f0bcbbc03b18df0687b6fb310bb
+SHA1: 2586d05712c196f7d7e1f4da8336b286374a37e4
+SHA256: 80acdc7402e5f565afce0bcc211f8eb05f76cbca01ab32939b1e8540238faa0c
+Section: Tweaks
+Description: 返回桌面及切换后台动画进行一定比例的缩放，双0.1模式。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 神奇的交互动画
+
+Package: com.wkk.springboardanimation
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.springboardanimation_1.0-1_iphoneos-arm64.deb
+Size: 3132
+MD5sum: 1e9c1c325f347d2d18319348ed037bc4
+SHA1: a2d789142539974adffa1ace91cd0bf56231a6b4
+SHA256: e61ee33f706369eda9aded07c00616e29e5b32390a4fa9653cdfda2277e336bc
+Section: Tweaks
+Description: 返回桌面及切换后台动画进行一定比例的缩放，双0.1模式。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 神奇的交互动画
+
 Package: com.wkk.stella
 Version: 1.1.5
 Architecture: iphoneos-arm64
