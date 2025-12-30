@@ -16418,6 +16418,50 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/cdf64e516d0fb0f51be2a24f4385f2cd.png
 Name: 小蚕惠生活NoAds
 
+Package: com.wkk.xgj
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xgj_1.0-1_iphoneos-arm64.deb
+Size: 43500528
+MD5sum: ab08a9e22e0796b25a1c6b8999b594a5
+SHA1: 3f8d4628283aaba68058b48d88e12c3e429b2f88
+SHA256: 5799389648916988d4a1d57127cc3fa6b1f43d65ce239da2a360e15df89636de
+Section: 插件配置
+Description:
+  * 图片：格式转换/压缩/缩放/压缩到指定大小/实况照片转MP4
+  * GIF/动图：视频转GIF/实况照片转GIF/GIF转MP4/提取照片
+  * 视频：转MP4/压缩/压缩到指定大小/提取照片/提取音频
+  * 音频：格式转换/裁剪/连接
+  * PDF：转PDF
+  * 解压/压缩：解压/压缩
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/31/5916dbb2d686b17e286fb6cc7780c5fa.jpeg
+Name: 小工具集.IPA（TrollStore安装）
+
+Package: com.wkk.xgj
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.xgj_1.0-1_iphoneos-arm64e.deb
+Size: 43500528
+MD5sum: 941b9997e4a06c8ed5ca32590230896f
+SHA1: 983252bd9635d0ecae0a17c10fc87009ce463e35
+SHA256: 88fa6e74b81b8d7d988ee40463cb64ec649c14b4b89e48736f7099a96fa5e2f0
+Section: 插件配置
+Description:
+  * 图片：格式转换/压缩/缩放/压缩到指定大小/实况照片转MP4
+  * GIF/动图：视频转GIF/实况照片转GIF/GIF转MP4/提取照片
+  * 视频：转MP4/压缩/压缩到指定大小/提取照片/提取音频
+  * 音频：格式转换/裁剪/连接
+  * PDF：转PDF
+  * 解压/压缩：解压/压缩
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/31/5916dbb2d686b17e286fb6cc7780c5fa.jpeg
+Name: 小工具集.IPA（TrollStore安装）
+
 Package: com.wkk.xhshook
 Version: 1.1.6-8
 Architecture: iphoneos-arm64
