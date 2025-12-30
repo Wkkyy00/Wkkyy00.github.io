@@ -13411,6 +13411,38 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://s1.imagehub.cc/images/2025/12/25/f80733f286faa3e95704c3fcd17d7dfb.png
 Name: NewTerm 3
 
+Package: com.wkk.ng
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.ng_1.0-1_iphoneos-arm64.deb
+Size: 135800
+MD5sum: 07cb0f0c4121a6203cf9b701e5b9debb
+SHA1: b86a62707ce2e9d1e3574c73b25474ead147557e
+SHA256: 770895cc69b500f8edabfffccb8f493d10f678e7191981c9aaee0374d36b052d
+Section: 插件配置
+Description: 下载后注入本地验证的App随后点🐔购买。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP内购破解（TrollFools注入）
+
+Package: com.wkk.ng
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.ng_1.0-1_iphoneos-arm64e.deb
+Size: 135800
+MD5sum: 3949981cfa312f071e782dcb650fe1b9
+SHA1: 79768f6b349be4e19cba2457b1bc3e0d75cd6801
+SHA256: a6e8e4624ee1144ce575f0214b126127b974c9299ea9c4125125b024327b993a
+Section: 插件配置
+Description: 下载后注入本地验证的App随后点🐔购买。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP内购破解（TrollFools注入）
+
 Package: com.wkk.nochargingsound
 Version: 1.0-1
 Architecture: iphoneos-arm64
