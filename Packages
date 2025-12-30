@@ -6323,71 +6323,6 @@ Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信自动领取私聊红包
 
-Package: com.skypain.flexloader
-Version: 5.25.19-1
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 3080
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.skypain.flexloader_5.25.19-1_iphoneos-arm64.deb
-Size: 934908
-MD5sum: ad8f615cdbef299a0199cdd93d18ddf4
-SHA1: a3be05be8a704cc174f3f62f3201b9da1e209e9f
-SHA256: 7ed6a5417c95fddd946ef67e8e8e0ffd2adf9c499678586aac12fc166f6dca45
-Section: Tweaks
-Description: Flex 用于 iOS 开发调试工具
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Name: FlexLoader
-
-Package: com.skypain.flexloader
-Version: 5.25.19-1
-Architecture: iphoneos-arm64e
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 3080
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.skypain.flexloader_5.25.19-1_iphoneos-arm64e.deb
-Size: 935244
-MD5sum: 89aa6ba30709d7a5d33a4ecb6f5ff93c
-SHA1: 0d4942f3ed694998a5d7d524e7948b02c3d4e491
-SHA256: 6c70149fc1d8d3221e54b4eb73852632443abae1eed72e9e5ed9e1903eb53c68
-Section: Tweaks
-Description: Flex 用于 iOS 开发调试工具
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Name: FlexLoader
-
-Package: com.skypain.lookinloader
-Version: 1.2.8-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 4332
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.skypain.lookinloader_1.2.8-2_iphoneos-arm64.deb
-Size: 611378
-MD5sum: 9a508705392f108fe09fca2423c5f781
-SHA1: 02253cdc6d3fe904c828722070fafbc358af2ca0
-SHA256: 11f10c43b08482adae2f97a3e0b2690a993358e96c38f9bbd4c67420edf5fdc3
-Section: Tweaks
-Description: Lookin UI调试工具
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Name: LookinLoader
-
-Package: com.skypain.lookinloader
-Version: 1.2.8-2
-Architecture: iphoneos-arm64e
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 4332
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.skypain.lookinloader_1.2.8-2_iphoneos-arm64e.deb
-Size: 1563250
-MD5sum: 41158c0e2dc5e46daf7748c165261699
-SHA1: aa32dc420c0850c9f9cb689b250f1f44b65dca26
-SHA256: b29d5f976ca07145782fbf1141e8a8b1f870ace5c0ac38eb8236c95b3de99342
-Section: Tweaks
-Description: Lookin UI调试工具
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Name: LookinLoader
-
 Package: com.squidforce.snapper3.plugins
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -11189,6 +11124,40 @@ Author: SHTM
 Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
 Name: FlexibleExpression
 
+Package: com.wkk.flexloader
+Version: 5.25.19-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 3080
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.wkk.flexloader_5.25.19-1_iphoneos-arm64e.deb
+Size: 673108
+MD5sum: b4a97938f5ddc76961cf76b188e08b29
+SHA1: 9acfcfc6620b8c37b57d61f55f7ca7f36155a8c9
+SHA256: d298614a202f5ccc52b6a3352193065597e2ec314886c799e4516442fe84bf33
+Section: Tweaks
+Description: Flex 用于 iOS 开发调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/31/dc50cf5977b8b5502232a056025273e3.png
+Name: FlexLoader
+
+Package: com.wkk.flexloader
+Version: 5.25.19-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 3080
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.wkk.flexloader_5.25.19-1_iphoneos-arm64.deb
+Size: 671236
+MD5sum: 0fbd9911592fb5b5715157e2ca5133ad
+SHA1: 79b7ba1daa793c72eab071ac680aafa73ff0d952
+SHA256: 8a829bebc7d9fb2bf2db96a7ed50af803c8b46e3aef1113f8e8e09984a42fc2b
+Section: Tweaks
+Description: Flex 用于 iOS 开发调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/31/dc50cf5977b8b5502232a056025273e3.png
+Name: FlexLoader
+
 Package: com.wkk.floatingdockxvi
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -12906,6 +12875,41 @@ Description: 隐藏锁屏音乐控件。z神的插件已经失效，亲手做了
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/03/26/e30c13abda043be281eed1b5e690023c.png
 Name: HideLockMusic
+
+Package: com.wkk.lookinloader
+Version: 1.2.8-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 4332
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.wkk.lookinloader_1.2.8-2_iphoneos-arm64.deb
+Size: 525328
+MD5sum: 7d101251b791ccaf54591979fa575797
+SHA1: 65d3460333e78a3fc2e1cb7f0db6b9c43f279cc3
+SHA256: 5ada175421891d9b0b3dc5280fcc74fb780606d0d7dd3a5d09c71da8de769a5d
+Section: 应用程序
+Description: Lookin UI调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
+Name: LookinLoader
+
+Package: com.wkk.lookinloader
+Version: 1.2.8-2
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 4332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.wkk.lookinloader_1.2.8-2_iphoneos-arm64e.deb
+Size: 531052
+MD5sum: 2f99217a6f7462434c99001d91ee7ce0
+SHA1: 9b95700458f3281f36a8e2164d2b801853b03848
+SHA256: 68abdaf89554354ad589d694d954090bfd8eae7b84abc7cd9b96c5d710db3268
+Section: 应用程序
+Description: Lookin UI调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
+Name: LookinLoader
 
 Package: com.wkk.lstimeseconds16
 Version: 1.0-1
