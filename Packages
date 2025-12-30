@@ -10173,6 +10173,45 @@ Depiction: https://havoc.app/package/carbridge
 Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
 Name: CarBridge
 
+Package: com.wkk.cask3
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 840
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Filename: ./debs/com.wkk.cask3_1.0.3_iphoneos-arm64e.deb
+Size: 336232
+MD5sum: 1873baaf5fadc34f29ce26be1917aed8
+SHA1: 2d5d68070f54b006cc5738f82fa80fbe7b64548b
+SHA256: 0aad21de100166c25375780f2481d2b18c5744ff4c1e9fd19a8992797be4e313
+Section: Tweaks
+Description: 给所有App的菜单上下滚动加入动画效果，已汉化。
+Author: Ryan Nair
+Icon: https://s1.imagehub.cc/images/2025/12/30/45d1db8e1c9e7ff0bcb522d2668e026e.png
+Name: Cask 3
+Sponsor: wkk
+
+Package: com.wkk.cask3
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 840
+Depends: firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Filename: ./debs/com.wkk.cask3_1.0.3_iphoneos-arm64.deb
+Size: 313316
+MD5sum: 9fef1bf69b25f6bbbeb78c36ead517ac
+SHA1: 8283b82257564d9318333ad6150583f75298118b
+SHA256: afeb72f0358bb2c63870e0ec3ebe6a32f340175b732e0d095410794b9cab9172
+Section: Tweaks
+Description: 给所有App的菜单上下滚动加入动画效果，已汉化。
+Author: Ryan Nair
+Icon: https://s1.imagehub.cc/images/2025/12/30/45d1db8e1c9e7ff0bcb522d2668e026e.png
+Name: Cask 3
+Sponsor: wkk
+
 Package: com.wkk.ccborder
 Version: 1.1.2-25
 Architecture: iphoneos-arm64e
