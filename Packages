@@ -9211,6 +9211,23 @@ Icon: https://s1.imagehub.cc/images/2025/12/30/45d1db8e1c9e7ff0bcb522d2668e026e.
 Name: Cask 3
 Sponsor: wkk
 
+Package: com.wkk.cc26
+Version: 1.0-1end
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Filename: ./debs/com.wkk.cc26_1.0-1end_iphoneos-arm64e.deb
+Size: 17944
+MD5sum: fcc8df1abbd1036429f860d3291dfd82
+SHA1: 6e9ded65124cdc06744999647a005c736d870be0
+SHA256: e6409eec6ce0d38bb165df0ac0f0f112e143854ac822deb47377133e02daeb1c
+Section: Tweaks
+Description: iOS26控制中心，仅支持RootHide越狱，修改了版本号，根据作者开源代码直接编译RootHide，没有无根懒得弄也不弄，不删减任何东西，看了码发现原作者写的是半成品，就这吧，不管了（很多人说之前发的版本好用，我给删了，不找了，这个版本更好，我暂时没有发现之前的几个bug）
+Author: therealhoodboy
+Icon: https://s1.imagehub.cc/images/2025/12/31/0ff6fa7afb593255537345c1eac1b0d0.png
+Name: CC26
+
 Package: com.wkk.ccborder
 Version: 1.1.2-25
 Architecture: iphoneos-arm64e
