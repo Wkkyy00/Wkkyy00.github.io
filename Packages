@@ -5375,38 +5375,6 @@ Author: 🄷🅆
 Icon: https://s1.imagehub.cc/images/2025/12/13/79a27a347eac08b4f6e29dbc7775fe10.png
 Name: 农业银行NoJB
 
-Package: com.kitten.tweaktool
-Version: 2.0.0-beta
-Architecture: iphoneos-arm64e
-Maintainer: 预言小猫
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64e.deb
-Size: 11096
-MD5sum: 61d1a48865f7fe8959f1843952f0e146
-SHA1: 83ee04cab217161e1dddc4dc1745cdefbae07436
-SHA256: 4fb5320deb8ee83bdf20a3e8e69c0d5617a53a648c4513e32186a334d1142d28
-Section: 插件
-Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
-Author: 预言小猫
-Name: 一键备份和恢复工具
-
-Package: com.kitten.tweaktool
-Version: 2.0.0-beta
-Architecture: iphoneos-arm64
-Maintainer: 预言小猫
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb
-Size: 10440
-MD5sum: 98afb7961d1b85723a2241ec09e50be2
-SHA1: b02eb5229f1203dd877bbd59c6f56f94633ab550
-SHA256: 1513edf01751b73ac520be677843bf91f54892596eb31db1a837c8fc79df483f
-Section: 插件
-Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
-Author: 预言小猫
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: 一键备份和恢复工具
-
 Package: com.lhyee.wcfix
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -11167,6 +11135,25 @@ Author: korboy <korboybeats@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
 Name: FilzaSwipeSelect
 
+Package: com.wkk.flex3beta
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/com.wkk.flex3beta_1.0-1_iphoneos-arm64e.deb
+Size: 16661644
+MD5sum: 9ea59152705dedcdb396af698832a0c6
+SHA1: f20e47b0b95a9f1ff71d62c234365f5a50c2e71c
+SHA256: d2824b192865f03b8b943a69d0e6a6321a1c7b1053190d5e62145233b96ac6f7
+Section: 应用程序
+Description: 可解析的版本。
+Author: John Coates <xuanhua880@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/31/95d204f8836c85058ead13e67a3997d3.jpeg
+Name: Flex3 Beta
+
 Package: com.wkk.flexibleexpressions
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -13030,16 +13017,15 @@ Maintainer: roothide
 Installed-Size: 1060
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.wkk.manager_1.3.6_iphoneos-arm64e.deb
-Size: 744648
-MD5sum: 5a78c585845917911c1ef578459a4b41
-SHA1: 87352695b5539eb7f77c8496d69c52917eeb0f3f
-SHA256: 0dbb3a1c593179732932d3e9eab1724701341ea0b7e1c3392d9e2ce9c19280b5
-Section: Tweaks
-Description: 配置RootHide的功能（去掉挂载提示）
+Size: 744752
+MD5sum: aa1762a01bc030509e9364d0033dfaf5
+SHA1: 8d3eecfef9bbf2ce3511602c0d72ac1e110f0cdf
+SHA256: da09d4d1d40e344560bf5a9d771336bc7d111d2145e432d55e61594bfee78d89
+Section: 应用程序
+Description: 去掉挂载提示。
 Author: roothide
-Depiction: https://github.com/roothide/RootHideManagerApp
+Icon: https://s1.imagehub.cc/images/2025/12/31/3a85534fdc4b3d8769e4a369eac9dfce.jpeg
 Name: RootHide Manager
-Support: https://github.com/roothide/RootHideManagerApp
 
 Package: com.wkk.megahook
 Version: 1.0
@@ -15588,6 +15574,39 @@ Dev: CreatureSurvive
 Icon: https://s1.imagehub.cc/images/2025/12/27/cf1e2e152c6f7753e36ae33902aa3886.png
 Name: TweakSettings
 
+Package: com.wkk.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64
+Maintainer: 预言小猫
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.tweaktool_2.0.0-beta_iphoneos-arm64.deb
+Size: 10452
+MD5sum: 952ce521873eab5dee2536f766cdeecf
+SHA1: a901807c622ecd322aeb281b8bf8ec54f5844b7a
+SHA256: 42ff7f51ac2e11c3d8bc0fe3c48e5324747835464949cfd92f7ce3ca5d9ee4c5
+Section: 插件配置
+Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
+Author: 预言小猫
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键备份和恢复工具
+
+Package: com.wkk.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64e
+Maintainer: 预言小猫
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.tweaktool_2.0.0-beta_iphoneos-arm64e.deb
+Size: 11168
+MD5sum: 6a5491ad0e4caba7b20360628ebc4b28
+SHA1: f5b15996f321bd622015428d8cb8ca42c64a57d6
+SHA256: ed02fb3ab5fe3c359e505671fec885a30785e7fecd33f78bdd33c20b91d9b91d
+Section: 插件配置
+Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
+Author: 预言小猫
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 一键备份和恢复工具
+
 Package: com.wkk.txsphook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -17618,24 +17637,6 @@ Description: 隐藏状态栏一切vpn展示。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/27/b15bc0d82eb3578fcc1afab7a9d2b991.png
 Name: HideVPN
-
-Package: flex3beta.roothide
-Version: 3.1-roothide
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 h_h_x_t <xuanhua880@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
-Filename: ./debs/flex3beta.roothide_3.1-roothide_iphoneos-arm64e.deb
-Size: 24928980
-MD5sum: 1cfc15259013c6f73b800f5ede134afb
-SHA1: 665cfc85cabf26570daba1439c4bda68bdb6fe8c
-SHA256: 30a8ab06f8fe45f82c09927c2b45be45ec5ecfcff8f58b711613ad947a52e131
-Section: Tweaks
-Description: Develop your own tweaks and share them on the Flex Community Cloud. (dopamine 版本flex3可解析应用，不用兼容层，粗体会闪退,建议正在学习或者会做补丁者使用(已知点击应用补丁列表不可以，需要搜索) Roothide
-Author: John Coates <xuanhua880@gmail.com>
-Name: Flex3 Beta
 
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.3
