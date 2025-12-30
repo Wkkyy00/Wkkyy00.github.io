@@ -12186,6 +12186,41 @@ Author: SHTM
 Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
 Name: FlexibleExpression
 
+Package: com.wkk.floatingdockxvi
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/com.wkk.floatingdockxvi_2.3_iphoneos-arm64.deb
+Size: 397728
+MD5sum: 0dff118c2e0a85a5a9ce2673f1845592
+SHA1: 623d4725bf389e4c6a56b8818eec5f4bbf29ed18
+SHA256: b9c65ff0b28c34911e16a31c7d136a16cbc47df2a7a6cbc536342a0dd98639fd
+Section: Tweaks
+Description: 仅支持iOS16的最好用的悬浮Dock，已汉化。
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/12/31/c000ad65b1c4893e99b9813d3108fc73.png
+Name: FloatingDockXVI
+
+Package: com.wkk.floatingdockxvi
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: Ethan Whited
+Installed-Size: 812
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: preferenceloader
+Filename: ./debs/com.wkk.floatingdockxvi_2.3_iphoneos-arm64e.deb
+Size: 396804
+MD5sum: 1ba0dc181b6dffc13b096f7f294e8229
+SHA1: 14c2e3383c048a1536b1f00a9f8683605e3a34d1
+SHA256: ec3467b12c7a4340e009f40eecdf35de82361764405dd88e7532f5a3b5deca50
+Section: Tweaks
+Description: 仅支持iOS16的最好用的悬浮Dock，已汉化。
+Author: Ethan Whited
+Icon: https://s1.imagehub.cc/images/2025/12/31/c000ad65b1c4893e99b9813d3108fc73.png
+Name: FloatingDockXVI
+
 Package: com.wkk.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64e
@@ -13764,6 +13799,42 @@ Description: 使用光线传感器在黑暗/明亮的场景下自动切换深色
 Author: Skitty
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
 Name: LightsOut
+
+Package: com.wkk.lockbuttonx
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 216
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.4)
+Conflicts: com.nightwind.lockbuttonx
+Filename: ./debs/com.wkk.lockbuttonx_0.0.1_iphoneos-arm64.deb
+Size: 22856
+MD5sum: d51dfeb9c14640dcaec935cd4de00b82
+SHA1: 2e115304d9b37e3d18e2e86422bb4487c54613a4
+SHA256: 611f0f2fad185639ad71e06fa30e046b920750cfe72bc30724263b41e28f441d
+Section: Tweaks
+Description: 将设备的长按电源键呼出Siri改回电源菜单，方便直接关机。
+Author: Nightwind
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: LockButtonX
+
+Package: com.wkk.lockbuttonx
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind
+Installed-Size: 216
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.4)
+Conflicts: com.nightwind.lockbuttonx
+Filename: ./debs/com.wkk.lockbuttonx_0.0.1_iphoneos-arm64e.deb
+Size: 22792
+MD5sum: afa07bbf48fe3e93051625938937fcc2
+SHA1: a2312e76bee10ef890c037453702d2ca01017667
+SHA256: 11ec2e24007869cfeab0851752648ca6f1b6cb5aef2b843f488449cde1dafb01
+Section: Tweaks
+Description: 将设备的长按电源键呼出Siri改回电源菜单，方便直接关机。
+Author: Nightwind
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: LockButtonX
 
 Package: com.wkk.lockeddnd
 Version: 1.0
