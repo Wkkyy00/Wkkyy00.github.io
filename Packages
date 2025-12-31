@@ -16960,6 +16960,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/20/8c1b0e46a8214fffe710524c343fe88d.png
 Name: 心悦俱乐部NoAds
 
+Package: com.wkk.ycjpyydq
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: xx
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.ycjpyydq_0.0.1_iphoneos-arm64e.deb
+Size: 3384
+MD5sum: 9e176e70fa30834b718de1da8a331d22
+SHA1: 1907185a914a30a58a475d4efe7926452b2bfdd2
+SHA256: b0d86355039992a4fed8fc3b6a6b6accd1ec0067db52136004129150052d1dc1
+Section: Tweaks
+Description: 移除键盘上的听写按钮与移除键盘上的地球图标切换按钮，要切换键盘需用其他方法。
+Author: xx
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏键盘语音地球
+
 Package: com.wkk.ykhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
