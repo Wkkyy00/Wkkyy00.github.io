@@ -7270,10 +7270,10 @@ Maintainer: WeChat
 Installed-Size: 6132
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.tencent.themebox_2.2.1_iphoneos-arm64.deb
-Size: 4808764
-MD5sum: ddd6b0dc5b47af5439ebfe69abc8e723
-SHA1: 92f9117c4de0fb7b24fdcfc500bbc4bd93580194
-SHA256: 258167385a5c54c99d3856378e47847bda2b1f86254443c262253ba76991dee0
+Size: 4808796
+MD5sum: 576616647fefa43452ee488e37b4da4a
+SHA1: 43927058e42ecf3acf5ab0be833a6c2a99cc32c2
+SHA256: a457929a7ef2f076a24dd9f0ecb5149e298e1d5a79430f9363f1dbbcf0aeeeee
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
@@ -7288,10 +7288,10 @@ Installed-Size: 6132
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.tencent.themebox_2.2.1_iphoneos-arm64e.deb
-Size: 12981630
-MD5sum: 7f89026839691f3abf723fd41eea671e
-SHA1: 2cf1f610da235402654edbb834bef7b3b2218ac0
-SHA256: 206bfdf757e7ec5bf0af6a5167ec00ce8089f2ef5c40f5525574697f9e9fba21
+Size: 12981620
+MD5sum: 7def4f37a594385ec542de43bc0f95ce
+SHA1: 7216158200676caccf4083247a7095ff12fff85e
+SHA256: 9c31822e6cbfc3ad7173b712214b71d2b18a6c9091ab4ca564bd238b68f9a048
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
