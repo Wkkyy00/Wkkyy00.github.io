@@ -13444,6 +13444,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/20/054b3d51d5c8b82a205282047a409964.png
 Name: 米游社NoAds
 
+Package: com.wkk.native-island
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.native-island_1.0.3_iphoneos-arm64.deb
+Size: 151688
+MD5sum: c92a685e8965589d353e4145cadae2c7
+SHA1: 8486aeb54641786d5af6d2841a288e4b266cdae6
+SHA256: d3a1a6bde1780c0ee67f08d38b12a034b85cb7b6cae7a5ddc295f8ed0713ac29
+Section: Tweaks
+Description: 原生岛通知，仅仅支持iOS16.0+
+Author: sunshinesong
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/native-island-notifier.png
+Name: native-island-notifier
+
+Package: com.wkk.native-island
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: sunshinesong
+Installed-Size: 908
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: ./debs/com.wkk.native-island_1.0.3_iphoneos-arm64e.deb
+Size: 197860
+MD5sum: efc0e6cec9f1292b2fc80e4027a505e8
+SHA1: 81ac6d98f44458e1b483d6f50506bf895694070f
+SHA256: 2f6803faf15770cb880f1fc3394224bddb3721be15c59c0a3d9ba031a1017b99
+Section: Tweaks
+Description: 原生岛通知，仅仅支持iOS16.0+
+Author: sunshinesong
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/native-island-notifier.png
+Name: native-island-notifier
+
 Package: com.wkk.networkmanager
 Version: 1.4.3
 Architecture: iphoneos-arm64e
@@ -15850,6 +15885,41 @@ Author: 34306, KhanhDuyTran
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Upsidedowned
 Sponsor: wkk
+
+Package: com.wkk.verxina
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: uz.ra
+Installed-Size: 1400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, openssl
+Filename: ./debs/com.wkk.verxina_1.3_iphoneos-arm64e.deb
+Size: 325748
+MD5sum: f580fb3bd111f6733869fd4ac07c9a74
+SHA1: 36dc3ff6e6597644533c5388540d94733672c34a
+SHA256: 80f2905ef1a24cb79ca10562d423fcf5e794dbb38871bd26e27045f41eec7543
+Section: Tweaks
+Description: Dock扩展插件，已汉化。
+Author: uz.ra
+Icon: https://s1.imagehub.cc/images/2026/01/02/88b0ad22bd8a4810cfca6f7d3ffeaabf.png
+Name: Verxina
+
+Package: com.wkk.verxina
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: uz.ra
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, openssl
+Filename: ./debs/com.wkk.verxina_1.3_iphoneos-arm64.deb
+Size: 221500
+MD5sum: b8663f44bb0228ca9adfdbb1bdcd58d0
+SHA1: 759bc1426a73c70ad1da07c15f6312f6bf55fb69
+SHA256: 3b8cd3a4e552f9c59e8c054c07572f83bfff24ed7f6393cba916e7e885e701b2
+Section: Tweaks
+Description: Dock扩展插件，已汉化。
+Author: uz.ra
+Icon: https://s1.imagehub.cc/images/2026/01/02/88b0ad22bd8a4810cfca6f7d3ffeaabf.png
+Name: Verxina
 
 Package: com.wkk.wcfrostedglass
 Version: 1.0.5
