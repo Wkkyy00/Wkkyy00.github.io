@@ -9343,15 +9343,14 @@ Package: com.wkk.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: simon
-Installed-Size: 428
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.wkk.ccmusic_1.0.5_iphoneos-arm64.deb
-Size: 28748
-MD5sum: 81664b8f3994f6e7e9d8a2c69d48f4a1
-SHA1: 8824ac3f9f49f88842bb893dd30d8e16e73a05bf
-SHA256: 5d4b9f6b0e25e751257e4738c72e2927f67715df41cbfe35c4a008aab2d32040
+Size: 28716
+MD5sum: 89e29480406c3bfdd59c9a2147931e79
+SHA1: 2301f2b2fc3fa5a1e6f7eee9c9b86d7e66285b45
+SHA256: 1661dae63044fe604ec612d6525aae20fa92a734f26bb8b1e0ed7c140483ed86
 Section: Tweaks
-Description: 为控制中心的音乐模块添加旋转动画。
+Description: 为控制中心的音乐模块添加动画。
 Author: simon
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 控制中心音乐模块动画
@@ -9360,16 +9359,15 @@ Package: com.wkk.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64e
 Maintainer: simon
-Installed-Size: 428
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.wkk.ccmusic_1.0.5_iphoneos-arm64e.deb
-Size: 36772
-MD5sum: f8b562b95bba7316de91fa973152fb27
-SHA1: 195fdf34549fba66a20f76ebd5bd0893845f7b50
-SHA256: 17b2f6e63e054b7621c023e7094db7ea906a04b3a89f4ec4cb0745c2d545163a
+Size: 36724
+MD5sum: b71d5c3282fd612779457ccc04ecd179
+SHA1: c6c6ddfb82f879d35b9389530fa0224bc79a7069
+SHA256: 2561b4563cbe1782b1d03b011b415e5ed057777dfeba839eb0dc85a445c8591a
 Section: Tweaks
-Description: 为控制中心的音乐模块添加旋转动画。
+Description: 为控制中心的音乐模块添加动画。
 Author: simon
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 控制中心音乐模块动画
