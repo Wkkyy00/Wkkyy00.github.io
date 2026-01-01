@@ -11294,39 +11294,39 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: FT Tool（配置文件）
 
 Package: com.wkk.fuckicon
-Version: 1.0
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.fuckicon_1.0-1_iphoneos-arm64.deb
+Size: 3236
+MD5sum: 28d8298b9195d90bc865d4e942df7c12
+SHA1: 47a5459285d7aa0f3adf47d9f172c44b6909ce7d
+SHA256: 022c56ad4e21ee41faae94abf83f64ac2ead7faac8082809c5ca3b32e49f6303
+Section: Tweaks
+Description: 隐藏桌面App以及小组件名字。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: HideIconName
+
+Package: com.wkk.fuckicon
+Version: 1.0-1
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckicon_1.0_iphoneos-arm64e.deb
-Size: 4512
-MD5sum: d2297122a666efec49d15648c528a535
-SHA1: 83b505687329d91d0687694f151ff69ceb824127
-SHA256: ccf1fd5238379a86f164d975deccef466e7bcb6bb9d2fd4218b5dfd267df8ff7
+Filename: ./debs/com.wkk.fuckicon_1.0-1_iphoneos-arm64e.deb
+Size: 4504
+MD5sum: 7200ca1ae3e828c9f7f378f4e21e0aff
+SHA1: 43bba3ad6300bb9359bcf418e2e13dfb9c4f883b
+SHA256: 1a8ad7e02980407e6f06b2bf77f9690d44e1c1d1da7aafdea44718bca3086a2f
 Section: Tweaks
 Description: 隐藏桌面App以及小组件名字。
 Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: HiceIconName
-
-Package: com.wkk.fuckicon
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
-Filename: ./debs/com.wkk.fuckicon_1.0_iphoneos-arm64.deb
-Size: 3224
-MD5sum: d00ee3a8465f48c4179f613144f96162
-SHA1: 437612b2ef3a468cae13e16fe056bc9818c90f38
-SHA256: f5cfdf139da698356cb9ee332a12bf469343d1db35aed83beba3c641019e42fe
-Section: Tweaks
-Description: 隐藏桌面App以及小组件名字。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
-Name: HiceIconName
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: HideIconName
 
 Package: com.wkk.fuckltads
 Version: 1.0
