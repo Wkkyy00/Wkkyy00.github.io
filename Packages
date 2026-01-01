@@ -8821,6 +8821,41 @@ Icon: https://s1.imagehub.cc/images/2025/03/08/0364f8251947561dd09612ea1ee9a016.
 Name: 拨号键盘美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/bohaojp.json
 
+Package: com.wkk.bilibiliTweak
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: TouchWorld
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.bilibiliTweak_1.1.2_iphoneos-arm64.deb
+Size: 119236
+MD5sum: ba9d18239fa07b794823ee0ba997aa57
+SHA1: 8d6d6a6a62efc627d74236ea6d99d7f99ee69377
+SHA256: d673aeddaae98746661f226e6f0ad6b9d3535ced38cec5375e3ebf39a39d63f1
+Section: 去广告
+Priority: optional
+Description: 去除哔哩哔哩广告以及开启三倍速，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
+Name: BilibiliTweak
+
+Package: com.wkk.bilibiliTweak
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: TouchWorld
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.bilibiliTweak_1.1.2_iphoneos-arm64e.deb
+Size: 161278
+MD5sum: a956ceaae4999c153c1a2215c577185f
+SHA1: 61768bbd918d286bccb1884851e8cea598c5e915
+SHA256: 067b7ad7d60257d313d86673147651c00a3da23d07629ae5741f7c4876b2c888
+Section: 去广告
+Priority: optional
+Description: 去除哔哩哔哩广告以及开启三倍速，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
+Name: BilibiliTweak
+
 Package: com.wkk.bilibilihook
 Version: 1.0
 Architecture: iphoneos-arm64
