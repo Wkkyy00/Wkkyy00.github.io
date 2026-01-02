@@ -144,6 +144,23 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: split-view-pro
 Ts: sp-sss
 
+Package: cn.wkk.tmts
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/cn.wkk.tmts_1.2_iphoneos-arm64e.deb
+Size: 126712
+MD5sum: 811d9b92b3cf99cb9873a40f9796e155
+SHA1: 688d65dfe4985e726ca6809a6abb13918ee37ffd
+SHA256: 1653b278596b2d276b1239f28c549f36e3c8ef2191d1d4d93350ba0210c6619c
+Section: Tweaks
+Description: 自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度，包含锁屏，播放器，负一屏，通知，控制中心，多任务后台模块等。
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 全局透明Max
+
 Package: cn.zqbb.appdata
 Version: 1.3.6-9
 Architecture: iphoneos-arm64e
@@ -9580,6 +9597,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
 Name: wkkCenter
 Sponsor: wkk
+
+Package: com.wkk.centra
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.centra_1.0_iphoneos-arm64e.deb
+Size: 63424
+MD5sum: 4ecb5d7c81ec51a254ff757c5cc4a207
+SHA1: 0a55f98ad8917af4e328e51db8c9825f81abc52d
+SHA256: a6ff0f90ecd8fe38295bdf01fd913deb9697eb0e8418048367d463b4667727c6
+Section: Tweaks
+Description: 自定义控制中心中模块的大小，可以把音量亮度模块改成1*1等等，已汉化。
+Author: Hitori
+Icon: https://s1.imagehub.cc/images/2026/01/03/45c813cd5bca7231780f69d89d0f25e3.png
+Name: Centra
+
+Package: com.wkk.centra
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.centra_1.0_iphoneos-arm64.deb
+Size: 54608
+MD5sum: 0baf126a857a5f6b1c79242f89d6a0a2
+SHA1: 5414a06d54f791062b8cf7e11fafcc098281fc4e
+SHA256: 2621894300e8e83ab98f2261455d8afc0f65b91229bd68f7083a9923df5166e3
+Section: Tweaks
+Description: 自定义控制中心中模块的大小，可以把音量亮度模块改成1*1等等，已汉化。
+Author: Hitori
+Icon: https://s1.imagehub.cc/images/2026/01/03/45c813cd5bca7231780f69d89d0f25e3.png
+Name: Centra
 
 Package: com.wkk.ceshi
 Version: 0.0.1
