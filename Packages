@@ -7860,6 +7860,46 @@ Icon: https://s1.imagehub.cc/images/2025/03/25/dbdacd5798135a4cbb0a807e4be96505.
 Name: HideEdit
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/hideedit.json
 
+Package: com.wkk.RestoreFont2
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 灰灰
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.RestoreFont2_1.0-1_iphoneos-arm64.deb
+Size: 3616
+MD5sum: 2e67f70bbdf050f786b15e4d2eaeaea3
+SHA1: 85ada71e6695bd337a1b605ba3919352a34a2bf6
+SHA256: 40edca079f06c5c6e62d1ae86b4daf805e95618e42aa79d72c61d5ca38844dee
+Section: 插件配置
+Description:
+  * 下载后脚本文件在/var/mobile/Documents
+  * 把脚本扔进你要替换的字体目录下
+  * 直接点运行会自动挂载以及替换
+  * 最后重启用户空间即可
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 字体一键替换2
+
+Package: com.wkk.RestoreFont2
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: 灰灰
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.RestoreFont2_1.0-1_iphoneos-arm64e.deb
+Size: 3620
+MD5sum: 959e6a0cd18a5805c7508166ff8778ae
+SHA1: 2d059baf1f42240cc92c3c48f3e3a1f1fd3a7e69
+SHA256: 9896bc4580cf8c3e32943aad7b49e81cee83e926795f37da35917ad39e6b6eb2
+Section: 插件配置
+Description:
+  * 下载后脚本文件在/var/mobile/Documents
+  * 把脚本扔进你要替换的字体目录下
+  * 直接点运行会自动挂载以及替换
+  * 最后重启用户空间即可
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 字体一键替换2
+
 Package: com.wkk.SquidExtender
 Version: 1.0-7
 Architecture: iphoneos-arm64
@@ -15068,6 +15108,41 @@ Author: shepgoba <arm64.deb@icloud.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SettingsWidgets
 
+Package: com.wkk.showmytouches
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.showmytouches_1.2.1_iphoneos-arm64e.deb
+Size: 94274
+MD5sum: 857ee7429b821e4f18c718e5a349e6c1
+SHA1: 49e57c8ffa7921ae452ac55fdd0358fbb2624bae
+SHA256: 1c832a242fffb6475953df3eba2dc68911a80f7f80db9cc0c69463092283dc82
+Section: Tweaks
+Description: 免费的录屏触摸轨迹。
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
+Name: ShowMyTouches
+
+Package: com.wkk.showmytouches
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.showmytouches_1.2.1_iphoneos-arm64.deb
+Size: 82728
+MD5sum: 19303c2dafa97ff1e79fa2aca98aeafb
+SHA1: 7887aff24012f475cbd1aed0a59cd5f941d36849
+SHA256: 998d5c0fb73ed2f77c84d167131ced6512ab29f9152841da386d4a8f9636cf1a
+Section: Tweaks
+Description: 免费的录屏触摸轨迹。
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
+Name: ShowMyTouches
+
 Package: com.wkk.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64
@@ -15422,6 +15497,41 @@ Description: 商店内头像处点击，快速切换/删除AppStore账号。
 Author: 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: StoreSwitcher 2
+
+Package: com.wkk.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 212
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.wkk.storeswitcher2_1.0.7_iphoneos-arm64e.deb
+Size: 20772
+MD5sum: b632c2702cca55aeeacc6affaf6449af
+SHA1: 293f63a02c0315ea171e07b09180349660463bc8
+SHA256: fa46ca5e1b78a0338559d3161ad53318eedc10f478c4e890533750e55836168f
+Section: Tweaks
+Description: App Store 账户快速切换，优化了账号切换逻辑，已汉化。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher2
+
+Package: com.wkk.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 212
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.wkk.storeswitcher2_1.0.7_iphoneos-arm64.deb
+Size: 15204
+MD5sum: ae7392e1d84dc3f9d871097c483d2759
+SHA1: 77e264df5a1536078f9175b94a1519ab5f44dd0c
+SHA256: ca0e7391f4376f150a5e139d5616e52dd145fc7930cdff200fc54dd2ba34a562
+Section: Tweaks
+Description: App Store 账户快速切换，优化了账号切换逻辑，已汉化。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher2
 
 Package: com.wkk.stormsnifferhook
 Version: 1.0-1
