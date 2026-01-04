@@ -8173,6 +8173,41 @@ Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/03/05/5e7750e53f47782c0f1f2d5ea3e69638.png
 Name: VideoAdsSpeed
 
+Package: com.wkk.aemulo
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.aemulo_1.2.5_iphoneos-arm64.deb
+Size: 626044
+MD5sum: b10ff2d783b32f837f9c05ee86389e26
+SHA1: 105c3aece78cb7fd5a757652976c1072178c2839
+SHA256: 6e680121b00aaab551acf876321c6de83beec012bca95d268de493abd9522ff3
+Section: 应用程序
+Description: NFC付费App纯净砸壳。
+Author: Amy While <support@anamy.gay>
+Icon: https://s1.imagehub.cc/images/2026/01/04/7c96709445ff5c46b3eec04f7863b889.png
+Name: Aemulo NFC模拟
+
+Package: com.wkk.aemulo
+Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.wkk.aemulo_1.2.5_iphoneos-arm64e.deb
+Size: 1573730
+MD5sum: 6b76e16755e855629f8d288c39b94d65
+SHA1: 720212f1b4d4274f6f11d47eb16eab8d57b449be
+SHA256: b84ef0e01cd24f9b08e7ce8adf769d836510bdea8af3e00b8875bd7ac5640c12
+Section: 应用程序
+Description: NFC付费App纯净砸壳。
+Author: Amy While <support@anamy.gay>
+Icon: https://s1.imagehub.cc/images/2026/01/04/7c96709445ff5c46b3eec04f7863b889.png
+Name: Aemulo NFC模拟
+
 Package: com.wkk.afakerxi
 Version: 1.0.3
 Architecture: iphoneos-arm64
