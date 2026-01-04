@@ -16254,6 +16254,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/10/5ebea7df2da0fc778720cf25653e5053.png
 Name: 微店NoAds
 
+Package: com.wkk.wechat-pop-vc
+Version: 0.0.5-end
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.wechat-pop-vc_0.0.5-end_iphoneos-arm64.deb
+Size: 21844
+MD5sum: 910b3d7373ba23151b79f3ee2a4b0eba
+SHA1: 44acd8d5ae742b97d0592dbab5d3a61d8faad6bc
+SHA256: 9461881b8f0802bbe614511e05692108a12a7fa29ea14ccb327469e6496e58e0
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatPopVC
+
+Package: com.wkk.wechat-pop-vc
+Version: 0.0.5-end
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.wechat-pop-vc_0.0.5-end_iphoneos-arm64e.deb
+Size: 28988
+MD5sum: 32f977a4c5a3e45661e80a19272144ae
+SHA1: cd355a1571ad7f76a8f73fad9eee2e91496f36ae
+SHA256: ad1b711ab4d2b4ebe6e74969da1c0bf750a9b141fe6873fbdf6349539186f66d
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatPopVC
+
 Package: com.wkk.wechatuiswitchloader
 Version: 1.1-5
 Architecture: iphoneos-arm64
