@@ -16190,6 +16190,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
 
+Package: com.wkk.txsphook
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.1-5_iphoneos-arm64e.deb
+Size: 7262
+MD5sum: ff96897e217724f867625df5f6e2180e
+SHA1: ef167ad0303e82d4ef5874ce188f30c429c918e9
+SHA256: be2548f02aa0a9a869fe9d9e9753be55864fd575c52e632ca510159ca31e72d6
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.85，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
+Package: com.wkk.txsphook
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.1-5_iphoneos-arm64.deb
+Size: 5184
+MD5sum: 4f6dd7cf04d4b9b02f337fba1aba60c5
+SHA1: 651bf9f12a699b2fb1aa94fc1e7db7600bfa2113
+SHA256: 88b5395b700e7adc8cb9b7303cc5e365eae98877a65b8f5c63057c5e27250871
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.85，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+Name: 腾讯视频NoAds
+
 Package: com.wkk.txtyhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
