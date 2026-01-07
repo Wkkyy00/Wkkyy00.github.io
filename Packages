@@ -13575,41 +13575,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/14/d26f96d111b0edcdd8a0906baf10d838.png
 Name: 芒果TVNoAds
 
-Package: com.wkk.misaki
-Version: 2.2
-Architecture: iphoneos-arm64e
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1049
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.wkk.misaki_2.2_iphoneos-arm64e.deb
-Size: 368596
-MD5sum: a00011c1121a8f241e906fb44ed26175
-SHA1: e3ebc5c3fe03d1a2a1c874e38f64ab6d6938a195
-SHA256: 0e0a68898161fc315de209127f07ffc672f090374a8c515fcc8dde7bfb87cefb
-Section: Tweaks
-Description: 使用Misaki自定义您的iOS15和16体验，自定义选项，让您的iPhone真正成为您的。
-Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
-
-Package: com.wkk.misaki
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1049
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.wkk.misaki_2.2_iphoneos-arm64.deb
-Size: 306096
-MD5sum: 4cb83dd5155d94b0ad8816bdc6980e35
-SHA1: b2a121efb52de34e622640a5e96984194d9beac7
-SHA256: 267177147d9b8414b23bc99bf7379d5876fa0b1ca26c3428349b68fde5d42635
-Section: Tweaks
-Description: 使用Misaki自定义您的iOS15和16体验，自定义选项，让您的iPhone真正成为您的。
-Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
-
 Package: com.wkk.mlxxhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
