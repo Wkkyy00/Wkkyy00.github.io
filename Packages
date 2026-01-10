@@ -10440,6 +10440,43 @@ Icon: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/
 Name: Depths
 Sileodepiction: https://Vincent-520.github.io/sileodepiction/com.vincent.polyphian.depths/js.json
 
+Package: com.wkk.designer
+Version: 1.4.7
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 18396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hk.designer.cn.rl
+Filename: ./debs/com.wkk.designer_1.4.7_iphoneos-arm64e.deb
+Size: 26423578
+MD5sum: 8c2985f2a528625876eece57c3a5b0bb
+SHA1: 6879b8af7237555287f2b8c95f4e673eeb6e2c9a
+SHA256: b19f3b1e59b7f09f191abebe6029c6def3c3ef4cbc36db448d93b80ca21085f6
+Section: Tweaks
+Description: 锁定屏幕的美化，素材自备，已加入汉化。
+Author: JunesiPhone
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Designer
+
+Package: com.wkk.designer
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 18396
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hk.designer.cn.rl
+Filename: ./debs/com.wkk.designer_1.4.7_iphoneos-arm64.deb
+Size: 11686024
+MD5sum: 1ed14f9935ef0d2180f8a56ade0f050a
+SHA1: 0a32fa5aa32671ecb0c971daaafffc71784a9bea
+SHA256: 226faafce294ff11c7b6ad84a20caf38935605d6f7f5b7609a5ff0f78d3a1a56
+Section: Tweaks
+Description: 锁定屏幕的美化，素材自备，已加入汉化。
+Author: JunesiPhone
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Designer
+
 Package: com.wkk.didihook
 Version: 1.0
 Architecture: iphoneos-arm64e
