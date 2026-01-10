@@ -6033,6 +6033,39 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatNotiAvatar
 
+Package: com.opa334.trollstorehelper
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm64.deb
+Size: 1914716
+MD5sum: 7986a77073551e68312d2eb58566ab69
+SHA1: 847f1d758496d8fce75304d52b9f4b3c60e8003d
+SHA256: 18ac48a260464e93810d24d01fc9bdb4a88e34ade9dc0f431290dc1c51c9d00a
+Section: 应用程序
+Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
+Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/01/21/e16a2f8fe58b0bdadf3641c868a71141.jpeg
+Name: TrollStore Helper
+
+Package: com.opa334.trollstorehelper
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 4400
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm64e.deb
+Size: 4593662
+MD5sum: f2bd35ec3887ae10518adc107373fe3d
+SHA1: 59a6a44c1740bc14e6877a342ee7711376fa0ff0
+SHA256: 70f2da63b4052960fd6f3f795a52710a57202b4225977cc3bbded216ee71b495
+Section: 应用程序
+Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
+Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/01/21/e16a2f8fe58b0bdadf3641c868a71141.jpeg
+Name: TrollStore Helper
+
 Package: com.picsewpro
 Version: 1.0.0
 Architecture: iphoneos-arm64
