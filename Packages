@@ -8217,6 +8217,76 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 
+Package: com.wkk.WCPush2Chat
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPush2Chat_1.0-2_iphoneos-arm64e.deb
+Size: 48714
+MD5sum: 270839339e588cbce91d0c12463b6611
+SHA1: 800b406bd0c1ac9387091d41d6a53121940f5172
+SHA256: dbf53e91b11b47a2b9cdf5cc52aab5cfadb0d7cd91c0a03dd9bc0e08961b2953
+Section: 微信插件
+Description: 微信消息直达单独版本。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPush2Chat
+
+Package: com.wkk.WCPush2Chat
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPush2Chat_1.0-2_iphoneos-arm64.deb
+Size: 35708
+MD5sum: f0d3cdb9c873020f9e30693fc36c304b
+SHA1: bb2ad5b8debf1b944c5715ce04b0d55f72184076
+SHA256: a2293987622acb2dd1722993e60d1765d3d711bed71e87200a26a0edf77cdf81
+Section: 微信插件
+Description: 微信消息直达单独版本。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPush2Chat
+
+Package: com.wkk.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCSafeMode_1.0-1_iphoneos-arm64e.deb
+Size: 5650
+MD5sum: ee9e423080913f9ded8864b9100c34f4
+SHA1: 65f0eaf856fba90ddd2ced1974734ccc8469e4a7
+SHA256: 0cc31db004da606dbcf195dd419eae346c2d341097a7b44eb3d8b86bc6eba556
+Section: 微信插件
+Description: 当你认为你的微信存在明显问题时：长按「我的」页面头像1秒手动触发微信安全模式（资源清理）可解决部分由于资源问题造成的系列问题。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSafeMode
+
+Package: com.wkk.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCSafeMode_1.0-1_iphoneos-arm64.deb
+Size: 4036
+MD5sum: 8330d2a119f7e9777e2eee1e4ba16e27
+SHA1: 32535ea2e976f1d9017a566207a1b35ea81c1575
+SHA256: 2b367859cf3a456c0d94c131f9873d1bc2d5a7bfe20f8cf03f76e880d5f77cee
+Section: 微信插件
+Description: 当你认为你的微信存在明显问题时：长按「我的」页面头像1秒手动触发微信安全模式（资源清理）可解决部分由于资源问题造成的系列问题。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCSafeMode
+
 Package: com.wkk.WeChatbeautifully
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -16136,6 +16206,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
 Name: 淘票票NoAds
 
+Package: com.wkk.trollpad
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: khanhduytran0
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/com.wkk.trollpad_1.3_iphoneos-arm64.deb
+Size: 40460
+MD5sum: 7619bffc73391f7b21281f2db0c8ee09
+SHA1: 92cf7fff8935c36aed5c6561fe6e4dc59d73fa72
+SHA256: 53cb56afeb212d5cb8b6c1429f63dc034ed9aa9d8f6f8946ee6dddb8a891eca4
+Section: Tweaks
+Description: 在iPhone上开启iPad台前调度。
+Author: khanhduytran0
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: TrollPad
+
+Package: com.wkk.trollpad
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: khanhduytran0
+Installed-Size: 536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/com.wkk.trollpad_1.3_iphoneos-arm64e.deb
+Size: 47200
+MD5sum: f3ddebada688988cc5d96f943d665bed
+SHA1: b6cbf419ea23b52dfac3144386dbc4101021aa33
+SHA256: 193189809c309d13b5fd106fd5cee69eaac8ae56371cdfd9884be54ee44bc759
+Section: Tweaks
+Description: 在iPhone上开启iPad台前调度。
+Author: khanhduytran0
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: TrollPad
+
 Package: com.wkk.tvlock
 Version: 1.2.3
 Architecture: iphoneos-arm64e
@@ -16471,6 +16576,41 @@ Description: Dock扩展插件，已汉化。
 Author: uz.ra
 Icon: https://s1.imagehub.cc/images/2026/01/02/88b0ad22bd8a4810cfca6f7d3ffeaabf.png
 Name: Verxina
+
+Package: com.wkk.wcaddnotiheadimgswitch
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 944
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.wkk.wcaddnotiheadimgswitch_1.1-2_iphoneos-arm64e.deb
+Size: 621946
+MD5sum: db5981c2f14fe5de1d51627c9787491e
+SHA1: 187b21b2cd3b2390d953e7662df54942cdce5cba
+SHA256: 5c7973763be29eed8b31fa048386663f53198c8b20c2093f95187d067b5a26f3
+Section: 微信插件
+Description: 得益于8.0.63开始微信就在Plugins中增加了推送显示头像的函数，检查了一下非8.0.67也有控制服务端是否开启的函数，为此给8.0.63-8.0.66的用户在设置中增加一个小开关实现和8.0.67TF相同的开关模式(让没有8.0.67TF的人也能控制上)
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCAddNotiHeadImgSwitch
+
+Package: com.wkk.wcaddnotiheadimgswitch
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 944
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.wkk.wcaddnotiheadimgswitch_1.1-2_iphoneos-arm64.deb
+Size: 468996
+MD5sum: 5cd09b4f50d1cb140bb41406ae37a4c5
+SHA1: 59988fd6e99b564dc8718739c20319906efb1db4
+SHA256: 8f18a50b4ffe71ad2124d54a1f6e66e334c5a4fc765473d9085026b3907dc26e
+Section: 微信插件
+Description: 得益于8.0.63开始微信就在Plugins中增加了推送显示头像的函数，检查了一下非8.0.67也有控制服务端是否开启的函数，为此给8.0.63-8.0.66的用户在设置中增加一个小开关实现和8.0.67TF相同的开关模式(让没有8.0.67TF的人也能控制上)
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCAddNotiHeadImgSwitch
 
 Package: com.wkk.wcfrostedglass
 Version: 1.0.5
