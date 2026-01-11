@@ -15687,6 +15687,38 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Name: QuickPrefs
 
+Package: com.wkk.qzzz
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.qzzz_1.0-1_iphoneos-arm64.deb
+Size: 243508
+MD5sum: 42c6c3a2cc0d5958f3a3ee12933291e9
+SHA1: e5d8b56c039c4b25e591edd9823abc846d870cac
+SHA256: 4ca867b4699c43f2ccff42559db988239dfa1a2a3ae2547ff44691910e5b31fb
+Section: 插件配置
+Description: 备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 净化红包版本强制关注（TrollFools注入）
+
+Package: com.wkk.qzzz
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.qzzz_1.0-1_iphoneos-arm64e.deb
+Size: 243512
+MD5sum: 49d15a582fc34398a47fe90bac37bcd9
+SHA1: 77bf7e0bce74efea43e453a1347a54793f45afff
+SHA256: 7b15bb56d7d88abc05e9a4fd64fc18a923a7e5dba23f620c542a0c86bfca2cc5
+Section: 插件配置
+Description: 备份。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 净化红包版本强制关注（TrollFools注入）
+
 Package: com.wkk.ravitation
 Version: 1.0-1
 Architecture: iphoneos-arm64
