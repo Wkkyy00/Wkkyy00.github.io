@@ -8630,6 +8630,24 @@ Name: AlwaysDark
 Sponsor: wkk
 
 Package: com.wkk.appdata
+Version: 1.3.6-9-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 536
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/com.wkk.appdata_1.3.6-9-1+debug_iphoneos-arm64e.deb
+Size: 104920
+MD5sum: da2a4ac8f6c177b6ea57aed530b07c32
+SHA1: 2ef68073198179b947dccee47ff455808d817cd0
+SHA256: fccd17f0692eed7c0fcb65729e6a848218ad42077206a8c66a5f73838fc57628
+Section: Tweaks
+Description: 呼出为下滑App。
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hello AppData 下滑
+
+Package: com.wkk.appdata
 Version: 1.4.1
 Architecture: iphoneos-arm64e
 Maintainer: Nets
@@ -9195,6 +9213,43 @@ Icon: https://s1.imagehub.cc/images/2025/02/10/d66c9518db05d7191ec5b1cbc6c1b973.
 Name: BetterCCBrightness
 Sponsor: wkk
 
+Package: com.wkk.betteruiswitchs
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: TiaoTiao
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: byg.iosios.net.betteruiswitch, com.tiaotiao.betteruiswitch
+Filename: ./debs/com.wkk.betteruiswitchs_1.1_iphoneos-arm64e.deb
+Size: 70246
+MD5sum: cfccba18b3fd55ac42a7bbfe248913e0
+SHA1: 77eea646330eab2bce0cec001add41106b47b4c0
+SHA256: cd02f76baa7c8b073a55867670957b6374790f47d082c3fdb0df40078a2603d8
+Section: 美化
+Description: 修改开关按钮 UI 为 JB/B
+Author: TiaoTiao
+Icon: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/icon.png
+Name: JB按钮
+
+Package: com.wkk.betteruiswitchs
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: byg.iosios.net.betteruiswitch, com.tiaotiao.betteruiswitch
+Filename: ./debs/com.wkk.betteruiswitchs_1.1_iphoneos-arm64.deb
+Size: 58436
+MD5sum: f86008f89dd6fa68cb3cd39572e70d44
+SHA1: dcf52fec5b1ff233261a861412e711bb25c7ecd3
+SHA256: bd4506b551a71d77e78199ac3825a933d346b73156185788eb840d1ddc093617
+Section: 美化
+Description: 修改开关按钮 UI 为 JB/B
+Author: TiaoTiao
+Icon: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/icon.png
+Name: JB按钮
+
 Package: com.wkk.bhmh
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -9441,6 +9496,39 @@ Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉�
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
 Name: BoardSwipe
+
+Package: com.wkk.bookmarkicons
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.bookmarkicons_1.0-1_iphoneos-arm64e.deb
+Size: 22814
+MD5sum: 2c1609453387a508dca1562ff5875e35
+SHA1: d34801c473f76378833f77fc69a3fcfd12c59d50
+SHA256: 8ccc863480cd1b74bfc759093519a99cb0206e1895d97c554b21af7be02ca3c5
+Section: Tweaks
+Description: 为 Safari 浏览器书签设置自定义图标。
+Author: shiftcmdk
+Icon: https://repo.cypwn.xyz/packages/BookmarkIcons-Rootless/icon.png
+Name: BookmarkIcons
+
+Package: com.wkk.bookmarkicons
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.bookmarkicons_1.0-1_iphoneos-arm64.deb
+Size: 16904
+MD5sum: 24ec45212ace879a720bf7eefc70c871
+SHA1: b97a2eb2099ca95a8ae6747ffca788cb8f76d156
+SHA256: 22b6e74faab2d7df275c932c2377de3889b205481f52d0f28ba14ef118b46301
+Section: Tweaks
+Description: 为 Safari 浏览器书签设置自定义图标。
+Author: shiftcmdk
+Icon: https://repo.cypwn.xyz/packages/BookmarkIcons-Rootless/icon.png
+Name: BookmarkIcons
 
 Package: com.wkk.cadhook
 Version: 1.0-1
@@ -12820,6 +12908,45 @@ Author: ichitaso <qiaozhani000@163.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: HideSerialNumber
 
+Package: com.wkk.homehiders
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.homehider
+Filename: ./debs/com.wkk.homehiders_1.1_iphoneos-arm64e.deb
+Size: 4000
+MD5sum: 279a49984a34e1d5073dee91fe0cc8d5
+SHA1: 735fa19070c5d60431b3fbc0cb67d3e1c3fc9c15
+SHA256: dafcd5e05a1fe5558f6076aee3e5d16585d3cf5b94fc6ec4f00fdd3a47f2ef02
+Section: Tweaks
+Description: 隐藏设备底部小白条
+ * 支持 iOS 15 - iiOS 17.0
+Author: Nathan Senter
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏底部小白条
+
+Package: com.wkk.homehiders
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.homehider
+Filename: ./debs/com.wkk.homehiders_1.1_iphoneos-arm64.deb
+Size: 2776
+MD5sum: 2a915930b38a9cc9053417017ca24112
+SHA1: 6ac062a48f5bec8a1e622b6cd8f235073ff48879
+SHA256: 21f24282c7f12f1f0b7e76ffd1d2025d9dd836171d47adf6056b5c032a913524
+Section: Tweaks
+Description: 隐藏设备底部小白条
+ * 支持 iOS 15 - iiOS 17.0
+Author: Nathan Senter
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏底部小白条
+
 Package: com.wkk.horizontalsliders
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -15655,6 +15782,41 @@ Size: 15388
 MD5sum: 1c3438159d4902fd5019a96a4deb4773
 SHA1: 1fbc162f8e2b88ba84fa39b09e6add4478a1638c
 SHA256: c67e42498eb0f126f25a0242e9b03f2225ee46aba1b64f337aa53ce86c7fc056
+Section: Tweaks
+Description: 录制视频时，可以手动暂停/恢复。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: RecordPause
+
+Package: com.wkk.recordpause
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.wkk.recordpause_2.0.7_iphoneos-arm64.deb
+Size: 11844
+MD5sum: 4ecda41d8b8d19b2d0b06cb9a37a5b42
+SHA1: df8c7228102e805887d17d94560298f04f4f5a34
+SHA256: a631ff0d0e11e36110d64bc9426ad204cb2f43c8ba828106cfb8a1c895562955
+Section: Tweaks
+Description: 录制视频时，可以手动暂停/恢复。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: RecordPause
+
+Package: com.wkk.recordpause
+Version: 2.0.7
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.wkk.recordpause_2.0.7_iphoneos-arm64e.deb
+Size: 15732
+MD5sum: d06e370551ed89f3a985533738a92db1
+SHA1: 68db27dda3245035def6c19aa6761399d8b68e6c
+SHA256: 5619f7bca88b742456c8aa0dcd7a1520714b15fff60728dd1766e7994fc8e7f3
 Section: Tweaks
 Description: 录制视频时，可以手动暂停/恢复。
 Author: PoomSmart
