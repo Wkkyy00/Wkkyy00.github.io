@@ -8630,24 +8630,6 @@ Name: AlwaysDark
 Sponsor: wkk
 
 Package: com.wkk.appdata
-Version: 1.3.6-9-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: zqbb
-Installed-Size: 536
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
-Filename: ./debs/com.wkk.appdata_1.3.6-9-1+debug_iphoneos-arm64e.deb
-Size: 104920
-MD5sum: da2a4ac8f6c177b6ea57aed530b07c32
-SHA1: 2ef68073198179b947dccee47ff455808d817cd0
-SHA256: fccd17f0692eed7c0fcb65729e6a848218ad42077206a8c66a5f73838fc57628
-Section: Tweaks
-Description: 呼出为下滑App。
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: Hello AppData 下滑
-
-Package: com.wkk.appdata
 Version: 1.4.1
 Architecture: iphoneos-arm64e
 Maintainer: Nets
@@ -12839,6 +12821,24 @@ Description: 分词，翻译。
 Author: lclrc(SquidForce)
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Hammer It
+
+Package: com.wkk.helloappdata
+Version: 1.3.6-9-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 536
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/com.wkk.helloappdata_1.3.6-9-1+debug_iphoneos-arm64e.deb
+Size: 104932
+MD5sum: 8fe6df8bc207b7c1b09781fa05aa4876
+SHA1: 7c82a877899734e5d3668f97ad752f2f0262d754
+SHA256: cb75dd2fba9c3147a3c9ba0d50231379f5e4f578ba1b689b15cc18cdc370361b
+Section: Tweaks
+Description: 呼出为下滑App。
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hello AppData 下滑
 
 Package: com.wkk.hideiconbadge
 Version: 1.0
