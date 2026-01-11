@@ -14556,6 +14556,43 @@ Author: iKarwan <ikghd3@gmail.com>
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
 Name: PMP
 
+Package: com.wkk.pogrs
+Version: 0.5.1
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/com.wkk.pogrs_0.5.1_iphoneos-arm64e.deb
+Size: 86910
+MD5sum: af8a018b36966e81f9557265f8332b1f
+SHA1: 8f2f1543566ad983a92395c7baf8db673f9a28f7
+SHA256: f55a246dd971d2047c0b4e5fd50cf29fa95b96d56f58e998646fa08e620ba0b7
+Section: Tweaks
+Description: 提高低系统与新 AirPods 兼容性。
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+
+Package: com.wkk.pogrs
+Version: 0.5.1
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/com.wkk.pogrs_0.5.1_iphoneos-arm64.deb
+Size: 75156
+MD5sum: bbdbdb69050d0f790e1c96dfd2989012
+SHA1: 7fa11fe04411d729f9920026c8c55ddeca68d4c7
+SHA256: f5821b8540e12fb207175af0c36b7eb4622e0f3c0ee11d142645bf8fabbc7466
+Section: Tweaks
+Description: 提高低系统与新 AirPods 兼容性。
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+
 Package: com.wkk.ppxwhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
