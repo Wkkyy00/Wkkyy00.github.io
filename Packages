@@ -9923,6 +9923,40 @@ Author: Simon
 Icon: https://s1.imagehub.cc/images/2025/12/27/9c87ab6f13db32cf819dca8179708c57.png
 Name: 控制中心发光
 
+Package: com.wkk.cclocation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.wkk.cclocation_1.1.0-1_iphoneos-arm64.deb
+Size: 14232
+MD5sum: bdea5b26c37cd8a4a12da235d8aa7ea1
+SHA1: b8db15975f555844df33d0e24c0abd001d384090
+SHA256: ded57defeb083a6136ad42fa02f3c0a51bcd624c47c479e00d9128bd1e5a806b
+Section: Tweaks
+Description: 控制中心定位开关模块。
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2026/01/11/efaf1855d982cac515e8c4825dd228e7.png
+Name: CCLocation
+
+Package: com.wkk.cclocation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.wkk.cclocation_1.1.0-1_iphoneos-arm64e.deb
+Size: 14204
+MD5sum: d6363453a02831f909f67b2196dbf166
+SHA1: 07bad12165066bb25edab723b0ab4961533dcad1
+SHA256: 91f84cf323a9903f878ad4ee5c35e9570bfd99b64908940c16d76214f7b1ad7b
+Section: Tweaks
+Description: 控制中心定位开关模块。
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2026/01/11/efaf1855d982cac515e8c4825dd228e7.png
+Name: CCLocation
+
 Package: com.wkk.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -16626,6 +16660,39 @@ Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都�
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
+
+Package: com.wkk.teleport
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.teleport_1.1_iphoneos-arm64e.deb
+Size: 14909598
+MD5sum: f636ae7b9f9963c4e86914ed55a0c012
+SHA1: c870f99fee43984c2f93f7003d5c357981760d6c
+SHA256: 85fcd085dc2d905d1b892dd1a04c873df2ae6277bc04d742cea9c63062ace991
+Section: 应用程序
+Description: 免费的虚拟定位。
+Author: SGWC
+Icon: https://s1.imagehub.cc/images/2026/01/11/ca1989da2f62c977eaa97c587366cb8c.jpeg
+Name: Teleport
+
+Package: com.wkk.teleport
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.teleport_1.1_iphoneos-arm64.deb
+Size: 7382468
+MD5sum: ea686ff3a8c7ca0df3fbdfa97bd54b93
+SHA1: 0e4cbdb1ce4536520ca28d16a66138f0ea9a7b54
+SHA256: 3702c0734d1efa500ac8e5723bdc75fe71901bd8b38a063f738f19663a9606f7
+Section: 应用程序
+Description: 免费的虚拟定位。
+Author: SGWC
+Icon: https://s1.imagehub.cc/images/2026/01/11/ca1989da2f62c977eaa97c587366cb8c.jpeg
+Name: Teleport
 
 Package: com.wkk.tie-gesture
 Version: 1.0.0
