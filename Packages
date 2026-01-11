@@ -11034,6 +11034,406 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/09/630abb059d1780a02736564752414145.png
 Name: 双指下滑截图
 
+Package: com.wkk.dumpapp
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurifications, netskao.wechatpurification
+Replaces: com.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.1_iphoneos-arm64.deb
+Size: 9337340
+MD5sum: 00875eb45024dd2ad161eba061c305a8
+SHA1: f01e6777e0ffe1943fb7e163cfcc027d14958232
+SHA256: b037982c48381881332ee0336ea8d35c6c5d82a44d19c5dbeca2d65db0e16a49
+Section: 微信插件
+Description: ### 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 24000
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurifications, netskao.wechatpurification
+Replaces: com.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.1_iphoneos-arm64e.deb
+Size: 25487728
+MD5sum: 1c4accb2efb600b5b930428d545eb27a
+SHA1: 31f0e5bfa24fb3848dd86c0ee45733de051fd9a6
+SHA256: 98b2138c48c55efd0e44f0cc34a44aecfeff685b4613fee65ce088f7a99f399d
+Section: 微信插件
+Description: ### 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 24000
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.2_iphoneos-arm64e.deb
+Size: 25516134
+MD5sum: 626d9c12ba37448d5a8e2c635979a10d
+SHA1: 1a95751674129ca4637ab06eef4cad73ee5e4b9e
+SHA256: ea01bb1a8a6ce5dd1f07ab1c96075dd3c0ea2f7330a1d7d22547905ed61e89dc
+Section: 微信插件
+Description: 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.2_iphoneos-arm64.deb
+Size: 9352908
+MD5sum: 4957d85da57f2769054d04663a2625c6
+SHA1: 1596a3ea2abb5ad4fb6c00f3b40e95352e860058
+SHA256: 9c4e6310c07d6c6a45c32dee1491e99276e38145c4f3315eed671d808eba5280
+Section: 微信插件
+Description: 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.3_iphoneos-arm64.deb
+Size: 9332648
+MD5sum: 07a5ba848a0200c87db262238098f6e7
+SHA1: 778e63437e86b9ff850f7e4d3962abed1d94288c
+SHA256: 3b25ff6c55834b671a0891afc3c9d0b420f0a2e6c18b6142aab7a659c39f07e0
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.3_iphoneos-arm64e.deb
+Size: 25467092
+MD5sum: 9e579b0e92238c3e7245d89201449b93
+SHA1: c972af77660ac9567b06782b71e22a8fc3d2f5df
+SHA256: a374ab09bb9d50265c0f634a9bf22abf143b38dcd4e23200ee79dd18d8fa659c
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.4_iphoneos-arm64.deb
+Size: 9231004
+MD5sum: 256a83bb16bb22833a705cf79e3760b6
+SHA1: f92b1a56d076a98e24e33889ffd224d067724607
+SHA256: 9a4f0cc06be025d9b2787fdcc89a92c72421d9a2c111b16fad9d718ce51caa15
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.4
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.4_iphoneos-arm64e.deb
+Size: 25413612
+MD5sum: 1d1fd5f5a4de8bd30a98d16b0451d587
+SHA1: 6c90f6eddb5e6277a80486f4911ee3208c28ee85
+SHA256: 93dd8b689dfb183a29b23cc59f202f465280f6eeb6dc56966cc8b2491ed1f95e
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.5
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.5_iphoneos-arm64e.deb
+Size: 28957606
+MD5sum: 888cead8ac6903cc509bea0594b90343
+SHA1: d0f0cceae3dd93e6aaa13ea7b1d1e4d0d62c0c09
+SHA256: 8e27dbbb8757ed79ca6088c3bd0a79263c532b80810c531d724039d7fae85af1
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.5_iphoneos-arm64.deb
+Size: 10432980
+MD5sum: d7fafb34e02490fed6f18b30a92fd128
+SHA1: f66c0390285bd3680e5130fe826125fc98013d1c
+SHA256: 5c40118767edc73d8b517c1313cb0a828fa77cf863bf7d0a331de1df4ebb2319
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.6
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.6_iphoneos-arm64e.deb
+Size: 29222706
+MD5sum: 160107db3f0acc6baffad7a1146099e9
+SHA1: 8d18e0f9589ddf69bff7eeee337cc590e3a3e1e2
+SHA256: 0f76bb68c3e7a8ae59d76b94634cf3cbbac49902f84bd0abb3d2837893f43f53
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.6_iphoneos-arm64.deb
+Size: 10511544
+MD5sum: c04528593b45c51df34ab04c6ec5a4fd
+SHA1: 2c5f7575092b7ed7f64f33d8ac74516ef06c3bfa
+SHA256: 0be88c3a9618c2614283c3872c8b19ed0b6b42ccf128b596c4c0c92d2cff5785
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.8
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.8_iphoneos-arm64e.deb
+Size: 29241964
+MD5sum: 11d4fea9cb07677acc1700f0d30d04a3
+SHA1: 50f24932f3de2c060300149d24fd73fdc8aa76a5
+SHA256: 2790f40d68999e54fecf2ba0a04bba95f41a7f444d89f0be8592c4970082204f
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.8_iphoneos-arm64.deb
+Size: 10526116
+MD5sum: 254f09b4fc284dc19c482b0f75159c0e
+SHA1: 855afa67d7bfd8f8558c68583b089bafe5eb309c
+SHA256: c3d30813ee99d5957ff07a7ed3b41701fd8a834095011d355261467b39766d2c
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.9
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.9_iphoneos-arm64e.deb
+Size: 29222030
+MD5sum: 6329c9e1a8d5901f5ac34d5c9a699674
+SHA1: d4dd8a603e194c84fd3f1094928bd81cbdb9ac3f
+SHA256: 814515b57678fc4a33bd6bfa81b6ba4e4e678d2e9b836a3be4de91d8f8460c63
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.0.9
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.0.9_iphoneos-arm64.deb
+Size: 10516664
+MD5sum: d3723ecfae655b6aadeb36f39b863e09
+SHA1: f8096cf831c2f11ade8c7c2bee168cdf306883aa
+SHA256: 6ef2cd7fefa67502c83c2025569e6bc34e9437356c6cbfc7af935388dd8f725f
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.1.0_iphoneos-arm64.deb
+Size: 10901740
+MD5sum: 6ffda6732be392bbe7ee56b7302eca39
+SHA1: 38e071fefea6d465bf33c47c14b3282d1d49dbcb
+SHA256: 5dc94b0932ffb3b760782442bdd98f049d64ffadd8c25b230e39f9691983039e
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.1.0
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.1.0_iphoneos-arm64e.deb
+Size: 30369414
+MD5sum: ff0e459290714c50729dc7c006a8496b
+SHA1: 5e0d8004e6d36cf9ba2e5f440cf41370b58f70dc
+SHA256: 7b93a93dcabad37205f4b3ac9a68c1f4a9354a174bdefaa7ecc6995bb45cf2ec
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.3.0
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.3.0_iphoneos-arm64.deb
+Size: 5623544
+MD5sum: a00a9ad898679bd1a6ce3de0545b49fd
+SHA1: 404adf5204e01d12fec4f3c7bbadca4b31d4873b
+SHA256: 95f4e99f8856fd6a3a730d624d74e58bfb62ce3be71ffdaf711c5e75620f5a0b
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.3.0
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.3.0_iphoneos-arm64e.deb
+Size: 15287910
+MD5sum: ef17c8baef90e65fb697aa2e57234a7e
+SHA1: 618abe47fe360e796ffe567de1eb0f00d1a58125
+SHA256: 9057888765f2db7bc8ee94833cccfb1ae59f973fcc1d22c586b2ce189afb1354
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
 Package: com.wkk.dy
 Version: 1.0
 Architecture: iphoneos-arm64e
