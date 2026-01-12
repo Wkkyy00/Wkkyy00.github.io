@@ -16766,6 +16766,38 @@ Author: SGWC
 Icon: https://s1.imagehub.cc/images/2026/01/11/ca1989da2f62c977eaa97c587366cb8c.jpeg
 Name: Teleport
 
+Package: com.wkk.tg
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 13768
+Filename: ./debs/com.wkk.tg_1.7.1_iphoneos-arm64e.deb
+Size: 2331544
+MD5sum: 1da7f4b498637b9d6fd0ce822d98ab31
+SHA1: a4a4109a5cece22dbcf820a05bf242bd1043c1a1
+SHA256: d9e45fbb5cd7ca5f004fda215bde1ce3b11e0696699a9fb2727757abd7347799
+Section: Tweaks
+Description: TG增强，关于12.3版本的资源，若有需要的朋友可以使用，另外，新增了对Turrit的支持，若想在Turrit中打开TGExtra界面，请进入设置页面，长按"关于Turrit"选项即可。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2026/01/13/97aa70e87d310ef9c70f7c07ecf35464.jpeg
+Name: TGExtra
+
+Package: com.wkk.tg
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 13768
+Filename: ./debs/com.wkk.tg_1.7.1_iphoneos-arm64.deb
+Size: 2331376
+MD5sum: 8b478dc5715ac10feedcc1007467afa1
+SHA1: 4608f46c8fb5a5229f69144a34730677f6ef96b5
+SHA256: 45591df7c613232dc3fc1bb35202886bdde0a920ba885355e430f5cbc92a0661
+Section: Tweaks
+Description: TG增强，关于12.3版本的资源，若有需要的朋友可以使用，另外，新增了对Turrit的支持，若想在Turrit中打开TGExtra界面，请进入设置页面，长按"关于Turrit"选项即可。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2026/01/13/97aa70e87d310ef9c70f7c07ecf35464.jpeg
+Name: TGExtra
+
 Package: com.wkk.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64e
