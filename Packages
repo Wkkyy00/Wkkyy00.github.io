@@ -7630,6 +7630,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.2.3
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.3_iphoneos-arm64.deb
+Size: 4963592
+MD5sum: ddc556e1aba9542db807391f7d8c9594
+SHA1: 69478ac7e109b98362df70140017ef0783258f43
+SHA256: d27c7843afed77a4b92e4498a9107a108e5a01625f301ec6699488817db0f904
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.2.3
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.3_iphoneos-arm64e.deb
+Size: 13381508
+MD5sum: baae9ba1213a8202a9afeae9c7c4a68b
+SHA1: 487b30264acfa9a71ca8e6865eb5969ee1c6e56a
+SHA256: 3faee39a4ab47874fb3930a6ce28a82657f82d8ba959bcfdc65ab0cb26182107
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -18605,6 +18640,41 @@ SHA1: 942279394b852431bb957cac082c4a7ed2f9145a
 SHA256: 66c38378a458494455ffb453e3a3f324625920e8c7efdbe71c5ebe48ab80bae4
 Section: 去广告
 Description: 去开屏广告，版本：11.1.65，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/09/d10c2a93a01549c3516da9d4600b5350.png
+Name: 优酷NoAds
+
+Package: com.wkk.ykhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ykhook_1.0-2_iphoneos-arm64.deb
+Size: 4476
+MD5sum: f8f13c137ae2e7bb053788c90b32f8f9
+SHA1: 3b9763aef34bc58dd43a7b42255ed882eaf496b7
+SHA256: 171fd71dd30c7724f4195eba59b5020f8afd405f7c37cf761743e4fd425f924b
+Section: 去广告
+Description: 去开屏广告，版本：11.1.73，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/09/d10c2a93a01549c3516da9d4600b5350.png
+Name: 优酷NoAds
+
+Package: com.wkk.ykhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ykhook_1.0-2_iphoneos-arm64e.deb
+Size: 6196
+MD5sum: d80f7352d2fc80978fd9f3ea019f4b08
+SHA1: 87807b1e85eb1ab72c7db4d4710b11f5e2cb06ea
+SHA256: 70bc79ece867d823ad37e4bf05c671760b435b5f02e99706525b1ad2e94a71d3
+Section: 去广告
+Description: 去开屏广告，版本：11.1.73，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/09/d10c2a93a01549c3516da9d4600b5350.png
 Name: 优酷NoAds
