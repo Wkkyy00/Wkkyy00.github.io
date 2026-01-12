@@ -19551,3 +19551,26 @@ Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: NewTerm 3 Beta
 Support: https://hashbang.productions/support/
 
+Package: ws.hbang.newterm3
+Version: 3.0~beta1-1042+debug
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24244
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/ws.hbang.newterm3_3.0~beta1-1042+debug_iphoneos-arm64.deb
+Size: 3942564
+MD5sum: 86f26567057666f8b13867a55ba28540
+SHA1: 0217e838b1509ad63079e1efb0ad418bc8d02d12
+SHA256: b6d2a51dc33e9b4cf41856c6abf7dbdd9b16b06f9d1c99594803c1f3f37569d2
+Section: 应用程序
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
