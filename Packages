@@ -13368,6 +13368,73 @@ Author: sergy
 Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
 Name: Immortalizer
 
+Package: com.wkk.injectipa
+Version: 1.5-7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1688
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.wkk.injectipa_1.5-7_iphoneos-arm64e.deb
+Size: 572272
+MD5sum: 0cc0108c8ca911cac8ebea5b2b885564
+SHA1: d65b9174c62b1e501bca732e04abc132a72ff2d4
+SHA256: 249ecb35a274c999797f57cfca8eee1558d7570cf1fd5a969018fef7375e24f5
+Section: Tweaks
+Description: InjectIPA Tool 配合终端可以一键对微信ipa进行注入打包。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: injectipa
+
+Package: com.wkk.injectipa
+Version: 1.5-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1688
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.wkk.injectipa_1.5-7_iphoneos-arm64.deb
+Size: 417304
+MD5sum: 1a979eacfc8bbe68790a8ca8341dbad5
+SHA1: 061ea87a39e169e3ee7bad240054b84ae923af41
+SHA256: 419eb8e3a937b385faf5cc008de50a5827c3f9821beb3b1c1a46f7029b0548d2
+Section: Tweaks
+Description: InjectIPA Tool 配合终端可以一键对微信ipa进行注入打包。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: injectipa
+
+Package: com.wkk.injectipash
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.injectipash_1.0-1_iphoneos-arm64e.deb
+Size: 9908
+MD5sum: d7f85f45a9d149ccd24997a69d4f8002
+SHA1: fb82b2f9b389e86fa75e019fad0770eb6c4674a2
+SHA256: 2e84cc63dc815a2ad782711c45007a76bc775cc9c3e73b8b24b33f7e35d59612
+Section: 插件配置
+Description: 需要配合injectipa和curl一起使用，把你的微信ipa和dylib或者deb全部放在同一个目录，点脚本运行即可快速制作一个WeChat包。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: injectipa终端配合工具
+
+Package: com.wkk.injectipash
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.injectipash_1.0-1_iphoneos-arm64.deb
+Size: 9904
+MD5sum: c954f060cb09f3bb5c5c22af8ca1bffe
+SHA1: e5a77b20eec10206c38ef1a3d64ddfe1457385a4
+SHA256: 6361a8247937656bbab56875177b04fb7c85e1c77e34a9f6163da15ebed986fc
+Section: 插件配置
+Description: 需要配合injectipa和curl一起使用，把你的微信ipa和dylib或者deb全部放在同一个目录，点脚本运行即可快速制作一个WeChat包。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: injectipa终端配合工具
+
 Package: com.wkk.instalauncher2
 Version: 1.11.0
 Architecture: iphoneos-arm64
