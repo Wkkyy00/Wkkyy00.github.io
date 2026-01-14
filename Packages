@@ -10306,40 +10306,6 @@ Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEmoticoncolorsocool
 
-Package: com.wkk.cocoatophh
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.cocoatophh_1.0-1_iphoneos-arm64.deb
-Size: 16152
-MD5sum: 80721d12baad5b3ca5e94801d2904df0
-SHA1: 30210272bf4d7e0378515dbf08dbf25186b0204b
-SHA256: efe38c7445e2fbe164007088e29d88b0041837594f3a6e79fcdd4b2b450cedca
-Section: Tweaks
-Description: 汉化。
-Author: wkk
-Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
-Name: cocoatop汉化
-
-Package: com.wkk.cocoatophh
-Version: 1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.cocoatophh_1.0-1_iphoneos-arm64e.deb
-Size: 16160
-MD5sum: 7a3c8973c244f1b4f4d7b89fba4f121f
-SHA1: 76cfaa7c14d5a4da7f7b4d24516287e2ff1ca9f0
-SHA256: 4c13337c7e18fdec999fc371617acbfe9077b0cfa37ab4bccc3418dff097ef74
-Section: Tweaks
-Description: 汉化。
-Author: wkk
-Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
-Name: cocoatop汉化
-
 Package: com.wkk.collection
 Version: 1.0
 Architecture: iphoneos-arm64e
