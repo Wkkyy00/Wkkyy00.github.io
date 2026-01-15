@@ -19020,6 +19020,41 @@ Author: xx
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 隐藏键盘语音地球
 
+Package: com.wkk.ydyphook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ydyphook_1.0-2_iphoneos-arm64e.deb
+Size: 5400
+MD5sum: b4b7c24ce617c824313f8af6128a1d1b
+SHA1: a9c50ed8b2ab9cde0f45014ee486d62ff00c784f
+SHA256: 5590eaee56a2850a9dc3afa2e79534f241fe84f886e73baa952a8e7fa74d93ca
+Section: 去广告
+Description: 去开屏广告，版本：12.4.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/15/953bf18bd2864c2955688e922e535313.png
+Name: 移动云盘NoAds
+
+Package: com.wkk.ydyphook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ydyphook_1.0-2_iphoneos-arm64.deb
+Size: 3840
+MD5sum: e6cbe3540864b4f3a4cdcbf80b645b54
+SHA1: 299adce150a2848a8ce97c6979bba3750dd87865
+SHA256: 065d26f492eb20cd02ae8a95778a2543bbba1b7470b955138ae0e127a709675d
+Section: 去广告
+Description: 去开屏广告，版本：12.4.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/15/953bf18bd2864c2955688e922e535313.png
+Name: 移动云盘NoAds
+
 Package: com.wkk.ykhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
