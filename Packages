@@ -13555,6 +13555,40 @@ Author: Ivano Bilenchi
 Icon: https://s1.imagehub.cc/images/2025/01/01/3c86578830a5a4b2897f2780576e07a9.jpeg
 Name: iCleaner Pro
 
+Package: com.wkk.iconshadow
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 96
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.iconshadow_1.1_iphoneos-arm64e.deb
+Size: 9664
+MD5sum: cd8ce4ba356b0db07fa5cb28659d4266
+SHA1: c32d3db77d9bfe3a3b65d1bfe62fc151f6be24c9
+SHA256: 48f97f656062c85669a614b19ba68ab7b50530e53128a9db54802f0947d81a5d
+Section: Tweaks
+Description: 给图标添加一层阴影图片。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hello Shadow
+
+Package: com.wkk.iconshadow
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 96
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.iconshadow_1.1_iphoneos-arm64.deb
+Size: 4932
+MD5sum: c519ef7fe060aad7cacab5f5c3a9ba8b
+SHA1: c9df8ca5d076a09290044a34c690f0362167ebbe
+SHA256: ea602b9c06a6e518f77926ed37ada8b71bb0a44387e57a692e43fedc5a7e0aea
+Section: Tweaks
+Description: 给图标添加一层阴影图片。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Hello Shadow
+
 Package: com.wkk.iconx
 Version: 1.0
 Architecture: iphoneos-arm64
