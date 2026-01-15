@@ -144,6 +144,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: split-view-pro
 Ts: sp-sss
 
+Package: cn.wkk.swipeextenderx
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.wkk.swipeextenderx_0.0.2_iphoneos-arm64e.deb
+Size: 13676
+MD5sum: 390455bbc2099af752176886c005edbb
+SHA1: 7daebeec883cb8c7fabf74e4463ddfb16eac82da
+SHA256: 81fcca1368127affa7bf6e6dbe8e9d2534eb0959d7bd3d0e85e5ee7d834d40d3
+Section: Tweaks
+Description: 如题。
+Author: 来了老弟
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX汉化
+
+Package: cn.wkk.swipeextenderx
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.wkk.swipeextenderx_0.0.2_iphoneos-arm64.deb
+Size: 10300
+MD5sum: 74a1c175030d5ac9c12cb105f0c5da74
+SHA1: 8eafa059bf665bdfae1a746cac8380db40140110
+SHA256: 905142b881fe49d00eaadaf16dac0e4c1df9d6c99fc40e23803c0c7a35b85183
+Section: Tweaks
+Description: 如题。
+Author: 来了老弟
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX汉化
+
 Package: cn.wkk.tmts
 Version: 1.2
 Architecture: iphoneos-arm64e
