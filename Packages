@@ -9298,6 +9298,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/15/f745bcefbac741c35388050107791d58.png
 Name: 波点音乐NoAds
 
+Package: com.wkk.bdhook
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bdhook_1.0-3_iphoneos-arm64e.deb
+Size: 4918
+MD5sum: db832add1e6947fb44f81ae71734ea5c
+SHA1: 81945ddc06ca8a4eaccf36a88efa1d253fd9e746
+SHA256: 4c96c40312a294b9622cdb5d2ac4cb2c45a1a5081cfece2623d22975f847ad92
+Section: 去广告
+Description: 去开屏，版本：5.4.4。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/15/f745bcefbac741c35388050107791d58.png
+Name: 波点音乐NoAds
+
+Package: com.wkk.bdhook
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bdhook_1.0-3_iphoneos-arm64.deb
+Size: 3456
+MD5sum: bc91cf8622f4db900dd1d4fad76d9713
+SHA1: 76983c12ae85723eb09c507e5ec44802527c7ae5
+SHA256: 08067ca2d51f0ec9577b41baf8c007bb127260dfc3f8d26214e46ca16a19f678
+Section: 去广告
+Description: 去开屏，版本：5.4.4。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/15/f745bcefbac741c35388050107791d58.png
+Name: 波点音乐NoAds
+
 Package: com.wkk.bdwkhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -11946,6 +11981,41 @@ SHA1: f6dfd1696a488ee13ccdf0ea27f96c974703174b
 SHA256: ffa5364b0853578cb5ce9c8aa9f906b7fdb9d451ddb2aefe7ee853135f1fa1e5
 Section: 去广告
 Description: 去开屏广告，测试版本：11.43.13
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
+Name: 大众点评NoAds
+
+Package: com.wkk.dzdphook
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dzdphook_1.1-2_iphoneos-arm64e.deb
+Size: 4940
+MD5sum: 1a125b5d3b25fdaa4dfc40a22c3c0a13
+SHA1: c27fe0c6a21310527bf3e5b60129d802f8b8df75
+SHA256: 1a004474a6d9b76e4d1ee1443894ac3af40bab3cf6c605f134c730a86eaf9632
+Section: 去广告
+Description: 去开屏广告，测试版本：11.56.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
+Name: 大众点评NoAds
+
+Package: com.wkk.dzdphook
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dzdphook_1.1-2_iphoneos-arm64.deb
+Size: 3388
+MD5sum: 24e11b60f45edafd058e04dd308ed80b
+SHA1: a1567da064b7e3b280da85f8baa3303c4d93df4c
+SHA256: 5b4e44bbe277d89714c4409fc06e241bb59fad00da9f9826b02db2cdd2e5d244
+Section: 去广告
+Description: 去开屏广告，测试版本：11.56.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/b8e549c210944f75bdf8d198a3d74e92.jpeg
 Name: 大众点评NoAds
@@ -15725,6 +15795,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/11/305a48c9773b7d9257998d276c541dbf.png
 Name: 汽车之家NoAds
 
+Package: com.wkk.qichezhijiahook
+Version: 1.0-5
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qichezhijiahook_1.0-5_iphoneos-arm64e.deb
+Size: 5004
+MD5sum: 58983895d060e9e6d776c58f2467e91f
+SHA1: 955c255a5811d525b58358fd00f59c80f9dfb564
+SHA256: 50ffabd1b554a7d9c2975102d33dac41f7a0115462202790ca7a920d2721d5b7
+Section: 去广告
+Description: 去开屏广告，测试版本：11.82.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/305a48c9773b7d9257998d276c541dbf.png
+Name: 汽车之家NoAds
+
+Package: com.wkk.qichezhijiahook
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qichezhijiahook_1.0-5_iphoneos-arm64.deb
+Size: 3452
+MD5sum: 5901d7a326dc072fe540673b7a353706
+SHA1: 759d0fc551238923fe795eb071009f8fc7e704e6
+SHA256: 1b14b4e0f05530e9fdf24cf1f4768805c0301496674b24f9da659f465a86fe04
+Section: 去广告
+Description: 去开屏广告，测试版本：11.82.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/11/305a48c9773b7d9257998d276c541dbf.png
+Name: 汽车之家NoAds
+
 Package: com.wkk.qiehook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -19383,6 +19488,39 @@ Section: 去广告
 Description: 去开屏，版本：11.1.15
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/06/15/b316043d10ba63ae984e22bc0c193efd.png
+Name: 什么值得买NoAds
+
+Package: com.wkk.zdmhook
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.zdmhook_1.0-4_iphoneos-arm64e.deb
+Size: 7334
+MD5sum: 7eccc05735a68d9217cc65a886edeea3
+SHA1: 05cfd39f0e699eee6b20ae86fdc20cb9361d5877
+SHA256: abe5cc99d359b97ad72c4cd10cc30f24306b7357af0dad0a72d9b06c40161c4a
+Section: 去广告
+Description: 去开屏，版本：11.1.53，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/15/32b308482c8d9f543e1c44631d46c30b.png
+Name: 什么值得买NoAds
+
+Package: com.wkk.zdmhook
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.wkk.zdmhook_1.0-4_iphoneos-arm64.deb
+Size: 5288
+MD5sum: 59c24415b6d6e4b0bd833fbc1b4a13c9
+SHA1: 78633bed5d5747e4ea94b2f4398d0f5fe2303684
+SHA256: c6308acff5e5e88af6adff2b43ff6aabfa51f11eb6158c604eb070e7c164a06b
+Section: 去广告
+Description: 去开屏，版本：11.1.53，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/15/32b308482c8d9f543e1c44631d46c30b.png
 Name: 什么值得买NoAds
 
 Package: com.wkk.zeppelinreborn
