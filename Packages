@@ -7735,6 +7735,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.2.5
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.5_iphoneos-arm64.deb
+Size: 5023876
+MD5sum: 829706559c4a391d4cb27c30b7e2b7d2
+SHA1: cb8d191459ff58513b43fe1c4590e8a05ec52446
+SHA256: d2e79fd932f73c54875a8fbf5e7a72534cda68268872d43153a393454021cde2
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.2.5
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.5_iphoneos-arm64e.deb
+Size: 13525272
+MD5sum: 36d443913226788f5ee67357b589f3bb
+SHA1: 4b005487a4eb4b9d7bbea22d470575277f0abab6
+SHA256: eeab07ae1a5d09ad399b1e32c436d43c7fe1817a58dc9cf1971dd861a858cf3e
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -10375,24 +10410,6 @@ Description: 统一表情背景色，仅供学习交流，请在 24 小时内自
 Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEmoticoncolorsocool
-
-Package: com.wkk.collection
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: SuSu
-Installed-Size: 520
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.wkk.collection_1.0_iphoneos-arm64e.deb
-Size: 62480
-MD5sum: e252b4c5afd9018beb15e4b986ba6946
-SHA1: 784481867d3901c5f139d78c451f6c6d5716a2a5
-SHA256: 36acc1e3ffbdcd7834b26cfe65052e5bdd005c498cc0a073f8ba2e501e50a140
-Section: Tweaks
-Description: 自用合集插件。
-Author: SuSu
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: SuCollection
 
 Package: com.wkk.coolapp
 Version: 1.5
