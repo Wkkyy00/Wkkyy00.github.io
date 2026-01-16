@@ -17060,6 +17060,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 神奇的交互动画
 
+Package: com.wkk.ssschook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ssschook_1.0-2_iphoneos-arm64e.deb
+Size: 3716
+MD5sum: fc69037f32454f6a2274a18d8cc94357
+SHA1: 835ca10c142e64ce702503b3fdafe1acd184e648
+SHA256: 94dbcdf944c617cee6095b12b67c81331e4501114fca4ea019ef6009f7692f1b
+Section: Tweaks
+Description: 但不禁用编辑功能。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用截图预览
+
+Package: com.wkk.ssschook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ssschook_1.0-2_iphoneos-arm64.deb
+Size: 3780
+MD5sum: bc3a5c38890acd3328e1664a33b2adeb
+SHA1: 7b87e317634e1bf6165ecdc446df84147b3a7617
+SHA256: 3253a565c42c030ae6ccb41f6504ef0f568e9b1e08aa6cb76d66b7008ef03f04
+Section: Tweaks
+Description: 但不禁用编辑功能。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用截图预览
+
 Package: com.wkk.stella
 Version: 1.1.5
 Architecture: iphoneos-arm64
