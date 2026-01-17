@@ -12708,6 +12708,40 @@ Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/12/31/c000ad65b1c4893e99b9813d3108fc73.png
 Name: FloatingDockXVI
 
+Package: com.wkk.floder4
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.floder4_1.1-9_iphoneos-arm64e.deb
+Size: 6796
+MD5sum: 9b9ab1e36a46ad3e62d069b05492fff2
+SHA1: eac75150581f8435d28fc15baae043dc8285846f
+SHA256: df59f40cc8c2c03cbb9480cff86115ef85dded06626ff04b76fdc4952d6babba
+Section: Tweaks
+Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹，配合源里文件夹阴影使用将springboard占用压缩到最低。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
+Name: Floder4x4
+
+Package: com.wkk.floder4
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.floder4_1.1-9_iphoneos-arm64.deb
+Size: 6884
+MD5sum: e230964fb7ecf509fd6d60f358b9ad1d
+SHA1: 1cadbdf567928a720c26be14780e9a1be56459a5
+SHA256: 429f78e95a34a75ae5e89178f02658045ff4328371d9183f263b1e728b52345f
+Section: Tweaks
+Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹，配合源里文件夹阴影使用将springboard占用压榨到最低。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
+Name: Floder4x4
+
 Package: com.wkk.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64e
