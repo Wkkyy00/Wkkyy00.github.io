@@ -18487,6 +18487,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/15/513f94e50f1e20c0b1356b75e4938fc3.png
 Name: 携程旅行NoAds
 
+Package: com.wkk.xclxhook
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xclxhook_1.0-3_iphoneos-arm64.deb
+Size: 4088
+MD5sum: 323bb0e0b43e64c2a4421a402d71f0a9
+SHA1: 506c0d697c7570b8b60c3f2a3f3c220c704f2044
+SHA256: 50afda9867770b8bbe429a9644717387bc83dd88de7d03dc78367b84c312459d
+Section: 去广告
+Description: 去开屏广告，版本：8.88.6，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/15/513f94e50f1e20c0b1356b75e4938fc3.png
+Name: 携程旅行NoAds
+
+Package: com.wkk.xclxhook
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xclxhook_1.0-3_iphoneos-arm64e.deb
+Size: 5656
+MD5sum: 4ad901e9f51cb9551236503e81dd2523
+SHA1: 0d57f41aede047757b02a0c376a8087d7e376760
+SHA256: 2ea25f93ca0e4ae3de04ec54c30063b6ebdde04e4a5e5e0a608f13b1dfb7ba73
+Section: 去广告
+Description: 去开屏广告，版本：8.88.6，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/15/513f94e50f1e20c0b1356b75e4938fc3.png
+Name: 携程旅行NoAds
+
 Package: com.wkk.xgj
 Version: 1.0-1
 Architecture: iphoneos-arm64
