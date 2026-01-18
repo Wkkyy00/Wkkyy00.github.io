@@ -10378,6 +10378,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/10/9c630c1cf2e82dad87a2c521de661ff2.png
 Name: 豆瓣NoAds
 
+Package: com.wkk.dbzshook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dbzshook_1.0-1_iphoneos-arm64.deb
+Size: 4084
+MD5sum: 45176d3924e35dcfca61d4fba7b9a1fa
+SHA1: e88fb03194ebeea7bc8b1332ad10de9b43772a31
+SHA256: 25bbc0bc6cb2d76bfd1ddf68afef014e8584fd67f121807c5d7a05b91ea716a0
+Section: 去广告
+Description: 去开屏广告，版本：4.4.14，去应用内所有广告需走定制，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/19/6c9041bfd167b954b3f959d1d3f09ab6.png
+Name: 倒班助手NoAds
+
+Package: com.wkk.dbzshook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dbzshook_1.0-1_iphoneos-arm64e.deb
+Size: 5808
+MD5sum: 9a00fba22bb7f9e25e6f113b3972cac8
+SHA1: 46fbaaa91961e9687947efbed94e9652ed0ceade
+SHA256: c414cb0c2d491d3cd814dfbd90b2c65600656a111e4a0d37cc2f1e60e350d9f8
+Section: 去广告
+Description: 去开屏广告，版本：4.4.14，去应用内所有广告需走定制，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/19/6c9041bfd167b954b3f959d1d3f09ab6.png
+Name: 倒班助手NoAds
+
 Package: com.wkk.ddcxhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
