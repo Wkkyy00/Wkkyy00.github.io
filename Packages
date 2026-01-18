@@ -17587,6 +17587,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/19/e7f05d5ae0dd964c58131ab814df26d3.png
 Name: 腾讯体育NoAds
 
+Package: com.wkk.tzgjhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tzgjhook_1.0-1_iphoneos-arm64.deb
+Size: 3452
+MD5sum: 2d95353273a1840a41d03ef75f61567a
+SHA1: 619463d094a482936404efe1dd5826b375ef933c
+SHA256: 09fd3785f5255c7128b8e9e239703091ed6940c88f6a508fd4699304d4b4ce54
+Section: 去广告
+Description: 去开屏广告，版本：16.5.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/19/c257ee018d2f3cd556765003ed904364.png
+Name: 腾讯手机管家NoAds
+
+Package: com.wkk.tzgjhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tzgjhook_1.0-1_iphoneos-arm64e.deb
+Size: 4982
+MD5sum: 0779ade17299a05cc3a87ae37b9e6aef
+SHA1: 9df0839ddd7b49d08b6ef8cfd445fbe397f9b858
+SHA256: 9ec929ca58edbc2ef3bd47dfa890c368736b0fc7b202bbe9e371e1763b05988c
+Section: 去广告
+Description: 去开屏广告，版本：16.5.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/19/c257ee018d2f3cd556765003ed904364.png
+Name: 腾讯手机管家NoAds
+
 Package: com.wkk.upsidedowned
 Version: 1.1-4
 Architecture: iphoneos-arm64
