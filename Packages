@@ -10590,6 +10590,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/fbbb3ee1bb742f01530324aecc450222.png
 Name: 滴滴出行NoAds
 
+Package: com.wkk.didihook
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.didihook_1.1-9_iphoneos-arm64e.deb
+Size: 5014
+MD5sum: c1a5487f48c8f062472fa8d3ca41790f
+SHA1: 3a97d1de4b6efbf962ddc98c3367c540ff9b5347
+SHA256: 0f73ca3926d65cf5de22ba9682d835cab99e5536151449ecba6180c5a5833a0b
+Section: 去广告
+Description: 去滴滴开屏广告，测试版本：7.2.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/fbbb3ee1bb742f01530324aecc450222.png
+Name: 滴滴出行NoAds
+
+Package: com.wkk.didihook
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.didihook_1.1-9_iphoneos-arm64.deb
+Size: 3488
+MD5sum: 770fb303af2b10b67f1e4e6400dfaee5
+SHA1: 84d73119b5bd8d05abc0c770f121a8dbe2266ae7
+SHA256: 732eb4d2bebd190b3f25717ef6aab86f914b0516c81893ec0095a390e6ebc7ea
+Section: 去广告
+Description: 去滴滴开屏广告，测试版本：7.2.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/fbbb3ee1bb742f01530324aecc450222.png
+Name: 滴滴出行NoAds
+
 Package: com.wkk.ding
 Version: 1.1.0
 Architecture: iphoneos-arm64e
