@@ -12876,16 +12876,16 @@ Name: 灵动岛GIF背景
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/gif.json
 
 Package: com.wkk.gif
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm64e
 Maintainer: liuf <kk99588077@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: oldabi
-Filename: ./debs/com.wkk.gif_1.0_iphoneos-arm64e.deb
-Size: 18348
-MD5sum: 99b879a3decb23737dc2ab07b6704d31
-SHA1: 6fed7e14456a5b1fee8d8c4a36cf562b8399e43b
-SHA256: 4a48bc91cdd2c5f5860785fdbd3c6a77cf292fc1f87181dbebb040e51366d7d1
+Filename: ./debs/com.wkk.gif_1.0-1_iphoneos-arm64e.deb
+Size: 21780
+MD5sum: 068dbd46974035c4025200157f7c5556
+SHA1: 8cf911d7b8af3324df52cbb584417f24121f691e
+SHA256: 886b19943e8488db845cf5e83ae2106356f86ed1c2b149ef143d880e2e90212d
 Section: Tweaks
 Description: 此版本去除了flex3依赖，配合转插使用，默认拉起依赖，素材在/var/mobile/lddgifbg/文件夹里面，在lddgifbg文件夹里面再创建一个文件夹，名字随意，再把素材放进去。一个素材一个文件夹。添加素材不要太大，我测试时大小为30mb，选择后需要等他缓存几秒钟，再去注销，开关可以重新关闭打开一下，素材切记不要太大，容易爆内存，GIF图可以用小工具集视频转GIF制作，没有工具的可以+QQ1772773799
 Author: liuf
