@@ -14802,6 +14802,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/20/054b3d51d5c8b82a205282047a409964.png
 Name: 米游社NoAds
 
+Package: com.wkk.myxjhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.myxjhook_1.0-1_iphoneos-arm64.deb
+Size: 3280
+MD5sum: 218b34e6cc35b34a7b77f162d9984076
+SHA1: 77af2d882967e693ca682893329f2261a0e5b7c3
+SHA256: 24b6e976fa76c657566c3b5a48f75a7fb7284724ea6e0c5b6f8be8320dd61f6c
+Section: 去广告
+Description: 去开屏广告，版本：12.9.80，去应用内所有广告需走定制，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/19/2c90cf1103871cbcf05df8a7d93d04eb.png
+Name: 美颜相机NoAds
+
+Package: com.wkk.myxjhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.myxjhook_1.0-1_iphoneos-arm64e.deb
+Size: 4808
+MD5sum: 4fe27119cf4b4126c641cb9b842c4b1f
+SHA1: 3de607da63818eec0507d456d7e77cf9dc8a6d86
+SHA256: d479e7bac8581bcec27e816ac72e39ba7fad872d68f5fefdf946c08722ab61f0
+Section: 去广告
+Description: 去开屏广告，版本：12.9.80，去应用内所有广告需走定制，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/19/2c90cf1103871cbcf05df8a7d93d04eb.png
+Name: 美颜相机NoAds
+
 Package: com.wkk.native-island
 Version: 1.0.3
 Architecture: iphoneos-arm64
