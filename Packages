@@ -12420,6 +12420,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
 Name: Folder4x4
 
+Package: com.wkk.folder4
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.folder4_1.2-4_iphoneos-arm64.deb
+Size: 10552
+MD5sum: 7e7546fe729541ac1a49529c31a11e14
+SHA1: 2b2101166fd130bd21f0e831ddc20fcc524a4a71
+SHA256: 8f62b1aac0bdbd93a197bf18876abdf487bb168fb2a00fa4b98f986f4bd762cd
+Section: Tweaks
+Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
+Name: Folder4x4
+
+Package: com.wkk.folder4
+Version: 1.2-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.folder4_1.2-4_iphoneos-arm64e.deb
+Size: 9344
+MD5sum: f804849fdd1e2608f37eca988696d021
+SHA1: 2cb81cd9a3fc47c6a37e12b288bedf2d9205d940
+SHA256: 60fc2e6b6e354b65fc396ddaa69695616996dfdf5749e56b321398084e00fd73
+Section: Tweaks
+Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
+Name: Folder4x4
+
 Package: com.wkk.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64e
