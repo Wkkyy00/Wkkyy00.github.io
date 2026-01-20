@@ -19686,6 +19686,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/07/05/a5778ca861ddac510494241b6e58cb06.jpeg
 Name: 中国电信NoAds
 
+Package: com.wkk.zggdhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zggdhook_1.0-1_iphoneos-arm64e.deb
+Size: 6758
+MD5sum: 44228f9bae1fa9ddfc7e2794b75d55b4
+SHA1: 216aa7ce86b9cd6cadbc1d108e2dae2863ec01fa
+SHA256: 4b50c934ad8d7c447f97616331eb3b6acf58920ba1b31a1520be21300f31afc8
+Section: 去广告
+Description: 去开屏广告及首页底栏视频按钮，版本：2.0.5，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/20/0844d5dc67efca60805d2d82a04a0f93.png
+Name: 中国广电NoAds
+
+Package: com.wkk.zggdhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zggdhook_1.0-1_iphoneos-arm64.deb
+Size: 4816
+MD5sum: 6125adc380bf0f2e8dc95c8360a231f6
+SHA1: 91213fa3d389a1ac346a42bef60cad6edab62d45
+SHA256: 50b99f09ea874e2cf989b2ddaa99063d3fe88708671d245c7d59a1359adf9a49
+Section: 去广告
+Description: 去开屏广告及首页底栏视频按钮，版本：2.0.5，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/20/0844d5dc67efca60805d2d82a04a0f93.png
+Name: 中国广电NoAds
+
 Package: com.wkk.zhezhao
 Version: 1.0-1
 Architecture: iphoneos-arm64e
