@@ -13844,6 +13844,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 系统键盘圆角
 
+Package: com.wkk.kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kbhook_1.0-1_iphoneos-arm64.deb
+Size: 2944
+MD5sum: 923aeb265a4ccd5e1eff0933d63d6b56
+SHA1: c98f65317a4033b85f34b4d8ce656beef32aa3c6
+SHA256: 56eafc88347818e252a397548fd607cde16016619b842ab9dbbcd3d1928c2543
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统键盘圆角
+
 Package: com.wkk.kbstyle
 Version: 1.0
 Architecture: iphoneos-arm64e
