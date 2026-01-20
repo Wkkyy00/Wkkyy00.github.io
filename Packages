@@ -5692,41 +5692,6 @@ Author: lhyee
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: fix图标错位
 
-Package: com.liuf.jpyj
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: liuf <(null)>
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
-Size: 3732
-MD5sum: 2e375f73d7d05de5c0b67f2e92c9d295
-SHA1: 63a386e77f80e12d19399ee1929f0637a810cc5d
-SHA256: bde10b68a6415ca41086fc9661493e550d146a179b4c56ca9bdd175896772e06
-Section: Tweaks
-Description: 系统键盘圆角
-Author: liuf <(null)>
-Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
-Name: 系统键盘圆角
-
-Package: com.liuf.jpyj
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: liuf <(null)>
-Installed-Size: 280
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.liuf.jpyj_0.0.1_iphoneos-arm64e.deb
-Size: 5260
-MD5sum: fee5c0fc7ebf8f52f08a679fec0a74cb
-SHA1: 2d6a1d5fefd615b4fcc001a50ee95f13f5c20c6c
-SHA256: ae4bf519ab43d94ed0d6bde4b6dab928f53a3c3a3dcb33833f43aeb0a2af284d
-Section: Tweaks
-Description: 系统键盘圆角
-Author: liuf <(null)>
-Icon: https://s1.imagehub.cc/images/2025/01/02/4140e144392c050f69f3cc9a881feda5.jpeg
-Name: 系统键盘圆角
-
 Package: com.mikotohelper.wechat
 Version: 1.3.6-V1
 Architecture: iphoneos-arm64
@@ -13860,6 +13825,23 @@ Description: 剪贴板（支持范围IOS14-17）
 Author: Alexandra Aurora Göttlicher
 Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
 Name: Kayoko
+
+Package: com.wkk.kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kbhook_1.0-1_iphoneos-arm64e.deb
+Size: 2880
+MD5sum: 10093a44d4e6ba650981513e2299572d
+SHA1: b1ed5d0b583d860186f44ae0823b2bbb0bc6b9f4
+SHA256: 808ab7828b0ef4a985a0cc2fd6778b57ca0136814d366d13451879438ded8c61
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统键盘圆角
 
 Package: com.wkk.kbstyle
 Version: 1.0
