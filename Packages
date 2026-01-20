@@ -16275,6 +16275,41 @@ Author: Kritanta
 Icon: https://s1.imagehub.cc/images/2025/12/23/55751480aa1be9607a3de0115db15421.png
 Name: Gravitation
 
+Package: com.wkk.reachplayer
+Version: 5.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 3636
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.reachplayer_5.0.0_iphoneos-arm64e.deb
+Size: 1263824
+MD5sum: b869429be42bbea5a6fe689b979d4ccc
+SHA1: d2ff39c7fb85015610e9c7d20a6513e2a5a6454d
+SHA256: faa79fe846438b66bd4ad71bb90dbad90c6d519ea445824f4bedda3ad00b34f9
+Section: Tweaks
+Description: 抱歉自用版本，绝版了，没授权过别下载。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: ReachPlayer音乐专辑
+
+Package: com.wkk.reachplayer
+Version: 5.0.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 3636
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.reachplayer_5.0.0_iphoneos-arm64.deb
+Size: 1253648
+MD5sum: 7ef01948a4fad7b818ad4a3c996f99ef
+SHA1: b179e1d8769bed25f9021d1ee72fe2701e52777b
+SHA256: 721222ca9f7a52ec733ab376696e58b9af270af1474d3f9a2e02db1753802206
+Section: Tweaks
+Description: 抱歉自用版本，绝版了，没授权过别下载。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: ReachPlayer音乐专辑
+
 Package: com.wkk.recordanywhere
 Version: 1.1.0
 Architecture: iphoneos-arm64
