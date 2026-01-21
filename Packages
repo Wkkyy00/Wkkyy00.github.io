@@ -20291,36 +20291,18 @@ Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.
 Name: PreferenceLoader (Top)
 
 Package: ru.domo.cocoatop64
-Version: 2.2.4-1
-Architecture: iphoneos-arm64
-Maintainer: Ash
-Depends: firmware (>= 15.0)
-Conflicts: ru.domo.cocoatop
-Filename: ./debs/ru.domo.cocoatop64_2.2.4-1_iphoneos-arm64.deb
-Size: 181636
-MD5sum: 8da5ae3e391c08644a9dd9c9f8495c5b
-SHA1: fa9932d1543aa37903022c41d27f26476057c922
-SHA256: cc85b47934a32130fc08fdbc97ddd6e94cd4f05a987e9102cdb2352e900aef92
-Section: 应用程序
-Description: Process Viewer for iOS（修复粗体闪退）
-Author: Domo <domo@rambler.ru>
-Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
-Name: CocoaTop64
-
-Package: ru.domo.cocoatop64
-Version: 2.2.4-1
+Version: 2.2.4-2
 Architecture: iphoneos-arm64e
 Maintainer: Ash
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0)
 Conflicts: ru.domo.cocoatop
-Filename: ./debs/ru.domo.cocoatop64_2.2.4-1_iphoneos-arm64e.deb
-Size: 183116
-MD5sum: 8ff309423c0d170cd4552b9135f9071d
-SHA1: 9e382c8a607ae564a3d533cbee471e2c1b6c5221
-SHA256: 921be201cc2512f4f006eb84ad233c58bebfdc081f519f2643038fa2e10fb69d
+Filename: ./debs/ru.domo.cocoatop64_2.2.4-2_iphoneos-arm64e.deb
+Size: 262204
+MD5sum: 8e6249a1032e5eea68cc46d3d7e22528
+SHA1: aa688e84413e3ade0cce7fc53648a59fef9c9d1c
+SHA256: 985b12d720c87559aee898529d3a4291ec8bceac65d3c6e36ca0f9b3ece53213
 Section: 应用程序
-Description: Process Viewer for iOS（修复粗体闪退）
+Description: 完美版。
 Author: Domo <domo@rambler.ru>
 Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
 Name: CocoaTop64
