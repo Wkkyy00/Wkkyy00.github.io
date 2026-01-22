@@ -13843,6 +13843,40 @@ Author: Alexandra Aurora Göttlicher
 Icon: https://s1.imagehub.cc/images/2025/01/23/96e1ab7edb0fee61a64c6cfcfd0623fe.png
 Name: Kayoko
 
+Package: com.wkk.kb2hook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kb2hook_1.0-1_iphoneos-arm64.deb
+Size: 3084
+MD5sum: c89a94a66458fbd26a5bcfc76abfa88e
+SHA1: 6db997d99f735e02df26e5d58a4c7d4bcc91bf26
+SHA256: aef6e931a9bad23805ee93847493653417a1b8677376de81b39e6b7de0bbf6c8
+Section: Tweaks
+Description: 圆角度为11，源里另一个为10，有些人喜欢更圆润一点，自行选择吧，两个版本均不会抽搐/失效/无需重启用户空间！
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统键盘圆角2
+
+Package: com.wkk.kb2hook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kb2hook_1.0-1_iphoneos-arm64e.deb
+Size: 3020
+MD5sum: 5dcb227d027cd80abee983ec8f87fe27
+SHA1: 7324f817bc53f0e47c47875372a21185c1383fa0
+SHA256: 566f350f8e45e6f66952dde6ebaff3aa0756763eb362a876a971a0108b20713a
+Section: Tweaks
+Description: 圆角度为11，源里另一个为10，有些人喜欢更圆润一点，自行选择吧，两个版本均不会抽搐/失效/无需重启用户空间！
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统键盘圆角2
+
 Package: com.wkk.kbhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
