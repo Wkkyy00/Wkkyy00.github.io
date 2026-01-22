@@ -6312,44 +6312,6 @@ Author: starry6
 Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
 Name: 汽水音乐NoAds
 
-Package: com.sunshinesong.split-view-pro
-Version: 1.4.0
-Architecture: iphoneos-arm64
-Maintainer: sunshinesong
-Installed-Size: 5472
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64.deb
-Size: 1573736
-MD5sum: 90262604b519f8277e0854a7ab9a58ec
-SHA1: bb75d851dafbf83ac5566aa9128833c722241c4e
-SHA256: 442c26a85dbef63c482efffe66e299622a13f85a0f29f054bdd900938f1e4439
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。（没买别装）
-Author: sunshinesong
-Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
-Name: split-view-pro
-Ts: sp-sss
-
-Package: com.sunshinesong.split-view-pro
-Version: 1.4.0
-Architecture: iphoneos-arm64e
-Maintainer: sunshinesong
-Installed-Size: 5472
-Pre-Depends: rootless-compat(>= 0.9), rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.sunshinesong.split-view-pro_1.4.0_iphoneos-arm64e.deb
-Size: 1577872
-MD5sum: 8f86cac193bb6c1d19a96dcb3c8228b8
-SHA1: 1bea6a34cd8b637f126ac7ac96a023164281c0f3
-SHA256: 9819a22cda68eb75959958a199ffe2019ce2fbb171924ded6b0d9ac9febcd41b
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。（没买别装）
-Author: sunshinesong
-Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
-Name: split-view-pro
-Ts: sp-sss
-
 Package: com.susu.snapper3.picta
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -16961,6 +16923,44 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
 Name: Snapper3美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
+
+Package: com.wkk.split-view-pro
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: sunshinesong
+Installed-Size: 5472
+Pre-Depends: rootless-compat(>= 0.9), rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.wkk.split-view-pro_1.4.0_iphoneos-arm64e.deb
+Size: 1577512
+MD5sum: 213d96e2ca2cff2fcf90fee20dc23b25
+SHA1: a22decfa8f9eb390d0d277f81ba5da4f3df7805a
+SHA256: b7084c92066e1e6e5ce9ba9fcae7afc51984ade08662e4d51cfa6506272f02c7
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。（没买别装）
+Author: sunshinesong
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.wkk.split-view-pro
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5472
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.wkk.split-view-pro_1.4.0_iphoneos-arm64.deb
+Size: 1577344
+MD5sum: 6e354db6f223508247ce37318a08e6c0
+SHA1: 5157ca7c19c4005cd5eb5f92970b94e71ad174b1
+SHA256: 011aada945869bfd5e50797259c3fe6d0069c3cb1eb591985fad4506bc8a7fbe
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。（没买别装）
+Author: sunshinesong
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: split-view-pro
+Ts: sp-sss
 
 Package: com.wkk.springboardanimation
 Version: 1.0-1
