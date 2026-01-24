@@ -10048,20 +10048,20 @@ Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatEmoticoncolorsocool
 
-Package: com.wkk.ceshi
+Package: com.wkk.ceshi2
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: qwq
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.ceshi_1.0_iphoneos-arm64e.deb
-Size: 6564
-MD5sum: 2099422dac89657dde35b18d0f06fa3c
-SHA1: 1adc0a2ab3b8280945e711b54dfe39e39db021c5
-SHA256: 39e7647a52ff43f8f06c5f6ff61a1dc7edd85d4fa02106c3f64f02b65d7795ee
+Filename: ./debs/com.wkk.ceshi2_1.0_iphoneos-arm64e.deb
+Size: 6576
+MD5sum: edffc619abc9b1488a0a63eaa0a3e958
+SHA1: 0bf7cfb4431059646788cf7ee1fa1362fb4f45e2
+SHA256: 5482e1975ebe9e6a825a8730ec43119a692c9f778885f1cbe6ecfe474baf24c9
 Section: 微信插件
 Priority: optional
-Description: 仅供学习交流，请在 24 小时内自觉删除。
+Description: （8.0.60+）仅供学习交流，请在 24 小时内自觉删除。
 Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChat单独防撤回
@@ -12294,74 +12294,6 @@ Description: 仅支持iOS16的最好用的悬浮Dock，已汉化。
 Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/12/31/c000ad65b1c4893e99b9813d3108fc73.png
 Name: FloatingDockXVI
-
-Package: com.wkk.folder4
-Version: 1.2-0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.folder4_1.2-0_iphoneos-arm64.deb
-Size: 6884
-MD5sum: cdd0d019dbba5d4b71d3fb78c42bd8d5
-SHA1: c8c52dd544771f5e6b934108bd9d7811144d705b
-SHA256: 0bf27bef4e8f323c1924b6f27ed70913b6eb7794f11477bdb56f27a12fb8fbae
-Section: Tweaks
-Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹，配合源里文件夹阴影使用将springboard占用压榨到最低。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
-Name: Folder4x4
-
-Package: com.wkk.folder4
-Version: 1.2-0
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.folder4_1.2-0_iphoneos-arm64e.deb
-Size: 6804
-MD5sum: 632b945a562243bb4840d455a60f9079
-SHA1: bc8dc993cd272d62afe0b125c34cd6f4a6f95bd7
-SHA256: 137b61094984704f70dac4300c71ed099b85c16e3c0830b952641fbafd4660ee
-Section: Tweaks
-Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹，配合源里文件夹阴影使用将springboard占用压缩到最低。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
-Name: Folder4x4
-
-Package: com.wkk.folder4
-Version: 1.2-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.folder4_1.2-1_iphoneos-arm64e.deb
-Size: 9296
-MD5sum: 08c4a071c825e4981803e4bf0b0f6aab
-SHA1: dda18d0e6d23f1e7ceafee402ef7a3df3e67175d
-SHA256: 6b1990433a0b0497a0730d49d83e42a130ff99c61e334390bc1dcdc7984d04ad
-Section: Tweaks
-Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹，配合源里文件夹阴影使用将springboard占用压缩到最低。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
-Name: Folder4x4
-
-Package: com.wkk.folder4
-Version: 1.2-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.folder4_1.2-1_iphoneos-arm64.deb
-Size: 10500
-MD5sum: 1cc514e1d3e89dac9757e146d0085f0d
-SHA1: d873db8860b803411f5cd769bef2595cd23e09cf
-SHA256: 797bd31bd4667058e6a10f3be54d491660bf466c1b19aebec54f471129425092
-Section: Tweaks
-Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹，配合源里文件夹阴影使用将springboard占用压榨到最低。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
-Name: Folder4x4
 
 Package: com.wkk.folder4
 Version: 1.2-6
@@ -17951,6 +17883,43 @@ Description: Dock扩展插件，已汉化。
 Author: uz.ra
 Icon: https://s1.imagehub.cc/images/2026/01/02/88b0ad22bd8a4810cfca6f7d3ffeaabf.png
 Name: Verxina
+
+Package: com.wkk.wc3133
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wc3133_1.0-2_iphoneos-arm64.deb
+Size: 5880
+MD5sum: 9674cbe89eb2fd8fe33488abc18b0a36
+SHA1: 93a3881fe01ffbea7c141f658c0cf26d3204c20e
+SHA256: f77595b4d3f09fbba6ed2b530df67fb4e6f351e07c071fcbfa5bcdfef3aec48c
+Section: 微信插件
+Priority: optional
+Description: （有提醒，仅8031-8033版本）仅供学习交流，请在 24 小时内自觉删除。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 8031-8033单独防撤回
+
+Package: com.wkk.wc3133
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wc3133_1.0-2_iphoneos-arm64e.deb
+Size: 7920
+MD5sum: b77344cd2950c5465fba8d6ee00397f8
+SHA1: 01bda313a4aa22d9784e38ce371e8042a719456f
+SHA256: 8a39172b6207db248a2157a328115e1972e60ed4e29d0937860dcafa0c9c16b5
+Section: 微信插件
+Priority: optional
+Description: （有提醒，仅8031-8033版本）仅供学习交流，请在 24 小时内自觉删除。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 8031-8033单独防撤回
 
 Package: com.wkk.wcaddnotiheadimgswitch
 Version: 1.1-2
