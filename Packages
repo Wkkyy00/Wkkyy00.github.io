@@ -19106,6 +19106,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/21/c37d7656c9be6ad0b7c7cdee716e7e1b.png
 Name: 小桔充电hook
 
+Package: com.wkk.xlhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xlhook_1.0-2_iphoneos-arm64e.deb
+Size: 5604
+MD5sum: c38669a532938ad5cea8711ca5113451
+SHA1: 7bb6504e5e427ab4e0ac0c7836f29e687fcc9666
+SHA256: 4771aa27b2da76739a8107258166636224ed6cbb30bb4b0e9d8786e70a6d0a7d
+Section: 去广告
+Description: 去所有广告，版本：2.4.00-2.5.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/24/7acd330606415ffded415c253b818476.png
+Name: 迅雷NoAds
+
+Package: com.wkk.xlhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xlhook_1.0-2_iphoneos-arm64.deb
+Size: 3940
+MD5sum: 53669848f8c4eaf4a98ec05ad47b9ac4
+SHA1: 835f47e4247295eb765b58aa5d5543a120d19c08
+SHA256: abb54ae9499d3cc8691e353968f470ca2b12143ce9aba3182f89170b9f4946d4
+Section: 去广告
+Description: 去所有广告，版本：2.4.00-2.5.10，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/24/7acd330606415ffded415c253b818476.png
+Name: 迅雷NoAds
+
 Package: com.wkk.xly
 Version: 1.0-1
 Architecture: iphoneos-arm64e
