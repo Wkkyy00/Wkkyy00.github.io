@@ -17884,6 +17884,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/19/c257ee018d2f3cd556765003ed904364.png
 Name: 腾讯手机管家NoAds
 
+Package: com.wkk.uitchook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.uitchook_1.0-1_iphoneos-arm64.deb
+Size: 6344
+MD5sum: 90774c3c59dcb8e44d71d9547c4e8825
+SHA1: da4e638888379bd8ace13cad3db838fc2163aab0
+SHA256: 8ff6d7978d4832d21f23e03e86e8264e94260dc1ffc663b6709f6c853b96e9be
+Section: Tweaks
+Description: 系统的弹窗美化（点击外部关闭）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Beautifulwindow
+
+Package: com.wkk.uitchook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.uitchook_1.0-1_iphoneos-arm64e.deb
+Size: 6284
+MD5sum: 95ed6a20dbcc30c9ad79205e79dd08ba
+SHA1: 30faa7018f0bce23f9d40c2c664670841481b363
+SHA256: 999a4280e7ae302f0b2ca95d82d35da0c2f0cdac1caf3e7ed71e20365038c496
+Section: Tweaks
+Description: 系统的弹窗美化（点击外部关闭）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Beautifulwindow
+
 Package: com.wkk.upsidedowned
 Version: 1.1-4
 Architecture: iphoneos-arm64
