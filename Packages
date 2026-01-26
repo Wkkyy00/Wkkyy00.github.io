@@ -14628,6 +14628,41 @@ Author: MTAC
 Icon: https://s1.imagehub.cc/images/2025/01/23/16cac85a9470fec0d2ed4cb0af1eac4f.png
 Name: Lynx 2
 
+Package: com.wkk.magicsms
+Version: 0.0.1-9
+Architecture: iphoneos-arm64
+Maintainer: rain
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.magicsms_0.0.1-9_iphoneos-arm64.deb
+Size: 17664
+MD5sum: 7b1d7532486001dd6cae4edaed3b4c45
+SHA1: 633e1c9e0acbe5c8b70bd968603d5f74f4f399b0
+SHA256: 30d87e5c4534a05f494dc63c371dd35790377dab5a2c60e693d9a8b67c5ef9e0
+Section: Tweaks
+Description: 免责声明：不存在任何收费且严禁用于商业用途，仅供学习交流使用，严禁用于欺骗与误导，后果自负。本人不承担任何法律责任。信息搜索栏输入8开启/关闭。
+Author: rain
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MagicSMS
+
+Package: com.wkk.magicsms
+Version: 0.0.1-9
+Architecture: iphoneos-arm64e
+Maintainer: rain
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.magicsms_0.0.1-9_iphoneos-arm64e.deb
+Size: 23786
+MD5sum: a2f1d05d5c890518bf8396480e441bde
+SHA1: 51be91601d4dfeaf0a31f1eaca712305cbadc259
+SHA256: 5a9b9a32b3ca99cd14a8feb3ee78db2c4504a29f1c4e3821080b076709a137a6
+Section: Tweaks
+Description: 免责声明：不存在任何收费且严禁用于商业用途，仅供学习交流使用，严禁用于欺骗与误导，后果自负。本人不承担任何法律责任。信息搜索栏输入8开启/关闭。
+Author: rain
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MagicSMS
+
 Package: com.wkk.manager
 Version: 1.3.6
 Architecture: iphoneos-arm64e
