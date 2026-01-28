@@ -18560,6 +18560,41 @@ Author: null
 Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
 Name: 微博NoAds
 
+Package: com.wkk.weibohook
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.weibohook_1.2-1_iphoneos-arm64e.deb
+Size: 7252
+MD5sum: c9c861c31b4208cf5dd6054103d6a3df
+SHA1: df5b4f188301e3cc46d23beff48690cc4d19fe2b
+SHA256: 84e6ab49252a649a54cd5c0e1e3877fb4ad220df4e292f4756e9d33ded34cc3e
+Section: 去广告
+Description: 去开屏广告及部分广告，版本：16.1.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
+Name: 微博NoAds
+
+Package: com.wkk.weibohook
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.weibohook_1.2-1_iphoneos-arm64.deb
+Size: 5276
+MD5sum: 93ee31f235cca65a8926db3c21ce74b6
+SHA1: 4652fd0f6b9ad384f865ed53fea60bfba90fe682
+SHA256: c368c4dff66cedb3b5a01ea21b13cf75a64e21f5476476983faf071fd89fcad1
+Section: 去广告
+Description: 去开屏广告及部分广告，版本：16.1.3，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/f3716b4481651aefd6ce92c0debaba1b.png
+Name: 微博NoAds
+
 Package: com.wkk.weiyunhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
