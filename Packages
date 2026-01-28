@@ -796,6 +796,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.9-1
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64e.deb
+Size: 14010812
+MD5sum: fdd07597cf859f05df603006e9bc1431
+SHA1: 3228d614e1613ee5790f38776bd5d31dc1943ccf
+SHA256: 2f02e4e69edd5391154ae2bc035bf7c5420a7db5fb918f970917693084c8bdd1
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.9-1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64.deb
+Size: 5188852
+MD5sum: 9a0db12513ca7027563743f405d36ad3
+SHA1: 7363f4a7aafaa517f37f33c229cd5f54f8f6da40
+SHA256: 6b2954fa9597d206afe59618e66e7b8f4fa66bb16667da2655a4dea6b866f590
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.msgfilt
 Version: 1.0-5.1
 Architecture: iphoneos-arm64e
