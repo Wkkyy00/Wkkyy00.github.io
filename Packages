@@ -20495,6 +20495,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/27/b15bc0d82eb3578fcc1afab7a9d2b991.png
 Name: HideVPN
 
+Package: eg.wkk.translux
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 888
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/eg.wkk.translux_1.1.0_iphoneos-arm64e.deb
+Size: 273332
+MD5sum: 7e5bdb0eee95f141d5a22384b53f1c51
+SHA1: a0aedac4a3d2212445c6129fce044cfb4a7a92f3
+SHA256: 83f51cfd022a17ba6c13483cdc1b756ce5a97ea1e36449ae4950f1972ab3259b
+Section: Tweaks
+Description: 具有OCR支持的iOS高级翻译集成（具有增强日志记录的DEBUG BUILD）。将翻译按钮添加到所有应用程序的文本选择菜单中。包括用于图像OCR和翻译的Snapper 3集成。支持谷歌、百度、ModernMT、微软翻译引擎和Youdao、Yandex OCR引擎。具有可定制的用户界面、应用程序白名单。已汉化。
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/translux/icon.png
+Name: TransLux
+
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.3
 Architecture: iphoneos-arm64
