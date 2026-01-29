@@ -14599,6 +14599,41 @@ Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
 Name: LookinLoader
 
+Package: com.wkk.lrtshook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.lrtshook_1.0-1_iphoneos-arm64.deb
+Size: 3200
+MD5sum: 7c9d6d30af1e24f2611449a6f3e35a2e
+SHA1: 684951a0d0897ea2989216215bf328a70fc648ef
+SHA256: 5bd5a31740942ead8b5622da76ca45b6055852d048b601279b7daaf88094047f
+Section: 去广告
+Description: 去开屏/一些弹窗/豆腐块广告，版本：8.7.41，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/29/b93f1708231bffd1731a7e1eb688981c.png
+Name: 懒人听书NoAds
+
+Package: com.wkk.lrtshook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.lrtshook_1.0-1_iphoneos-arm64e.deb
+Size: 4734
+MD5sum: d0ce13200e504105b564d8e637765c0f
+SHA1: 2e84bdc01ac7bef8a22e79e9c08c3c10676c85e5
+SHA256: 986c253d3c78a84a20c03f221c129e7ab5b87f9c7ed56fcad2e72d8f706b9227
+Section: 去广告
+Description: 去开屏/一些弹窗/豆腐块广告，版本：8.7.41，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/29/b93f1708231bffd1731a7e1eb688981c.png
+Name: 懒人听书NoAds
+
 Package: com.wkk.lstimeseconds16
 Version: 1.0-1
 Architecture: iphoneos-arm64
