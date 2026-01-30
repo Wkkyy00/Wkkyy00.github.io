@@ -19398,6 +19398,41 @@ Author: x✨
 Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
 Name: 小红薯
 
+Package: com.wkk.xhshook
+Version: 1.1.7
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 4296
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xhshook_1.1.7_iphoneos-arm64e.deb
+Size: 4201074
+MD5sum: 11bc0ec519cbc3be894e329ce061e0f6
+SHA1: 3c571f08f3497b4f2dc21a38a45dd2704f930849
+SHA256: 993005bcb960679b91bd423018228f92981fc613fb2a71cb2491b62101e3fee5
+Section: Tweaks
+Description: 24小时内删除。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯
+
+Package: com.wkk.xhshook
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 4296
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xhshook_1.1.7_iphoneos-arm64.deb
+Size: 1521936
+MD5sum: 4bc8671069e0b6e421c8aa4e6b77e1fb
+SHA1: ec412b1ffea4072e9d145261f6a3168632ab8bf7
+SHA256: 3c1c78426c6273a4d5f3c4d3a2a98ed48a267d255bba69cc3889a537e4bca3f3
+Section: Tweaks
+Description: 24小时内删除。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯
+
 Package: com.wkk.xianyuhook
 Version: 1.0
 Architecture: iphoneos-arm64
