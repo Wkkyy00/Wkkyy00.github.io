@@ -8229,6 +8229,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCPulse
 
+Package: com.wkk.WCPulse
+Version: 1.4-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-2_iphoneos-arm64e.deb
+Size: 1277352
+MD5sum: 59bf3ca3c457f31fa661a355ecbba206
+SHA1: f2b67840596bcb820263d4bd8e54e02791decc6c
+SHA256: 1167a5dbb3db3bd775e501fd73d01bc04edb4a5f0b1da246f4aa92ea0233119a
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.4-2_iphoneos-arm64.deb
+Size: 476792
+MD5sum: 80a85b9a985226f01cad31ecf2408e2b
+SHA1: 95956691afb5755ce9369540ae1e272ce3019281
+SHA256: 34eee28299baea507d3b8ae64be6c1723ff452e412b76f053a9b6f6e647da1fd
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
 Package: com.wkk.WCPush2Chat
 Version: 1.0-2
 Architecture: iphoneos-arm64e
