@@ -14826,6 +14826,40 @@ Author: roothide
 Icon: https://s1.imagehub.cc/images/2025/12/31/3a85534fdc4b3d8769e4a369eac9dfce.jpeg
 Name: RootHide Manager
 
+Package: com.wkk.mediaserverdhook
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: thefool
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.wkk.mediaserverdhook_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4412
+MD5sum: 01058b3b72209c71eae9acbbea57fde2
+SHA1: 21d9ac6d5d5cc1bf20ac08e9173489885377f94a
+SHA256: f8fb8d15d190e6ec8bf3ce2b859ba576589a74bf4a7f1f09c079c8c3bfdf9aa4
+Section: Tweaks
+Description: 解决某些情况下分屏调用不了相机的情况。
+Author: thefool
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MediaServerdHook
+
+Package: com.wkk.mediaserverdhook
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: thefool
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.wkk.mediaserverdhook_0.0.1-2+debug_iphoneos-arm64e.deb
+Size: 4348
+MD5sum: 224ac56dfa32a8a47b21c9234583dfc0
+SHA1: fcf44f813fb657b3b2b68b2e29cd7c54dea33d71
+SHA256: c5aaf22d01d06ab9c3f5742b588503bd030a22bcfb01e69e78c01ccc6100c4cb
+Section: Tweaks
+Description: 解决某些情况下分屏调用不了相机的情况。
+Author: thefool
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MediaServerdHook
+
 Package: com.wkk.megahook
 Version: 1.0
 Architecture: iphoneos-arm64
