@@ -17564,6 +17564,43 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: StoreSwitcher2
 
+Package: com.wkk.stormsniffercrack
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1108
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.stormsniffercrack_1.1-4_iphoneos-arm64e.deb
+Size: 120166
+MD5sum: 554a55f2c86eb160e4dc439ee9c9f5d2
+SHA1: a4082b9399e3dd291cbcc85488710a23ebc26618
+SHA256: 1fd902c42b4f5a0e70a3f07141d790324e0bd524c3cb0b6483fe26194225441b
+Section: 去广告
+Description: Storm Sniffer是一款HTTP抓包工具。不用连接电脑就可以捕获并查看本机所有HTTP/HTTPS请求和响应，轻松调试应用程序的网络问题。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2026/02/01/a08aab594ba950d01d0a413f29b3143f.png
+Name: StormSniffer Crack(Rootless)
+Sponsor: Nets
+
+Package: com.wkk.stormsniffercrack
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1108
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.stormsniffercrack_1.1-4_iphoneos-arm64.deb
+Size: 87160
+MD5sum: eecece9184c2b8eaf1f136ae1a24502f
+SHA1: e5a8bebad057bda617d9804d22e3aee190cbce66
+SHA256: f708025575be315a356c12576591e8d27822a07da4b46d467a0e5f42b5409bfd
+Section: 去广告
+Description: Storm Sniffer是一款HTTP抓包工具。不用连接电脑就可以捕获并查看本机所有HTTP/HTTPS请求和响应，轻松调试应用程序的网络问题。
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2026/02/01/a08aab594ba950d01d0a413f29b3143f.png
+Name: StormSniffer Crack(Rootless)
+Sponsor: Nets
+
 Package: com.wkk.stormsnifferhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
