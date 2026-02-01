@@ -19036,6 +19036,74 @@ Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
 Name: 语音转文字免跳转
 
+Package: com.wkk.wxkeyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wxkeyhook_1.0-1_iphoneos-arm64e.deb
+Size: 3948
+MD5sum: 5de01071c7d615f751cadc4b4ac111f0
+SHA1: 072a3145e093e1d1bd2397e430f779922e310db4
+SHA256: ffb898a1e3bc7257120ef7adc6affe8e8f0aa7309558162f0e3a04a2aa81d8da
+Section: Tweaks
+Description: 好看的微信输入法圆角（11）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/01/48e983d1701766cc8c84c7edf962c359.png
+Name: 微信输入法圆角
+
+Package: com.wkk.wxkeyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wxkeyhook_1.0-1_iphoneos-arm64.deb
+Size: 4016
+MD5sum: e7a9f35b71fde931c5cb207c72f0bde4
+SHA1: b965f6bc5fa3d3f736af141b453652b9287f1db1
+SHA256: 0d0beea06cf68b2cc7234898dd56d355a62d31fb81d584e668255ec1259e2e98
+Section: Tweaks
+Description: 好看的微信输入法圆角（11）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/01/48e983d1701766cc8c84c7edf962c359.png
+Name: 微信输入法圆角
+
+Package: com.wkk.wxkeyhook2
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wxkeyhook2_1.0-1_iphoneos-arm64.deb
+Size: 4040
+MD5sum: 4989690ddd8189c782fe0d62a5043759
+SHA1: 02a6b108a46c66b3e8716b4822c31a91f4741f84
+SHA256: 101b1022a5e8f0f31e7c7cc78e8ca6370ac9636f639b5a647f42dc250f25f098
+Section: Tweaks
+Description: 好看的微信输入法圆角（10.5）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/01/48e983d1701766cc8c84c7edf962c359.png
+Name: 微信输入法圆角
+
+Package: com.wkk.wxkeyhook2
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wxkeyhook2_1.0-1_iphoneos-arm64e.deb
+Size: 3972
+MD5sum: 6e90c799131c626d2184f6866a07f2fa
+SHA1: 882aae49b757b67cdd072b89902efaf9b851f8e6
+SHA256: f25107245f249901ef6f1146af9e059ca10c63a546953d0f82f48f4bedeb5c61
+Section: Tweaks
+Description: 好看的微信输入法圆角（10.5）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/01/48e983d1701766cc8c84c7edf962c359.png
+Name: 微信输入法圆角
+
 Package: com.wkk.wxurlexpand
 Version: 0.2-0
 Architecture: iphoneos-arm64
