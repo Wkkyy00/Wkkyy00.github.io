@@ -14656,6 +14656,41 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
 Name: LazyCursor
 Sponsor: thebigboss
 
+Package: com.wkk.lcchook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.lcchook_1.0-1_iphoneos-arm64.deb
+Size: 3612
+MD5sum: 16b03f7427e95ff6b3c4f85695ac9bb7
+SHA1: 17be8be6e7aa2843c1e537eb13bfecc0e0c04753
+SHA256: ac63f5f2c4b074f2b8953055787c4f11153a14e06efe13c64c8b568c3921f0e1
+Section: 去广告
+Description: 去广告，版本：2.7.6。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/deb07211e423233c113291eb7817851d.png
+Name: 驴充充NoAds
+
+Package: com.wkk.lcchook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.lcchook_1.0-1_iphoneos-arm64e.deb
+Size: 4962
+MD5sum: 3c5f7c68c4a27bc7980956ee157314fd
+SHA1: d61f5e07af9ae2d394ad92698463e1bedf70dd3c
+SHA256: 4060a871b0eec44ad456fb5625711dd9bf99e589bb8a3368450da3f694092351
+Section: 去广告
+Description: 去广告，版本：2.7.6。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/deb07211e423233c113291eb7817851d.png
+Name: 驴充充NoAds
+
 Package: com.wkk.lecard
 Version: 0.1
 Architecture: iphoneos-arm64
