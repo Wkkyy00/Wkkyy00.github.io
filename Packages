@@ -15090,6 +15090,41 @@ Author: roothide
 Icon: https://s1.imagehub.cc/images/2025/12/31/3a85534fdc4b3d8769e4a369eac9dfce.jpeg
 Name: RootHide Manager
 
+Package: com.wkk.mddhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mddhook_1.0-1_iphoneos-arm64e.deb
+Size: 5304
+MD5sum: f46c5141d8c60479823e2a4e49147097
+SHA1: f556716290349dbecc0eb5a414b9d32bbadf36c0
+SHA256: 65137605cd2b7b4595113718f5fab370b7fb417bfa4998e6e1d9871d5f10c869
+Section: 去广告
+Description: 去一堆广告，版本：5.8.01
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/af66f22f4445e2ba08d15a73e66bafc9.png
+Name: 埋堆堆NoAds
+
+Package: com.wkk.mddhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mddhook_1.0-1_iphoneos-arm64.deb
+Size: 3844
+MD5sum: fe4e10287ba085dd553bff93d1dc786e
+SHA1: 9090d55d48825ec725ef780b9b13a88ae1499ad8
+SHA256: c6dc602fbba6ba67a7e94678f06f43e4a84ad77516d02c53d028869d12ac81d1
+Section: 去广告
+Description: 去一堆广告，版本：5.8.01
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/af66f22f4445e2ba08d15a73e66bafc9.png
+Name: 埋堆堆NoAds
+
 Package: com.wkk.mediaserverdhook
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
