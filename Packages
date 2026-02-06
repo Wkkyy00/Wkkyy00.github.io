@@ -17830,6 +17830,40 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
 Name: TapticBoard
 
+Package: com.wkk.tbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tbhook_1.0-1_iphoneos-arm64e.deb
+Size: 6708
+MD5sum: 52d81a821cda84ff6e893e09415c7960
+SHA1: dbda009aeca891545b1cac8bd1ad7c71d9f6c5f6
+SHA256: 5005b6d0146a8f8cca56807f73e7f8786f78166b08aa8c62a5afe7c4ee9f47ce
+Section: 美化
+Description: ...
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: sileo悬浮底栏
+
+Package: com.wkk.tbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.tbhook_1.0-1_iphoneos-arm64.deb
+Size: 6764
+MD5sum: 870cc90ce680a52f678f127325c07e44
+SHA1: 841803f2864abaf94900974fe5063b5b5f5c72da
+SHA256: 4ef553f1acff2600a368edeb4eed30cfec25697c891c0c669bfa35d1e6ebdb4b
+Section: 美化
+Description: ...
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: sileo悬浮底栏
+
 Package: com.wkk.teleport
 Version: 1.1
 Architecture: iphoneos-arm64e
