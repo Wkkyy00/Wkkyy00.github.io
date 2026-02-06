@@ -14361,6 +14361,41 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: KBStyle
 
+Package: com.wkk.kdjzhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kdjzhook_1.0-1_iphoneos-arm64.deb
+Size: 2964
+MD5sum: 34d8c8e0dedcae95a0a4bf7effb90984
+SHA1: 1128af1dee113f31468aa18a2b1a49ddbac7689f
+SHA256: 3ab3ac4c32473a6ea2019ea8cab1cba9bcd626ef6d0a76e87630de63e308ef57
+Section: 去广告
+Description: 去广告，版本：4.4.8
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/dacca7f3b761a15a509e6ea110815a1b.png
+Name: 口袋记账NoAds
+
+Package: com.wkk.kdjzhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kdjzhook_1.0-1_iphoneos-arm64e.deb
+Size: 4192
+MD5sum: 09c9d9a6078bf749b57228d3a9d05cfa
+SHA1: a6885e4a917c5f8a8a720cf481e3634f29133b93
+SHA256: 2b81d2f93aefe931e747d8e3f56fa241bb170873d132f3d0aab4f073f658092e
+Section: 去广告
+Description: 去广告，版本：4.4.8
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/07/dacca7f3b761a15a509e6ea110815a1b.png
+Name: 口袋记账NoAds
+
 Package: com.wkk.keyboardhook
 Version: 2.1-3
 Architecture: iphoneos-arm64e
