@@ -15474,6 +15474,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
 Name: 美团外卖NoAds
 
+Package: com.wkk.mtwmhook
+Version: 1.1-6
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mtwmhook_1.1-6_iphoneos-arm64e.deb
+Size: 5154
+MD5sum: 5787c8af6ee3c3c5dceedd9e181d88dd
+SHA1: 9dae1e8e1878ad36497e6ce5d1d74e39056bf191
+SHA256: 696ffd55f704f60d5921b1da8329a71d55a8e4e7204f83299a091b2062859b10
+Section: 去广告
+Description: 去开屏广告，版本：8.68.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
+Name: 美团外卖NoAds
+
+Package: com.wkk.mtwmhook
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.mtwmhook_1.1-6_iphoneos-arm64.deb
+Size: 3636
+MD5sum: 4db8ed95e3ec0729b8b20669d59c557e
+SHA1: 23709160f3f79493e591d153e669ea3a327b34c7
+SHA256: 288b671b390a44a2fe16bcb7ab702232352417ec64ca55c613649e43d88cf628
+Section: 去广告
+Description: 去开屏广告，版本：8.68.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/05/4c47ba0f7be3c4ed094d026ae1dac6ba.jpeg
+Name: 美团外卖NoAds
+
 Package: com.wkk.mtxxhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -15508,6 +15543,41 @@ Description: 去开屏广告，版本：12.1.0，去应用内所有广告需走�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/19/5182545b33b1e1a37d84501b4d23b9de.png
 Name: 美图秀秀NoAds
+
+Package: com.wkk.myhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.myhook_1.0-1_iphoneos-arm64.deb
+Size: 3432
+MD5sum: 2c0be1eebba8b01e29ca07b5a0dde45a
+SHA1: e64c77e60e78e61263b131143bfe54e8246085a6
+SHA256: 657807ad69366b94c88e6880d352f67008787ef4dcf782f90d6e45f9eed18f28
+Section: 去广告
+Description: 去开屏广告，版本：9.77.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/08/4a4040d43b6eb59c59a3cacabb41b2bb.jpeg
+Name: 猫眼NoAds
+
+Package: com.wkk.myhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.myhook_1.0-1_iphoneos-arm64e.deb
+Size: 4720
+MD5sum: 750405071dfab9590a39e89b2a3f70f1
+SHA1: e042eb336517b180259a5fd6f73d0b3593ebeb47
+SHA256: 6f26b2f94324579f1488f7adf4fc9ce29219c4bc2077c791175099867a9447ea
+Section: 去广告
+Description: 去开屏广告，版本：9.77.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/08/4a4040d43b6eb59c59a3cacabb41b2bb.jpeg
+Name: 猫眼NoAds
 
 Package: com.wkk.myshook
 Version: 1.0-1
