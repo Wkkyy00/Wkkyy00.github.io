@@ -9830,36 +9830,36 @@ Icon: https://repo.cypwn.xyz/packages/BookmarkIcons-Rootless/icon.png
 Name: BookmarkIcons
 
 Package: com.wkk.cadhook
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.cadhook_1.0-1_iphoneos-arm64.deb
-Size: 3236
-MD5sum: 72c535c757a5d1c5b75c8498945afd90
-SHA1: dbca56eae4d9a3516d09784df7142386e00d768a
-SHA256: 19663090cd8af2ad71c52138c811fae6a739173da6bf88975ea253823d54df05
-Section: 去广告
-Description: 去广告，版本：5.17.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/22/b23df804d590a91fd34eead463546691.png
-Name: CAD看图王NoAds
-
-Package: com.wkk.cadhook
-Version: 1.0-1
+Version: 1.0-4
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.cadhook_1.0-1_iphoneos-arm64e.deb
-Size: 4734
-MD5sum: 2c4a84d3ba048305abebd932b6df5223
-SHA1: 2de45d548d14bbcb480b9022a2adff9c29b066af
-SHA256: 5b3c624b607674b3fef25360f14b2a5eb36cfe36836c84119d90c6573500ba9c
+Filename: ./debs/com.wkk.cadhook_1.0-4_iphoneos-arm64e.deb
+Size: 14318
+MD5sum: 13303a6150504fde9b2b25d58dc8db6f
+SHA1: b020bd9ea3f858e59515947309bb2ce2387d9d61
+SHA256: 77791fc32c181b9180e814f8d253527159dd25d0d3916a4f28b44c1e812b24b2
 Section: 去广告
-Description: 去广告，版本：5.17.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Description: 去广告，版本：5.18.6，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/22/b23df804d590a91fd34eead463546691.png
+Name: CAD看图王NoAds
+
+Package: com.wkk.cadhook
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.cadhook_1.0-4_iphoneos-arm64.deb
+Size: 10300
+MD5sum: ebdbe37ddf2180dc96cd901cac7c4a8c
+SHA1: 2fe587577d49c904f63bb9eb200e1718b174c761
+SHA256: ae9722f000a482396e9a7668e4eab2ec43a0507e623ec8c90ef0a4f686c59cc7
+Section: 去广告
+Description: 去广告，版本：5.18.6，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/22/b23df804d590a91fd34eead463546691.png
 Name: CAD看图王NoAds
