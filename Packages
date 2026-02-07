@@ -20080,6 +20080,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
 Name: 闲鱼NoAds
 
+Package: com.wkk.xianyuhook
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xianyuhook_1.1-4_iphoneos-arm64e.deb
+Size: 5500
+MD5sum: 61c084b71b5ca93ed4a291d36184be6c
+SHA1: 9b59d13c7008b69307bb6a1fb97487408387be05
+SHA256: 5465ee0f3c9cf2a3ff19504d853b78feb2bfaf5338a7425d36a2cb02901b6a32
+Section: 去广告
+Description: 去大部分广告，测试版本：7.24.90，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
+Name: 闲鱼NoAds
+
+Package: com.wkk.xianyuhook
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xianyuhook_1.1-4_iphoneos-arm64.deb
+Size: 3932
+MD5sum: a9f9d3c0cd0973a6a50e7b724a434ae9
+SHA1: 6386ce05b18f2bb5721581bfee5a93a296550886
+SHA256: 95748e0c258b955345f022427c37a035c1ea1b93e2669cac3e4663bc423422a3
+Section: 去广告
+Description: 去大部分广告，测试版本：7.24.90，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/10/a5283dbf3147309ebb76288c6e395ab4.png
+Name: 闲鱼NoAds
+
 Package: com.wkk.xjcdhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
