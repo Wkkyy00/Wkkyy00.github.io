@@ -12848,6 +12848,46 @@ Author: Ethan Whited
 Icon: https://s1.imagehub.cc/images/2025/12/31/c000ad65b1c4893e99b9813d3108fc73.png
 Name: FloatingDockXVI
 
+Package: com.wkk.floatingviewhelper
+Version: 0.0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.floatingviewhelper_0.0.1-2_iphoneos-arm64e.deb
+Size: 5728
+MD5sum: 87f2b13c168a153abded1826c6d8ba8d
+SHA1: a56071cc4a592db373c042224cd4460d7c42bb98
+SHA256: 54ceb2bbc93910816fa824af465383921ae05442d944b3581f509db12dfb35ac
+Section: Tweaks
+Description: * 无根: /var/jb/var/mobile/Library/FloatingViewInfo/
+  * 隐根:[jbroot]/var/mobile/Library/FloatingViewInfo/
+  * 命名规则：与FV设置界面arc工具栏排序界面的名字为准。
+  * 示例：打开三屏、浮窗.png、搜索应用.png
+Author: SINI
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: FloatingView-Helper
+
+Package: com.wkk.floatingviewhelper
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.floatingviewhelper_0.0.1-2_iphoneos-arm64.deb
+Size: 6872
+MD5sum: 88899fc7bba808292a00262aae7b4a79
+SHA1: cd0417f010aaf3758513291c4d7a17cf040fc849
+SHA256: 1e2dd30c2179d3ee48f726323ec54665151d7271520b20f644c9f44a6e008c46
+Section: Tweaks
+Description: * 无根: /var/jb/var/mobile/Library/FloatingViewInfo/
+  * 隐根:[jbroot]/var/mobile/Library/FloatingViewInfo/
+  * 命名规则：与FV设置界面arc工具栏排序界面的名字为准。
+  * 示例：打开三屏、浮窗.png、搜索应用.png
+Author: SINI
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: FloatingView-Helper
+
 Package: com.wkk.folder4
 Version: 1.2-7
 Architecture: iphoneos-arm64e
