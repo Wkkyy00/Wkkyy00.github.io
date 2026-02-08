@@ -9653,142 +9653,37 @@ Icon: https://s1.imagehub.cc/images/2025/03/08/0364f8251947561dd09612ea1ee9a016.
 Name: 拨号键盘美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/bohaojp.json
 
-Package: com.wkk.bilibiliTweak
-Version: 1.1.2
-Architecture: iphoneos-arm64
-Maintainer: TouchWorld
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.wkk.bilibiliTweak_1.1.2_iphoneos-arm64.deb
-Size: 119236
-MD5sum: ba9d18239fa07b794823ee0ba997aa57
-SHA1: 8d6d6a6a62efc627d74236ea6d99d7f99ee69377
-SHA256: d673aeddaae98746661f226e6f0ad6b9d3535ced38cec5375e3ebf39a39d63f1
-Section: 去广告
-Priority: optional
-Description: 去除哔哩哔哩广告以及开启三倍速，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: TouchWorld
-Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
-Name: BilibiliTweak
-
-Package: com.wkk.bilibiliTweak
-Version: 1.1.2
-Architecture: iphoneos-arm64e
-Maintainer: TouchWorld
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.wkk.bilibiliTweak_1.1.2_iphoneos-arm64e.deb
-Size: 161278
-MD5sum: a956ceaae4999c153c1a2215c577185f
-SHA1: 61768bbd918d286bccb1884851e8cea598c5e915
-SHA256: 067b7ad7d60257d313d86673147651c00a3da23d07629ae5741f7c4876b2c888
-Section: 去广告
-Priority: optional
-Description: 去除哔哩哔哩广告以及开启三倍速，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: TouchWorld
-Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
-Name: BilibiliTweak
-
-Package: com.wkk.bilibiliTweak
-Version: 2.0.0
-Architecture: iphoneos-arm64
-Maintainer: TouchWorld
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.wkk.bilibiliTweak_2.0.0_iphoneos-arm64.deb
-Size: 150040
-MD5sum: 20a471d1cc3b2faaa93f065f2b4b2a2e
-SHA1: b8273d2e73813307ec5a32de719e76554eb68615
-SHA256: 6797362cb195c795e5bd756afb3f24514ac8d65769a9b88da70407e720b397ad
-Section: 去广告
-Priority: optional
-Description: 去除哔哩哔哩广告以及开启三倍速以及精简部分项目，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: TouchWorld
-Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
-Name: 哔哩哔哩Tweak
-
-Package: com.wkk.bilibiliTweak
-Version: 2.0.0
-Architecture: iphoneos-arm64e
-Maintainer: TouchWorld
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.wkk.bilibiliTweak_2.0.0_iphoneos-arm64e.deb
-Size: 196246
-MD5sum: 86c8b16c9a2fdf97cd8fe043a217dceb
-SHA1: d52fa93561b30d37619d31da630d2006c3eeb7b3
-SHA256: 4e399e88da342023ba20315164fdb4076a2a35a6edbb97dc38ed2a41e836d7bb
-Section: 去广告
-Priority: optional
-Description: 去除哔哩哔哩广告以及开启三倍速以及精简部分项目，建议使用TrollFools注入，适配版本8.76.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: TouchWorld
-Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
-Name: 哔哩哔哩Tweak
-
-Package: com.wkk.bilibilihook
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: girl
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.bilibilihook_1.0_iphoneos-arm64.deb
-Size: 15904
-MD5sum: 8facc1c301bda2d1d9f9a7fe07e05b11
-SHA1: 1f84c4996ab07de171eae4685a6f347a97915abc
-SHA256: e519af0ff3124520f9f2bf75c15cae8e8b76d1281188e25e6fa5b29b5528baf8
-Section: 去广告
-Description: 去开屏广告，精简一系列杂项。测试版本：8.23.0
-Author: girl
-Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
-Name: 哔哩哔哩
-
-Package: com.wkk.bilibilihook
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: girl
-Installed-Size: 400
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.bilibilihook_1.0_iphoneos-arm64e.deb
-Size: 21342
-MD5sum: 18ca1e3b2c119569d210348c9740080e
-SHA1: 7aa2ac2db55b873b200dbe9a7c5976338777ef2f
-SHA256: 91f2d700e38f17114b1066c7389619ba40d80e667d40783b45b6bb5e9ffafa7f
-Section: 去广告
-Description: 去开屏广告，精简一系列杂项。测试版本：8.23.0
-Author: girl
-Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
-Name: 哔哩哔哩
-
 Package: com.wkk.blblhook
-Version: 1.0
-Architecture: iphoneos-arm64e
+Version: 1.0-8
+Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.blblhook_1.0_iphoneos-arm64e.deb
-Size: 6002
-MD5sum: c1660b96d3831e4cf14fd139853d5d7e
-SHA1: 9addd43e8715464f2cf68bc43ec7e36259063b58
-SHA256: 8a3d7f1cf971711b227e0069b93d3c4746089b078f7f6e5b4165b73be692b4d0
+Filename: ./debs/com.wkk.blblhook_1.0-8_iphoneos-arm64.deb
+Size: 3988
+MD5sum: accfb1b4e5afd272f28ef06f0ae6a11c
+SHA1: b9d77710241f3b587f905ace5d62208348ab135b
+SHA256: 3a71ccc7691c1831d4bbec3c63fce8fc0b911d153f2484cb5286a013e8f625d9
 Section: 去广告
-Description: 去开屏以及内嵌广告，版本：8.70.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏以及内嵌/格子/评论上方广告，版本：8.82.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩NoAds
 
 Package: com.wkk.blblhook
-Version: 1.0
-Architecture: iphoneos-arm64
+Version: 1.0-8
+Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.blblhook_1.0_iphoneos-arm64.deb
-Size: 4328
-MD5sum: 81a38ec6216d87c1e3eaa628b1e7d031
-SHA1: 79d607e667195b9db9c4f5820a1498a0716d4b5c
-SHA256: edeb246b4c6e058fddcd0ab62e22642568d7029db147af4b83d26f655cf6dff6
+Filename: ./debs/com.wkk.blblhook_1.0-8_iphoneos-arm64e.deb
+Size: 5592
+MD5sum: a6b8b70471396291593aebc9b5052bc3
+SHA1: e9a8068493187b14279571e251e59d887532dc46
+SHA256: 7efe32f8f696338fd95e55bd39834c0998263a581a098d3806eb5212ac0b76e0
 Section: 去广告
-Description: 去开屏以及内嵌广告，版本：8.70.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Description: 去开屏以及内嵌/格子/评论上方广告，版本：8.82.0。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/cea2bc13ac917a2091530fd0d45e5a92.png
 Name: 哔哩哔哩NoAds
