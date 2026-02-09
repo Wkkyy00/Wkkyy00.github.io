@@ -9437,6 +9437,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
 
+Package: com.wkk.bddthook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bddthook_1.0-1_iphoneos-arm64.deb
+Size: 3776
+MD5sum: 94fc92519dedd5c976c9e77221751837
+SHA1: 8253e98910463523efac1cc0399c1a1c32846248
+SHA256: 396f5ed895b3edf4646dbec7351e1c7f3b81bd3325fc99b383d3456a9f5e3af8
+Section: 去广告
+Description: 去开屏广告，版本：21.13.20
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/10/f794669683ae578159d4183a13141574.png
+Name: 百度地图NoAds
+
+Package: com.wkk.bddthook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bddthook_1.0-1_iphoneos-arm64e.deb
+Size: 5194
+MD5sum: d0bbbe22020ce45ceaff3700ebda73fd
+SHA1: 6775efd694b32bb3700cc516119a22cb29374760
+SHA256: f2f81bca7acc962075e24324f25d652a8408fd5d6bd8117f5f3def1dbc98d504
+Section: 去广告
+Description: 去开屏广告，版本：21.13.20
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/10/f794669683ae578159d4183a13141574.png
+Name: 百度地图NoAds
+
 Package: com.wkk.bdhook
 Version: 1.0
 Architecture: iphoneos-arm64
