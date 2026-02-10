@@ -10803,6 +10803,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键查询已安装插件
 
+Package: com.wkk.danhuaxiaoshuohook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.danhuaxiaoshuohook_1.0-1_iphoneos-arm64.deb
+Size: 131264
+MD5sum: 5b91cc275b9222fd85906a92d37d6214
+SHA1: ed06defe018172bbea21a73557065c73258c1b35
+SHA256: 0b06173fbc80be3390e74b9820712d7169cb6a4cea6662164cc3d7b2302c5b76
+Section: 去广告
+Description: 去应用内可见的广告，版本：6.7.5，接大量冷门热门app定制去广告/定制插件/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入，如遇到某些app无法注入，请用AppsDump3砸壳后注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/11/ad7b8e9c6aa08acde9a8fefb809b7288.png
+Name: 蛋花小说NoAds
+
+Package: com.wkk.danhuaxiaoshuohook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.danhuaxiaoshuohook_1.0-1_iphoneos-arm64e.deb
+Size: 184616
+MD5sum: 460965b999dd8776ecae34a037261355
+SHA1: d09372b536312bb122035076f561857bd8637887
+SHA256: 3672e702fa764b7bcab323b625454bce25fc8090c691f858d0e61ceb4e14feaf
+Section: 去广告
+Description: 去应用内可见的广告，版本：6.7.5，接大量冷门热门app定制去广告/定制插件/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入，如遇到某些app无法注入，请用AppsDump3砸壳后注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/11/ad7b8e9c6aa08acde9a8fefb809b7288.png
+Name: 蛋花小说NoAds
+
 Package: com.wkk.dawn
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -14616,6 +14651,41 @@ SHA1: cf561dbd66473aa6b8640231cc28fe0631ecf212
 SHA256: e940357e7c87b0587b721f072baf36c63ba201ed4a63fcf04d79b261fd5c51bf
 Section: 去广告
 Description: 去开屏/帖子中广告，版本：15.8。接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/f8fd055eb3664e24cc261c870165860a.png
+Name: 酷安NoAds
+
+Package: com.wkk.kuanhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kuanhook_1.0-2_iphoneos-arm64e.deb
+Size: 5454
+MD5sum: 62a505a9dc6a1c4eaead0ae858a99c04
+SHA1: fba29c818ca40d07e47f61b26b046c913ed806e2
+SHA256: 361cca2231f2ac187249470ec36953cb51005c3a308332496dfb94cd259763b2
+Section: 去广告
+Description: 去开屏/帖子中广告，版本：16.0.1，接大量冷门热门app定制去广告/定制插件/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入，如遇到某些app无法注入，请用AppsDump3砸壳后注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/f8fd055eb3664e24cc261c870165860a.png
+Name: 酷安NoAds
+
+Package: com.wkk.kuanhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kuanhook_1.0-2_iphoneos-arm64.deb
+Size: 3832
+MD5sum: 1dd5a061a45326ee90515a7305b26ad4
+SHA1: 8f454bb54fd38f5e399c8495041c2bbae0f23159
+SHA256: e8538eebb2c2f89dc778100d30b4451cd83a30c88d3422e154b68f670888f8bf
+Section: 去广告
+Description: 去开屏/帖子中广告，版本：16.0.1，接大量冷门热门app定制去广告/定制插件/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入，如遇到某些app无法注入，请用AppsDump3砸壳后注入）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/16/f8fd055eb3664e24cc261c870165860a.png
 Name: 酷安NoAds
