@@ -18579,6 +18579,41 @@ Author: 预言小猫
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 一键备份和恢复工具
 
+Package: com.wkk.txdthook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txdthook_1.0-1_iphoneos-arm64e.deb
+Size: 5996
+MD5sum: 41ab6f546b63528cc60e9328a76d1815
+SHA1: 130091eb5df16d553cfceb101fc026f3c534f25e
+SHA256: 2d261897ab688b0284c2bb534e96e1314518d31fec4d1f48ef93788c8f36cde4
+Section: 去广告
+Description: 去一些广告，版本：10.27.3，接大量冷门热门app定制去广告/定制插件/去app更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/11/b8196909689c75dc3caf3be186508358.png
+Name: 腾讯地图NoAds
+
+Package: com.wkk.txdthook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txdthook_1.0-1_iphoneos-arm64.deb
+Size: 4272
+MD5sum: e847a38974818c9f278558cc0fa09cf4
+SHA1: 9006ad9198e5df8e3af34f7a612167b927d5d31d
+SHA256: e2285754a2e0668b2967fc25091f4524f672412c3e19bd93e14dd4192253c43e
+Section: 去广告
+Description: 去一些广告，版本：10.27.3，接大量冷门热门app定制去广告/定制插件/去app更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/11/b8196909689c75dc3caf3be186508358.png
+Name: 腾讯地图NoAds
+
 Package: com.wkk.txsphook
 Version: 1.0
 Architecture: iphoneos-arm64
