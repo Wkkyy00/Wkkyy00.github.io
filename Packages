@@ -18966,6 +18966,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
 Name: 腾讯视频NoAds
 
+Package: com.wkk.txsphook
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.2-1_iphoneos-arm64e.deb
+Size: 7262
+MD5sum: b17e3f0da824b0a255c9a8b7829a19ee
+SHA1: 45d9e96e020906bd35a3e9d367bed596a7befe73
+SHA256: 9e5908994297519ddead656ad93064e3942cbb2a8367cfed034c256c5c1e18de
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.03.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/12/c74f8e9014b397f813069c488591aca5.jpeg
+Name: 腾讯视频NoAds
+
+Package: com.wkk.txsphook
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.txsphook_1.2-1_iphoneos-arm64.deb
+Size: 5184
+MD5sum: 61fcf92d1de6f08f498fe39f1a14c7d7
+SHA1: 000996b1b56fa9c2744bf37c3c77c915cb8dec4f
+SHA256: e224bcc45733e804ba57d04c3b01188e507abd4b9f4baa0a938dafc4da3cd1bb
+Section: 去广告
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.03.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/12/c74f8e9014b397f813069c488591aca5.jpeg
+Name: 腾讯视频NoAds
+
 Package: com.wkk.txtyhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -19141,6 +19176,40 @@ Description: Dock扩展插件，已汉化。
 Author: uz.ra
 Icon: https://s1.imagehub.cc/images/2026/01/02/88b0ad22bd8a4810cfca6f7d3ffeaabf.png
 Name: Verxina
+
+Package: com.wkk.volumeflex
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Joshua Wheeler
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.wkk.volumeflex_1.1_iphoneos-arm64.deb
+Size: 830488
+MD5sum: b552625491b8811a587c1eb3fe61f743
+SHA1: 6dbf1a04939dc99aa41305d327ab49d3f2850633
+SHA256: a25f362199186a6e3294a81e5ab20682eb551fcc38f3f5eb5d811a4be3eafcae
+Section: Tweaks
+Description: 世界不需要另一个FLEX装载机，但手指胖的人需要。
+Author: Joshua Wheeler
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: VolumeFLEX
+
+Package: com.wkk.volumeflex
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Joshua Wheeler
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.wkk.volumeflex_1.1_iphoneos-arm64e.deb
+Size: 826340
+MD5sum: ac19ed3d9700d4e7d1d85b4eb78c1185
+SHA1: 53a49ea179afd44ade152c7ca6d5ae09bf904c02
+SHA256: f3777fdf2dfd56a53275aa367b269f3d952e1d7d83aa571b2915bd9362ce9e6f
+Section: Tweaks
+Description: 世界不需要另一个FLEX装载机，但手指胖的人需要。
+Author: Joshua Wheeler
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: VolumeFLEX
 
 Package: com.wkk.wc3133
 Version: 1.0-2
