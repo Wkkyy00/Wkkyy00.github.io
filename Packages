@@ -19687,6 +19687,23 @@ Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
 Name: 语音转文字免跳转
 
+Package: com.wkk.wxkbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wxkbhook_1.0-1_iphoneos-arm64e.deb
+Size: 4068
+MD5sum: e0ff7f6f8c8658cfa9a76bf1ec6ae99e
+SHA1: 450c5404efa02488b479a2d597c22c9b998ff770
+SHA256: fa080b9e60ec84ac2854b1f0bb1dbaffad3d537620952973f0bbc418d13b5922
+Section: Tweaks
+Description: 马泽鑫专属~
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/01/48e983d1701766cc8c84c7edf962c359.png
+Name: 微信输入法圆角/隐藏logo
+
 Package: com.wkk.wxkeyhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
