@@ -8846,6 +8846,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA插件配置说明（必看）
 
+Package: com.wkk.aaaaaaaaaaa
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa_1.0-1_iphoneos-arm64.deb
+Size: 1228
+MD5sum: 4a0c3e525d4235f694130948673e69dc
+SHA1: c9f10b8204407561895ec8c69a777f156d55be9c
+SHA256: 780847b8bfaf2d96861d638f5d81e327d008196adda896b3744745ae79eb4eee
+Section: 去广告
+Description: 所有去广告插件建议用debd或者Debs扒下来用TrollFools注入并且停留当前版本（app升级臃肿且会影响手机越来越卡，这个是不争的事实）但是去广告插件依然会随app更新而更新，更新时会保留低版本的广告函数，所以新老版本都生效，另外再教一招：有些app没有框架或者不再支持注入（如美团外卖，新版本小红书）在TrollFools搜索不显示/不可注入，这时用AppsDump3砸壳安装就可以注入插件了。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAAA去广告说明（必看）
+
+Package: com.wkk.aaaaaaaaaaa
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa_1.0-1_iphoneos-arm64e.deb
+Size: 2042
+MD5sum: f641bdc422a0124dfa3260efaebf22ab
+SHA1: df28722ace439539dd7441f06b156453ec877bc1
+SHA256: c75aa54c413208da59c0dbf3e85d12cdb019529c3751055e8df0812600075014
+Section: 去广告
+Description: 所有去广告插件建议用debd或者Debs扒下来用TrollFools注入并且停留当前版本（app升级臃肿且会影响手机越来越卡，这个是不争的事实）但是去广告插件依然会随app更新而更新，更新时会保留低版本的广告函数，所以新老版本都生效，另外再教一招：有些app没有框架或者不再支持注入（如美团外卖，新版本小红书）在TrollFools搜索不显示/不可注入，这时用AppsDump3砸壳安装就可以注入插件了。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAAA去广告说明（必看）
+
 Package: com.wkk.actionbarreborn
 Version: 1.0-1
 Architecture: iphoneos-arm64
