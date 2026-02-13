@@ -9645,6 +9645,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/8fe27ae9d1c543174ee1cce270093e9d.png
 Name: 百度网盘NoAds
 
+Package: com.wkk.bbshook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bbshook_1.0-1_iphoneos-arm64.deb
+Size: 3200
+MD5sum: a553afd2b834a16eb16e2ad77e593f83
+SHA1: 8ae1892f158712d8030c2188638fc7382a147b0b
+SHA256: afa3ae4869ea314f37bab9362382e8492a0207b05c59d465fb0ae49b65fc048e
+Section: 去广告
+Description: 去开屏广告，版本：10.9.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/14/7113e924268cdef62f524afbbc20e217.png
+Name: 宝宝树孕育NoAds
+
+Package: com.wkk.bbshook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.bbshook_1.0-1_iphoneos-arm64e.deb
+Size: 4466
+MD5sum: 13e76967621bbd861ff447f7fedabae2
+SHA1: a5713a2eeff98488b7cc00691d974777dc5da35e
+SHA256: 70e4a46b79b15df904f3f9f3d177bd05178a14021bd3147346441b7b3dc84790
+Section: 去广告
+Description: 去开屏广告，版本：10.9.0
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/14/7113e924268cdef62f524afbbc20e217.png
+Name: 宝宝树孕育NoAds
+
 Package: com.wkk.bddthook
 Version: 1.0-1
 Architecture: iphoneos-arm64
