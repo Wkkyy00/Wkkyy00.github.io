@@ -18112,6 +18112,40 @@ Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.
 Name: StepUp
 Tags: compatible_min::ios13.0, compatible_max::ios16.4
 
+Package: com.wkk.stheno
+Version: 0-end
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.wkk.stheno_0-end_iphoneos-arm64e.deb
+Size: 528524
+MD5sum: 168ec9a943ef19eb430435d392136c42
+SHA1: f92363e0aa131c369c43afb105a0e180b8d312ba
+SHA256: 08a7aa975b4eb307921585632b50dedd631bb16f71d8d02683a7902970f60911
+Section: Tweaks
+Description: 备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Stheno最终版
+
+Package: com.wkk.stheno
+Version: 0-end
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.wkk.stheno_0-end_iphoneos-arm64.deb
+Size: 530300
+MD5sum: e1415f4ea9e856307d5195dfd60d2bf2
+SHA1: 13cafaac8f39bd679f1dcb4a104e4c48b1e23a60
+SHA256: 12d89d519623230717273a46fd6b71d881375de47d37776f8fa3afef41b17591
+Section: Tweaks
+Description: 备份。
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Stheno最终版
+
 Package: com.wkk.sthenobai
 Version: 1.0-1
 Architecture: iphoneos-arm64e
