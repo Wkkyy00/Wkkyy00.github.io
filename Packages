@@ -5677,6 +5677,39 @@ Author: Curtin
 Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC
 
+Package: com.curtin.pkc
+Version: 0.9-3
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-3_iphoneos-arm64e.deb
+Size: 2673710
+MD5sum: 92dfbdc29b0cb2726017d735b16ef2bc
+SHA1: 0694e3f1167b6e36d9b2c7bf83701ff068a07fab
+SHA256: fd2b081e06a9f2316d8fde055c25d01f7e7b3ebbd835df073477430c01f95f2c
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.9-3
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-3_iphoneos-arm64.deb
+Size: 964172
+MD5sum: 58d8215a09804da6064b31d2ef4929fc
+SHA1: 187a461b87bd53bac2f77e627f1bb9ee8105da2c
+SHA256: 30af2d6681f4404d2717618157edd77e626cab98a5b54be94463e7df81ab7c02
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64
