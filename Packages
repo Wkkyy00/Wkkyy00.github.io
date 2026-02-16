@@ -13635,6 +13635,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
 Name: 高德地图NoAds
 
+Package: com.wkk.gaodehook
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.gaodehook_1.1-2_iphoneos-arm64.deb
+Size: 5808
+MD5sum: 9abcc1fc750a7a24af59b51b344576e1
+SHA1: 8ed7fd28ccb2083872df20d3e698b01b1e285238
+SHA256: 34bf3efd0f3ad918b17f232e7a8e1226725a4c7ef0900505ada37a31c30e73ec
+Section: 去广告
+Description: 去开屏/首页顶部/部分豆腐块广告/去升级提示/去一些弹窗，测试版本：16.10.6
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
+Name: 高德地图NoAds
+
+Package: com.wkk.gaodehook
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.gaodehook_1.1-2_iphoneos-arm64e.deb
+Size: 7848
+MD5sum: 4b24b3e66e105a57539986aeca3f3af6
+SHA1: 57a9a8ed76000acc8d78c4d2743cb740eb29b8e3
+SHA256: 9f8f1e0a4455b33085a33db9b42609cafaa82381d370fb6857cf6b013fb45849
+Section: 去广告
+Description: 去开屏/首页顶部/部分豆腐块广告/去升级提示/去一些弹窗，测试版本：16.10.6
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/40c726a175b0b0a82d1fbc1c0c309be8.png
+Name: 高德地图NoAds
+
 Package: com.wkk.gdhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
