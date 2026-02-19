@@ -13938,6 +13938,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/01/15/d0303420ddcef0161d5d4a4a276fafc9.png
 Name: 航旅纵横NoAds
 
+Package: com.wkk.hlhook
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.hlhook_1.0-4_iphoneos-arm64e.deb
+Size: 5618
+MD5sum: 6e2fbae3b2791da6614e290a9480080f
+SHA1: 3b71d3041a4fefc52148c1445a1e5b62cb7f973b
+SHA256: b5f9a3ad8f2cb4e1ca68fcaac56dbd2b7824bb6d58be722e12be3a03906eac0c
+Section: 去广告
+Description: 去开屏广告，版本：8.4.3
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/15/d0303420ddcef0161d5d4a4a276fafc9.png
+Name: 航旅纵横NoAds
+
+Package: com.wkk.hlhook
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.hlhook_1.0-4_iphoneos-arm64.deb
+Size: 4132
+MD5sum: 5ecc994dbc15b676a6dc5099a20ed1d0
+SHA1: 1932692b30d444dabb215a59c31f565d65b28747
+SHA256: 8509b770b9820bac0b480eed90fa228a43125fb5c67bda9f61727b48aaeaa583
+Section: 去广告
+Description: 去开屏广告，版本：8.4.3
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/15/d0303420ddcef0161d5d4a4a276fafc9.png
+Name: 航旅纵横NoAds
+
 Package: com.wkk.homehiders
 Version: 1.1
 Architecture: iphoneos-arm64e
