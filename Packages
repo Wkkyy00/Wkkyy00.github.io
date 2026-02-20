@@ -11677,6 +11677,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
 Name: 大麦NoAds
 
+Package: com.wkk.dmhook
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dmhook_1.0-4_iphoneos-arm64.deb
+Size: 2996
+MD5sum: f8d0f6b16774a80a91b9c3b825999fe9
+SHA1: e0166ea3a9c0379e6c2ee09707664418bff0a526
+SHA256: 404b7c3dbb6f1161f2d89ece9ea89107dd78e34656edf1f663047a5b8bb3235f
+Section: 去广告
+Description: 去开屏广告，版本：9.0.14
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
+Name: 大麦NoAds
+
+Package: com.wkk.dmhook
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dmhook_1.0-4_iphoneos-arm64e.deb
+Size: 4250
+MD5sum: 553e9185af1a8bb21f866f4cb5d29120
+SHA1: 85d2a9d8aa05f126ff98dc69ce0cd6c3b2b7906a
+SHA256: 0e99641abc270ae64301af2482ba48c0e828bd8fe40bd98daefbb209ebb65957
+Section: 去广告
+Description: 去开屏广告，版本：9.0.14
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/11/16/bf66b071a75907662ee3f5cdaf629442.png
+Name: 大麦NoAds
+
 Package: com.wkk.dndmyrecording
 Version: 1.3
 Architecture: iphoneos-arm64
