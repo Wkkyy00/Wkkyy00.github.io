@@ -16716,6 +16716,41 @@ Author: Hitori <mikasa-san@outlook.jp>
 Icon: https://s1.imagehub.cc/images/2025/01/21/9768459e2e121190ec05a6d2cbb5b176.png
 Name: PassText
 
+Package: com.wkk.pddhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.pddhook_1.0-1_iphoneos-arm64.deb
+Size: 3076
+MD5sum: 716d228635436947e94a2b3003f5a8c2
+SHA1: 462cadf917a14b49817401c08a63a91b61c0d95a
+SHA256: 087f425f0d479f2a5f755cf9d0407d822717092075dcb8e6786ca381af770590
+Section: 去广告
+Description: 禁用商品截图后的分享弹窗。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/22/3a307caa561a100b9c924701e3824169.jpeg
+Name: 拼多多NoShare
+
+Package: com.wkk.pddhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.pddhook_1.0-1_iphoneos-arm64e.deb
+Size: 4372
+MD5sum: afcd5f943f8327a45a0671e33c97aeac
+SHA1: 296fb6437702190a9abe03f93bd9bcfb8bb51841
+SHA256: 48a4e0abd1107cecf2e03762354df7cbb8819dd805d3a4a662910efe5ca4d5e1
+Section: 去广告
+Description: 禁用商品截图后的分享弹窗。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/22/3a307caa561a100b9c924701e3824169.jpeg
+Name: 拼多多NoShare
+
 Package: com.wkk.perfectxtime
 Version: 1.1-3
 Architecture: iphoneos-arm64
