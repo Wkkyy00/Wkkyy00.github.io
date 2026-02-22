@@ -18172,6 +18172,41 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/shuffle.png
 Name: Shuffle
 
+Package: com.wkk.shunfhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.shunfhook_1.0-1_iphoneos-arm64e.deb
+Size: 5256
+MD5sum: b96b33989a20935f62f4333350d039f8
+SHA1: 3b755758bb4a0486d0e7093c7a87ed55e0dee6d9
+SHA256: ecb3694135e1809d89a55402ddfeaf4411826bb306abbeae48d9f1fa83059369
+Section: 去广告
+Description: 去开屏广告，版本：9.87.4
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/23/68af2a96e1fa8dcfb7935b2eb407ffad.png
+Name: 顺丰速运NoAds
+
+Package: com.wkk.shunfhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.shunfhook_1.0-1_iphoneos-arm64.deb
+Size: 3812
+MD5sum: e5d7d185b138f8def04d8e7373ad394f
+SHA1: 9b41b0046fa0666e9e071519a9d87f4ca64a17a4
+SHA256: a28decb846fbf9fbd0bfd126f5b7a28156f5e9d164cdf2af9a28f9dd1499e303
+Section: 去广告
+Description: 去开屏广告，版本：9.87.4
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/23/68af2a96e1fa8dcfb7935b2eb407ffad.png
+Name: 顺丰速运NoAds
+
 Package: com.wkk.sileomh
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -21265,6 +21300,41 @@ Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛录屏�
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/30/d4c66f162988cbda1fe9e73e896929f4.jpeg
 Name: 录屏写轮眼
+
+Package: com.wkk.xueqhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xueqhook_1.0-1_iphoneos-arm64e.deb
+Size: 4784
+MD5sum: 6a58d9a5ec819edb1acbfc032d217195
+SHA1: 9e86fd64c8ff3e3a7bf11dcf8f3dbb7d9065b180
+SHA256: c96fd7db90a75162e1088a7d097ba09e442d92517e534bde775d78a13fca9b43
+Section: 去广告
+Description: 去全部广告，版本：14.85
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/23/81d34c66c55e26763e59b1dfb69fd753.png
+Name: 雪球NoAds
+
+Package: com.wkk.xueqhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xueqhook_1.0-1_iphoneos-arm64.deb
+Size: 3444
+MD5sum: 59ab17b09535bcb202355b22a308ecde
+SHA1: 4c33fa1eea92f00b74d2cbf1bdada5ee418df7eb
+SHA256: fff677db57cb896a42348b1fb81f898df5f4b32ea42d45cb9a3396af2deac8c1
+Section: 去广告
+Description: 去全部广告，版本：14.85
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/23/81d34c66c55e26763e59b1dfb69fd753.png
+Name: 雪球NoAds
 
 Package: com.wkk.xxautoskip
 Version: 1.0.4
