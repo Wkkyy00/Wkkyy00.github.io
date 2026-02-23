@@ -6140,6 +6140,25 @@ Author: Mikoto
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: Mikoto助手
 
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 53300
+MD5sum: 3e083ce687bca61a27c17b653984e717
+SHA1: 0209b9ea27e175b234bd844f25bfeb4cfcccc0c3
+SHA256: 35bb24f6a99fe2ea870fd6c2729b7161ee1f91556eb98a277f2248410ae7bbf6
+Section: Tweaks
+Description: 开发通用库，部分插件需要此依赖，转换支持roothide。
+Tag: role::developer
+Author: MrGcGamer
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: LibGcUniversal
+
 Package: com.nan.debd2
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -17054,6 +17073,45 @@ Description: 提高低系统与新 AirPods 兼容性。
 Author: Ruphane
 Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
 Name: AirPods PodsGrant
+
+Package: com.wkk.popoutbuttons
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.wkk.popoutbuttons_1.0.2_iphoneos-arm64.deb
+Size: 56528
+MD5sum: 64699973f47b14edcdb92282e4232778
+SHA1: 383fefc01c596ea86150297dddd92ef0c27cf628
+SHA256: 8b63ab2d1504ff34f25954442ff3bd4bd589cb7fadc175ee5afe0f71a3a74d9e
+Section: Tweaks
+Description: 将iOS18按钮弹出窗口带到你的设备上，支持iOS13-17（已汉化）
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
+
+Package: com.wkk.popoutbuttons
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.wkk.popoutbuttons_1.0.2_iphoneos-arm64e.deb
+Size: 72482
+MD5sum: 7b944fb4af5285bd69fe46b570995d92
+SHA1: 8dac31f694856d1b500d9dc5cdbaf476c9a05a48
+SHA256: b6b432c3a70873a5d70c6fa484bcd4384bc4f2ac52bc0504d412190d2e882bfb
+Section: Tweaks
+Description: 将iOS18按钮弹出窗口带到你的设备上，支持iOS13-17（已汉化）
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
 
 Package: com.wkk.ppxwhook
 Version: 1.0-1
