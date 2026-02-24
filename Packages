@@ -15672,6 +15672,39 @@ Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
 Name: LookinLoader
 
+Package: com.wkk.looky
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.wkk.looky_1.2_iphoneos-arm64e.deb
+Size: 69952
+MD5sum: 51f26e5f4dee46589c019f8030965897
+SHA1: ad779148deaa5a7596b5e1a7c9275b3356e26909
+SHA256: 9ced25e08765bce40cc2b87e5d28f77cfe7b81f17c4e3661af1277a74d5c02bc
+Section: Tweaks
+Description: 精美的消息锁屏通知，已汉化。
+Author: EllaSP
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Looky
+
+Package: com.wkk.looky
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.wkk.looky_1.2_iphoneos-arm64.deb
+Size: 56128
+MD5sum: f4adc20f6572777feb7d990eaed4b560
+SHA1: 59f0377c5629eebd0b65f292ad64f0c21abe648a
+SHA256: 384313259ffb92a4d07eec6e2ebac20b635fc7b47c9ead7e52ce1512d526e4b3
+Section: Tweaks
+Description: 精美的消息锁屏通知，已汉化。
+Author: EllaSP
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Looky
+
 Package: com.wkk.lrtshook
 Version: 1.0-1
 Architecture: iphoneos-arm64
