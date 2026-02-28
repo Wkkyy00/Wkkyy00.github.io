@@ -9336,16 +9336,17 @@ Name: AAAAAA去广告说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
 Version: 1.0-2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-2_iphoneos-arm64.deb
-Size: 1012
-MD5sum: 366881d4b74851fa42721083cb0fd5cf
-SHA1: 533c8eeed608f58984373396e37eb37b172f0176
-SHA256: 694c411eec62a8319133b26a1b1eab11bebdf7e7d99c4ebc00d904c85fa184b8
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-2_iphoneos-arm64e-1.deb
+Size: 2146
+MD5sum: 1fe692b2da92f45bbbb47ab2d9dd957e
+SHA1: 7e604c3f5873a0a741b7e5e8a6a1a3a807d145b3
+SHA256: a2e60545adb081611b9d80452f1102cc888252f58463cfb456faeae4107b3598
 Section: Tweaks
-Description: 因某些原因以后源里去广告插件不再更新了，保留现有去广告插件，以后转为私人群更新去广告插件（文件都在qq群）交流群在微信，支持的朋友可以加qq1772773799咨询🎁
+Description: 源会正常维护，但因某些原因以后源里去广告插件不再更新了（整天被问能不能做这个能不能做那个，一说付费办事就都没影了...）源里保留现有去广告插件，以后转为私人群更新去广告插件（文件都在qq群 已上传120+资源 不止去广告）交流群在微信（任何需求可以提 能力之内空了都会去做）进群58/人，支持的朋友可以加qq1772773799（qq群更新文件 微信群日常吹牛逼 咱也知道没多少人愿意付这个费 毕竟越狱白嫖是常态😂 无所谓啦）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
@@ -9353,17 +9354,16 @@ Name: AAAAAA去广告插件公告
 
 Package: com.wkk.aaaaaaaaaaa22233
 Version: 1.0-2
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-2_iphoneos-arm64e.deb
-Size: 1598
-MD5sum: 8a49c8985d26a9eda4ec968235281188
-SHA1: c4a611f5d6d28187206c410f4fc07bf0ee58d495
-SHA256: fc47d2b48dc0a93b0906d7e4d67f2a4c8ce385b0db94a9fa3eafe77262773b30
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-2_iphoneos-arm64.deb
+Size: 1268
+MD5sum: 7db136915abbe85fcd7487a18c703698
+SHA1: c7b64d7fbb9d2546c0636eece672a768ef99e63c
+SHA256: 15f289fd02cdd3de8e63ef2497d813bc180cde1b065f048c896c5e1030776609
 Section: Tweaks
-Description: 因某些原因以后源里去广告插件不再更新了，保留现有去广告插件，以后转为私人群更新去广告插件（文件都在qq群）交流群在微信，支持的朋友可以加qq1772773799咨询🎁
+Description: 源会正常维护，但因某些原因以后源里去广告插件不再更新了（整天被问能不能做这个能不能做那个，一说付费办事就都没影了...）源里保留现有去广告插件，以后转为私人群更新去广告插件（文件都在qq群 已上传120+资源 不止去广告）交流群在微信（任何需求可以提 能力之内空了都会去做）进群58/人，支持的朋友可以加qq1772773799（qq群更新文件 微信群日常吹牛逼 咱也知道没多少人愿意付这个费 毕竟越狱白嫖是常态😂 无所谓啦）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
