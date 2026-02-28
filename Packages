@@ -9263,39 +9263,39 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA去广告说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-1_iphoneos-arm64.deb
-Size: 1104
-MD5sum: 23c08043c3b29888133ab1d8cb50e27c
-SHA1: f904df11f0fbb27ce9f884bf93cd90f498b6a409
-SHA256: d9c61db366062031242e10870db7e703ce2c3de0adb1afe1778742603e0be9db
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-2_iphoneos-arm64.deb
+Size: 1012
+MD5sum: 366881d4b74851fa42721083cb0fd5cf
+SHA1: 533c8eeed608f58984373396e37eb37b172f0176
+SHA256: 694c411eec62a8319133b26a1b1eab11bebdf7e7d99c4ebc00d904c85fa184b8
 Section: Tweaks
-Description: 接app精简/app去广告/系统级插件/各种美化/微信等功能小插件定制，有需要的朋友可以加QQ1772773799咨询（本来不想发，被一直问、一直无差别白嫖的无奈了😮‍💨，源主也是普通玩家，不是总被某些人无理由白嫖的傻瓜啊…）
+Description: 因某些原因以后源里去广告插件不再更新了，保留现有去广告插件，以后转为私人群更新去广告插件（文件都在qq群）交流群在微信，支持的朋友可以加qq1772773799咨询🎁
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAAAAA接一些定制🎁
+Name: AAAAAA去广告插件公告
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-1_iphoneos-arm64e.deb
-Size: 1774
-MD5sum: 88f655c1dd45216104c870fab4199542
-SHA1: 539de090668e63bbf615e1dcf59af938bd68dd1b
-SHA256: bcd0f712a1d206a812c84f22b4fae7a94e0728cccabd891df4fe0313996ead0d
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.0-2_iphoneos-arm64e.deb
+Size: 1598
+MD5sum: 8a49c8985d26a9eda4ec968235281188
+SHA1: c4a611f5d6d28187206c410f4fc07bf0ee58d495
+SHA256: fc47d2b48dc0a93b0906d7e4d67f2a4c8ce385b0db94a9fa3eafe77262773b30
 Section: Tweaks
-Description: 接app精简/app去广告/系统级插件/各种美化/微信等功能小插件定制，有需要的朋友可以加QQ1772773799咨询（本来不想发，被一直问、一直无差别白嫖的无奈了😮‍💨，源主也是普通玩家，不是总被某些人无理由白嫖的傻瓜啊…）
+Description: 因某些原因以后源里去广告插件不再更新了，保留现有去广告插件，以后转为私人群更新去广告插件（文件都在qq群）交流群在微信，支持的朋友可以加qq1772773799咨询🎁
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAAAAA接一些定制🎁
+Name: AAAAAA去广告插件公告
 
 Package: com.wkk.actionbarreborn
 Version: 1.0-1
