@@ -16995,6 +16995,41 @@ Author: b4db1r3 <nfive060@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: OCD5
 
+Package: com.wkk.onehandwizard2
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 540
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.onehandwizard2_1.0.6_iphoneos-arm64e.deb
+Size: 52550
+MD5sum: d080b8521504354f6e36764d28f2aac5
+SHA1: 81c15dac2a899e74e446b398a7ecbe4288fb73e4
+SHA256: a7d4c47e59fc25cdfdfe6ea9eac3baffb93f7bc3b37038e81bb9f80cdaa4f071
+Section: Tweaks
+Description: 单手舒适地使用你的大手机。
+Author: sharedRoutine
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: OneHandWizard2
+
+Package: com.wkk.onehandwizard2
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 540
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.onehandwizard2_1.0.6_iphoneos-arm64.deb
+Size: 43716
+MD5sum: a528e29c073691d03330d113eae5cdfc
+SHA1: 6585c3bd9f950d34e3b329486a1428d914d0a706
+SHA256: 372d6c043ac33c59d7b5da845601ad0fe3561e0a1633d70aaf86585187b338be
+Section: Tweaks
+Description: 单手舒适地使用你的大手机。
+Author: sharedRoutine
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: OneHandWizard2
+
 Package: com.wkk.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64
