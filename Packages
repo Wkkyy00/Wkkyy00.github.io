@@ -944,6 +944,43 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: 消息屏蔽助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.msgfilt
+Version: 1.0-7
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.msgfilt_1.0-7_iphoneos-arm64e.deb
+Size: 190432
+MD5sum: d128008710ce213e7f875a4e5f449037
+SHA1: eb5d72669ffd25067062d44aad8b0b6601eecb29
+SHA256: ec42cdf39ea4306c94822454875e8614df1afb2a64a29d710a9f67fe758a96c4
+Section: 微信插件
+Priority: optional
+Description: 消息屏蔽助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 消息屏蔽助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.msgfilt
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.msgfilt_1.0-7_iphoneos-arm64.deb
+Size: 144996
+MD5sum: e53a7051ef33a1bdd97c72bde3885419
+SHA1: b5b5148f924f4e92c93059210475d7a23ced32ae
+SHA256: a84f32c42e52af6cf74578ac4bc35ca9f743e7efa058d992c1eab205cba9ddea
+Section: 微信插件
+Priority: optional
+Description: 消息屏蔽助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 消息屏蔽助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.wcpluginss
 Version: 0.1-3
 Architecture: iphoneos-arm64
