@@ -11598,6 +11598,43 @@ Author: opa334
 Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Name: Crane
 
+Package: com.wkk.crane
+Version: 1.3.17
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 3252
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.wkk.crane_1.3.17_iphoneos-arm64.deb
+Size: 605024
+MD5sum: 04a164fd1a7a4814d72a994f6ff8116c
+SHA1: 573596011ad9faa05df4d2784975be5d26c8bbe3
+SHA256: a0c4afa280813c9c3bfcf42bd8a4fe7340dd71101d42ad81d1ea68bea99119b7
+Section: Tweaks
+Description: 正版砸壳备份。
+Author: opa334
+Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
+Name: Crane
+
+Package: com.wkk.crane
+Version: 1.3.17
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.wkk.crane_1.3.17_iphoneos-arm64e.deb
+Size: 1560128
+MD5sum: 7a2a01ff796f443ff32b39b30f4a11a0
+SHA1: f066e206db63781a77e3ad72291865f6f6d038b2
+SHA256: c2afc7aad6afa5fdcb5b4fdd00ed05381e272151fa5088c9e7efbd14f8b46b20
+Section: Tweaks
+Description: 正版砸壳备份。
+Author: opa334
+Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
+Name: Crane
+
 Package: com.wkk.cxdebdylib
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -12367,6 +12404,41 @@ Description: 双击取景框翻转相机前置和后置镜头，无设置项，�
 Author: SquidForce
 Icon: https://s1.imagehub.cc/images/2025/12/26/4eeb970bf2c4db32c7f60f54d61b2587.png
 Name: DoubleTapFlipCamera
+
+Package: com.wkk.doutu
+Version: 3.1-8
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.doutu_3.1-8_iphoneos-arm64e.deb
+Size: 2125154
+MD5sum: ea3880224aeae0c3cd19513270ba6630
+SHA1: 652f87c01d372678c07fad13a7f78614938194b5
+SHA256: ac50d88b0bea3c1465803f1b6480b955a759c44925d96fe4faedd42334b98b13
+Section: 微信插件
+Priority: optional
+Description: 微信斗图助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 斗图助手
+
+Package: com.wkk.doutu
+Version: 3.1-8
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.doutu_3.1-8_iphoneos-arm64.deb
+Size: 790796
+MD5sum: 18ebd62a959f0d468c76dafb7ee9eb24
+SHA1: 971600b0c878f86b41637283ef87a7053fda5546
+SHA256: cbc441653d881a5c6ee45f39edff6ae275e2d9a56fa358a8d33a26a128e8cbb5
+Section: 微信插件
+Priority: optional
+Description: 微信斗图助手
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 斗图助手
 
 Package: com.wkk.douyutvhook
 Version: 1.0
