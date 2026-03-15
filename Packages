@@ -7778,6 +7778,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.2.6
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.6_iphoneos-arm64e.deb
+Size: 14026500
+MD5sum: a40d0c9d0c7fc0cfe55965126ff2133d
+SHA1: a671abb98d45f3edc88f89ae45130325372213ad
+SHA256: 43306510c70ad19695d69659308832fe568bdd083458df4250547a0352ce2e4d
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.6_iphoneos-arm64.deb
+Size: 5192372
+MD5sum: fdbd48e0f290e713731bc1dbd0576e69
+SHA1: ff2cfc1bd41d696959db35a965af8f74b78dcf55
+SHA256: be723afed953f8cec9426d6a50dc185a42cdafb4fba358d50a4830a979d8fd8a
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -9350,6 +9385,43 @@ Size: 6310612
 MD5sum: 4f682f13c3ed34eb8836ab52836a230a
 SHA1: 4d8fe394fcfbd44a6ee599dae50e87436063ac8a
 SHA256: 977a54f4f5845c5ea1f00724aefb187dc39b472f1fd7c90e84e91d4873080d40
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.3-5
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.3-5_iphoneos-arm64.deb
+Size: 2397000
+MD5sum: 59b18bba640a7d3ff3d78b2824aabbd5
+SHA1: c0a87af7fd32b7f6c4b1aad99c1e5886482445cc
+SHA256: 2a141fc89304fbfffeb0f0aa1feb218f28a4bd4aafcbe5ad922955180c20c51e
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.3-5
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.3-5_iphoneos-arm64e.deb
+Size: 6743308
+MD5sum: 0969260de04c6d2fc476c40dca4b8336
+SHA1: 75dd9f111c40c962b1510d0c17c53831cb375703
+SHA256: d809922f733981769fd5b4bb969e1fecfe2a8d9f62ebe35a1a091e1123326a84
 Section: 微信插件
 Priority: optional
 Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
