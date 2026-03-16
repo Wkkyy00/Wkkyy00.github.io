@@ -8152,6 +8152,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.3dfasthook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.3dfasthook_1.0-1_iphoneos-arm64.deb
+Size: 3076
+MD5sum: ca1282baccefceca951fdb8da095bb4c
+SHA1: c15a604109d02cd835d2cf1edb6bbb42e705bc60
+SHA256: 1196f84d033ded66d6c9dc162dc013395f40bc8af37e4543361bbe0c87d5d75e
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 提升3DTouch唤醒速度
+
+Package: com.wkk.3dfasthook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.3dfasthook_1.0-1_iphoneos-arm64e.deb
+Size: 3008
+MD5sum: b7dc9bc080144d6d727a2ea0b15c563b
+SHA1: 2d86d008c9fe426760497d41df95b69235ef5313
+SHA256: 02c1648c9d01fabb4d85ae8e5b01840b3fd0013abd4be0921180681bfd9ceaf6
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 提升3DTouch唤醒速度
+
 Package: com.wkk.AppIndex
 Version: 1.0
 Architecture: iphoneos-arm64e
