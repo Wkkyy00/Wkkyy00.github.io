@@ -20848,6 +20848,41 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: SuWCFrostedGlass
 
+Package: com.wkk.wcplugins
+Version: 0.1-6
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.wcplugins_0.1-6_iphoneos-arm64e.deb
+Size: 18170
+MD5sum: e2fb6acae78a6c0cfb58f52747277156
+SHA1: 9ff29fe11cead59f0d3ba619033f1a6eee74beae
+SHA256: 1f28387272fcd515b8b61b80a7ce770cd05e92fd2bf5be160e0545d36f3fd84b
+Section: 微信插件
+Priority: optional
+Description: 修复热更新导致消失的问题。
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信插件管理
+
+Package: com.wkk.wcplugins
+Version: 0.1-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.wcplugins_0.1-6_iphoneos-arm64.deb
+Size: 13524
+MD5sum: 24cfbcedc6dfad84082adf124fc9334f
+SHA1: af2d9891710aec5081175c605e7bee38c12ca668
+SHA256: 6880b48212633b149de7d8914e78a5778f0d31fee0d067ebf4e07ec6d8ce0674
+Section: 微信插件
+Priority: optional
+Description: 修复热更新导致消失的问题。
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信插件管理
+
 Package: com.wkk.wctimelinereplacefind
 Version: 1.1-2
 Architecture: iphoneos-arm64
