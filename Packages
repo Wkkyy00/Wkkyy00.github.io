@@ -18906,6 +18906,23 @@ Author: Paisseon
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Satella
 
+Package: com.wkk.sbapplication
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: poqw312
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.sbapplication_1.0_iphoneos-arm64e.deb
+Size: 3040
+MD5sum: b9d84292d824c25f2dde0241a7f9f0e0
+SHA1: 1e2e7b28dc8e17f2b65312c945978426fd386792
+SHA256: 81dce7dd591330cbfd13e23e22c75350f9728bce9f8a4f2ca2fa1cc37436a201
+Section: Tweaks
+Description: cool
+Author: poqw312
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用通知中心下拉手势
+
 Package: com.wkk.sdk16.5
 Version: 1.0
 Architecture: iphoneos-arm64e
