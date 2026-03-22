@@ -7813,6 +7813,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.7_iphoneos-arm64.deb
+Size: 5302048
+MD5sum: e1f672dfe927f7324e1d092bb50bec4f
+SHA1: 77c34fe62625cbcd7cd50d698e036f3e97842f76
+SHA256: 605c56a591442d455845b3b81095adb1519cc3ea310688fef94a32a0fff5af2a
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.2.7
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.7_iphoneos-arm64e.deb
+Size: 14194992
+MD5sum: 33b62d42c7c7aedcfd27c8d97de28d85
+SHA1: 1a2f65016073233ce668c5353c7353f1cd4a51bc
+SHA256: aded37c8c410ec06300f4c2d483c8709a5f503c195fcaf90eef660eaf0bf8dcf
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
