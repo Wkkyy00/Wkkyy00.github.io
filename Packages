@@ -20953,6 +20953,41 @@ Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCTimeLineReplaceFind
 
+Package: com.wkk.wcyyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wcyyhook_1.0-1_iphoneos-arm64e.deb
+Size: 4334
+MD5sum: fb0a3cf8c4e026806a6db153019c30ea
+SHA1: fad2f8ab90aeec99948a3d048b8d5b3f696961e0
+SHA256: 890b14d5ff978e2fa0e09f3598c9d3a6d4823c71a939f451279e3682ca6b5aac
+Section: 微信插件
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 禁用语音转述
+
+Package: com.wkk.wcyyhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wcyyhook_1.0-1_iphoneos-arm64.deb
+Size: 3064
+MD5sum: 82be0f3651dad605ef21512573f501c4
+SHA1: 92442f41227a01f376c7cd1e1a17fc09097c87e2
+SHA256: 064429cf11c2dc8498fc22f0ecd0a7c30e1388cd564bfb1763942a9eb92e2d92
+Section: 微信插件
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 禁用语音转述
+
 Package: com.wkk.wdhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
