@@ -1463,6 +1463,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailun
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.0.6_iphoneos-arm64.deb
+Size: 13537092
+MD5sum: f4459f1669826c94f9e2e36ffe0aee26
+SHA1: 4d047e2d37a06739dc72f0c98007550690961348
+SHA256: d72f4c97492c1546e78c4144f5400e5df621839e94d2978f1470ca60fd4baa04
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
 Package: com.Purifyads
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -6316,6 +6332,25 @@ Author: Mikoto
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: Mikoto助手
 
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V9
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/com.mikotohelper.wechat_1.3.6-V9_iphoneos-arm64.deb
+Size: 19850236
+MD5sum: b60bfd0b81cb5e52416389f04cf9835a
+SHA1: 0be670221e3309dae6a82bf7ce2cb71ce3e43a68
+SHA256: 1452391da63ff6231e81be93b9e150ecce3ad59beeec1a4a1f44f854e11d137c
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件。
+Author: Mikoto
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: Mikoto助手
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
@@ -8609,6 +8644,76 @@ Author: huami&Lxcloud
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信增强
 
+Package: com.wkk.WCEhance
+Version: 2.0-4
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCEhance_2.0-4_iphoneos-arm64.deb
+Size: 2404620
+MD5sum: 16e87a5eb250ec450990442248c83d09
+SHA1: dc7a0538ad23239a8200855b3937e64e61050503
+SHA256: 2fa7f07d7e33df7400b92ce9eee2939748d238d137321786aa0d15b827117f07
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.wkk.WCEhance
+Version: 2.0-4
+Architecture: iphoneos-arm64e
+Maintainer: Lxcloud
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCEhance_2.0-4_iphoneos-arm64e.deb
+Size: 6815552
+MD5sum: 1c8a15b33e02b9b56ec6e4689624f6d8
+SHA1: 818553554bb8e95ef559aca5b9027879e7414e4e
+SHA256: c41df08f5b714a1455b0c61ebdb66de49daa05003783126f8501cac166182f1a
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.wkk.WCMediaStack
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCMediaStack_1.0.1_iphoneos-arm64e.deb
+Size: 26514
+MD5sum: ea01e973d320634eed09fe8c68ffb0f2
+SHA1: ecfbd065c23a76fd0c21023c206f842ce4c2d117
+SHA256: 30ccafe1f2f94666e29e9039385a239091b3b8702a599bd42354c05f739564d2
+Section: 微信插件
+Description: 开启微信图片堆叠发送与显示。公众号：「一只huami」
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCMediaStack
+
+Package: com.wkk.WCMediaStack
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCMediaStack_1.0.1_iphoneos-arm64.deb
+Size: 19708
+MD5sum: 05626425bc8a840260d30a1b6a195741
+SHA1: 821e397aaeaadbc9ced9af27dd5f112bbdc85105
+SHA256: 235ed6673b13ce54d166fdbbe19a6dc707493f3f9bb797e353ec00c4612d3895
+Section: 微信插件
+Description: 开启微信图片堆叠发送与显示。公众号：「一只huami」
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCMediaStack
+
 Package: com.wkk.WCPulse
 Version: 1.3-4
 Architecture: iphoneos-arm64
@@ -9122,6 +9227,40 @@ Size: 19773552
 MD5sum: 3197a52d7f392e2f8f123598296beb68
 SHA1: 00d37fb1bf5fa3e62480c2db22283870fa4d028f
 SHA256: 1b28edffb0c7e8edac54d46545289d339b640998f58d5941caf4c665a5433985
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.5-5
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.5-5_iphoneos-arm64e.deb
+Size: 7470556
+MD5sum: b6cbb98ebf3db2d324614d917e5ce2d2
+SHA1: 6ad06784bbf16a991c720f4da56999ff2d839c93
+SHA256: 17137affa08e610197e957e3b6ec61da9bc331543e70198c352d0eaa43dd1e5d
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.5-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.5-5_iphoneos-arm64.deb
+Size: 7473840
+MD5sum: 19a36ee3ab3f823f04f7ae7b512b488a
+SHA1: fcd09e07a5be3c02f24750483da544692e1a3594
+SHA256: 3ca90dad2de83cd27af333f5708a4c9bb3bac5586cf50cfccf4ca7ef4e7bacf9
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -18361,6 +18500,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/1cb46c4a119429e59516fd3f0287e49d.png
 Name: 七猫小说NoAds
 
+Package: com.wkk.qqantirecall
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 256
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qqantirecall_1.0_iphoneos-arm64.deb
+Size: 73540
+MD5sum: c6c947c996ae701ecd9943f9a961366a
+SHA1: ee53b6528544cdc9cce8b24ed1fcef503d591bf3
+SHA256: 3a032f32adbb9afcddd59d37719978c096e9c96a9b91b83b8cb6443bb8a83472
+Section: Tweaks
+Description: 仅在9.2.20 - 9.2.70测试，仅支持越狱，有问题卸载。
+Author: 𝙓
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
+Name: QQ防撤回
+
+Package: com.wkk.qqantirecall
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qqantirecall_1.0_iphoneos-arm64e.deb
+Size: 95650
+MD5sum: 536bdf9c57a773dbcb0e164bfb71186c
+SHA1: b1ecdf7c87093073b2794af4b64b72f92061bbc7
+SHA256: b7c7fdeed7e6dcb17fcf5a74551d5ca0a8e62f2b60316335f522d3d33ecdaab9
+Section: Tweaks
+Description: 仅在9.2.20 - 9.2.70测试，仅支持越狱，有问题卸载。
+Author: 𝙓
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
+Name: QQ防撤回
+
 Package: com.wkk.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64e
@@ -22045,6 +22219,41 @@ SHA1: ec412b1ffea4072e9d145261f6a3168632ab8bf7
 SHA256: 3c1c78426c6273a4d5f3c4d3a2a98ed48a267d255bba69cc3889a537e4bca3f3
 Section: Tweaks
 Description: 24小时内删除。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯
+
+Package: com.wkk.xhshook
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 4296
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xhshook_1.2.0_iphoneos-arm64e.deb
+Size: 4240840
+MD5sum: 41a12ba5a546de83f86c405f5455313c
+SHA1: 8709aa130d05f86c586c76f4cb1302bb5f47f0da
+SHA256: 412fb0fe84f2817c5451df3b610330cf04908a48fe787e403ac29a8fbcbbe25e
+Section: Tweaks
+Description: 自用，24小时内删除。
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯
+
+Package: com.wkk.xhshook
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 4296
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.xhshook_1.2.0_iphoneos-arm64.deb
+Size: 1785244
+MD5sum: 4e3b40a71df8763b13009ae23d8190c6
+SHA1: c05d96e3358113502dd3847b769861490000e988
+SHA256: f123ce4586291e63722bc911c779a079c1a003c0d3e82d8654fbf51b94e84287
+Section: Tweaks
+Description: 自用，24小时内删除。
 Author: x✨
 Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
 Name: 小红薯
