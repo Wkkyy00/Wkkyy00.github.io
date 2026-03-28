@@ -19116,6 +19116,41 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
 Name: 移除小组件背景
 
+Package: com.wkk.rode
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: rootfs
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.rode_1.0_iphoneos-arm64.deb
+Size: 6240
+MD5sum: abccd50faaa00ba46c3e995e974a9722
+SHA1: a4a2169c0a288a1050f3037a859109d5d5724b76
+SHA256: 6213500103072ec32c7877206e2dffe1e57242f45cd23c86c186c8e21b2fecaa
+Section: Tweaks
+Description: 随机打乱锁屏密码。
+Author: rootfs
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Rode
+
+Package: com.wkk.rode
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: rootfs
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.rode_1.0_iphoneos-arm64e.deb
+Size: 8298
+MD5sum: 31e94d628426ed0b18ec07e8c395f83d
+SHA1: deb571ed32614edbbaee0d03edb1bc05146af9cd
+SHA256: 1fe206febfe11778c7effee4fd31927e1ee10b88fb0663c61098624bcacf526a
+Section: Tweaks
+Description: 随机打乱锁屏密码。
+Author: rootfs
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Rode
+
 Package: com.wkk.roothide
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -19889,6 +19924,41 @@ Description: 备份。
 Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Stheno黑色奥利奥
+
+Package: com.wkk.storeswitcher.appstore
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/com.wkk.storeswitcher.appstore_1.0.6_iphoneos-arm64e.deb
+Size: 32242
+MD5sum: b0bae56186252d62700a2f261fa30311
+SHA1: ad7730daaf45d5d3cd8510f4c6e22cf7b852d43b
+SHA256: 1bca88ee37e382bc07868537d2c7e8ac08df8a7b30d2d03b86530f0826b03846
+Section: Tweaks
+Description: 桌面长按App Store进行切换账号。
+Author: subdiox & iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher
+
+Package: com.wkk.storeswitcher.appstore
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/com.wkk.storeswitcher.appstore_1.0.6_iphoneos-arm64.deb
+Size: 23040
+MD5sum: 81a9b067cd7af4a05245b0f524e40a7d
+SHA1: ce24d72b1773039d8e384ab02c6f595511a6ef37
+SHA256: 0b16e0bb5af1ea01b256361fc5b7a9c7c4ab6fae04716d6be62a9979df3cceff
+Section: Tweaks
+Description: 桌面长按App Store进行切换账号。
+Author: subdiox & iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher
 
 Package: com.wkk.storeswitcher2
 Version: 1.0.5
