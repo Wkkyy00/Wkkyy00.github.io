@@ -9882,6 +9882,43 @@ Dev: 君临
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCRefine
 
+Package: com.wkk.WCRefine
+Version: 1.4-0
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.4-0_iphoneos-arm64e.deb
+Size: 6797718
+MD5sum: 2f43f2eb6d1f941f6173e57a3e2516f1
+SHA1: cad6f1c1b135738714f729bbae4b87dcf7ea8afc
+SHA256: e78bc961a3ac5d2834e3e2f84b755af6d204751a2b4a96f5cd23ff0861c56c08
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.WCRefine
+Version: 1.4-0
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.4-0_iphoneos-arm64.deb
+Size: 2424936
+MD5sum: 250d434d89cd08f93527d78d52891bac
+SHA1: 45eaa74f6b1aa9076dbdb2ee445c4cb674a737ac
+SHA256: de435f021b4abbf0f4dfcc2c02afdc17f9a632b04a469dfa39b59877802f1f62
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
 Package: com.wkk.WCSafeMode
 Version: 1.0-1
 Architecture: iphoneos-arm64e
