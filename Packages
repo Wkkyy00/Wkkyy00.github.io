@@ -7948,6 +7948,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.2.8
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.8_iphoneos-arm64.deb
+Size: 5330204
+MD5sum: 01d1a52831afdb89091ffd3ccb9ce02c
+SHA1: 469c8b36780841c85a8b79e546558a32539db6c9
+SHA256: 50929429f97f8f23c7748e1b07d39bda2ad636fe11a599b3b2eb97576d31f878
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.2.8
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.8_iphoneos-arm64e.deb
+Size: 14376554
+MD5sum: 57b47c7565692374e1b2d4b98f765e9c
+SHA1: f6b37e355c506aba1d31b6a67dc3fa203855c969
+SHA256: 1769ebd8f28a781290a5e32c21928f789c61ef9f6a0e2708fb2871ad28d56676
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -9360,6 +9395,40 @@ Size: 7882028
 MD5sum: f6fb03787e80fea4ff064539e35061c9
 SHA1: 278aeab4923fec0ae920c075485ea66c8ba40424
 SHA256: 119e82a29824f57f9d21cf83cec092c15090b257fbc375109adbc13ad307911f
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.5-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.5-8_iphoneos-arm64e.deb
+Size: 8604208
+MD5sum: d473fbac343cdb40df51acd77d65676d
+SHA1: bf8789c8b38a5d205d09d663f98a0b819f721d01
+SHA256: f9972f260fef6934ef78ecf37a5d685fd88cfdc78f76e765e8bb439216918d0e
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCPulse
+
+Package: com.wkk.WCPulse
+Version: 1.5-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCPulse_1.5-8_iphoneos-arm64.deb
+Size: 8603688
+MD5sum: bedeb00d4adf783eac320b4d5a815031
+SHA1: 71f68177e2ade02911270748574e748728a6eea3
+SHA256: 9882a73df3e182f051241fd7d27cb2ce08545573ec1422644439e628dc27a79d
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -14151,6 +14220,45 @@ Description: 去开屏广告，版本：9.10.46
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/13/064c56d88547b559d879e72da7027027.png
 Name: 飞猪旅行NoAds
+
+Package: com.wkk.filzacarplugins
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 10644
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.iosdump.filzacarplugin
+Filename: ./debs/com.wkk.filzacarplugins_1.0.0_iphoneos-arm64e.deb
+Size: 21340124
+MD5sum: dea967313616cd22ae366cd1b557680f
+SHA1: aea61fac93988e1265aec2d801cece6c4280cb19
+SHA256: 28992e208e23da47e317c14b69ddab6f8d00096ce56455d2bec466aa1c5a480e
+Section: Tweaks
+Description: Filza 增强插件
+ * 提取与修改 Assets.car 资源文件
+ * 使用：长按 .car 文件，菜单中点击“打开方式”
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/icon.png
+Name: FilzaCarPlugin
+
+Package: com.wkk.filzacarplugins
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 10644
+Conflicts: com.iosdump.filzacarplugin
+Filename: ./debs/com.wkk.filzacarplugins_1.0.0_iphoneos-arm64.deb
+Size: 5351376
+MD5sum: 4a5e4a1eba54aa60e4b49d7ea9afe07c
+SHA1: 89cccb5f176332ca5bba124a648357271aa42db3
+SHA256: 705093869a3320f594fa7606969a22de8ce6458352e51b348b6a1e73d07c46e8
+Section: Tweaks
+Description: Filza 增强插件
+ * 提取与修改 Assets.car 资源文件
+ * 使用：长按 .car 文件，菜单中点击“打开方式”
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/icon.png
+Name: FilzaCarPlugin
 
 Package: com.wkk.filzacrack
 Version: 1.1-9
