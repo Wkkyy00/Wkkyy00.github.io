@@ -9408,10 +9408,10 @@ Maintainer: huami
 Installed-Size: 1348
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.WCPulse_1.5-8_iphoneos-arm64e.deb
-Size: 8604208
-MD5sum: d473fbac343cdb40df51acd77d65676d
-SHA1: bf8789c8b38a5d205d09d663f98a0b819f721d01
-SHA256: f9972f260fef6934ef78ecf37a5d685fd88cfdc78f76e765e8bb439216918d0e
+Size: 8596940
+MD5sum: 82ed7e1a5c80dba47c743c04416f3362
+SHA1: ed143932e63fa90c5c616316baa82ac574c6def1
+SHA256: 3991a082057dc2b573db2638e5bce1d1f3daa688f46cc36c36dffed82bd4e054
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -9425,10 +9425,10 @@ Maintainer: huami
 Installed-Size: 1348
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.WCPulse_1.5-8_iphoneos-arm64.deb
-Size: 8603688
-MD5sum: bedeb00d4adf783eac320b4d5a815031
-SHA1: 71f68177e2ade02911270748574e748728a6eea3
-SHA256: 9882a73df3e182f051241fd7d27cb2ce08545573ec1422644439e628dc27a79d
+Size: 8600300
+MD5sum: bdfafa35df800ea59ec6baa9d9d1e7c0
+SHA1: e4ff9d71823bcacc01430bc44524c84c08ed636a
+SHA256: 2a6a80e2d17454a446162990cfc29a2ddbdc02c76a86c507489bf49b11878fbf
 Section: 微信插件
 Description: WCPulse
 Author: huami
