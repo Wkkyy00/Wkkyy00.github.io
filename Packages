@@ -8692,6 +8692,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
 Name: SquidExtender配置
 
+Package: com.wkk.WCCC
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCCC_1.0-2_iphoneos-arm64e.deb
+Size: 58732
+MD5sum: 94ea145af87d4a9af679861b82946d4c
+SHA1: 8e6ff24a31d3f6027f1cf8f81008f111aa7d5902
+SHA256: f5eef941a136b4d4d50c4d6cb9127abbc32ad61ac8cad043b7c18574016d106d
+Section: 微信插件
+Description: 在不影响官方热更新的情况下，恢复因为被热更新覆盖导致功能失效的插件功能，越狱安装。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCCC
+
+Package: com.wkk.WCCC
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCCC_1.0-2_iphoneos-arm64.deb
+Size: 76584
+MD5sum: b54f1b93e00ffe663f34ae42fd5e59cb
+SHA1: 51e44da7ac3df27b4392506c47e5dde4c343585c
+SHA256: 802131d5e6447e30eab48e6bc1f629a276463ae65cf513fdb527a937a42cfaab
+Section: 微信插件
+Description: 在不影响官方热更新的情况下，恢复因为被热更新覆盖导致功能失效的插件功能，越狱安装。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCCC
+
 Package: com.wkk.WCEhance
 Version: 2.0-1
 Architecture: iphoneos-arm64
