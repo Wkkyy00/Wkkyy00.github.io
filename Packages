@@ -8726,6 +8726,40 @@ Author: huami
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCCC
 
+Package: com.wkk.WCCC
+Version: 1.0-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCCC_1.0-6_iphoneos-arm64e.deb
+Size: 676388
+MD5sum: 6d6c6bf1370bf5e852349b0fa88bb9ba
+SHA1: 81967b9fff4e585e5d30c082266513469ff23155
+SHA256: bacad5aa8ecfad5da5db940d23abb60b34432c4d5becdb4749a2c050126d04ce
+Section: 微信插件
+Description: 在不影响官方热更新的情况下，恢复因为被热更新覆盖导致功能失效的插件功能，越狱安装。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCCC
+
+Package: com.wkk.WCCC
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.WCCC_1.0-6_iphoneos-arm64.deb
+Size: 671976
+MD5sum: 46322271517efb2dcd471851d9084d2d
+SHA1: 4780a302fee267fd98c884e71e049adcca574a44
+SHA256: 92f3cde78b0685162fb70c8ce205b275ff497b2ff34ca861086e9c471d89fe7e
+Section: 微信插件
+Description: 在不影响官方热更新的情况下，恢复因为被热更新覆盖导致功能失效的插件功能，越狱安装。
+Author: huami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCCC
+
 Package: com.wkk.WCEhance
 Version: 2.0-1
 Architecture: iphoneos-arm64
