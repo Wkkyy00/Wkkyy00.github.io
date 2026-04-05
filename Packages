@@ -8620,6 +8620,39 @@ Icon: https://s1.imagehub.cc/images/2025/03/25/dbdacd5798135a4cbb0a807e4be96505.
 Name: HideEdit
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/hideedit.json
 
+Package: com.wkk.Keyboardplus
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.Keyboardplus_1.1-7_iphoneos-arm64e.deb
+Size: 18670
+MD5sum: d390a062926c93710d95ffabf1463a8b
+SHA1: 5adf0f6d81877147f4ded4e9999e6223580c90f7
+SHA256: 90ab25a702e190fbcbb3cffa7b68cd8f56b99c6e22c1ae8383a166ccccd722c3
+Section: 插件配置
+Description: 注入屏蔽越狱的app，使你的键盘拥有更多的扩展功能，长按底部第一个按钮弹出设置项，带三个粘贴板接口（付费的群友个人需要 且免费上源分享 入群可以加qq1772773799 尽量满足你的大部分需求）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 键盘增强（TrollFools注入）
+
+Package: com.wkk.Keyboardplus
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.Keyboardplus_1.1-7_iphoneos-arm64.deb
+Size: 13696
+MD5sum: bb3280d03ae4b2991976dcc3bf7c65e6
+SHA1: ac31024e383bd415393ff89e4df5ae5d58dd0597
+SHA256: 513b49b3ff1c31183a8dd5c73ecbadd7f1ce45dc3933fdb0894c6815856f8e1f
+Section: 插件配置
+Description: 注入屏蔽越狱的app，使你的键盘拥有更多的扩展功能，长按底部第一个按钮弹出设置项，带三个粘贴板接口（付费的群友个人需要 且免费上源分享 入群可以加qq1772773799 尽量满足你的大部分需求）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 键盘增强（TrollFools注入）
+
 Package: com.wkk.RestoreFont2
 Version: 1.0-1
 Architecture: iphoneos-arm64
