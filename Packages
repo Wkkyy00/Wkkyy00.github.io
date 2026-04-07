@@ -12267,6 +12267,40 @@ Author: qwq
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChat单独防撤回
 
+Package: com.wkk.controlcenterlayout
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.controlcenterlayout_2.1_iphoneos-arm64e.deb
+Size: 90492
+MD5sum: 173ffb600f84b00e3a453082f02deb8a
+SHA1: 35d852a84071128ba291c000371054f506c604c8
+SHA256: 882930bab585d9a1b9485c0d1a4c0dbb995130b6cc0b6b34ee542f28e33fb0e3
+Section: Tweaks
+Description: 用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
+Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 控制中心模块
+
+Package: com.wkk.controlcenterlayout
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.controlcenterlayout_2.1_iphoneos-arm64.deb
+Size: 90704
+MD5sum: 9d4fddd5a8838ac4532acaecf9738aad
+SHA1: 1d7dd7d247a1d59254f88aa2df3414c99fe89935
+SHA256: d4deb8871040f271a6b238220906828e9465951189ecd0471dee2f0bd9393c59
+Section: Tweaks
+Description: 用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
+Author: Simon
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 控制中心模块
+
 Package: com.wkk.coolapp
 Version: 1.5
 Architecture: iphoneos-arm64
