@@ -18124,6 +18124,40 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/12/27/4a23398f59384c6633e9a0687a9f6d4b.png
 Name: 禁字决
 
+Package: com.wkk.noticehook
+Version: 1.0-7
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.noticehook_1.0-7_iphoneos-arm64e.deb
+Size: 4240
+MD5sum: d31fda1f32e52dbfa61e4fa67d801e68
+SHA1: bb618a6580511d96754ed85f6d74c00f6556340b
+SHA256: 0e99e72d3b0c63ebbfeabc472d06abb22570a8586f725d35640198db9893e96b
+Section: Tweaks
+Description: 系统的横幅和锁屏的通知降低透明度 ，使其看上去更加别致（付费的群友个人需要 且免费上源分享 入群可以加 qq1772773799 尽量满足你的大部分需求）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 通知透明度
+
+Package: com.wkk.noticehook
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.noticehook_1.0-7_iphoneos-arm64.deb
+Size: 4320
+MD5sum: 07e9291e2050d615a3f18ab7bba65541
+SHA1: 66dd41e01ac69068de0f323db3493e3e96193668
+SHA256: c12f71607ab1e903485fb03bf08da0adea1aee712fc304e66b83c8f351d219bb
+Section: Tweaks
+Description: 系统的横幅和锁屏的通知降低透明度 ，使其看上去更加别致（付费的群友个人需要 且免费上源分享 入群可以加 qq1772773799 尽量满足你的大部分需求）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 通知透明度
+
 Package: com.wkk.nowaveform
 Version: 1.0.2
 Architecture: iphoneos-arm64
