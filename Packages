@@ -5298,6 +5298,26 @@ Author: 狗哥
 Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
 Name: 哔哩哔哩净化
 
+Package: com.creaturecoding.libcspreferences
+Version: 1.5.8
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2332
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e.deb
+Size: 977008
+MD5sum: 0b2be5df7efc61cb3706cf652578c1fc
+SHA1: 3d62dc294837b71a05da4237c80ae00c32bc0eed
+SHA256: f13a27f97e10da655a47b63da24a22d64b56066e265c38197d343e0554a3fb3a
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Name: libCSPreferences
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
 Package: com.curtin.pkc
 Version: 0.7-0
 Architecture: iphoneos-arm64e
@@ -20013,12 +20033,12 @@ Architecture: iphoneos-arm64e
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1484
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.libcspreferences
+Depends: com.creaturecoding.libcspreferences
 Filename: ./debs/com.wkk.shuffle_1.6.2_iphoneos-arm64e.deb
-Size: 329740
-MD5sum: fdb532880ab99714f8ba668eb08b4054
-SHA1: 39e5c49d736fefddb64e82abc926a098dd156b28
-SHA256: b7a69f6be55fc98797f5404b2da5ec0c1a2a7cc42fa51d47d58e933842766430
+Size: 329754
+MD5sum: 86936d8c26464f1f0d30864f3fa5b76b
+SHA1: 4d805ec8cef0b0d28b830f4271475ba66b1bd278
+SHA256: 4d178aa430e1804fd42823534dda3c950b238119a24dc3ff5427e85c9117fc0d
 Section: Tweaks
 Description: 插件设置归类，已汉化。
 Author: CreatureSurvive <support@creaturecoding.com>
@@ -20030,12 +20050,12 @@ Version: 1.6.2
 Architecture: iphoneos-arm64
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1484
-Depends: com.libcspreferences
+Depends: com.creaturecoding.libcspreferences
 Filename: ./debs/com.wkk.shuffle_1.6.2_iphoneos-arm64.deb
-Size: 260504
-MD5sum: 520f4ecd8c59fb95885b0fad0447efa6
-SHA1: 192340ad2b3490998dc7e018e02a39cf2d0cef29
-SHA256: 24b472f56b71c8cb73ef1d4648ede7493a4eab98f97b93b779e291755e485b16
+Size: 261260
+MD5sum: 5e1c035c03255f86c182e9576376e060
+SHA1: a0f8ad934d0386a8fa9cb097876aeef100209065
+SHA256: dca28e9effe883f855ce29eec297d0cb1f63aaa1d3967ba27da822c7da1a9551
 Section: Tweaks
 Description: 插件设置归类，已汉化。
 Author: CreatureSurvive <support@creaturecoding.com>
