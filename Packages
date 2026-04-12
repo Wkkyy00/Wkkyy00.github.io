@@ -10874,6 +10874,58 @@ Author: Fouad Raheb
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AppData
 
+Package: com.wkk.appdata.iosdump
+Version: 1.9.4
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_1.9.4_iphoneos-arm.deb
+Size: 206896
+MD5sum: b54af4c5815b7fd35b96d653fff66a17
+SHA1: f7bbba629fe4f4c707be17aec96a9d304300e6db
+SHA256: 487cd659242a813d59aa5e261dabf74b40f2a6bba691fe4f961f8e19a453313b
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 1.9.4
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_1.9.4_iphoneos-arm64e.deb
+Size: 291590
+MD5sum: bd3ce632d04cb3e841db631c4ca702af
+SHA1: d3721685ddaba3bb7136083492ce4f615e917c2c
+SHA256: a3b3101e8cd066d571d454bf0afef75561532aa9c87c3bf2d5c362e24a544183
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 1.9.4
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_1.9.4_iphoneos-arm64.deb
+Size: 207160
+MD5sum: 1465d1a388bdd362385b5268e6f32d07
+SHA1: 9fb11ab9a97a91d91ddeb32f03335fdb921fd3ae
+SHA256: cc91f1982866048dd9d7e4c54ba92a0ba311bdd336452f26684a673d1b19e176
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
 Package: com.wkk.apppad
 Version: 1.1.3
 Architecture: iphoneos-arm64e
