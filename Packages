@@ -16212,6 +16212,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
 
+Package: com.wkk.imaotai
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 480
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.imaotai_0.0.2_iphoneos-arm64.deb
+Size: 116844
+MD5sum: cf790289fd73fb357f99cd73f3394bf9
+SHA1: d81451a12d70854887254b104bd4088571ee4916
+SHA256: 8fd5dfe6b42406bafd8cd7b73dbc3287f1db59a3ff601f0cdc8b59329be4eeed
+Section: 去广告
+Description: 不要屏蔽i茅台app，直接下载插件即可，然后可以用crane多开。
+Author: lenglengyu <lenglengyu@126.com>
+Icon: https://s1.imagehub.cc/images/2026/04/15/ac75f179a98e8eeb16183c856335b0c1.png
+Name: i茅台屏蔽越狱检测
+
+Package: com.wkk.imaotai
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.imaotai_0.0.2_iphoneos-arm64e.deb
+Size: 163718
+MD5sum: c8f782fd2ccc6992072bcade2bc52561
+SHA1: dca39004c5333652280167849aa8648ca87831a2
+SHA256: 6248719d0feb052089737409d19b73257ea24e3489ddd099a04b66e33cadddf8
+Section: 去广告
+Description: 不要屏蔽i茅台app，直接下载插件即可，然后可以用crane多开。
+Author: lenglengyu <lenglengyu@126.com>
+Icon: https://s1.imagehub.cc/images/2026/04/15/ac75f179a98e8eeb16183c856335b0c1.png
+Name: i茅台屏蔽越狱检测
+
 Package: com.wkk.immortalizer
 Version: 2.0.1
 Architecture: iphoneos-arm64e
