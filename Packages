@@ -8451,6 +8451,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
+Package: com.wkk.26kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.26kbhook_1.0-1_iphoneos-arm64.deb
+Size: 3728
+MD5sum: f7003a727de84b67cd13a756ea492c21
+SHA1: a3c924fdfab6b6a5670f47ea77267c9f0f34e182
+SHA256: 3a83e59631c632daacc4ad0a53cadeae1a36747689dd3908f1ceda0a90b5d902
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 仿iOS26键盘圆角
+
+Package: com.wkk.26kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.26kbhook_1.0-1_iphoneos-arm64e.deb
+Size: 3668
+MD5sum: 17bdb92d368f2e9ad4116b25a3a8d22d
+SHA1: 0e2c1524b5511bfde9771da113c39126ccf8ac3d
+SHA256: a720ee2961ab1d82e3f0b5dee741830e33405a528bc10084531699d24f2275d7
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 仿iOS26键盘圆角
+
 Package: com.wkk.3dfasthook
 Version: 1.0-1
 Architecture: iphoneos-arm64
