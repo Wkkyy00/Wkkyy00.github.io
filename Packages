@@ -196,6 +196,40 @@ Author: 来了老弟
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 全局透明Max
 
+Package: cn.wkk.watchfix
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/cn.wkk.watchfix_1.0.0_iphoneos-arm64.deb
+Size: 113372
+MD5sum: 990533bbac824befdcf6d36efb4dc36d
+SHA1: 74804993689f867d873da72e17397f8e7f9f6af5
+SHA256: d829ce47d4cfaf1cbea791517efcacf024eec720338dc78275802d5dc50932e6
+Section: Tweaks
+Description: 老系统配对新的 Apple watch 修复插件。
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: WatchFix
+
+Package: cn.wkk.watchfix
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/cn.wkk.watchfix_1.0.0_iphoneos-arm64e.deb
+Size: 113236
+MD5sum: c5fcf6c6a009f86f840f530d87b9f95a
+SHA1: 1a365a59ca2892fbaf3b16866dbe90cc48385fa9
+SHA256: 718330f3f4d5555680d4298ef32860314b41713de1c93b1765562c1ab1f19ac4
+Section: Tweaks
+Description: 老系统配对新的 Apple watch 修复插件。
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: WatchFix
+
 Package: cn.zqbb.appdata
 Version: 1.3.6-9
 Architecture: iphoneos-arm64
