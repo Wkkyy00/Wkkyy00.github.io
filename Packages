@@ -12567,6 +12567,57 @@ Icon: https://s1.imagehub.cc/images/2025/12/29/79018e0c97a38b0c2da262e3bf40edb1.
 Name: CCswitchdata
 Sponsor: wkk
 
+Package: com.wkk.cctunneltap
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 148
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.cctunneltap_1.0.0_iphoneos-arm64.deb
+Size: 25788
+MD5sum: ad344e6104ac393026dc26b3e038c763
+SHA1: cb37ca5fb44b54849994399dbea7d398a5648d18
+SHA256: 2b9abb44d93308068da4b095a2e475d6d76456995c053eec468db798e3a23363
+Section: Tweaks
+Description: 控制中心启动快速小火箭。
+Author: fries
+Icon: https://mieing.github.io/icon/CCTunnelTap.png
+Name: CCTunnelTap
+
+Package: com.wkk.cctunneltap
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: fries
+Installed-Size: 148
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.cctunneltap_1.0.0_iphoneos-arm64e.deb
+Size: 25724
+MD5sum: 039e161acb01315e904bee4a2a8be4d4
+SHA1: 3545355512c3217b51154b50d1c17451cf609e2b
+SHA256: 157d4f1b2fd3862f05d05214ebf0fd6793b56f1754c706ab1cdbb765216ac9aa
+Section: Tweaks
+Description: 控制中心启动快速小火箭。
+Author: fries
+Icon: https://mieing.github.io/icon/CCTunnelTap.png
+Name: CCTunnelTap
+
+Package: com.wkk.cctunneltap
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 148
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.wkk.cctunneltap_1.0.0_iphoneos-arm.deb
+Size: 25720
+MD5sum: e9c6098fb42d7c3c4440990a16e7b36d
+SHA1: 3a12e831579cd5bd03e969df20b0cde5e273eebe
+SHA256: e309e3ac94d242e99667c0be17bf8726a3407f5b207eab6c5085d5c2797c9905
+Section: Tweaks
+Description: 控制中心启动快速小火箭。
+Author: fries
+Icon: https://mieing.github.io/icon/CCTunnelTap.png
+Name: CCTunnelTap
+
 Package: com.wkk.ccweathermodule
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -15947,6 +15998,40 @@ Description: 桌面的图标随意摆放。
 Author: mikifp
 Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
 Name: Griddy
+
+Package: com.wkk.h3kbhook
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Tune
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.h3kbhook_1.1.0_iphoneos-arm64e.deb
+Size: 7084
+MD5sum: ae6bff324f5d0ed8f5b51d292826e277
+SHA1: 828032881f62fa6cd656a36330a5de74f7def00b
+SHA256: fc2744bea9f86c76b07cfda1f85ab67b838b35b9a50ddb7c443cd30e51f6452a
+Section: Tweaks
+Description: stable h3kb pro unlock package for app and keyboard extension
+Author: Tune
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 元书输入法pro
+
+Package: com.wkk.h3kbhook
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Tune
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.h3kbhook_1.1.0_iphoneos-arm64.deb
+Size: 7148
+MD5sum: bf4dcf1518c6d124fbfb7b9c7ce9d892
+SHA1: 84886748ef07836f0f59c8720b72fd988f9fe50f
+SHA256: 51c7ac17b3c1fa3bfe9c37af970117bf51f878bf54c086eb4815cdda58a2eb0f
+Section: Tweaks
+Description: stable h3kb pro unlock package for app and keyboard extension
+Author: Tune
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 元书输入法pro
 
 Package: com.wkk.helloappdata
 Version: 1.3.6-9-1+debug
