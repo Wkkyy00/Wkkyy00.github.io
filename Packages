@@ -16684,41 +16684,6 @@ Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
 Name: InstaLauncher 2
 
-Package: com.wkk.intelligentpass5
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: Geometric Software
-Installed-Size: 444
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware(>=15.0), firmware(<<17), preferenceloader, se.geometric.graphite
-Filename: ./debs/com.wkk.intelligentpass5_1.0.2_iphoneos-arm64e.deb
-Size: 99538
-MD5sum: 4c8dbe4ac1087548ec27125f6e74f791
-SHA1: 80339391950b9ca3a1beb0aa9c0aa2b65aa83e92
-SHA256: 350fdb8c04c9f7a2ef2eba58af160def10eb11e85e1facec19aba7340ba3db39
-Section: Tweaks
-Description: 最好用的跳过密码插件，信任Wi-Fi/蓝牙/定时间段/深浅色模式等等...已加入汉化。
-Author: Geometric Software
-Icon: https://s1.imagehub.cc/images/2025/12/27/ef8224270e0b59a70ff47d7bb0f6f964.png
-Name: IntelligentPass 5
-
-Package: com.wkk.intelligentpass5
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: Geometric Software
-Installed-Size: 444
-Depends: mobilesubstrate, firmware(>=15.0), firmware(<<17), preferenceloader, se.geometric.graphite
-Filename: ./debs/com.wkk.intelligentpass5_1.0.2_iphoneos-arm64.deb
-Size: 87100
-MD5sum: 38774c615d5170852a540961946a1f18
-SHA1: cd7a09160bdfdc83ecca3942fcfda21d3208c937
-SHA256: c73b9fb58b8b3e42fec648b9b1da7a7209dca4c60724f93f307edf7a255c4532
-Section: Tweaks
-Description: 最好用的跳过密码插件，信任Wi-Fi/蓝牙/定时间段/深浅色模式等等...已加入汉化。
-Author: Geometric Software
-Icon: https://s1.imagehub.cc/images/2025/12/27/ef8224270e0b59a70ff47d7bb0f6f964.png
-Name: IntelligentPass 5
-
 Package: com.wkk.iwanttranslucent
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -25018,6 +24983,41 @@ Description: 完美版。
 Author: Domo <domo@rambler.ru>
 Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
 Name: CocoaTop64
+
+Package: se.geometric.intelligentpass5
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: kkkk
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>= 15.0),firmware (<< 17),preferenceloader,se.geometric.graphite
+Filename: ./debs/se.geometric.intelligentpass5_1.0.1_iphoneos-arm64e.deb
+Size: 222698
+MD5sum: b8cf35d848f4acd2a1e93ff09a6bf05a
+SHA1: c00ea8ab4cc1975374d493db7bcb410e9db73f7f
+SHA256: af3b8999a540a4101db9c2eb0b5a52e2e6cabf9aa14e510bf6fc8fdf1087b2d8
+Section: Tweaks
+Description: 最好用的跳过密码插件。
+Author: Geometric Software
+Icon: https://huayuarc.github.io/images/mm.png
+Name: IntelligentPass 5
+
+Package: se.geometric.intelligentpass5
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: kkkk
+Installed-Size: 444
+Depends: mobilesubstrate,firmware (>= 15.0),firmware (<< 17),preferenceloader,se.geometric.graphite
+Filename: ./debs/se.geometric.intelligentpass5_1.0.1_iphoneos-arm64.deb
+Size: 111114
+MD5sum: c6b8703c7fbf3eab31f3c5bbe13ed121
+SHA1: 450ac77d54cb3c7b29e35c873f09b543e52bc66e
+SHA256: 675e185aa19c6ff17a298eb6571c0060d024682ef34f74005d8fcfe91606c605
+Section: Tweaks
+Description: 最好用的跳过密码插件。
+Author: Geometric Software
+Icon: https://huayuarc.github.io/images/mm.png
+Name: IntelligentPass 5
 
 Package: uncar
 Version: 0.0.1-6
