@@ -8527,12 +8527,12 @@ Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.3dddhook_1.0-5_iphoneos-arm64.deb
-Size: 4608
-MD5sum: 28c3ca7283636eeef8653bee3cfd49ba
-SHA1: 1689455a19d7f010bb2b0c673aa282d5ae56e1d1
-SHA256: bf79551045bdb61a9c50ed9d9a6e34a1e4461c2c399be94b593031350d16142c
+Size: 4548
+MD5sum: 8c03248a295ae101deec748560693ae5
+SHA1: e6c83bd26be178f51e7711bee80399d83f54ac70
+SHA256: de1811ee92e808474b17e3479801c6ff5b176d88ea2b29320d5b4e18989f9e8d
 Section: Tweaks
-Description: 修复snapper3双击浮窗问题/修复资源库变暗。
+Description: cool
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 提升3dtouch唤醒速度
@@ -8544,12 +8544,12 @@ Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.3dddhook_1.0-5_iphoneos-arm64e.deb
-Size: 4608
-MD5sum: cfab3aded74829691bd0bbbe98ead7f6
-SHA1: 2d319c35a22d309a72d12d0be7f5fcb2fd110ab9
-SHA256: 630a01383bfa3ea25a78acf6a13d0e5b6ed3b2d47b3795910702a01760ce6294
+Size: 4488
+MD5sum: 1e787cb5b3b3976af184f112080ae5a0
+SHA1: 98212ecab87438599727ee6c303f7671dfcf34f5
+SHA256: 7870d8fe32b0d18d0a617aa9330009a8ef4758f7b3e2c2197fc51f271570383e
 Section: Tweaks
-Description: 修复snapper3双击浮窗问题/修复资源库变暗。
+Description: cool
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 提升3dtouch唤醒速度
