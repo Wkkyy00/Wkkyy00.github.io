@@ -16529,6 +16529,57 @@ Author: sergy
 Icon: https://s1.imagehub.cc/images/2025/01/07/da88b1cfbc41a40634e3396891d98dc6.png
 Name: Immortalizer
 
+Package: com.wkk.infuseplus
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 1292
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.infuseplus_2.5_iphoneos-arm.deb
+Size: 455084
+MD5sum: 344f81a6dff575f9a3633146190ce792
+SHA1: 4e225e663fb23d39d3d49f4e9d83b06e2f11b93e
+SHA256: b176148e5b83b15ab315a1b5da4d7aadbccd0269e0ff6eb463c6f49f60f3c39a
+Section: Tweaks
+Description: Infuse破解会员
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+
+Package: com.wkk.infuseplus
+Version: 2.5
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1292
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.infuseplus_2.5_iphoneos-arm64e.deb
+Size: 454476
+MD5sum: fb808c508ab527b778fecf7c3fe6a149
+SHA1: 9c70116093b5ce621ec40bc0459d933b4d4fbf81
+SHA256: e10c445b6f128ce2ebb5a019fa7410657e970b218cd66d0cc3aa0fba929ca464
+Section: Tweaks
+Description: Infuse破解会员
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+
+Package: com.wkk.infuseplus
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 1292
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.infuseplus_2.5_iphoneos-arm64.deb
+Size: 455912
+MD5sum: ffd98b8d10e363aed91f4a09c1177c71
+SHA1: 8c6764aeac82f93a68373cd81a2ee381b02b5d4c
+SHA256: 5f13b8514b051e51274a952829e98f31a579938415378f9e7f2f00db23790d0a
+Section: Tweaks
+Description: Infuse破解会员
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+
 Package: com.wkk.injectipa
 Version: 1.5-7
 Architecture: iphoneos-arm64e
