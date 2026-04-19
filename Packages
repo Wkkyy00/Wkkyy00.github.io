@@ -8520,39 +8520,39 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.png
 Name: 铁路12306NoAds
 
-Package: com.wkk.3dfasthook
-Version: 1.0-1
+Package: com.wkk.3dddhook
+Version: 1.0-5
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.3dfasthook_1.0-1_iphoneos-arm64.deb
-Size: 3076
-MD5sum: ca1282baccefceca951fdb8da095bb4c
-SHA1: c15a604109d02cd835d2cf1edb6bbb42e705bc60
-SHA256: 1196f84d033ded66d6c9dc162dc013395f40bc8af37e4543361bbe0c87d5d75e
+Filename: ./debs/com.wkk.3dddhook_1.0-5_iphoneos-arm64.deb
+Size: 4608
+MD5sum: 28c3ca7283636eeef8653bee3cfd49ba
+SHA1: 1689455a19d7f010bb2b0c673aa282d5ae56e1d1
+SHA256: bf79551045bdb61a9c50ed9d9a6e34a1e4461c2c399be94b593031350d16142c
 Section: Tweaks
-Description: cool
+Description: 修复snapper3双击浮窗问题/修复资源库变暗。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 提升3DTouch唤醒速度
+Name: 提升3dtouch唤醒速度
 
-Package: com.wkk.3dfasthook
-Version: 1.0-1
+Package: com.wkk.3dddhook
+Version: 1.0-5
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.3dfasthook_1.0-1_iphoneos-arm64e.deb
-Size: 3008
-MD5sum: b7dc9bc080144d6d727a2ea0b15c563b
-SHA1: 2d86d008c9fe426760497d41df95b69235ef5313
-SHA256: 02c1648c9d01fabb4d85ae8e5b01840b3fd0013abd4be0921180681bfd9ceaf6
+Filename: ./debs/com.wkk.3dddhook_1.0-5_iphoneos-arm64e.deb
+Size: 4608
+MD5sum: cfab3aded74829691bd0bbbe98ead7f6
+SHA1: 2d319c35a22d309a72d12d0be7f5fcb2fd110ab9
+SHA256: 630a01383bfa3ea25a78acf6a13d0e5b6ed3b2d47b3795910702a01760ce6294
 Section: Tweaks
-Description: cool
+Description: 修复snapper3双击浮窗问题/修复资源库变暗。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 提升3DTouch唤醒速度
+Name: 提升3dtouch唤醒速度
 
 Package: com.wkk.AppIndex
 Version: 1.0
@@ -11173,6 +11173,40 @@ Description: 使任意应用强制全屏/强制竖横屏，解决有些App不全
 Author: PoomSmart
 Icon: https://s1.imagehub.cc/images/2025/12/25/1df6fc1bd38fbdceb828e1f0a7df43ed.png
 Name: AppPad
+
+Package: com.wkk.apthook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.apthook_1.0-1_iphoneos-arm64e.deb
+Size: 3016
+MD5sum: 6c9a309abcd15990e786e759411ddc5c
+SHA1: f00cb739cf979ed8558bfca0e1edea30746bcea7
+SHA256: 93d7c6872092deb8710fe27c9053ecd8b88c08a4c0bd258598dc5085e70e2fed
+Section: Tweaks
+Description: 无需长按app后再拖拽app布局，点住app的那一刻直接进行拖拽即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 加速App拖拽
+
+Package: com.wkk.apthook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.apthook_1.0-1_iphoneos-arm64.deb
+Size: 3080
+MD5sum: 69c85e820eff0b3a161fc3e6d05934f2
+SHA1: 0d09d241f1a07ff0e952371f7328f29c175084a4
+SHA256: 9cea87cbd429f69ba97cb1f143697945ecde6ca65e9e319231eeb563c1f6ec48
+Section: Tweaks
+Description: 无需长按app后再拖拽app布局，点住app的那一刻直接进行拖拽即可。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 加速App拖拽
 
 Package: com.wkk.aqyhook
 Version: 1.0
@@ -22294,6 +22328,40 @@ Description: 使用朋友圈替换发现底栏。
 Author: Netskao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WCTimeLineReplaceFind
+
+Package: com.wkk.wcvoice
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Meo
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wcvoice_1.0.0_iphoneos-arm64e.deb
+Size: 56672
+MD5sum: b621667f103f84b9898d8fc613f76078
+SHA1: 7a5aa225e35adc5ac35737ccf9fd614b5e4686c4
+SHA256: b5ee570004485b8708ac9a167ffc67904c5031e523cde7a95afb971de2ee3aa6
+Section: 微信插件
+Description: 独立语音包管理插件
+Author: Meo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCVoice
+
+Package: com.wkk.wcvoice
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Meo
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wcvoice_1.0.0_iphoneos-arm64.deb
+Size: 56588
+MD5sum: fddb59047150c8d8536eab1a8aa64629
+SHA1: 07f9e3d2c8feaeb348e53c13b53a10002ffaac3f
+SHA256: 7971971c016dfee4da6c2e65623612d4f677d54837dbc76fbf2551b92442165d
+Section: 微信插件
+Description: 独立语音包管理插件
+Author: Meo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCVoice
 
 Package: com.wkk.wcyyhook
 Version: 1.0-1
