@@ -16769,6 +16769,40 @@ Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
 Name: InstaLauncher 2
 
+Package: com.wkk.ios26kbhook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ios26kbhook_1.0-2_iphoneos-arm64.deb
+Size: 4148
+MD5sum: 666b6a0402d3fbbeac21be8a62a73e5b
+SHA1: 43b1f6e9fe9477535a6c0ec586273d904e3f05f2
+SHA256: 904d98d34f9de8e2ccecb80ae3a3c46fab63fbfb1d012f968f6d5d4757f7343c
+Section: Tweaks
+Description: 解决26/9键布局问题，不要和源里的系统键盘圆角同时安装。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 仿IOS26键盘圆角
+
+Package: com.wkk.ios26kbhook
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ios26kbhook_1.0-2_iphoneos-arm64e.deb
+Size: 4088
+MD5sum: ca3c6542261cb7bf4adde66ef595c534
+SHA1: 825034fd65801c17c8c3402ec735ad4b957575d1
+SHA256: 0fee84adff48a89a74dd18853efa537f305361f1eb628749eede75b9def7b061
+Section: Tweaks
+Description: 解决26/9键布局问题，不要和源里的系统键盘圆角同时安装。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 仿IOS26键盘圆角
+
 Package: com.wkk.iwanttranslucent
 Version: 0.0.1
 Architecture: iphoneos-arm64
