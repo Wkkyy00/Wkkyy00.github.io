@@ -19272,6 +19272,40 @@ Author: 4nni3 <kk99588077@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: PictureModule
 
+Package: com.wkk.pip2hook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.pip2hook_1.0-1_iphoneos-arm64e.deb
+Size: 8100
+MD5sum: ebf6d16dd3617b9d520cb386acf06f47
+SHA1: fa5b3bbcd0e8d29d5b8f3311568f62729ae5012b
+SHA256: 3a575c2e182e47cdddaf7105188b62d9bbfc44e528d3c514aa996aa4bbf30d21
+Section: Tweaks
+Description: 隐藏画中画挂起时的背景和箭头，保留交互，使其完全隐藏。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏画中画挂起背景2
+
+Package: com.wkk.pip2hook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.pip2hook_1.0-1_iphoneos-arm64.deb
+Size: 7904
+MD5sum: e3af4b64e96330fd008ce09e1f42f193
+SHA1: df9e5fe5cc49f2d7a6707c7ca3f7d662e296f5f8
+SHA256: 691d33bca7cd3f75999a838a15c2fd6c6a4421ae8d6afde1799f99c11d78fe23
+Section: Tweaks
+Description: 隐藏画中画挂起时的背景和箭头，保留交互，使其完全隐藏。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏画中画挂起背景2
+
 Package: com.wkk.piphook
 Version: 1.0-1
 Architecture: iphoneos-arm64
