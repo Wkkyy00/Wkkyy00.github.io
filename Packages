@@ -10691,35 +10691,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA插件配置说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.1-7
-Architecture: iphoneos-arm64
+Version: 1.2-1
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.1-7_iphoneos-arm64.deb
-Size: 1456
-MD5sum: 808690fbdd6e9a813428ce71d8478bb2
-SHA1: 8ed47e078bf2cb3e2d4fbeabcd99706e36f4e106
-SHA256: fec066a0e3827e7d86ce60ed6c898427046457f725b033dc2d5c5e2575176f94
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-1_iphoneos-arm64e.deb
+Size: 2574
+MD5sum: 136d30eddd157f1b1a5237f37ea6e2ae
+SHA1: e81aa4d1bc08f1a50e3dfa621196d9192a856214
+SHA256: 6ae6917eff28669d9e551cb94e300ea870f65986536efffb0fbf25b112adf2e5
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新，付费群已稳定一个多月，QQ/微信双群均已建好，群内已上传自制文件190+，全部为一手制作。插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含系统级插件、APP会员破解等实用内容。建群这段时间最大的收获，是能在去广告、app优化、破解会员这些基础之外，满足各个群友五花八门的偏门小众需求，解决各种个性化问题，这也是我最有成就感的地方。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
+Description: 之前因某些原因源内去广告插件将不再更新，付费群已稳定一个多月，QQ/微信双群均已建好，群内已上传自制文件200+，全部为一手制作。插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含系统级插件、APP会员破解等实用内容。建群这段时间最大的收获，是能在去广告、app优化、破解会员这些基础之外，满足各个群友五花八门的偏门小众需求，解决各种个性化问题，这也是我最有成就感的地方。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AAAAAA付费群公告
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.1-7
-Architecture: iphoneos-arm64e
+Version: 1.2-1
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.1-7_iphoneos-arm64e.deb
-Size: 2578
-MD5sum: b4ad4e6af2f29ca9a5f160fae9e76b2a
-SHA1: 63b88a9ad65de790e49ca434d9f21b583f854f6d
-SHA256: b44228c2d57ecb60cab67568d9d9df0d8705b9c0cbca3c4675208f172e82cfb4
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-1_iphoneos-arm64.deb
+Size: 1452
+MD5sum: 121e81f4f2fdf78d901125bc388abc34
+SHA1: d646b01dc279d586f09b36060723181b65828e88
+SHA256: 9fe073e97d421d6e62f5acad42f43a47f4741f6827eaffb2ee683cce14c4e754
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新，付费群已稳定一个多月，QQ/微信双群均已建好，群内已上传自制文件190+，全部为一手制作。插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含系统级插件、APP会员破解等实用内容。建群这段时间最大的收获，是能在去广告、app优化、破解会员这些基础之外，满足各个群友五花八门的偏门小众需求，解决各种个性化问题，这也是我最有成就感的地方。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
+Description: 之前因某些原因源内去广告插件将不再更新，付费群已稳定一个多月，QQ/微信双群均已建好，群内已上传自制文件200+，全部为一手制作。插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含系统级插件、APP会员破解等实用内容。建群这段时间最大的收获，是能在去广告、app优化、破解会员这些基础之外，满足各个群友五花八门的偏门小众需求，解决各种个性化问题，这也是我最有成就感的地方。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
@@ -11218,6 +11218,58 @@ Size: 207160
 MD5sum: 1465d1a388bdd362385b5268e6f32d07
 SHA1: 9fb11ab9a97a91d91ddeb32f03335fdb921fd3ae
 SHA256: cc91f1982866048dd9d7e4c54ba92a0ba311bdd336452f26684a673d1b19e176
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 1.9.6
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_1.9.6_iphoneos-arm64e.deb
+Size: 299590
+MD5sum: 65de1102b2c3a7cf6a75150ddb6ce39e
+SHA1: c0dea97bad5eebc060650799ca2bb69ed34ba2c4
+SHA256: 161165a0d147b5b35c3616deb15ee02f455ca91b593c2c00eef2ba9ed2374858
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_1.9.6_iphoneos-arm.deb
+Size: 212820
+MD5sum: 42d3111c78ee4e88ade2eb52f356afa4
+SHA1: 75a5068ff41608bfcce3aaa08c3107ada8f52119
+SHA256: cfba55a49bb1b588323c67af071da148d626f3b3697193b7420fcff4e75158f1
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 1.9.6
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_1.9.6_iphoneos-arm64.deb
+Size: 214052
+MD5sum: d2ddf1ae523ab298c8ca4c553920d323
+SHA1: cd7df9902e5cb5ad3b746d93c786b32c615975e1
+SHA256: e458789ecd13b2449b0665296fd05c2daf787e49c2bda8725fdd74fed66d5be8
 Section: Tweaks
 Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
 Author: Fouad Raheb
@@ -19880,6 +19932,41 @@ Author: 𝙓
 Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
 Name: QQ防撤回
 
+Package: com.wkk.qqantirecall
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 256
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qqantirecall_1.6_iphoneos-arm64.deb
+Size: 1333568
+MD5sum: 36b889bb6f547f0a9ccb24f9fe6407e1
+SHA1: baa3afb9ee7affd8471642bff6942b31f763b2ed
+SHA256: 50dab18d705c7a25c1d1462b91d70a7ef9eb9c4fe33b053e518fb8b1e9b21b6a
+Section: Tweaks
+Description: 模块入口位于QQ内设置:NTQQ_AntiRecall
+Author: 𝙓
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
+Name: QQ防撤回
+
+Package: com.wkk.qqantirecall
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qqantirecall_1.6_iphoneos-arm64e.deb
+Size: 3072266
+MD5sum: 8e48a16f4cd654aef5fa1a8ce463610e
+SHA1: d25345430d18c94eb27166c65a427698134a71b2
+SHA256: ec8926662b4dd1078cc51895621d4193b40eaf069787bd529af688b4956d0e24
+Section: Tweaks
+Description: 模块入口位于QQ内设置:NTQQ_AntiRecall
+Author: 𝙓
+Icon: https://s1.imagehub.cc/images/2025/01/02/1f360cca7bfc5ce3ee351e00d05428e7.png
+Name: QQ防撤回
+
 Package: com.wkk.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
@@ -22616,6 +22703,41 @@ Size: 56588
 MD5sum: fddb59047150c8d8536eab1a8aa64629
 SHA1: 07f9e3d2c8feaeb348e53c13b53a10002ffaac3f
 SHA256: 7971971c016dfee4da6c2e65623612d4f677d54837dbc76fbf2551b92442165d
+Section: 微信插件
+Description: 独立语音包管理插件
+Author: Meo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCVoice
+
+Package: com.wkk.wcvoice
+Version: 1.0.3-2
+Architecture: iphoneos-arm64e
+Maintainer: Meo
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wcvoice_1.0.3-2_iphoneos-arm64e.deb
+Size: 125618
+MD5sum: 1ac56cba227321093bad64ecd5199c48
+SHA1: bc64bde5ce20def2c4ce32ba4542242d561730e9
+SHA256: 91bb15c9f9d4266c2190ac8278e3e25081f56075592b622e9b7686fc01b7afb3
+Section: 微信插件
+Description: 独立语音包管理插件
+Author: Meo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCVoice
+
+Package: com.wkk.wcvoice
+Version: 1.0.3-2
+Architecture: iphoneos-arm64
+Maintainer: Meo
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wcvoice_1.0.3-2_iphoneos-arm64.deb
+Size: 91556
+MD5sum: c2e4ae81b57478ba1315d4473f991b5c
+SHA1: be915735a02c43e68c20f11b8c77169215e673d8
+SHA256: d3515f0115c3223350bc9c1b3aa5c061a115b89f9c4e0038369c1f4412ac4520
 Section: 微信插件
 Description: 独立语音包管理插件
 Author: Meo
