@@ -8713,6 +8713,55 @@ Icon: https://s1.imagehub.cc/images/2025/03/06/a39704438b10be358870f50e0fae8320.
 Name: App Store美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/App%20Store.json
 
+Package: com.wkk.BubbleBox
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-1_iphoneos-arm64.deb
+Size: 1383048
+MD5sum: 4e56f9017921908492d2345f1142b3d0
+SHA1: ced4f60e20bd3c20561e2740096d93f7c7c4209f
+SHA256: 33186e3b1bc82aa378b8dcdaf436368bc881c530d056ca87f6d61427120ae8c4
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-1_iphoneos-arm64e.deb
+Size: 3654920
+MD5sum: 47311d63349c554a1fad66e6801e790f
+SHA1: 721b41700a1ee3ce5b3d20bbb6c4a62572702a8a
+SHA256: a57bfa9878af6c37b66d1282b053fb3f6eff32e70c97d9cffc86e4880520a385
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-1_iphoneos-arm.deb
+Size: 1383000
+MD5sum: f985232f13150818e9aa3e992e29c49c
+SHA1: 5bb311566a425107532e3c545e1dc0dc1bb641cd
+SHA256: c51abaceb98091053c5fdca549117398976a5b3d25148cdd7a520171fee19736
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
 Package: com.wkk.ChoicyConfigPin
 Version: 1.0-2
 Architecture: iphoneos-arm64
