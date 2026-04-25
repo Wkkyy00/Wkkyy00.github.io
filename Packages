@@ -19788,6 +19788,40 @@ Author: 网络资源
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 去App录屏检测（下载后TrollFools注入）
 
+Package: com.wkk.qcglhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qcglhook_1.0-1_iphoneos-arm64e.deb
+Size: 3252
+MD5sum: 6395b2a8eef0e3178315342221a77bb4
+SHA1: 6fee4f0d5a69021cc48367aecf2e22e6fd26e890
+SHA256: 1c680ae2768edd738af41f7086d8fe8dd116e5c69fd4e5e4b99dd49e40ace59d
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 去除原生键盘候选词高亮背景
+
+Package: com.wkk.qcglhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.qcglhook_1.0-1_iphoneos-arm64.deb
+Size: 3308
+MD5sum: 5b26fc71cf0aa9cfe279b1aa9cfd45ef
+SHA1: 36ff59cc84d3b4c7c796d5caf567d3090cf41829
+SHA256: 45450c296c206c617745fb3522937841d97138e4f91d708345b860b85568ee66
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 去除原生键盘候选词高亮背景
+
 Package: com.wkk.qichezhijiahook
 Version: 1.0
 Architecture: iphoneos-arm64e
