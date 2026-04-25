@@ -17324,6 +17324,41 @@ Author: baiy
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: KeyboardHook
 
+Package: com.wkk.keyround
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.keyround_1.0-1_iphoneos-arm64e.deb
+Size: 1764
+MD5sum: 196bef926e1056e598b0e7a78e497e9d
+SHA1: da002c3cd6285841a3ef6324dd8d8e8ed89c3149
+SHA256: 276643791e6e2f44f824ed6d565fee2a90263fc747dea630875ae6b881ca8065
+Section: Tweaks
+Description: 全输入法的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）详情可以加QQ1772773799看效果图，进付费群使用（不止这一个插件 可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAA全输入法圆角
+
+Package: com.wkk.keyround
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.keyround_1.0-1_iphoneos-arm64.deb
+Size: 1092
+MD5sum: 3bd1562aedb65c7185c7d57e04a51313
+SHA1: c1209e3e5ff56f5ab81e521673038121b5eb499f
+SHA256: da5a42f95079b1cf8a21fd9d423dec541032f5f5fa9735b5dd8be5aa72e199dd
+Section: Tweaks
+Description: 全输入法的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）详情可以加QQ1772773799看效果图，进付费群使用（不止这一个插件 可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AAAAA全输入法圆角
+
 Package: com.wkk.kghook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -20683,6 +20718,40 @@ Description: cool
 Author: poqw312
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用通知中心下拉手势
+
+Package: com.wkk.sbiconhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64e.deb
+Size: 3400
+MD5sum: a8876908814a432f5b6294777c093d2c
+SHA1: e67c1f50c17dbedf1967dbb81af190664a967e23
+SHA256: 3edd945a936e65c2c525718a5174ef53e63ec1086cf45c4cadea658d580a1b35
+Section: Tweaks
+Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SpringboardFly
+
+Package: com.wkk.sbiconhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64.deb
+Size: 3452
+MD5sum: 5d4bd8adfda4008c1e50abf0263ff785
+SHA1: fbaa7ffa83fb2330e1075765807f8acb16ee6585
+SHA256: 7e533b7046dedd12d1fc55a50861d5bd7229bf0e16dbf1ae151a075825b2c984
+Section: Tweaks
+Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SpringboardFly
 
 Package: com.wkk.sdk16.5
 Version: 1.0
