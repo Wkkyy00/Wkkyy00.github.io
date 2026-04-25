@@ -21617,6 +21617,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/882110d3a7893df3ce2588ed7f59d223.jpeg
 Name: StormSnifferHook
 
+Package: com.wkk.sumusicplayercc
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 628
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.wkk.sumusicplayercc_1.0.1_iphoneos-arm64e.deb
+Size: 123154
+MD5sum: 1a1407e2b68fe2cb84a727f287c58217
+SHA1: 5f1db3e64f8729c7d85d69f41b8bb49affcee253
+SHA256: d964298df45e3590f5076a151b71309bc5430c1023b87561efbbb12e38e9afbc
+Section: Control Center (Modules)
+Description: 控制中心音乐播放器
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SuMusicPlayerCC
+
+Package: com.wkk.sumusicplayercc
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 628
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.wkk.sumusicplayercc_1.0.1_iphoneos-arm64.deb
+Size: 86764
+MD5sum: 9c62ed24c8316d74f5e877c9e251e2f8
+SHA1: 931e55a3de14249922682cbe0ccfad0e79905582
+SHA256: 65095684b6d428381fd7eb11ff1ee8a5b82be22b44768d5cec7ea9b60c35225d
+Section: Control Center (Modules)
+Description: 控制中心音乐播放器
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SuMusicPlayerCC
+
 Package: com.wkk.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64e
