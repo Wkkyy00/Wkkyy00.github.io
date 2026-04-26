@@ -24818,6 +24818,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/ebdc7f91e320e34255f2422c8699dd81.png
 Name: 一刻相册NoAds
 
+Package: com.wkk.yskbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.yskbhook_1.0-1_iphoneos-arm64.deb
+Size: 3520
+MD5sum: a2e4f46d1cd130f9da8cc45ccefe34b1
+SHA1: 7c4678d1418e839496dc5c0cb147a110e0cee7df
+SHA256: 25edd1cd3284df447c2f9c7b0e1209a14dee588330c6b9a12f33dd3584a3d577
+Section: Tweaks
+Description: 放大了3个像素，可以搭配源里的系统键盘圆角一起使用，键盘变得胖乎乎，很可爱。（不支持放大模式下使用）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 原生键盘放大
+
+Package: com.wkk.yskbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.yskbhook_1.0-1_iphoneos-arm64e.deb
+Size: 3452
+MD5sum: 515ed52d28b2d7817e35f8e28e8c6ac1
+SHA1: 6cc0b80ba0fa87454f91dacead2b60437e0928d3
+SHA256: 56e40d3995b5c70f211d2bb156f7b72a1de6886eb7ac23cd50aedceade56d8db
+Section: Tweaks
+Description: 放大了3个像素，可以搭配源里的系统键盘圆角一起使用，键盘变得胖乎乎，很可爱。（不支持放大模式下使用）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 原生键盘放大
+
 Package: com.wkk.ysxwhook
 Version: 1.0
 Architecture: iphoneos-arm64e
