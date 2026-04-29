@@ -16305,6 +16305,40 @@ Author: mikifp
 Icon: https://s1.imagehub.cc/images/2025/01/21/e734f25e6b459b321d49ddbcec609fff.png
 Name: Griddy
 
+Package: com.wkk.guru
+Version: 0.0.1-38+debug
+Architecture: iphoneos-arm64
+Maintainer: Inugami
+Installed-Size: 496
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.wkk.guru_0.0.1-38+debug_iphoneos-arm64.deb
+Size: 70572
+MD5sum: 2d47f9f92f75c0ffa7d7b1f99f4b2d82
+SHA1: 2db0ad23db8f17b5cac2b7d92df5ce8b37b227ae
+SHA256: 8ddfe3980e253692b0789d937515de59f33c8ffab549e52ce8bf1b9b3f9dfbdd
+Section: 微信插件
+Description: 微信字体替换。
+Author: Inugami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: GuruFont
+
+Package: com.wkk.guru
+Version: 0.0.1-38+debug
+Architecture: iphoneos-arm64e
+Maintainer: Inugami
+Installed-Size: 496
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.wkk.guru_0.0.1-38+debug_iphoneos-arm64e.deb
+Size: 50976
+MD5sum: 3de82acc598f788047957d75e655ed9c
+SHA1: 3924ebdda6a020d4f0a2d99aaf9a8c8367938dd9
+SHA256: f365d33f86819ee3e52b361f6030f58e52674742eb1d4c170a5bbda9d9a6174d
+Section: 微信插件
+Description: 微信字体替换。
+Author: Inugami
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: GuruFont
+
 Package: com.wkk.h3kbhook
 Version: 1.1.0
 Architecture: iphoneos-arm64e
