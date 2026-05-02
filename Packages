@@ -15660,17 +15660,17 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: FloatingView-Helper
 
 Package: com.wkk.folder4
-Version: 1.2-7
+Version: 1.2-8
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.folder4_1.2-7_iphoneos-arm64e.deb
-Size: 14254
-MD5sum: f12ede429c85b67c6f005b29ddde995f
-SHA1: 7138594682ef313ad600c1a334129febbe17eb5d
-SHA256: 31cd83632459015036769a1edfe0c16237dc6d6bbe8f025f1e8ee94b7eca22cd
+Filename: ./debs/com.wkk.folder4_1.2-8_iphoneos-arm64e.deb
+Size: 14222
+MD5sum: 99e31f4d2b33952d3512ee04a00fd06f
+SHA1: d375a5cb4fc0de971e9944687ded695b72345414
+SHA256: 7b509e845af9ab4144d762b5650e7fa2ecc23536a503f5c58a8d171c412d1330
 Section: Tweaks
 Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
 Author: wkk
@@ -15678,16 +15678,16 @@ Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.
 Name: Folder4x4
 
 Package: com.wkk.folder4
-Version: 1.2-7
+Version: 1.2-8
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.folder4_1.2-7_iphoneos-arm64.deb
-Size: 10544
-MD5sum: 406811d9382cf4dbebc4a58a87271e88
-SHA1: 445a9aa8655bdbd6ab79097cb0ace54b4615987d
-SHA256: 3b0d00d54320eb919d55a6b293dde5b8ff95e5b2fb57696a2360b64a8d5f1a30
+Filename: ./debs/com.wkk.folder4_1.2-8_iphoneos-arm64.deb
+Size: 10528
+MD5sum: f18bbbf68b039c3c77ea1f656ba36c63
+SHA1: bebad4782307d6917e819252ff64737a9c4bc3fa
+SHA256: e21e13287a6897e5b512c68d753c7387b5acc53842b60f97f9011333c287a603
 Section: Tweaks
 Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
 Author: wkk
