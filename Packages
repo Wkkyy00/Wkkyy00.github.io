@@ -22953,6 +22953,40 @@ Author: Joshua Wheeler
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: VolumeFLEX
 
+Package: com.wkk.vpnfhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.vpnfhook_1.0-1_iphoneos-arm64.deb
+Size: 3032
+MD5sum: 60e455ff1db7cd9adaba47bbf8a8afea
+SHA1: d518c7f79a6b76cdf69110a35c67fc49080eb5a5
+SHA256: 5be38f211cc058896c633e1dee2bd4b51bd4f620ce5caa36db2b64e87b827a70
+Section: Tweaks
+Description: 禁用链接vpn飞入动画、控制中心vpn展示
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用vpn显示
+
+Package: com.wkk.vpnfhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.vpnfhook_1.0-1_iphoneos-arm64e.deb
+Size: 2972
+MD5sum: 6183242bce27ed8a2c180f85c4e1ce48
+SHA1: d04fe285652f0b367f1a8ea8daf0cd53749a4d39
+SHA256: 0969d71a13517c41f0f7b6756a650b49e4623716058eec17ace24c6e0bffc130
+Section: Tweaks
+Description: 禁用链接vpn飞入动画、控制中心vpn展示
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用vpn显示
+
 Package: com.wkk.wc3133
 Version: 1.0-2
 Architecture: iphoneos-arm64
