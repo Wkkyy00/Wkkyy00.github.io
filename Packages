@@ -21068,40 +21068,6 @@ Author: poqw312
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用通知中心下拉手势
 
-Package: com.wkk.sbiconhook
-Version: 1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64e.deb
-Size: 3400
-MD5sum: a8876908814a432f5b6294777c093d2c
-SHA1: e67c1f50c17dbedf1967dbb81af190664a967e23
-SHA256: 3edd945a936e65c2c525718a5174ef53e63ec1086cf45c4cadea658d580a1b35
-Section: Tweaks
-Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: SpringboardFly
-
-Package: com.wkk.sbiconhook
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.sbiconhook_1.0-1_iphoneos-arm64.deb
-Size: 3452
-MD5sum: 5d4bd8adfda4008c1e50abf0263ff785
-SHA1: fbaa7ffa83fb2330e1075765807f8acb16ee6585
-SHA256: 7e533b7046dedd12d1fc55a50861d5bd7229bf0e16dbf1ae151a075825b2c984
-Section: Tweaks
-Description: Dopamine里点击重启springboard，解锁一个新的图标飞入动画。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: SpringboardFly
-
 Package: com.wkk.sbsssss
 Version: 1.0-1
 Architecture: iphoneos-arm64
