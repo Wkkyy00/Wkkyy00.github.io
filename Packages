@@ -1731,10 +1731,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
 Conflicts: com.anthopak.appaze, com.anthopak.appaze2
 Filename: ./debs/com.anthopak.appaze3_1.0.1_iphoneos-arm64e.deb
-Size: 936258
-MD5sum: 66337b863ff64cee61166d142f2a88de
-SHA1: 0c84d47d84c4c72e33c2d0af6e2fd2a00abccfbf
-SHA256: 71f120eb773eba96183278ad5d9bdb5688405db762e24c2944a335ce313bc505
+Size: 942272
+MD5sum: 783c9cda9f4200cd317f53416b12befe
+SHA1: f003cccd9795387be665c12a996e1e1b205525c9
+SHA256: 1ac1ddcb38998adc520d4772a850b58eb55717e9fdeabe29f48c166bb857006b
 Section: Tweaks
 Description: 正版砸壳，在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
 Author: AnthoPak <anthopakdev@gmail.com>
@@ -1749,10 +1749,10 @@ Installed-Size: 1802
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
 Conflicts: com.anthopak.appaze, com.anthopak.appaze2
 Filename: ./debs/com.anthopak.appaze3_1.0.1_iphoneos-arm64.deb
-Size: 864012
-MD5sum: fd608bde7c6daa1833a58a79450912e3
-SHA1: 13430f8fa8c876c3298db0990e394444b308d6cb
-SHA256: a61d0cd6fa92b2010cefcfc1c7a357049b7434a6f4c9f75fa1a6844689868251
+Size: 868436
+MD5sum: 65f8c734c55b7a77e6ad917db42c0087
+SHA1: c29e65e1273ef146dcee6f35f91e3d1e4ff5cd3c
+SHA256: 3019520fdf3a857870d07dd6f6e5d2aa9e0b6fe0eb10062e17d81056c977c944
 Section: Tweaks
 Description: 正版砸壳，在干净友好的用户界面中，为每个应用程序自定义多达30个设置，易于访问！
 Author: AnthoPak <anthopakdev@gmail.com>
