@@ -16290,6 +16290,76 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 滑动到负一屏触发锁屏
 
+Package: com.wkk.fytzssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssss_1.0-1_iphoneos-arm64.deb
+Size: 1024
+MD5sum: 6c0e0d4492728384978aecb1d9e28341
+SHA1: 25f9bf1233bf365d730112fa06f64b22d1734808
+SHA256: cd7d5f47338939b301c3399f76f9953f51eac48e865838fe3d1ea9ab59e01447
+Section: Tweaks
+Description: 禁用上下滑动、调整三方小组件圆角、调整小组件上下位移、滑动到负一屏直接锁屏等。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 负一屏调整
+
+Package: com.wkk.fytzssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssss_1.0-1_iphoneos-arm64e.deb
+Size: 1616
+MD5sum: 543511a699a11aa751cc1614432ceacb
+SHA1: fde588d16ef27971cfafcc02167f457943e14365
+SHA256: 06aa94f089ac48bc9d1010af4464e5da324a3a15b9e522ba7f4177d20413c5ef
+Section: Tweaks
+Description: 禁用上下滑动、调整三方小组件圆角、调整小组件上下位移、滑动到负一屏直接锁屏等。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 负一屏调整
+
+Package: com.wkk.fytzssssss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssssss_1.0-1_iphoneos-arm64.deb
+Size: 984
+MD5sum: b1f548765a2bae04f4d5710afb9e3b55
+SHA1: a6947b420e8a449e4b2152e52373f0f025e90bfd
+SHA256: e9d2b4e57d821b336a99d23729714b35c1818bd1b1e5db09d5d95eee2d63997b
+Section: Tweaks
+Description: 打开app以iPad形式动画展开。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: IPadAnimation
+
+Package: com.wkk.fytzssssss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssssss_1.0-1_iphoneos-arm64e.deb
+Size: 1510
+MD5sum: deb389ab0b3709e371201be9779eb6f4
+SHA1: a19263ef38103a9614715fd0889299e8e02352e9
+SHA256: af881d99a80ec547dde4296adedea41583e7110d000d3343aa57df95d6d91bd9
+Section: Tweaks
+Description: 打开app以iPad形式动画展开。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: IPadAnimation
+
 Package: com.wkk.gaodehook
 Version: 1.0
 Architecture: iphoneos-arm64e
