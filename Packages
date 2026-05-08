@@ -14149,6 +14149,41 @@ Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
 
+Package: com.wkk.dockasss
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.dockasss_1.0-1_iphoneos-arm64.deb
+Size: 1012
+MD5sum: 6d6fa5cc451d141355a994660a55f7af
+SHA1: 8502a88464aaeceda31a5ab2722504d1dac4a7c9
+SHA256: 2b44c1ed96f971ff4d28604e9f3088cf193c659b48fe83261aed18b8cce34a64
+Section: Tweaks
+Description: Dock栏单独倒影美化插件，无需滑雪板，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Dock栏倒影（超清、高斯模糊）
+
+Package: com.wkk.dockasss
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.dockasss_1.0-1_iphoneos-arm64e.deb
+Size: 1578
+MD5sum: 103021640167b7605fad1faeac5b57b8
+SHA1: bdb140291e0a99194154296a93287ff29220adba
+SHA256: 45364ee8f6be9402b408552ac9096e91a46f8da1c951f72522dfe33dcb6353e6
+Section: Tweaks
+Description: Dock栏单独倒影美化插件，无需滑雪板，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Dock栏倒影（超清、高斯模糊）
+
 Package: com.wkk.doodle
 Version: 1.2
 Architecture: iphoneos-arm64e
