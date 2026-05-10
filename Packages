@@ -10864,6 +10864,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChat自用气泡
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
 
+Package: com.wkk.WeChatdock
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.WeChatdock_1.0-2_iphoneos-arm64e.deb
+Size: 1522
+MD5sum: a5f0b250a56c0a3f76deeb09b590df16
+SHA1: 0cf443647d0fcff4fa30ee3928ffa351cfa8f0f0
+SHA256: 5311ce22eadfd816c6d31bf50ec682e2a1f241210a40d0d39c890d0441685ec0
+Section: Tweaks
+Description: 一个还不错的单独微信悬浮底栏。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信悬浮底栏
+
+Package: com.wkk.WeChatdock
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.WeChatdock_1.0-2_iphoneos-arm64.deb
+Size: 984
+MD5sum: 06a4795a0922c0b4c39cb8ac32e110d5
+SHA1: 013da6ed7c1da447312efd1cbad75dc1561f874c
+SHA256: 08c96fc064dfe9a42fe50d8f90d472ee34d5afd140863a173e9e4667b86f565d
+Section: Tweaks
+Description: 一个还不错的单独微信悬浮底栏。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信悬浮底栏
+
 Package: com.wkk.aaaaaaaaaa
 Version: 1.0-1
 Architecture: iphoneos-arm64e
