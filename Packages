@@ -5421,6 +5421,80 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: floatingView
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
+Package: com.be-huge.floating-view
+Version: 1.6.0-2
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-2_iphoneos-arm64e.deb
+Size: 1797482
+MD5sum: 0bf84415a2520ee2b0073e2f9fb569fc
+SHA1: 60a16fc8270271efd8a2b49fd63631934b9b92f8
+SHA256: 291a33627b9cb1d76ea2481679e317103cb515859bf8e3247306d2275bb10be2
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-2_iphoneos-arm64.deb
+Size: 669852
+MD5sum: f9b3049eae0f17558d3764ef03b98c1d
+SHA1: 0b925bef8e22042961ba0e608fb0ec06d5581a66
+SHA256: 7b10af4b86f6986627081ff6414736cd8bcfd22832e840cb9fdf1e8629961e4d
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-3
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-3_iphoneos-arm64e.deb
+Size: 1799406
+MD5sum: fe4901158fc635afa8c7fd9b62ec6470
+SHA1: 9a25e484df609b930a53163e4b6469d833cd2259
+SHA256: 42f4ea7f5bad92b23738e1efcf9351d254f437c7be3880de9aaa97c4d0008274
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.6.0-3_iphoneos-arm64.deb
+Size: 669928
+MD5sum: cf6cc104816ef3cd0c62a608753cdd46
+SHA1: 9fcd8da1d68c9566448a04e6cda28886d4e7a4f9
+SHA256: 6f02f865f681234c2c360975630427e016b19662265b77fb06db0023fd12e3b3
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.blbl
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -10865,35 +10939,35 @@ Name: WeChat自用气泡
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
 
 Package: com.wkk.WeChatdock
-Version: 1.0-2
-Architecture: iphoneos-arm64e
+Version: 1.0-3
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatdock_1.0-2_iphoneos-arm64e.deb
-Size: 1522
-MD5sum: a5f0b250a56c0a3f76deeb09b590df16
-SHA1: 0cf443647d0fcff4fa30ee3928ffa351cfa8f0f0
-SHA256: 5311ce22eadfd816c6d31bf50ec682e2a1f241210a40d0d39c890d0441685ec0
-Section: Tweaks
-Description: 一个还不错的单独微信悬浮底栏。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Filename: ./debs/com.wkk.WeChatdock_1.0-3_iphoneos-arm64.deb
+Size: 1044
+MD5sum: f0dfa51317b39956833d5dd9d1f00b3d
+SHA1: ea0b47f0ec845a9f482352fdfca340dd43af0bb8
+SHA256: 4ad37a0ae998e4e4b6abc41696d1d4a4e063440a0d5fa2ea5e1af1d85151b0dc
+Section: 微信插件
+Description: 一个个群友强烈要求做的美化的悬浮底栏 咱也不知道有啥好看 目前支持两种切模式和多种自定义调节 并且塞入了几个实用的小功能 解决了各种返回的bug 效果还不错！
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信悬浮底栏
 
 Package: com.wkk.WeChatdock
-Version: 1.0-2
-Architecture: iphoneos-arm64
+Version: 1.0-3
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatdock_1.0-2_iphoneos-arm64.deb
-Size: 984
-MD5sum: 06a4795a0922c0b4c39cb8ac32e110d5
-SHA1: 013da6ed7c1da447312efd1cbad75dc1561f874c
-SHA256: 08c96fc064dfe9a42fe50d8f90d472ee34d5afd140863a173e9e4667b86f565d
-Section: Tweaks
-Description: 一个还不错的单独微信悬浮底栏。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Filename: ./debs/com.wkk.WeChatdock_1.0-3_iphoneos-arm64e.deb
+Size: 1648
+MD5sum: a081a7fad7b16ccf42d193714c564278
+SHA1: a8b8c04fb1bc99c6ac4b9b0357c574c4c0cb3107
+SHA256: c317ea1cef38c708689d9096b23ff07f4612a563fe3f0c26edf5332ff91ba68c
+Section: 微信插件
+Description: 一个个群友强烈要求做的美化的悬浮底栏 咱也不知道有啥好看 目前支持两种切模式和多种自定义调节 并且塞入了几个实用的小功能 解决了各种返回的bug 效果还不错！
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
