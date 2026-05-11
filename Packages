@@ -11476,6 +11476,41 @@ Author: Fouad Raheb
 Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
 Name: AppData
 
+Package: com.wkk.appdata
+Version: 1.4.7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 14408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.7_iphoneos-arm64e.deb
+Size: 4442808
+MD5sum: 2d67e628026ec1b9baf4c77dc7caeff7
+SHA1: 750504bc86f80267b8e9ca0fb95d0efd18f23588
+SHA256: 880b526c664fa871f929d60d6d0d08def16bad11c1b0dfc3d194a12d0a2011be
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
+Package: com.wkk.appdata
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.appdata_1.4.7_iphoneos-arm64.deb
+Size: 1498012
+MD5sum: 2b0c762beed276892dc492c712c29e77
+SHA1: 24a6a15f7ce0dfa1c44f05d3cd991d405eb5bcaa
+SHA256: fe5a6cd6ff7e8636b3df17a0ba5307a2296b57b610c6b21d3d35b5ecdbb96c45
+Section: Tweaks
+Description: App强大的管理器，可以查看路径/清理缓存/重制数据/降级等功能。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/01/09/b246fc94201f32510a72d268435cfd4a.png
+Name: AppData
+
 Package: com.wkk.appdata.iosdump
 Version: 1.9.2
 Architecture: iphoneos-arm64
