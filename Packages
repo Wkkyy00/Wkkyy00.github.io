@@ -9032,6 +9032,39 @@ Author: Mao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: BubbleBox
 
+Package: com.wkk.BubbleBox
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-3_iphoneos-arm64.deb
+Size: 1582924
+MD5sum: 15f0de908086e2ffffb5eb8018cc9de1
+SHA1: 921e9807a7c97c6512179b3e98dd16f595c186ae
+SHA256: fb99331d57bb8f4b0acf59de91db49faf99f30dd5b88b6f90c7b163747eadcc5
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-3_iphoneos-arm64e.deb
+Size: 4196180
+MD5sum: 9f62df752f03fb4401b6ba9ca112ed37
+SHA1: a7ff9d5964242e258c9147b5b838db67d3394e2b
+SHA256: 07fce3af2e63948b335ed9bb3eab0623a2dc466fbd3eb11ff7222955b6cbd4f5
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
 Package: com.wkk.ChoicyConfigPin
 Version: 1.0-2
 Architecture: iphoneos-arm64
