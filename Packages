@@ -13809,6 +13809,40 @@ Author: opa334
 Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Name: Crane
 
+Package: com.wkk.cscathook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.cscathook_1.0-1_iphoneos-arm64e.deb
+Size: 2860
+MD5sum: 0be54ea9f269e60349f24d850c5bd2e5
+SHA1: 7df9ea27714ad198bef720af215dd53ec28f4c84
+SHA256: ab86fc4207074db9527552cafdf20b0659e86bbc7f3343518159cef6feed0a97
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用解锁图标飞入
+
+Package: com.wkk.cscathook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.cscathook_1.0-1_iphoneos-arm64.deb
+Size: 2920
+MD5sum: b40dff418a76851c4cabbb499e315083
+SHA1: fd7719aa68302c75ba7e5d35d28da9b994a261e2
+SHA256: 63d23922ac49f681d2432a2fe7b3214b701e31288d4e7beeafb369f36a865aa1
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用解锁图标飞入
+
 Package: com.wkk.customcallbg
 Version: 0.0.1
 Architecture: iphoneos-arm
