@@ -13809,6 +13809,58 @@ Author: opa334
 Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Name: Crane
 
+Package: com.wkk.customcallbg
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.1_iphoneos-arm.deb
+Size: 28980
+MD5sum: 2b9ac352085da13e8e938fc4cee188dc
+SHA1: a5a1f463f0b93ed3675122e7f0b0a3e824d2b45d
+SHA256: 18097effc345285208d0f120fcc5b7c112206ebd2ac27011bf61b56618fdb892
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.1_iphoneos-arm64e.deb
+Size: 40292
+MD5sum: 35457614f3460c1ae715bfa3ff7a6478
+SHA1: 394926fafd07b06002d45a5e3ccaa2c4afd2ef77
+SHA256: dceac52db5b1560a2ca205612c5c6013223ab194275bb59576be7ac224fba204
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.1_iphoneos-arm64.deb
+Size: 29068
+MD5sum: 14938b2b4e1daaea5e364dcbf027f625
+SHA1: a50a272037063eb9768b6802b476e44c78510adb
+SHA256: 94412de7ae4c912584bc5ca7e33232dc9b342fd226fddaa1cc3a0755bb0632a9
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
 Package: com.wkk.cxdebdylib
 Version: 1.0
 Architecture: iphoneos-arm64e
