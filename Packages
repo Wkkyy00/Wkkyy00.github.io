@@ -11189,6 +11189,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信悬浮底栏
 
+Package: com.wkk.WeChattextcolor
+Version: 1.0-9
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.WeChattextcolor_1.0-9_iphoneos-arm64.deb
+Size: 1040
+MD5sum: 2ad748fde75231fdcd7e8ee2c99eacdd
+SHA1: e549202f7900a9932ebd54607c95fa334da067af
+SHA256: 7cb98e3f2022ba03e3c6c82a401302b9e281060d397418e1493d5aa38155f985
+Section: 微信插件
+Description: 适用于在使用微信助手或者微信净化更改气泡后，对于文字颜色的修改（对话、语音、通话、定位、文件）以便于解决使用上方两个插件更改气泡后，深色模式、浅色模式出现的观感bug。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信气泡文字改色
+
+Package: com.wkk.WeChattextcolor
+Version: 1.0-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.WeChattextcolor_1.0-9_iphoneos-arm64e.deb
+Size: 1664
+MD5sum: 4a4ae60c54e30e2a2be951684b98d0c1
+SHA1: 959e106672569c90f7a3b308dd0c5593cffc67ff
+SHA256: 00ae773537d9eaa0b2104b1774a1d8b41630b4ad27bfe9ece64814540e99e1fb
+Section: 微信插件
+Description: 适用于在使用微信助手或者微信净化更改气泡后，对于文字颜色的修改（对话、语音、通话、定位、文件）以便于解决使用上方两个插件更改气泡后，深色模式、浅色模式出现的观感bug。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信气泡文字改色
+
 Package: com.wkk.aaaaaaaaaa
 Version: 1.0-1
 Architecture: iphoneos-arm64e
