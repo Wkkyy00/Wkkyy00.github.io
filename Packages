@@ -16858,6 +16858,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 负一屏调整
 
+Package: com.wkk.fytzssss88
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssss88_1.0-1_iphoneos-arm64e.deb
+Size: 1520
+MD5sum: 98152ef99708cd9d8537c37bebed352c
+SHA1: e3804d6309b3eea5f3dcce91479477d31564b4a4
+SHA256: 11d96e938e0df5cf94ce51aa5eebca59ede9346187bcf4823184ad36a9006177
+Section: Tweaks
+Description: 长按锁屏键呼出手电筒 长按锁屏键关闭手电筒。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏呼出手电筒
+
+Package: com.wkk.fytzssss88
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.fytzssss88_1.0-1_iphoneos-arm64.deb
+Size: 984
+MD5sum: bea6753445e2f23ad665b4ca30c9f6d5
+SHA1: 3747afbcb04b44d30ffa4887727d44fba89c25eb
+SHA256: bbbac17cf8c0afe021758d3917bf7317f7c1c95d1dca258b156d4ef7cd1e564d
+Section: Tweaks
+Description: 长按锁屏键呼出手电筒 长按锁屏键关闭手电筒。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏呼出手电筒
+
 Package: com.wkk.fytzssssss
 Version: 1.0-1
 Architecture: iphoneos-arm64
