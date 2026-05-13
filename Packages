@@ -8560,6 +8560,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.3.3
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.3_iphoneos-arm64.deb
+Size: 5576456
+MD5sum: e810f866920835054b55aa2f45bbc72f
+SHA1: f15be1cfa9140d23b9ee4bc095de262e4c04f7dc
+SHA256: 0e229a580ebc4a60e0e83fea57da327949aec155e6ca580b5ddd1b66186bc223
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.3.3
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.3_iphoneos-arm64e.deb
+Size: 14934372
+MD5sum: 4be7893a96fca66114c239eee5c0d8f1
+SHA1: 607821e76b8d697127e7284d81610c9e49239738
+SHA256: d29672dd693ce0670860ef554aad236e1297bff72dce65e48afce4a5c80df908
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -9131,6 +9166,39 @@ Size: 4196180
 MD5sum: 9f62df752f03fb4401b6ba9ca112ed37
 SHA1: a7ff9d5964242e258c9147b5b838db67d3394e2b
 SHA256: 07fce3af2e63948b335ed9bb3eab0623a2dc466fbd3eb11ff7222955b6cbd4f5
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-4_iphoneos-arm64e.deb
+Size: 4256792
+MD5sum: 34b9d0a72189507c9014b9b9403f0e17
+SHA1: 8bfc07b53e02b0ac646c39988ac577f6238898b6
+SHA256: ea2b2a125caa8aacaa6b9ae03af77690fa0feedbee7cc9268bb39004acafa168
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-4_iphoneos-arm64.deb
+Size: 1606572
+MD5sum: 22999f132db707a76e16ea9eeca77897
+SHA1: 11e69e2cf138c7f5e740302b5167ea055a88333e
+SHA256: c1d1b26869c141aaffdb99b86270d9a5af4d59b2af11d7c0314ca9ed99992058
 Section: 微信插件
 Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
 Author: Mao
@@ -14011,6 +14079,58 @@ Size: 42354
 MD5sum: 594bf1330936998941bf79155e9d84c4
 SHA1: 5ad82e55abb02f4f8b5c4e56b3795795f996e35f
 SHA256: 5d9784e278016d5e10d099078987d96ebed18bfcc9b72e3c9a7e4655e5333309
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.4_iphoneos-arm64.deb
+Size: 33980
+MD5sum: 4891070f1c17b3ec9e42627390654a85
+SHA1: 0e67c8f014ef348dacbc45ebf737e9e2d39bd203
+SHA256: a70ce11f3e92543d48025d477a0600ce4db62fa9f3bb833c9eb6c470d26463b2
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.4_iphoneos-arm64e.deb
+Size: 46910
+MD5sum: fbe7a7a40991975de72463a9eca24181
+SHA1: 643cd6cbdea2ac891b58cf3ca0a6d7cf119a10cd
+SHA256: d5bc9244d8cd76735a60d5739b60b2e65de398250dcdea0c725abdb2f2da9906
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.4_iphoneos-arm.deb
+Size: 34188
+MD5sum: df90e8f4036aaf742726f13de7c714ba
+SHA1: 5f4885bd5d6fb16e754907b15756fb684d59fce2
+SHA256: 0c44ede37f635ed7678314315843bce48e83ca652576db1ca4ea8c5064ed67b1
 Section: Tweaks
 Description: iOS 14-17 自定义来去电背景插件
 Author: iosdump
