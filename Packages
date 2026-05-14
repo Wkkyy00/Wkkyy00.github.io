@@ -11327,39 +11327,39 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA插件配置说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.2-2
+Version: 1.2-3
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-2_iphoneos-arm64e.deb
-Size: 2304
-MD5sum: 380c3a1582fd60681d6d3908d60c99ab
-SHA1: d64d827ee442b363b49fcb4dd90193b6cd299686
-SHA256: e05a56ac271d1cc070732638765d95abeb866992b6dfff36a28fbb836fe5634e
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-3_iphoneos-arm64e.deb
+Size: 2398
+MD5sum: c89b1aea2aa506fb4d23e9c1f7bdfec8
+SHA1: 9a6bc1380bf247fa49cb2bcdcec3cca1f2f12a93
+SHA256: 4364e76c4c819cd1c19aaa2524381c2c7e6b9c1875c40beb5e1f06955913ac40
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件200+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类系统级插件、APP会员破解等实用内容。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
+Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件220+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、APP会员破解、微信插件等实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路！进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAAAAA付费群公告
+Name: AAA付费群公告
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.2-2
+Version: 1.2-3
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-2_iphoneos-arm64.deb
-Size: 1328
-MD5sum: 0019a2d46e6d39686e735d118a01318f
-SHA1: 012d4119ef2ba938679d8b2bdb4ec9c3ae851545
-SHA256: 3623e4fef240a7fa11a0c42278d54abb0b2972efa3ad2eb8c80f7fc9bc05b13d
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-3_iphoneos-arm64.deb
+Size: 1372
+MD5sum: cbda5009d7a0f634fe8de8b76af2565b
+SHA1: 128c1b4e379983418365d80cc0520d8d852f5573
+SHA256: c75854fefa19afd073f7ab080fea4213d7f76810f546794dd67630e899d44a0d
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件200+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类系统级插件、APP会员破解等实用内容。群内任何需求、任何问题都可提出，力所能及的都会尽力搞定，全方位满足大家的使用需求。进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
+Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件220+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、APP会员破解、微信插件等实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路！进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 大家一起进步！
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAAAAA付费群公告
+Name: AAA付费群公告
 
 Package: com.wkk.actionbarreborn
 Version: 1.0-1
