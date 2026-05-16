@@ -11223,39 +11223,41 @@ Name: WeChat自用气泡
 Sileodepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
 
 Package: com.wkk.WeChatdock
-Version: 1.0-3
+Version: 1.0-8
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatdock_1.0-3_iphoneos-arm64.deb
-Size: 1044
-MD5sum: f0dfa51317b39956833d5dd9d1f00b3d
-SHA1: ea0b47f0ec845a9f482352fdfca340dd43af0bb8
-SHA256: 4ad37a0ae998e4e4b6abc41696d1d4a4e063440a0d5fa2ea5e1af1d85151b0dc
+Filename: ./debs/com.wkk.WeChatdock_1.0-8_iphoneos-arm64.deb
+Size: 936
+MD5sum: edd5389da164b4466de5896749e26008
+SHA1: c80002ac762eccaf11ed5fbf4c0b72b614f3d5f3
+SHA256: 9b2af3d0e01de21c21e2c58748e6315e7d4bec9d853a9aee22e631d45e7e4cbf
 Section: 微信插件
-Description: 一个个群友强烈要求做的美化的悬浮底栏 咱也不知道有啥好看 目前支持两种切模式和多种自定义调节 并且塞入了几个实用的小功能 解决了各种返回的bug 效果还不错！
+Description: WeChat精美的悬浮底栏
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信悬浮底栏
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/xfdl.json
 
 Package: com.wkk.WeChatdock
-Version: 1.0-3
+Version: 1.0-8
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatdock_1.0-3_iphoneos-arm64e.deb
-Size: 1648
-MD5sum: a081a7fad7b16ccf42d193714c564278
-SHA1: a8b8c04fb1bc99c6ac4b9b0357c574c4c0cb3107
-SHA256: c317ea1cef38c708689d9096b23ff07f4612a563fe3f0c26edf5332ff91ba68c
+Filename: ./debs/com.wkk.WeChatdock_1.0-8_iphoneos-arm64e.deb
+Size: 1362
+MD5sum: fcb0d844bb34b629f3c5ba7bc4db76b4
+SHA1: fb7894460583c1c1cb21de11a9fc333269a287a6
+SHA256: 6ea637febaa8748fc7ba6285e9bb2419a24d4cce7f14f8b30fec5fd9db0844fb
 Section: 微信插件
-Description: 一个个群友强烈要求做的美化的悬浮底栏 咱也不知道有啥好看 目前支持两种切模式和多种自定义调节 并且塞入了几个实用的小功能 解决了各种返回的bug 效果还不错！
+Description: WeChat精美的悬浮底栏
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信悬浮底栏
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/xfdl.json
 
 Package: com.wkk.WeChattextcolor
 Version: 1.0-9
