@@ -20259,6 +20259,39 @@ Author: b4db1r3 <nfive060@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/03/817ff87a22c5e12c8147f4af053f8c42.png
 Name: OCD5
 
+Package: com.wkk.oleddarkmode
+Version: 0.5.1-11
+Architecture: iphoneos-arm64e
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.oleddarkmode_0.5.1-11_iphoneos-arm64e.deb
+Size: 12234
+MD5sum: fdf5004a6c18dd64190338ac504503da
+SHA1: 947d2e8ccb0f144b2e1804927463d0b5d8e9ba0e
+SHA256: 7d131a7315ec8bb3ea21c7cd3efb880d926670afed3ba15d656561e1c696a1bb
+Section: Tweaks
+Description: 让深色模式更深
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: OLED Dark Mode
+
+Package: com.wkk.oleddarkmode
+Version: 0.5.1-11
+Architecture: iphoneos-arm64
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.wkk.oleddarkmode_0.5.1-11_iphoneos-arm64.deb
+Size: 9448
+MD5sum: c61882ec2bd9de3993be06ccb7b41675
+SHA1: 12ce679c9d8d04013c422169ceb25b5bd29913f3
+SHA256: a5b358607e6242886f47d71418905272905a195653fb41dcbc01c4ce7b5ace4a
+Section: Tweaks
+Description: 让深色模式更深
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: OLED Dark Mode
+
 Package: com.wkk.onehandwizard2
 Version: 1.0.6
 Architecture: iphoneos-arm64
