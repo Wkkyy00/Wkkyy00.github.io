@@ -22731,6 +22731,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 神奇的交互动画
 
+Package: com.wkk.spzddddd
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.spzddddd_1.0-1_iphoneos-arm64.deb
+Size: 972
+MD5sum: 5ee9ccbf552d07e9e79d4c87a3cdd665
+SHA1: 63808bcc85cab6c45f488f1b8ab6f46c03e02c43
+SHA256: 414b458f0acf699bfa7e763377b517c52cacbd0a4b9cc0254bdbe2e35f7a9200
+Section: Tweaks
+Description: 锁屏自动低电量，解锁自动恢复，排除通知中心。付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏自动低电量
+
+Package: com.wkk.spzddddd
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.spzddddd_1.0-1_iphoneos-arm64e-1.deb
+Size: 1490
+MD5sum: 43844b4ab6f2a664d5539c62b3e45fe0
+SHA1: e495b61e11526f018f8b8c48a35b08b86b614734
+SHA256: 6131a1e374bd380fbf28a323abeb8c87331bebf838ae8432eb33e79c497be614
+Section: Tweaks
+Description: 锁屏自动低电量，解锁自动恢复，排除通知中心。付费群使用（不止这一个插件 具体可以看源里进群详情）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 锁屏自动低电量
+
 Package: com.wkk.ssschook
 Version: 1.0-3
 Architecture: iphoneos-arm64e
