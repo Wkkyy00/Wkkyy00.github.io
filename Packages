@@ -22330,6 +22330,58 @@ Author: iosdump
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: SHELLX
 
+Package: com.wkk.shellx
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.0.0_iphoneos-arm.deb
+Size: 127140
+MD5sum: d74e0bba71ae3210b4769895ec58002b
+SHA1: 095988216dd1033a1ecfd1dd27a299c87978f490
+SHA256: 4772646c02f1c9048a932d3eb398df1e5e5f3a713670b434c032dee90639ca53
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.0.0_iphoneos-arm64.deb
+Size: 127384
+MD5sum: 98dae5012f231cd703ed5e1e0f244c05
+SHA1: e69a4dc272138b8fe01b58c4e4f851944101a525
+SHA256: 98d4b4a1fd25631c8b61144fd44e0eb93f044373b6a6a811e255fb9f802fa9e4
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 576
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.0.0_iphoneos-arm64e.deb
+Size: 173464
+MD5sum: 421791c6edbdc4807ee5d2bd960cedb2
+SHA1: 9b115b7901150dec1e41cb23a414a8a35c06cc24
+SHA256: 0f97dfd1c3c0b9353fdf5681d32ff4f3acd0528251b353575125f5f91a7aac87
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
 Package: com.wkk.showmytouches
 Version: 1.2.1
 Architecture: iphoneos-arm64e
