@@ -6436,6 +6436,39 @@ Author: Curtin
 Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC
 
+Package: com.curtin.pkc
+Version: 0.9-6
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-6_iphoneos-arm64e.deb
+Size: 3752798
+MD5sum: 750b8ea5be99380c26ee3125b330aa00
+SHA1: d12cf1283db2846d82e10e39ac51a159a9b0e402
+SHA256: f1d59003782800f436337e890a9c0de9e07ee514af37e5a9dc8e9dea90a44da1
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
+Package: com.curtin.pkc
+Version: 0.9-6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc_0.9-6_iphoneos-arm64.deb
+Size: 1365920
+MD5sum: f84f3a93de6323719ba60da88fe145c5
+SHA1: 1b7ddcba691ec1e2b3226fca142f9e47aacac995
+SHA256: dc1f3ae9cf700f7765917c91252db0d92aabce96d94c4880a2ce845d78e8e68b
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC
+
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.4-1
 Architecture: iphoneos-arm64e
@@ -9215,6 +9248,39 @@ Size: 4256792
 MD5sum: 34b9d0a72189507c9014b9b9403f0e17
 SHA1: 8bfc07b53e02b0ac646c39988ac577f6238898b6
 SHA256: ea2b2a125caa8aacaa6b9ae03af77690fa0feedbee7cc9268bb39004acafa168
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-5_iphoneos-arm64.deb
+Size: 1782512
+MD5sum: 0a235618b4d24f3977a2bbce1c38fe71
+SHA1: c4dd0a2eeb1576798496d7415c70dd3c4f8d333e
+SHA256: 430614f2df962e612da63d815654ef5f6e4ae054bca5bf3f67032bb499215577
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-5
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-5_iphoneos-arm64e.deb
+Size: 4731718
+MD5sum: 92a3a5c53f1655841a39bd0ff95bac43
+SHA1: 64f11f1dfcf522a5f6a43d7098142aafe6395e3c
+SHA256: 3762fbde6330199c5ddc0dfe0de05f015803304ec5c415c8c20310cf7ceadd6f
 Section: 微信插件
 Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
 Author: Mao
