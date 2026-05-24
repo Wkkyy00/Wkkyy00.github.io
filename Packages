@@ -8644,6 +8644,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.3.4
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.4_iphoneos-arm64e.deb
+Size: 15772656
+MD5sum: 519f3a3f94bbb706c79164b14f3b9b24
+SHA1: 6308cb3542a7994b7db0eea9927fd082ea373306
+SHA256: 293158e0613a3038fbed0ec3bcaea7f59507a53ed58c1a67c5a4681dc5ab24c9
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.3.4
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.4_iphoneos-arm64.deb
+Size: 5837632
+MD5sum: 0cbf4de3f77f7da337b0f64ca9d980c9
+SHA1: cacefc03038fe4162c0cd08a0fb741e7915de2e3
+SHA256: 4a7e21a0b0fba8c3d6cd01c486f4e32f36b1486ee9e594c10db2aad82c12f79a
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -15888,6 +15923,41 @@ Description: 下载后素材/var/mobile/Documents/灵动岛素材
 Author: 网络资源
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 灵动岛跳舞动画素材
+
+Package: com.wkk.dynamicnotland
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dynamicnotland_1.2.4_iphoneos-arm64.deb
+Size: 12196
+MD5sum: 65385054909d6b61a7617e98af94c65c
+SHA1: ef5dbdd5645bede713c10e18a4f929fb4783fe1e
+SHA256: 84c61a73941ec31491cb57341ea861a5004e3c2f17883f7a55f9f5c04c4d3ea0
+Section: Tweaks
+Description: 在不使用灵动岛时，在14Pro/PM系列中隐藏动态岛的调整！（变成感叹号）
+Author: Nathan
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: DynamicNotLand
+
+Package: com.wkk.dynamicnotland
+Version: 1.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dynamicnotland_1.2.4_iphoneos-arm64e.deb
+Size: 16474
+MD5sum: bbde791f518c0be1214d5a0cb54cbb43
+SHA1: 04bd8021bcbcdbdf5da20f0539472209a0706824
+SHA256: edc5e4f88c32a1486e8e082ac3c0b6ea47ca0b8468710654d36f0538b61c0b75
+Section: Tweaks
+Description: 在不使用灵动岛时，在14Pro/PM系列中隐藏动态岛的调整！（变成感叹号）
+Author: Nathan
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: DynamicNotLand
 
 Package: com.wkk.dzdphook
 Version: 1.0
