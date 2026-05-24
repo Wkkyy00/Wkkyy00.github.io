@@ -14415,6 +14415,58 @@ Author: iosdump
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: CustomCallBg
 
+Package: com.wkk.customcallbg
+Version: 0.0.6
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.6_iphoneos-arm64e.deb
+Size: 97398
+MD5sum: 31d09ae84a46d80cbbeccaceb53f59f4
+SHA1: fe948f62787a516518122693e2a7b25cf177a2f2
+SHA256: d534b5ee962e4aab7724117ebcac5b5624929ef635557ee8152da7413a13df44
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.6_iphoneos-arm64.deb
+Size: 69896
+MD5sum: ce065c11abfcb11fe38b0ffc76586691
+SHA1: 767d17e4b6c8a41b72d106599dc67b83745eb7cb
+SHA256: abe9281ee51fa9de4a3e245bbf6ebde5c80740cb395222c063bb057c3b417dfa
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
+Package: com.wkk.customcallbg
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customcallbg_0.0.6_iphoneos-arm.deb
+Size: 70012
+MD5sum: 20a6faaadc56bdf8e8b73597335574fb
+SHA1: 96c06f7d11bfb7f458442ca93dad926977c55e84
+SHA256: 69ed1937c30cb93af08fe5aa829c29e47e4d0df177725885c4212751125da83a
+Section: Tweaks
+Description: iOS 14-17 自定义来去电背景插件
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCallBg
+
 Package: com.wkk.cxdebdylib
 Version: 1.0
 Architecture: iphoneos-arm64
