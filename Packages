@@ -6441,11 +6441,11 @@ Version: 0.9-6
 Architecture: iphoneos-arm64e
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.curtin.pkc_0.9-6_iphoneos-arm64e.deb
-Size: 3752798
-MD5sum: 750b8ea5be99380c26ee3125b330aa00
-SHA1: d12cf1283db2846d82e10e39ac51a159a9b0e402
-SHA256: f1d59003782800f436337e890a9c0de9e07ee514af37e5a9dc8e9dea90a44da1
+Filename: ./debs/com.curtin.pkc_0.9-6_iphoneos-arm64e-1.deb
+Size: 3753778
+MD5sum: 5295d70d568da0b96642dd31ccf739b9
+SHA1: 4ad46336a313d4245adee97bff4e451b65b7b42c
+SHA256: 6e6a390a440e67031efdc634ef4ad8af77ec8ec6e5c8f4695034aaab58d2b485
 Section: 微信插件
 Priority: optional
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
@@ -6458,10 +6458,10 @@ Version: 0.9-6
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.curtin.pkc_0.9-6_iphoneos-arm64.deb
-Size: 1365920
-MD5sum: f84f3a93de6323719ba60da88fe145c5
-SHA1: 1b7ddcba691ec1e2b3226fca142f9e47aacac995
-SHA256: dc1f3ae9cf700f7765917c91252db0d92aabce96d94c4880a2ce845d78e8e68b
+Size: 1366112
+MD5sum: 58d9d413b43209031fa7cad5b10d1823
+SHA1: 153996eeb198264dbb8be71e07064320ab9ccdf6
+SHA256: 659a208ab2edad4d81ab053def8d19e22a0f50ba9b926827b4721fa770fce4f6
 Section: 微信插件
 Priority: optional
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
@@ -9801,6 +9801,41 @@ Size: 2593052
 MD5sum: 8ce047e6e2d9d227e528862dfe9d9150
 SHA1: 378cae65b98caa6788aeb2326c7b373c4065dd72
 SHA256: 886ba7d68f74c7019ce3056a9575e8b3c3280b3dc3a21a9a8c379a51c371dc7d
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.wkk.WCEhance
+Version: 2.0-6
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCEhance_2.0-6_iphoneos-arm64.deb
+Size: 2643416
+MD5sum: 528dfb508279e9f105a0ecaa4f0fd726
+SHA1: 733f6f30a214eafa22e4b45b75124e234cb24d95
+SHA256: c2420cfdf30b8bc55cbba470eda946dfcd8624d45535912755c3a43dd4111f90
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信增强
+
+Package: com.wkk.WCEhance
+Version: 2.0-6
+Architecture: iphoneos-arm64e
+Maintainer: Lxcloud
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCEhance_2.0-6_iphoneos-arm64e.deb
+Size: 7522654
+MD5sum: 8b70372115dea4cfcbb7aeeff0f81f40
+SHA1: dc5eee023a403e9d0c8f2560d000ac3eee1f89b9
+SHA256: 131eccb36f43c0cb44ddc05f077e4db0d3fc5e2ad0ebb29f2fd83f4f27b29d73
 Section: 微信插件
 Priority: optional
 Description: 微信增强，用于优化一些反人类设计和增强功能。
