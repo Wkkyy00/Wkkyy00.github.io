@@ -27557,6 +27557,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/21/d786b2d348e397824b9499df7082cde1.png
 Name: 灵动岛音乐专辑旋转
 
+Package: com.wkk.zmzhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zmzhook_1.0-1_iphoneos-arm64e.deb
+Size: 3524
+MD5sum: 02d4e0a006ade935841287079ee2c85f
+SHA1: e22ec23b2a11696ba46afa98b25d2ba1cf63f028
+SHA256: a835cc52344c61ef95cfac9f096405545129b3e1d618e90390659abb2b4aca1e
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏文图标文字阴影
+
+Package: com.wkk.zmzhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zmzhook_1.0-1_iphoneos-arm64.deb
+Size: 3588
+MD5sum: 2a142a90a186726c82f148fc35a101ca
+SHA1: f540fadf00975908157f754084c8b2013109439f
+SHA256: cd28d5e7b171df2925e124b240ffb2273208296c805093902730c6f0b047015a
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏文图标文字阴影
+
 Package: com.wkk.zslmhook
 Version: 1.0
 Architecture: iphoneos-arm64
