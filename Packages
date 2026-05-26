@@ -22260,35 +22260,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: 禁用通知中心下拉手势
 
 Package: com.wkk.sbsssss
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.sbsssss_1.0-1_iphoneos-arm64.deb
-Size: 1024
-MD5sum: 0470dbc89a90c84ff108cd66160d3b16
-SHA1: e654a6014967b1453d81e0d0dcc169e68ee89368
-SHA256: ee448d8565e33465b39e5fe1a888b4e751f56e859085aa5b6de926642b842fdd
+Filename: ./debs/com.wkk.sbsssss_1.0-2_iphoneos-arm64.deb
+Size: 1136
+MD5sum: fe52b72677ce5eea2f8a645ddc845aa7
+SHA1: 43c7ed269c61926676b20061318ea8a6b341d686
+SHA256: 7c84305ceb94def162770213d97a5c013d53498b2ef08889e7c04f9ad9737e17
 Section: Tweaks
-Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，付费群使用，重启springboard好处是为了时刻让手机在良好的状态下运行越狱环境，以及不会经常出现无法排查的插件冲突现象，养成这个良好习惯。可以规避大部分的问题（不止这一个插件，具体可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 重启springboard动画重制
 
 Package: com.wkk.sbsssss
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.sbsssss_1.0-1_iphoneos-arm64e.deb
-Size: 1596
-MD5sum: 7a5dee989c7d97cf548d65eabc4f5505
-SHA1: 71b69004375aa96ffc161435186e961af61f7ba8
-SHA256: e194dce8b819badec8da02cfccade66465bda6de28474a07f0da43d72ce4b3f1
+Filename: ./debs/com.wkk.sbsssss_1.0-2_iphoneos-arm64e.deb
+Size: 1898
+MD5sum: 3149deab08359c9bcf32ca129052a263
+SHA1: c12d540549e06c3e5a44e6622ccebf85a4f62e98
+SHA256: 07fcb2080292b67475950cc3a3e83d196b3f668dab6b80c117477fac835c66bf
 Section: Tweaks
-Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Description: 多巴胺里重启springboard返回桌面图标动画像iOS26般跳动，非常好看，付费群使用，重启springboard好处是为了时刻让手机在良好的状态下运行越狱环境，以及不会经常出现无法排查的插件冲突现象，养成这个良好习惯。可以规避大部分的问题（不止这一个插件，具体可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
