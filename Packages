@@ -11340,41 +11340,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCSafeMode
 
 Package: com.wkk.WeChatX
-Version: 1.1-1
+Version: 1.3-4
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.1-1_iphoneos-arm64e.deb
-Size: 1540
-MD5sum: 0e9f0e8a70c7dd3f3106321c6c80984d
-SHA1: 7e3405dd95553542e7b054266682d91c3b3309e1
-SHA256: 75ec8f67639d82d0f99656695a692fc843b772c1d1d16f00eb3bc47de848b693
+Filename: ./debs/com.wkk.WeChatX_1.3-4_iphoneos-arm64e.deb
+Size: 1498
+MD5sum: 5d081f6f49d02a5b714f189d9116abba
+SHA1: 89cb3f948f0dea200659141c15741de79e0c90b8
+SHA256: 9101d72102beeb3f84558d63ce4b0084a97bf33c80cdf3a93c6676e70c2a5a86
 Section: 微信插件
-Description: 致力于将市面上没有的一些功能集成在一个插件里（进展60%）付费群员使用。
+Description: 致力于将市面上没有的一些功能集成在一个插件里付费群员使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/xfdl.json
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatX.json
 
 Package: com.wkk.WeChatX
-Version: 1.1-1
+Version: 1.3-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.1-1_iphoneos-arm64.deb
-Size: 996
-MD5sum: 15a84cefebcfcff33a50bcb8ee25f7f8
-SHA1: 60db194870b13a7752530abae475be2e2cf7b371
-SHA256: 986aa76f76d46c98e9583cf1919ff645b6750a34b1779f86fa1c9347841e550a
+Filename: ./debs/com.wkk.WeChatX_1.3-4_iphoneos-arm64.deb
+Size: 984
+MD5sum: 6d5852c5fc75395d1cd2d2389e7f7c4c
+SHA1: e57b4f6ec8f64244dc2a13ae3d3cb37ce641c6ac
+SHA256: f63d0d0ac2fab9dabeed4566ac28958e2c2c1ef7087b9edc9932d64dc461ce61
 Section: 微信插件
-Description: 致力于将市面上没有的一些功能集成在一个插件里（进展60%）付费群员使用。
+Description: 致力于将市面上没有的一些功能集成在一个插件里付费群员使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/xfdl.json
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatX.json
 
 Package: com.wkk.WeChatbeautifully
 Version: 1.0
