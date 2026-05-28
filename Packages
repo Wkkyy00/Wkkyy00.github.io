@@ -11340,15 +11340,16 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCSafeMode
 
 Package: com.wkk.WeChatX
-Version: 1.4-0
-Architecture: iphoneos-arm64
+Version: 1.4-2
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.4-0_iphoneos-arm64.deb
-Size: 1008
-MD5sum: 83d9a9d1ffa508a1d49698be1d04a287
-SHA1: 2811fe16f0e3714edc45d7b145ed357171f9a3dc
-SHA256: 80e2aabcfded903bc9c0e32f4c3b18c2fa16f612b9dc5e961e4166a86ad0026e
+Filename: ./debs/com.wkk.WeChatX_1.4-2_iphoneos-arm64e.deb
+Size: 1570
+MD5sum: 07cb85e1948f2927b4ea2b43d92dafc0
+SHA1: e8a7ef21142d31ae8c12f628bb2f6b0f8295f462
+SHA256: c67d504bba10cdde791eb27f9425551d65a402486e04af05075dc8eca45e93c4
 Section: 微信插件
 Description: （挂梯子查看详情）致力于将市面上没有的一些功能集成在一个插件里付费群员使用。
 Tag: cydia::commercial
@@ -11358,16 +11359,15 @@ Name: WeChatX
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatX.json
 
 Package: com.wkk.WeChatX
-Version: 1.4-0
-Architecture: iphoneos-arm64e
+Version: 1.4-2
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.4-0_iphoneos-arm64e.deb
-Size: 1560
-MD5sum: 51ba305aa6025dc39aca7382379d0aaa
-SHA1: 6564e673845f44cdd0161782d0345ca5603e495d
-SHA256: 866ac02fb6f55a92b40e3b7c4de0c875da3685d1a78b72a2eea4634ece5e59fc
+Filename: ./debs/com.wkk.WeChatX_1.4-2_iphoneos-arm64.deb
+Size: 1008
+MD5sum: 87c4e9f122786006c3b808941c191256
+SHA1: bc4039913b7d9756c6556148f7bde35eda7ade4a
+SHA256: 2c0354331d16a8118fcf955892255d3f30760a9883d04b32bccf3baabc113208
 Section: 微信插件
 Description: （挂梯子查看详情）致力于将市面上没有的一些功能集成在一个插件里付费群员使用。
 Tag: cydia::commercial
