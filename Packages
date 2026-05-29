@@ -8679,6 +8679,41 @@ Author: WeChat
 Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
 Name: 主题盒子
 
+Package: com.tencent.themebox
+Version: 2.3.6
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.6_iphoneos-arm64.deb
+Size: 5872064
+MD5sum: aa3410c79e62e416ce4095281efcf972
+SHA1: befa362e67f478f92c37745440a69ae0d3e7aee9
+SHA256: 82459a006fef72cc1e1b12dfbe92c019614c64caec3f053e79652226b996a334
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 2.3.6
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.6_iphoneos-arm64e.deb
+Size: 15843116
+MD5sum: 6a2b70c7b15a38a8494052bb23e0e2f9
+SHA1: 8079b7eeb8e579e41ce4a0361f5cafa1475b3614
+SHA256: 8e0b9de4e45a23f003815c834ca9ab31712c554f0996da652f094f7ac0e7e1cb
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
 Package: com.thermal.hook
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -9316,6 +9351,39 @@ Size: 4731718
 MD5sum: 92a3a5c53f1655841a39bd0ff95bac43
 SHA1: 64f11f1dfcf522a5f6a43d7098142aafe6395e3c
 SHA256: 3762fbde6330199c5ddc0dfe0de05f015803304ec5c415c8c20310cf7ceadd6f
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-7
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-7_iphoneos-arm64e.deb
+Size: 4879426
+MD5sum: 10c36221abadd667b05816580266a23f
+SHA1: 8cb278eae3854e02e77da0530b2dea134a8ce6ef
+SHA256: 7e560932d3eb1223651c23648faaadc46c70b4bc7bf548e41f14acb1854b3015
+Section: 微信插件
+Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: BubbleBox
+
+Package: com.wkk.BubbleBox
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wkk.BubbleBox_1.0-7_iphoneos-arm64.deb
+Size: 1837616
+MD5sum: 4a00aea1eaf3d28001f2d426e2f4176c
+SHA1: 35fa094f6e38a596f4c6c17bdc3887a577c655ee
+SHA256: a5f5e3998b184107a94ae3bdf253e66ce569f683f995e03b0914fd7309b61eaf
 Section: 微信插件
 Description: 气泡插件。不会兑换就注入WCRefine兑换，激活网址：https://k.youshop10.com/oEo3zzEp
 Author: Mao
@@ -11340,18 +11408,18 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCSafeMode
 
 Package: com.wkk.WeChatX
-Version: 1.4-2
+Version: 1.4-3
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.4-2_iphoneos-arm64e.deb
-Size: 1570
-MD5sum: 07cb85e1948f2927b4ea2b43d92dafc0
-SHA1: e8a7ef21142d31ae8c12f628bb2f6b0f8295f462
-SHA256: c67d504bba10cdde791eb27f9425551d65a402486e04af05075dc8eca45e93c4
+Filename: ./debs/com.wkk.WeChatX_1.4-3_iphoneos-arm64e-1.deb
+Size: 1842
+MD5sum: bf29e1e1c74da540c85ba19e6eccd357
+SHA1: 3259d41e290b3a1469de65b9d84e0c545e355bbc
+SHA256: 990dca090a5816aaf324a4fc4fa6232d20b32c56f9456e7dc30675bedc25ee64
 Section: 微信插件
-Description: （挂梯子查看详情）致力于将市面上没有的一些功能集成在一个插件里付费群员使用。
+Description: 致力于将市面上没有的一些功能集成在一个插件里（开发中....主要目的是让付费群的群友集思广益，把大家手里某个插件内只开一两个功能的插件，集合到这个插件内，外加目前没有的实用功能，让大家都用得舒服且实用。qq1772773799
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
@@ -11359,17 +11427,17 @@ Name: WeChatX
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatX.json
 
 Package: com.wkk.WeChatX
-Version: 1.4-2
+Version: 1.4-3
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.4-2_iphoneos-arm64.deb
-Size: 1008
-MD5sum: 87c4e9f122786006c3b808941c191256
-SHA1: bc4039913b7d9756c6556148f7bde35eda7ade4a
-SHA256: 2c0354331d16a8118fcf955892255d3f30760a9883d04b32bccf3baabc113208
+Filename: ./debs/com.wkk.WeChatX_1.4-3_iphoneos-arm64.deb
+Size: 1132
+MD5sum: 2898b3b126c2a27fd5ba538451871045
+SHA1: 9ad852a75af64debeee0f29246798fd6ffeea8f9
+SHA256: 77d09abd266df12dd1aeaf93a167abf3f42b13dd4e4d6f3ab440b23f5b0a5517
 Section: 微信插件
-Description: （挂梯子查看详情）致力于将市面上没有的一些功能集成在一个插件里付费群员使用。
+Description: 致力于将市面上没有的一些功能集成在一个插件里（开发中....主要目的是让付费群的群友集思广益，把大家手里某个插件内只开一两个功能的插件，集合到这个插件内，外加目前没有的实用功能，让大家都用得舒服且实用。qq1772773799
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
@@ -11553,39 +11621,39 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA插件配置说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.2-7
+Version: 1.3-0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-0_iphoneos-arm64.deb
+Size: 1812
+MD5sum: fb329d680522f31f239f3a3b6f968366
+SHA1: 51b3370668776c9e906fb0f3a8c5481fd485e077
+SHA256: 6d6bb70021fb6b4d1d40873b2252f970084171b79e4169c83e0660a48acb29fe
+Section: Tweaks
+Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 （另外说一下，最近被破解的floatingView分屏插件，如果觉得好用，真心可以支持一下作者，毕竟是作者的心血，而且我们应该全民抵制这种破解的老鼠屎，如果没有好的开发者给我们开发插件，那么以后就没有人再写插件了，难道每一个越狱的玩家都要花大量的钱财去做私人订制？玩得起？如果没有人站出来说话，那么越狱圈永远都是被这种老鼠屎搅成一锅粥。你买一个插件，买的并不是一个物品，你买的是一个圈子，一个沟通的桥梁。近朱者赤，近墨者黑，这句话我一直相信，当然了，谁站出来说话，谁就会被骂，如果永远没有人站出来说话，那么老鼠屎们永远会猖獗下去，即使一直背负骂名，我也会永远抵制这种老鼠屎的存在）
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 一些想说的话
+
+Package: com.wkk.aaaaaaaaaaa22233
+Version: 1.3-0
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-7_iphoneos-arm64e.deb
-Size: 2360
-MD5sum: f60ea9b39c7ed3d76be69518937d6b67
-SHA1: 24652365d703920fd18f858b0d48103370262e18
-SHA256: c69fec8bb1325df0cc2ef2d96c7ab04c54f3eaea459918d8fd02caef5fba3213
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-0_iphoneos-arm64e.deb
+Size: 3414
+MD5sum: d1fd652a16c0f3c8e33d4eda8fd2bd83
+SHA1: dcda5fc84415ed37869f311a94ce08f03fd11a87
+SHA256: 7b155f11afc08961a4bedccfefdf0cd89b816c7ca95c7adaef8eb1a095822843
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件250+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、APP会员破解、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799
+Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 （另外说一下，最近被破解的floatingView分屏插件，如果觉得好用，真心可以支持一下作者，毕竟是作者的心血，而且我们应该全民抵制这种破解的老鼠屎，如果没有好的开发者给我们开发插件，那么以后就没有人再写插件了，难道每一个越狱的玩家都要花大量的钱财去做私人订制？玩得起？如果没有人站出来说话，那么越狱圈永远都是被这种老鼠屎搅成一锅粥。你买一个插件，买的并不是一个物品，你买的是一个圈子，一个沟通的桥梁。近朱者赤，近墨者黑，这句话我一直相信，当然了，谁站出来说话，谁就会被骂，如果永远没有人站出来说话，那么老鼠屎们永远会猖獗下去，即使一直背负骂名，我也会永远抵制这种老鼠屎的存在）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAA付费群公告
-
-Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.2-7
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.2-7_iphoneos-arm64.deb
-Size: 1360
-MD5sum: b6276da50ef0822d0e1963564c291d6b
-SHA1: a273d40afcbc3a56881a3e14fc502b6db72073bd
-SHA256: 7c8a9e641b3a6f0c28fc258a76135bf7d4b9ce452169742e4487d822fd1ecc33
-Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件250+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、APP会员破解、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: AAA付费群公告
+Name: 一些想说的话
 
 Package: com.wkk.actionbarreborn
 Version: 1.0-1
@@ -14206,6 +14274,40 @@ Description: cool
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用解锁图标飞入
+
+Package: com.wkk.custom-notification-sound
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.custom-notification-sound_1.0.0_iphoneos-arm64.deb
+Size: 59092
+MD5sum: fb8f20af981fa5568014a71824e1409b
+SHA1: 66ab9b1326b819dbcf51c4ee770b00bcd3bc0504
+SHA256: e8609c0f23d49b0376b86276b2c5f49d70f31802098b0b83afa9436490382708
+Section: 微信插件
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: CustomWeChatNotificationSound
+
+Package: com.wkk.custom-notification-sound
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.custom-notification-sound_1.0.0_iphoneos-arm64e.deb
+Size: 57352
+MD5sum: 6c727f1a45477672f7bc69d4c3085a2e
+SHA1: 5ace58d1acba6fa2b05cd28600fb01df76d28565
+SHA256: 5e1239bcf40a0d9dd3b3c5a95ce0b2500a18c783425b87bd55fca4a5bef56343
+Section: 微信插件
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: CustomWeChatNotificationSound
 
 Package: com.wkk.customcallbg
 Version: 0.0.1
@@ -18463,6 +18565,40 @@ Description: 侧边呼出app。
 Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
 Name: InstaLauncher 2
+
+Package: com.wkk.insulation
+Version: 0.0.13
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 636
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.insulation_0.0.13_iphoneos-arm64e.deb
+Size: 95188
+MD5sum: 1706caabd46bccbb411aaaeeb4fadce9
+SHA1: 5c4b4dfa3a5e3b1f6721f2b1ba20658bda79d09d
+SHA256: 8cc24269279b174221a8166fb5c3156e353d2c450960dfa928e3467469a7e218
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: insulation
+
+Package: com.wkk.insulation
+Version: 0.0.13
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 636
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.insulation_0.0.13_iphoneos-arm64.deb
+Size: 97012
+MD5sum: 1e3b589dd058304a4f63e75d9423737b
+SHA1: 47a47a489e958442fe2562f75116fd0f8cd96c71
+SHA256: 3253c86ea5fb87c5252e4938294d6a143136d5115b9bb0a85c8e93bc7bf3e690
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: insulation
 
 Package: com.wkk.ios26kbhook
 Version: 1.0-2
