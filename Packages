@@ -11655,6 +11655,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 一些想说的话
 
+Package: com.wkk.aaaaaaaaaaa222338888
+Version: 1.1-0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa222338888_1.1-0_iphoneos-arm64.deb
+Size: 1956
+MD5sum: 41646c5cd615ab5ba4966cc6a003b4d4
+SHA1: 84183cd91fc95c812c290f524da812ae394b143b
+SHA256: 699bfee3d795f1db4834e8292b6ad221afd57eb1e7f5708a4373efaac9126ffb
+Section: Tweaks
+Description: 事情的起因是我的朋友（某苏）在axs的tg群里发了一句有本事破解他的插件，然后axs不知道找了谁破解了他的插件，因为此事和axs产生的对立的局面，当然我朋友言论确实不当，被破解也是技术欠缺，但是各位有没有想过，即使你有这个能耐，你破解了，你完全可以录视频告诉所有人你有能力破解，你厉害，大家去仰望你 可以么？但是破解后你发布在自己的千人频道，大家认为这做的对吗？你就这么喜欢摆那个臭架子？所以有了后来我在qq群说的那句格机言论的话，但是本人保证从始至终没有在任何插件里加过一行格机代码，骗子死妈（axs一直以来用截 图疯狂造谣，请让他拿出格了哪位机友手机的证据）起初是因为QQ群有axs的内鬼，会给他通风报信。所以说出那句话吓唬吓唬axs，让不少人一直产生误会，而且在那句话之上还有一个录屏，只要添加了axs的源，就用不了从我源里下载的插件，仅此而已（如果添加了axs源的，参考抖音图层，可以验证看看是否会用不了图层插件）还有一点，axs不管在什么地方，不管是对开发者还是新玩家，他永远是一副高高在上的姿态，从始至终没有一个学徒的心，走哪把各位开发者喷到哪，不仅大量破解/搬运别人的劳动成果且标记成自己为原创，还开多个qq/wx小号自导自演，玩权限，骗小白的钱，难道没人发现不管此人在哪出没永远是被人人喊打的一个人吗？前因后果就是如此，一直以来不想和此人计较太多，借着floatingView被破解事件在此和各位交代一下前因后果。大家 信 则有，不信则无，当个乐子吧。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 格机事件前因后果
+
+Package: com.wkk.aaaaaaaaaaa222338888
+Version: 1.1-0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaaaaaa222338888_1.1-0_iphoneos-arm64e.deb
+Size: 3792
+MD5sum: f125162a9dfce1df6a1faa2902d87a26
+SHA1: b9331e133f8d4a738cd73694f85c33bc651d8545
+SHA256: fdaa92d8ab5587d0e24784250c2151c87882bdc71a0cca31d14f99bcd0a930a0
+Section: Tweaks
+Description: 事情的起因是我的朋友（某苏）在axs的tg群里发了一句有本事破解他的插件，然后axs不知道找了谁破解了他的插件，因为此事和axs产生的对立的局面，当然我朋友言论确实不当，被破解也是技术欠缺，但是各位有没有想过，即使你有这个能耐，你破解了，你完全可以录视频告诉所有人你有能力破解，你厉害，大家去仰望你 可以么？但是破解后你发布在自己的千人频道，大家认为这做的对吗？你就这么喜欢摆那个臭架子？所以有了后来我在qq群说的那句格机言论的话，但是本人保证从始至终没有在任何插件里加过一行格机代码，骗子死妈（axs一直以来用截 图疯狂造谣，请让他拿出格了哪位机友手机的证据）起初是因为QQ群有axs的内鬼，会给他通风报信。所以说出那句话吓唬吓唬axs，让不少人一直产生误会，而且在那句话之上还有一个录屏，只要添加了axs的源，就用不了从我源里下载的插件，仅此而已（如果添加了axs源的，参考抖音图层，可以验证看看是否会用不了图层插件）还有一点，axs不管在什么地方，不管是对开发者还是新玩家，他永远是一副高高在上的姿态，从始至终没有一个学徒的心，走哪把各位开发者喷到哪，不仅大量破解/搬运别人的劳动成果且标记成自己为原创，还开多个qq/wx小号自导自演，玩权限，骗小白的钱，难道没人发现不管此人在哪出没永远是被人人喊打的一个人吗？前因后果就是如此，一直以来不想和此人计较太多，借着floatingView被破解事件在此和各位交代一下前因后果。大家 信 则有，不信则无，当个乐子吧。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 格机事件前因后果
+
 Package: com.wkk.actionbarreborn
 Version: 1.0-1
 Architecture: iphoneos-arm64
