@@ -11408,16 +11408,15 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCSafeMode
 
 Package: com.wkk.WeChatX
-Version: 1.4-3
-Architecture: iphoneos-arm64e
+Version: 1.4-6
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.4-3_iphoneos-arm64e-1.deb
-Size: 1842
-MD5sum: bf29e1e1c74da540c85ba19e6eccd357
-SHA1: 3259d41e290b3a1469de65b9d84e0c545e355bbc
-SHA256: 990dca090a5816aaf324a4fc4fa6232d20b32c56f9456e7dc30675bedc25ee64
+Filename: ./debs/com.wkk.WeChatX_1.4-6_iphoneos-arm64.deb
+Size: 1128
+MD5sum: 67801651d980c12b65d9b26b524de112
+SHA1: 833a10fe3d6effa1da35c0ac5533cd18c81a8cd0
+SHA256: 11c19b7d1c9323928f74a219f37a24cb8228b468093584419d05154bfee6365b
 Section: 微信插件
 Description: 致力于将市面上没有的一些功能集成在一个插件里（开发中....主要目的是让付费群的群友集思广益，把大家手里某个插件内只开一两个功能的插件，集合到这个插件内，外加目前没有的实用功能，让大家都用得舒服且实用。qq1772773799
 Tag: cydia::commercial
@@ -11427,15 +11426,16 @@ Name: WeChatX
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatX.json
 
 Package: com.wkk.WeChatX
-Version: 1.4-3
-Architecture: iphoneos-arm64
+Version: 1.4-6
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.4-3_iphoneos-arm64.deb
-Size: 1132
-MD5sum: 2898b3b126c2a27fd5ba538451871045
-SHA1: 9ad852a75af64debeee0f29246798fd6ffeea8f9
-SHA256: 77d09abd266df12dd1aeaf93a167abf3f42b13dd4e4d6f3ab440b23f5b0a5517
+Filename: ./debs/com.wkk.WeChatX_1.4-6_iphoneos-arm64e.deb
+Size: 1846
+MD5sum: c5466230451777deab501c85e7ab5566
+SHA1: c709596a7de140e0bd5fa1dd4711f95828278c10
+SHA256: b49f571fd7a34ae79af68c0b929d5fc9956ef2c04959a47d38a0203d2e1f6f39
 Section: 微信插件
 Description: 致力于将市面上没有的一些功能集成在一个插件里（开发中....主要目的是让付费群的群友集思广益，把大家手里某个插件内只开一两个功能的插件，集合到这个插件内，外加目前没有的实用功能，让大家都用得舒服且实用。qq1772773799
 Tag: cydia::commercial
@@ -16142,6 +16142,41 @@ Size: 12196
 MD5sum: 65385054909d6b61a7617e98af94c65c
 SHA1: ef5dbdd5645bede713c10e18a4f929fb4783fe1e
 SHA256: 84c61a73941ec31491cb57341ea861a5004e3c2f17883f7a55f9f5c04c4d3ea0
+Section: Tweaks
+Description: 在不使用灵动岛时，在14Pro/PM系列中隐藏动态岛的调整！（变成感叹号）
+Author: Nathan
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: DynamicNotLand
+
+Package: com.wkk.dynamicnotland
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dynamicnotland_1.2.5_iphoneos-arm64.deb
+Size: 12352
+MD5sum: c5a76ed03c5e5e0ae1181095b0bf2820
+SHA1: c5af6b6c833fc35e6445ba3421ce6713e31992a1
+SHA256: 09de4ca3987b328c53f199ee7c06e6b0ce9df0228d768a413ab0ca47474f6faf
+Section: Tweaks
+Description: 在不使用灵动岛时，在14Pro/PM系列中隐藏动态岛的调整！（变成感叹号）
+Author: Nathan
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: DynamicNotLand
+
+Package: com.wkk.dynamicnotland
+Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.dynamicnotland_1.2.5_iphoneos-arm64e.deb
+Size: 16646
+MD5sum: dbf3a5e99293a14d71dfdc8599436f8e
+SHA1: 6902dddfc9ffdfd7365965ab0d727a777e2e5871
+SHA256: 27fcca96dd0d6a1328832bfdb51df2459061cfdcf8b6a617ac42142e3aa75775
 Section: Tweaks
 Description: 在不使用灵动岛时，在14Pro/PM系列中隐藏动态岛的调整！（变成感叹号）
 Author: Nathan
