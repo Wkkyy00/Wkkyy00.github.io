@@ -18670,6 +18670,40 @@ Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: insulation
 
+Package: com.wkk.insulation
+Version: 0.0.18
+Architecture: iphoneos-arm64e
+Maintainer: be-huge/灰灰
+Installed-Size: 636
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.insulation_0.0.18_iphoneos-arm64e.deb
+Size: 105572
+MD5sum: 2bddeaf9cce415c65af2cf4b0163e824
+SHA1: 2e60e66b06ee6c2919130dec87a7a9a70216b653
+SHA256: 9195eff23cceefa5af67e6748ed5e98aeff01bdb793168cd821dfc6502c1b9cc
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Author: be-huge/灰灰
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: insulation
+
+Package: com.wkk.insulation
+Version: 0.0.18
+Architecture: iphoneos-arm64
+Maintainer: be-huge/灰灰
+Installed-Size: 636
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.wkk.insulation_0.0.18_iphoneos-arm64.deb
+Size: 107104
+MD5sum: 14e4b66ffe8edf3675d875149dc536b2
+SHA1: c5c3eed60f9a9392f9ff87fc970913be5b3b08da
+SHA256: 57b0e93ef267361b2aca5f69bf78e2fdad0fdaf3aadd4077fc45ca75aee4a114
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Author: be-huge/灰灰
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: insulation
+
 Package: com.wkk.ios26kbhook
 Version: 1.0-2
 Architecture: iphoneos-arm64e
