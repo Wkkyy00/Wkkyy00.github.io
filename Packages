@@ -9054,35 +9054,35 @@ Icon: https://s1.imagehub.cc/images/2025/02/06/c323dea01d48b9205f1853e43ba4722a.
 Name: 铁路12306NoAds
 
 Package: com.wkk.3dssss
-Version: 1.0-1
-Architecture: iphoneos-arm64
+Version: 1.0-7
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.3dssss_1.0-1_iphoneos-arm64.deb
-Size: 992
-MD5sum: 0d8b539625d853928478554ad1f294a7
-SHA1: fe0225ca14941cb6ab788d7c5010cf938ad53036
-SHA256: dbd521f87c0fd272f5114ef3d0e9f999c234cd2102e0fccd03f142c05c2caa8f
+Filename: ./debs/com.wkk.3dssss_1.0-7_iphoneos-arm64e.deb
+Size: 1482
+MD5sum: 7deb00da88b28c5623360105e1547c43
+SHA1: bef9e8992171ec6202e150bc1dbd4a7cb6ca0216
+SHA256: b27f8c02bcdd2e67ef13f9922954652a8de6c863cd1f061d955fae4c655999c4
 Section: Tweaks
-Description: 加速呼出3dtouch菜单，快系统响应一步！详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Description: 加速呼出3dtouch菜单，快系统响应一步！（付费群使用，不止这一个插件，具体可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 3dtouch呼出加速
 
 Package: com.wkk.3dssss
-Version: 1.0-1
-Architecture: iphoneos-arm64e
+Version: 1.0-7
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.3dssss_1.0-1_iphoneos-arm64e.deb
-Size: 1524
-MD5sum: 5f042f2be4c1e4836c177339cd46d9f8
-SHA1: b54334f3738adbc891c20af339f2976391fb0130
-SHA256: cb0d531cd2044ed600b4b62f8fec72b402e87b22beaebe40b28faa2847dec85d
+Filename: ./debs/com.wkk.3dssss_1.0-7_iphoneos-arm64.deb
+Size: 964
+MD5sum: d68689e96bd456a9e2ab016ccd4b1f4e
+SHA1: b4c1a34edcf331ccefa23a0ef69900129de4d128
+SHA256: f924ec6d1cd1a1b4966de40518ace661e36c2d4b93262aace38d5865449c55ba
 Section: Tweaks
-Description: 加速呼出3dtouch菜单，快系统响应一步！详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Description: 加速呼出3dtouch菜单，快系统响应一步！（付费群使用，不止这一个插件，具体可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
@@ -11445,17 +11445,18 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WCSafeMode
 
 Package: com.wkk.WeChatX
-Version: 1.4-6
-Architecture: iphoneos-arm64
+Version: 1.4-21
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.4-6_iphoneos-arm64.deb
-Size: 1128
-MD5sum: 67801651d980c12b65d9b26b524de112
-SHA1: 833a10fe3d6effa1da35c0ac5533cd18c81a8cd0
-SHA256: 11c19b7d1c9323928f74a219f37a24cb8228b468093584419d05154bfee6365b
+Filename: ./debs/com.wkk.WeChatX_1.4-21_iphoneos-arm64e.deb
+Size: 1764
+MD5sum: 0ae7dc0e688f535d7c07515a0a7ea42a
+SHA1: 6ca9522810bcf64f886e89f548b1788b0b9824d8
+SHA256: 265847f7f69a14cc6a9bb4695232b7615cc27187ead2d5ce2fd23cc6a1b0a466
 Section: 微信插件
-Description: 致力于将市面上没有的一些功能集成在一个插件里（开发中....主要目的是让付费群的群友集思广益，把大家手里某个插件内只开一两个功能的插件，集合到这个插件内，外加目前没有的实用功能，让大家都用得舒服且实用。qq1772773799
+Description: 致力于将市面上没有的一些功能集成在一个插件里（开发中....主要目的是让付费群的群友集思广益，把大家手里某个插件内只开一两个功能的插件，集合到这个插件内，外加目前没有的实用功能。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
@@ -11463,18 +11464,17 @@ Name: WeChatX
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatX.json
 
 Package: com.wkk.WeChatX
-Version: 1.4-6
-Architecture: iphoneos-arm64e
+Version: 1.4-21
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.WeChatX_1.4-6_iphoneos-arm64e.deb
-Size: 1846
-MD5sum: c5466230451777deab501c85e7ab5566
-SHA1: c709596a7de140e0bd5fa1dd4711f95828278c10
-SHA256: b49f571fd7a34ae79af68c0b929d5fc9956ef2c04959a47d38a0203d2e1f6f39
+Filename: ./debs/com.wkk.WeChatX_1.4-21_iphoneos-arm64.deb
+Size: 1096
+MD5sum: 6e73dbd555571774c3490d75949a906c
+SHA1: 90d65b7c8448a627b6f49352c62c24d6c0423d7c
+SHA256: 033ce5461745830142c026db3f7f6e935894df1142237930ba8a463620e61c3c
 Section: 微信插件
-Description: 致力于将市面上没有的一些功能集成在一个插件里（开发中....主要目的是让付费群的群友集思广益，把大家手里某个插件内只开一两个功能的插件，集合到这个插件内，外加目前没有的实用功能，让大家都用得舒服且实用。qq1772773799
+Description: 致力于将市面上没有的一些功能集成在一个插件里（开发中....主要目的是让付费群的群友集思广益，把大家手里某个插件内只开一两个功能的插件，集合到这个插件内，外加目前没有的实用功能。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
@@ -11658,39 +11658,39 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA插件配置说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.3-0
+Version: 1.3-3
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-0_iphoneos-arm64.deb
-Size: 1812
-MD5sum: fb329d680522f31f239f3a3b6f968366
-SHA1: 51b3370668776c9e906fb0f3a8c5481fd485e077
-SHA256: 6d6bb70021fb6b4d1d40873b2252f970084171b79e4169c83e0660a48acb29fe
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-3_iphoneos-arm64.deb
+Size: 1340
+MD5sum: 73003e79ca109ede29af624c228490e8
+SHA1: 9e925a34101c8ba8aba1489b4ece4af53dc60b6f
+SHA256: e6de07699c5d721503f757001450082f5361a86bef6a9118fc369ef9b72b57cd
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 （另外说一下，最近被破解的floatingView分屏插件，如果觉得好用，真心可以支持一下作者，毕竟是作者的心血，而且我们应该全民抵制这种破解的老鼠屎，如果没有好的开发者给我们开发插件，那么以后就没有人再写插件了，难道每一个越狱的玩家都要花大量的钱财去做私人订制？玩得起？如果没有人站出来说话，那么越狱圈永远都是被这种老鼠屎搅成一锅粥。你买一个插件，买的并不是一个物品，你买的是一个圈子，一个沟通的桥梁。近朱者赤，近墨者黑，这句话我一直相信，当然了，谁站出来说话，谁就会被骂，如果永远没有人站出来说话，那么老鼠屎们永远会猖獗下去，即使一直背负骂名，我也会永远抵制这种老鼠屎的存在）
+Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 一些想说的话
+Name: 付费群公告
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.3-0
+Version: 1.3-3
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-0_iphoneos-arm64e.deb
-Size: 3414
-MD5sum: d1fd652a16c0f3c8e33d4eda8fd2bd83
-SHA1: dcda5fc84415ed37869f311a94ce08f03fd11a87
-SHA256: 7b155f11afc08961a4bedccfefdf0cd89b816c7ca95c7adaef8eb1a095822843
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-3_iphoneos-arm64e.deb
+Size: 2316
+MD5sum: 5f63df0e480863ab93e15cc989165a7b
+SHA1: 128df583bf495f256f9ca87b4aff42a42b75b057
+SHA256: ca88c8d22c3e77a59156f49ed7481f5df13c657cbecd2f45880afc681ae1d574
 Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799 （另外说一下，最近被破解的floatingView分屏插件，如果觉得好用，真心可以支持一下作者，毕竟是作者的心血，而且我们应该全民抵制这种破解的老鼠屎，如果没有好的开发者给我们开发插件，那么以后就没有人再写插件了，难道每一个越狱的玩家都要花大量的钱财去做私人订制？玩得起？如果没有人站出来说话，那么越狱圈永远都是被这种老鼠屎搅成一锅粥。你买一个插件，买的并不是一个物品，你买的是一个圈子，一个沟通的桥梁。近朱者赤，近墨者黑，这句话我一直相信，当然了，谁站出来说话，谁就会被骂，如果永远没有人站出来说话，那么老鼠屎们永远会猖獗下去，即使一直背负骂名，我也会永远抵制这种老鼠屎的存在）
+Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 一些想说的话
+Name: 付费群公告
 
 Package: com.wkk.aaaaaaaaaaa222338888
 Version: 1.1-0
@@ -15307,15 +15307,16 @@ Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.
 Name: DNDMyRecording
 
 Package: com.wkk.dockasss
-Version: 1.0-4
-Architecture: iphoneos-arm64
+Version: 1.0-7
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.dockasss_1.0-4_iphoneos-arm64.deb
-Size: 1024
-MD5sum: de0cb1c59238ee09c509e6617398cd89
-SHA1: 0602e497e03b3b010f54911b78740f7d056b4eec
-SHA256: 4cd83876341b1f186d20231e083ac28c27f1c4bce1d05f5cd21375b31f424c01
+Filename: ./debs/com.wkk.dockasss_1.0-7_iphoneos-arm64e.deb
+Size: 1586
+MD5sum: c92759d4fd56ceebafcd7ab43e4d53c6
+SHA1: 3b63acc833da07129804cb986b0512cc52e96798
+SHA256: 5b5ba55558e06d5657c42e94a4fae1fd58bf8783fbdc7904fdab8f1a2941a337
 Section: Tweaks
 Description: Dock栏单独倒影美化插件，无需滑雪板，支持SnowBoard映射图标/巨魔或第三方app更换图标/支持apptools、appdata更换图标、不支持iPad悬浮dock，付费群使用。
 Tag: cydia::commercial
@@ -15324,16 +15325,15 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: Dock栏倒影（超清、高斯模糊）
 
 Package: com.wkk.dockasss
-Version: 1.0-4
-Architecture: iphoneos-arm64e
+Version: 1.0-7
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.dockasss_1.0-4_iphoneos-arm64e.deb
-Size: 1594
-MD5sum: 736274798fe477eb16aeebc54e8444af
-SHA1: adec4bdba82a3c8fa1264d172d38cc8bbf7c29b5
-SHA256: c9011388cb239018ead2e6152030bb42fbc0a2001ccf6ea4194593570beebcc1
+Filename: ./debs/com.wkk.dockasss_1.0-7_iphoneos-arm64.deb
+Size: 1020
+MD5sum: 2ad20e7d6a1c4d27e96e3294758345a7
+SHA1: e40cbd8b964df5d261dabf66fddd204d8637dcda
+SHA256: 8d175d905193b7201677d9d7f790974f4d2b03a7cccaf5e8657851f6a4bb183d
 Section: Tweaks
 Description: Dock栏单独倒影美化插件，无需滑雪板，支持SnowBoard映射图标/巨魔或第三方app更换图标/支持apptools、appdata更换图标、不支持iPad悬浮dock，付费群使用。
 Tag: cydia::commercial
@@ -17588,35 +17588,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: 长按锁屏呼出手电筒
 
 Package: com.wkk.fytzssssss
-Version: 1.0-1
-Architecture: iphoneos-arm64e
+Version: 1.0-2
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.fytzssssss_1.0-1_iphoneos-arm64e.deb
-Size: 1510
-MD5sum: deb389ab0b3709e371201be9779eb6f4
-SHA1: a19263ef38103a9614715fd0889299e8e02352e9
-SHA256: af881d99a80ec547dde4296adedea41583e7110d000d3343aa57df95d6d91bd9
+Filename: ./debs/com.wkk.fytzssssss_1.0-2_iphoneos-arm64.deb
+Size: 960
+MD5sum: 314a85ca1cef17e2fee911d68bba8474
+SHA1: dc256aea9759ea8b9cb098e9ac46e4544f08012d
+SHA256: 0282deaa3f913f7071e3bf3917b88a6babb470d2a1bc155157f35a6270ae9f87
 Section: Tweaks
-Description: 打开app以iPad形式动画展开。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Description: 打开app以iPad形式动画展开，付费群使用（不止这一个插件，具体可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: IPadAnimation
 
 Package: com.wkk.fytzssssss
-Version: 1.0-1
-Architecture: iphoneos-arm64
+Version: 1.0-2
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.fytzssssss_1.0-1_iphoneos-arm64.deb
-Size: 984
-MD5sum: b1f548765a2bae04f4d5710afb9e3b55
-SHA1: a6947b420e8a449e4b2152e52373f0f025e90bfd
-SHA256: e9d2b4e57d821b336a99d23729714b35c1818bd1b1e5db09d5d95eee2d63997b
+Filename: ./debs/com.wkk.fytzssssss_1.0-2_iphoneos-arm64e.deb
+Size: 1446
+MD5sum: 4668a52d350d14341e0589b5bb74b63f
+SHA1: 67f6a7c59e9cd6a716f781c6171b004d12ccd376
+SHA256: 25499f018410c7389c9baf86c44f0a92b7087181a3d91d664a914fc71d5c7dbd
 Section: Tweaks
-Description: 打开app以iPad形式动画展开。详情可以加QQ1772773799看效果图，付费群使用（不止这一个插件 具体可以看源里进群详情）
+Description: 打开app以iPad形式动画展开，付费群使用（不止这一个插件，具体可以看源里进群详情）
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
@@ -19109,16 +19109,15 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: KeyboardHook
 
 Package: com.wkk.keyround
-Version: 1.0-7
-Architecture: iphoneos-arm64e
+Version: 1.0-8
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.keyround_1.0-7_iphoneos-arm64e.deb
-Size: 1634
-MD5sum: e7b6db4491def46c615ea9c303126323
-SHA1: cee9c5745c5b3baa952400ece94d889d4c75996d
-SHA256: e662de888f89eac47be8dea3e02a03b9997910c267649a7d4238c5fd9e1931c1
+Filename: ./debs/com.wkk.keyround_1.0-8_iphoneos-arm64.deb
+Size: 1032
+MD5sum: b9a735081cd42c9dc58950499203ee60
+SHA1: 3b7fa2271bee39a80aa615e5c6ab6c193f80f327
+SHA256: c5dffbdc49d3577404b77236c017d41a238e10ed5e696ead914076acd95df5f5
 Section: Tweaks
 Description: 全输入法（任意输入法）的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）付费群使用。
 Tag: cydia::commercial
@@ -19127,15 +19126,16 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: 全输入法圆角
 
 Package: com.wkk.keyround
-Version: 1.0-7
-Architecture: iphoneos-arm64
+Version: 1.0-8
+Architecture: iphoneos-arm64e
 Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.keyround_1.0-7_iphoneos-arm64.deb
-Size: 1032
-MD5sum: 3e80dd152d00c89ac3bad4d2bfc43ffb
-SHA1: ac2a564e988759caa7c997149b0af57bd9bcc5d2
-SHA256: d4e88471abd998fedbce95bf93292f6c28d9a3fbb46ebdc424278c9f87db999b
+Filename: ./debs/com.wkk.keyround_1.0-8_iphoneos-arm64e.deb
+Size: 1646
+MD5sum: c58ff081f68f04ecb63c71608374e9f6
+SHA1: 79c969e21d74bbc657d1e03284bdb148b144b814
+SHA256: 25434d5ecf7b55e26932b1aa00ed311476add236c2dcf5d63fce044bced7bbe0
 Section: Tweaks
 Description: 全输入法（任意输入法）的圆角插件，可附加微信输入法和系统键盘输入法键帽的圆角度数，专属私人订制，打造你独一无二的键盘（处理场景：竖屏、横屏、分屏 皆可圆角）付费群使用。
 Tag: cydia::commercial
