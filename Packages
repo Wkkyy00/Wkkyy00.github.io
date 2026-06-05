@@ -24839,6 +24839,57 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Beautifulwindow
 
+Package: com.wkk.unseen
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.wkk.unseen_0.0.1_iphoneos-arm64.deb
+Size: 42904
+MD5sum: 6c8a96648f4c5d6461146f3c3e8ec3b5
+SHA1: 1fe0785b9869182fb621a00afbdf4adc0eae2be4
+SHA256: e226570c730f35fb023f0b7ee2ceac44dc2439bb2369e56d2505cafa99ea47ba
+Section: Tweaks
+Description: Unseen 是一个用于降低普通 App 对截图、录屏和隐藏图层标记的感知与干扰，在 iOS 15.0/16.x/18.3 上测试通过，支持 arm64/arm64e 设备。
+Author: 82flex
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Unseen
+
+Package: com.wkk.unseen
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.wkk.unseen_0.0.1_iphoneos-arm64e.deb
+Size: 42832
+MD5sum: 54419014b4bba8afef848b3aaf4d8fc5
+SHA1: 3e6f05be5cd994755f6ba229116236fcda5da2a5
+SHA256: f4f697ddf3097029e4964f841ad72c7ff000341d24d0aef4396b9581a3cbd09b
+Section: Tweaks
+Description: Unseen 是一个用于降低普通 App 对截图、录屏和隐藏图层标记的感知与干扰，在 iOS 15.0/16.x/18.3 上测试通过，支持 arm64/arm64e 设备。
+Author: 82flex
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Unseen
+
+Package: com.wkk.unseen
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.wkk.unseen_0.0.1_iphoneos-arm.deb
+Size: 42844
+MD5sum: d2dbdd9a9831d6060fe2e4f0f2cfbb3d
+SHA1: f0157dcb586ea34e9091c1597c339172f692515e
+SHA256: 475cc5f46e5a422505ee6abc2ee3e82ecd71992dd0ab835948e98ea796447f93
+Section: Tweaks
+Description: Unseen 是一个用于降低普通 App 对截图、录屏和隐藏图层标记的感知与干扰，在 iOS 15.0/16.x/18.3 上测试通过，支持 arm64/arm64e 设备。
+Author: 82flex
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Unseen
+
 Package: com.wkk.upsidedowned
 Version: 1.1-4
 Architecture: iphoneos-arm64
