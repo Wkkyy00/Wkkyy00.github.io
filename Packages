@@ -18704,6 +18704,40 @@ Author: be-huge/灰灰
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: insulation
 
+Package: com.wkk.insulation
+Version: 0.1.31
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 628
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.wkk.insulation_0.1.31_iphoneos-arm64e.deb
+Size: 50524
+MD5sum: 1a928b70832c8b0093182bd85680e74e
+SHA1: b880f07b3f6cbc72415ee86fa42fdad1befff52a
+SHA256: 001f739496bfc4e5014dfd29645682e7d6eaeb732e4b6c34b31daf2b83320baa
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Author: be-huge & doimty
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: insulation
+
+Package: com.wkk.insulation
+Version: 0.1.31
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 628
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.wkk.insulation_0.1.31_iphoneos-arm64.deb
+Size: 53104
+MD5sum: c85fde1d3a3f5ea03ce5f546f6368033
+SHA1: 28d4ba09701cdd9f6e7de84aef1aec607b02ad93
+SHA256: b30ae5fbc3f549b335d94e53ec847808fa18b9c2a0e4e0d956a7f8f87018a286
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Author: be-huge & doimty
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: insulation
+
 Package: com.wkk.ios26kbhook
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -25519,12 +25553,12 @@ Maintainer: wkk
 Installed-Size: 1416
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.5-1_iphoneos-arm64.deb
-Size: 312128
-MD5sum: d5e4100641ef060e6e6c6870c874d10b
-SHA1: 138a37b1f5c2c0263b33afde223ff5cd2cacb896
-SHA256: d0cb5ada5e1a6ee2c57763a4fb9bbb47472a062cbdb7cff32cf38f3faac82cc4
+Size: 310748
+MD5sum: 102bc1634ed1571f5c56c4187309277c
+SHA1: 7aa31b35d3f30b49d7e6f1eee9f4f0c4f60668df
+SHA256: 75048ae01b217ae2dec5c8b54587a7629a738db098a10240e9cfb030755dba6d
 Section: 微信插件
-Description: 付费群插件免费开放，如果你想往里增加自己想要的功能，如果你想和我建立一个沟通的桥梁，联系我进付费群QQ1772773799（如果你发现某些bug，说明你用的有些插件太老了，没有人维护，请嘴下留情）
+Description: （修复若干bug 版本号不变）付费群插件免费开放，如果你想往里增加自己想要的功能，如果你想和我建立一个沟通的桥梁，联系我进付费群QQ1772773799，不止这一个插件！！（如果你发现某些bug，说明你用的有些插件太老了，没有人维护，请嘴下留情）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
@@ -25536,12 +25570,12 @@ Maintainer: wkk
 Installed-Size: 1416
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.5-1_iphoneos-arm64e.deb
-Size: 312696
-MD5sum: 6d9c8c4d096490bf22e681632d96c3ae
-SHA1: b10412cf08bea750721730287c45cf794d2c588d
-SHA256: 3bc187473a4c906d0d26b2bae0d7df65528bc271227246bba24bed2d6e7f0864
+Size: 309760
+MD5sum: 91af7905edf2e484879b003f1aa8fd54
+SHA1: b2257ff236d97661b3766034d1262b7dd70e8c6b
+SHA256: 85807894c04c7bb782ca741255a8021cc1c136166603e84f73e7be39006a6d84
 Section: 微信插件
-Description: 付费群插件免费开放，如果你想往里增加自己想要的功能，如果你想和我建立一个沟通的桥梁，联系我进付费群QQ1772773799（如果你发现某些bug，说明你用的有些插件太老了，没有人维护，请嘴下留情）
+Description: （修复若干bug 版本号不变）付费群插件免费开放，如果你想往里增加自己想要的功能，如果你想和我建立一个沟通的桥梁，联系我进付费群QQ1772773799，不止这一个插件！！（如果你发现某些bug，说明你用的有些插件太老了，没有人维护，请嘴下留情）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
