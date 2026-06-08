@@ -28156,6 +28156,57 @@ Author: iosdump
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Zone
 
+Package: com.wkk.zone
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.zone_1.0.1_iphoneos-arm64e.deb
+Size: 153348
+MD5sum: 4e9ca4262a498e5c3fe59067e085d571
+SHA1: 73b95b6ef8093bac482e8125abb2e6299295a809
+SHA256: 3a79a5bd7d7c3ca93f7a6ca7cc27a19814d2ca2c5b2a88ec6ce6f7e9ef876c52
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Zone
+
+Package: com.wkk.zone
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.zone_1.0.1_iphoneos-arm64.deb
+Size: 153416
+MD5sum: fe2cc38008f8cc62eb73562978150958
+SHA1: 941e38b542be2f4321354b90eb14436852720635
+SHA256: f990fe9ba8dad52b49fca497ee9f22738d5b967aa80324a5586eba1c8edc48bb
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Zone
+
+Package: com.wkk.zone
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.zone_1.0.1_iphoneos-arm.deb
+Size: 153884
+MD5sum: c8e4275e6adec3b0168a856d06f0e384
+SHA1: cef9708cd9ff230e11e74437aadb1747bb0acd32
+SHA256: f5f4a81989f431dc4b003238ddb90e1001ff7511616065174cdd2a3218ae4918
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Zone
+
 Package: com.wkk.zslmhook
 Version: 1.0
 Architecture: iphoneos-arm64
