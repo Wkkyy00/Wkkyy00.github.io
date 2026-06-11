@@ -25772,15 +25772,15 @@ Package: com.wkk.wechatx
 Version: 1.5-3
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 2064
+Installed-Size: 2112
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.5-3_iphoneos-arm64.deb
-Size: 448750
-MD5sum: a6ed9a1ff5f5021d81a96ffe9106a998
-SHA1: 46b7098b25e6c34ab476e9a07362f9d940627709
-SHA256: 0f0e97a7897a0e82672454d0d992f65108b4f11d1791f247dd0410884860c5f2
+Size: 458896
+MD5sum: 19a246f3bcb798c0f7c38f6e71a22901
+SHA1: f36cb7fd23d83318a5c3f654fc996454e773d6d3
+SHA256: 9ad837e80a82deb5226a57bff2515b7abe392133ebe2e96a6ff3a8c2c950f521
 Section: Tweaks
-Description: cool
+Description: 拥有一个你的“私人定制”的WeChat插件，感谢群友们的骚点子，部分功能需进群使用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
@@ -25789,15 +25789,15 @@ Package: com.wkk.wechatx
 Version: 1.5-3
 Architecture: iphoneos-arm64e
 Maintainer: wkk
-Installed-Size: 2064
+Installed-Size: 2112
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.5-3_iphoneos-arm64e.deb
-Size: 449810
-MD5sum: 1d8acd62f567a4fd0d80266faeabe7c4
-SHA1: 4fe302be6c1d78c327e4e3d0d10ada0a9d1a5a30
-SHA256: d482f8e29d748fae718d487fe661d74096fd99772e4a46da2cdd315dc6fae947
+Size: 460744
+MD5sum: 262d3d8e265252f09515aee9fd4baa2a
+SHA1: 2bd83da3cbe2be6c891a9641b072fe386bf418c6
+SHA256: 2af7079eb6d35d1683093664d9ba31bcc981a18dbb0629820c2a65f06cd5e0ca
 Section: Tweaks
-Description: cool
+Description: 拥有一个你的“私人定制”的WeChat插件，感谢群友们的骚点子，部分功能需进群使用。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
