@@ -18511,6 +18511,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
 
+Package: com.wkk.iconxxxxxxsf
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf_1.0-7_iphoneos-arm64.deb
+Size: 904
+MD5sum: 0ef770a318725163f5986319fd957db9
+SHA1: b0a29ec42b7e5a6f58bb116b578f113669c7bb81
+SHA256: b1a11de72abc3c67c41f3fa1113bbb9c5f9789834a1fee59297b5da8cf1e53ac
+Section: Tweaks
+Description: 带设置项，可自由选择，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 图标缩放
+
+Package: com.wkk.iconxxxxxxsf
+Version: 1.0-7
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf_1.0-7_iphoneos-arm64e.deb
+Size: 1320
+MD5sum: f9fc0ebca54af03858ae3e745433f65c
+SHA1: 19d1b59c1810dbd8a625640ad1ef3eaadd8bd99b
+SHA256: 85fa52b521520892cc195755713e01447c0ce2cdd313b330ff0d15e133e9122e
+Section: Tweaks
+Description: 带设置项，可自由选择，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 图标缩放
+
 Package: com.wkk.imaotai
 Version: 0.0.2
 Architecture: iphoneos-arm64e
