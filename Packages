@@ -26322,6 +26322,58 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/02/01/48e983d1701766cc8c84c7edf962c359.png
 Name: 隐藏微信输入法logo
 
+Package: com.wkk.wxqzgz
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 208
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wxqzgz_0.0.1_iphoneos-arm64e.deb
+Size: 74316
+MD5sum: d96b861dd91d21ec6aa1fb45becc9796
+SHA1: 71348be73ece5e2d9cbf6facc73b735d97b6373d
+SHA256: c14424ecda9606e30b7c4f3d796b0aec64d23cf29bd58fba88a9bd4246a0fc1e
+Section: 微信插件
+Description: 强制关注微信公众号。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信公众号强制关注
+
+Package: com.wkk.wxqzgz
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wxqzgz_0.0.1_iphoneos-arm.deb
+Size: 53016
+MD5sum: 1dd3ef22482378188cabb881d9f6813f
+SHA1: 69523097604b099bb2ac30061618b99454dc64e7
+SHA256: c7e548af498cb8579578514b3005888d237f0a590d975046a348b989f5515395
+Section: 微信插件
+Description: 强制关注微信公众号。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信公众号强制关注
+
+Package: com.wkk.wxqzgz
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.wxqzgz_0.0.1_iphoneos-arm64.deb
+Size: 53200
+MD5sum: 56c33e4b3da9e9906fc1b67fced547b6
+SHA1: d281db92230e86891dabe41d7318a110266dfb7b
+SHA256: e696d1c72b8980fc995e1b2c2e9b90b5ddf99b08e357a7b2ff57e2e97385165c
+Section: 微信插件
+Description: 强制关注微信公众号。
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信公众号强制关注
+
 Package: com.wkk.wxurlexpand
 Version: 0.2-0
 Architecture: iphoneos-arm64e
