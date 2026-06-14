@@ -25905,6 +25905,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
 
+Package: com.wkk.wechatx
+Version: 1.5-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.5-6_iphoneos-arm64.deb
+Size: 482426
+MD5sum: 0fbb4989714f90d585ecfe7956579369
+SHA1: b71563c7cd75895915cf26b8b0942e690b836fab
+SHA256: 1960165796c525360791de55bf2181843ac4b431dae5850ad35b3193e53f996c
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.5-6
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 2212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.5-6_iphoneos-arm64e.deb
+Size: 481844
+MD5sum: dc9f6ddd65fe4ae535fdb2d02defb052
+SHA1: f8fa1c86b72b55f23f825433fd71d8e7ecc86f55
+SHA256: 5698bbbf631ca3307d21bcd4bef70513cbd2a7ed7331c796b0c035bf806d19c0
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
 Package: com.wkk.weibohook
 Version: 1.0
 Architecture: iphoneos-arm64e
