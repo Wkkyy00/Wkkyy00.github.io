@@ -18598,6 +18598,76 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 图标缩放
 
+Package: com.wkk.iconxxxxxxsf99
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf99_1.0-1_iphoneos-arm64e.deb
+Size: 1268
+MD5sum: 5e8357773d3829d93bbb8e12f983e5c4
+SHA1: f819815f49cac3732d350a847857aa4cc7b80de2
+SHA256: b1a314938a8b7384e371d592f7187e997b7f44ee3ed860e4bb005ddbd1920563
+Section: Tweaks
+Description: 付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键录屏
+
+Package: com.wkk.iconxxxxxxsf99
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf99_1.0-1_iphoneos-arm64.deb
+Size: 880
+MD5sum: 1eddad14ecfb2b6a21b18c32e11ccf03
+SHA1: f2b370fadf5efaf7f9ee2b25157fc0b8da61c355
+SHA256: 4762628ef80bcaf4f9a33abc1043c9de1dbe8ee844bbd7448aa734e28d15fe28
+Section: Tweaks
+Description: 付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键录屏
+
+Package: com.wkk.iconxxxxxxsf9988
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf9988_1.0-1_iphoneos-arm64e.deb
+Size: 1474
+MD5sum: 706daf7939f7fc5a4889562646549146
+SHA1: ca33c5d5ba4804daa279a2b0009caee42e068fdb
+SHA256: 78f4911d3c51c0aec0e29c197858e2ef7222b4d3b5622a7d54a10f244a84fb02
+Section: Tweaks
+Description: 对打游戏的人会友好，火力全开，帧数拉满，不会保存录入视频，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键假录屏
+
+Package: com.wkk.iconxxxxxxsf9988
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsf9988_1.0-1_iphoneos-arm64.deb
+Size: 956
+MD5sum: 077c1c81ee8449b15e6af8c5270bd1cc
+SHA1: 059f41accf401ccd8f9d2ac510908245446a2f58
+SHA256: a92d60b21f524abadff308761cea6eeccb5256163c1b2999fcead130ab2e29ec
+Section: Tweaks
+Description: 对打游戏的人会友好，火力全开，帧数拉满，不会保存录入视频，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 长按锁屏键假录屏
+
 Package: com.wkk.imaotai
 Version: 0.0.2
 Architecture: iphoneos-arm64e
