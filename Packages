@@ -25856,16 +25856,16 @@ Icon: https://s1.imagehub.cc/images/2025/01/09/173b823a03cbe3c3d5342c56736f52cd.
 Name: WeChatUISwitchLoader
 
 Package: com.wkk.wechatx
-Version: 1.5-8
-Architecture: iphoneos-arm64e
+Version: 1.5-8+1
+Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 2068
+Installed-Size: 2084
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.wechatx_1.5-8_iphoneos-arm64e.deb
-Size: 465780
-MD5sum: 967853c634dbd69b9c2e2053f73814a2
-SHA1: a2f02f997a92c2aefa31776405358901da831b25
-SHA256: ed5fb7c73c56aaf58732d9a9ea43e15ba6cf612893692e0409aec28177c7f3c9
+Filename: ./debs/com.wkk.wechatx_1.5-8+1_iphoneos-arm64.deb
+Size: 471528
+MD5sum: 6d92560dfb48c2d2302634b0bece19a2
+SHA1: ce949eec374fb8e2a247a9e65062fa001b285b19
+SHA256: 884977f25de191994cc76ab73a640a5c7aa154e837a85c9c777b4db73e8a905a
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
@@ -25873,16 +25873,16 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChatX
 
 Package: com.wkk.wechatx
-Version: 1.5-8
-Architecture: iphoneos-arm64
+Version: 1.5-8+1
+Architecture: iphoneos-arm64e
 Maintainer: wkk
-Installed-Size: 2068
+Installed-Size: 2084
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.wechatx_1.5-8_iphoneos-arm64.deb
-Size: 466316
-MD5sum: 8d821f4f4c587561117f7ac5d22747d4
-SHA1: 71a767b29adecf859cbfe222ee3e7afbdf5389c3
-SHA256: b4515f422150460043234fde333e69f982b8b4a7a6dff627f2fde0463e900463
+Filename: ./debs/com.wkk.wechatx_1.5-8+1_iphoneos-arm64e.deb
+Size: 471880
+MD5sum: cb2efa957282276e1812bedaa86a5af4
+SHA1: 5f7cd33e66886e67b6f50408784d4db97b684d7f
+SHA256: 43e4db7e3d4f751a627375af385d89b02cfe87af122e65360b1de7c974ddf1d3
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
