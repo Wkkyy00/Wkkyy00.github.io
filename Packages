@@ -19273,6 +19273,57 @@ Author: iosdump
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: JumpSelect
 
+Package: com.wkk.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_1.0.0_iphoneos-arm.deb
+Size: 60812
+MD5sum: 08cac82ab681bcbbc38ddf621aa056f9
+SHA1: 5dce96a6ac87608a45088635fc7e8fe74cb7052a
+SHA256: 360dc8353f698798d5de742550bcc0ed1d731c16f50ea5b94a32034c816abf05
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
+Package: com.wkk.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_1.0.0_iphoneos-arm64.deb
+Size: 60864
+MD5sum: cf49e7325d44d71ba693a5a7132d0f06
+SHA1: a12680156829d218632c5f3b3782c3abc52a83be
+SHA256: aa2edb4f02195558286b9dd3d3c5a66f68c44393149686272a2495b50a9944fb
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
+Package: com.wkk.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.jumpselect_1.0.0_iphoneos-arm64e.deb
+Size: 59796
+MD5sum: e5aa64495a7e1abfc2774a8a24f374d9
+SHA1: 3b79a771fc4771d4a0e9cfd0e24e4fa3fd01ad3f
+SHA256: 0bf66062221c34df474854782a1bdc47b98ac396fa35faa3e61a191c688169cb
+Section: Tweaks
+Description: iOS 14-17 App跳转拦截重定向选择器。
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: JumpSelect
+
 Package: com.wkk.kaiguan
 Version: 1.0-1
 Architecture: iphoneos-arm64e
