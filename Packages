@@ -26145,6 +26145,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: WeChatX
 
+Package: com.wkk.wechatx
+Version: 1.6-12
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 3668
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.6-12_iphoneos-arm64e.deb
+Size: 946582
+MD5sum: 63e8c5e432bb53d0c3f5141addc19ab4
+SHA1: 31e1fb0b95d45e516544773608f24eef9ef6177f
+SHA256: 2d86dfbe4cf7f9446a36688796b60e92d5587ee4c824566d68c828cd24362162
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 1.6-12
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 3668
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_1.6-12_iphoneos-arm64.deb
+Size: 946116
+MD5sum: ea97a9d4568f4269432c6fb878a2630f
+SHA1: c681964329285e49a0d265684991c7f4e782533a
+SHA256: a1a6c711ac1fa701cc50d456f1eb107ccc20d1b85a626e1d26fba7f70901e5a7
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
 Package: com.wkk.weibohook
 Version: 1.0
 Architecture: iphoneos-arm64e
