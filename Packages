@@ -12584,6 +12584,58 @@ Author: Fouad Raheb
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AppData
 
+Package: com.wkk.appdata.iosdump
+Version: 2.2.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.2.0_iphoneos-arm64e.deb
+Size: 365966
+MD5sum: 42bea654df0d14621d35283639940460
+SHA1: 7e1949d02aa3d30f781350d62e53f7d74752e2bc
+SHA256: 9cf4ad9b6ce0ce75cd70aaff9c9cb9f96bb8ab059b9f842c0e4ed131cc1964d4
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.2.0_iphoneos-arm64.deb
+Size: 263484
+MD5sum: 35c2cc5f71aa0ec6718f3bee75b33845
+SHA1: 3f5dd84c20eaabeb9473ae1adfe704c348a39222
+SHA256: 47ed1ae39788898bd64e3168b3cf50f5ac6ace477f50ba5b61bf970f370b4264
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.2.0_iphoneos-arm.deb
+Size: 263948
+MD5sum: cdd7892e3d3544a04fe927ac1cda7205
+SHA1: 6d4fe8020673b807f403b3d5e355e8f6e9185cf0
+SHA256: c2776083cfa8efcf89550759a65be4664a28597f3a357904628caa11f5c007de
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
 Package: com.wkk.apppad
 Version: 1.1.3
 Architecture: iphoneos-arm64
@@ -29342,5 +29394,28 @@ Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/newterm-beta
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.newterm33
+Version: 3.0~beta1-2048
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 25736
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/ws.hbang.newterm33_3.0~beta1-2048_iphoneos-arm64e.deb
+Size: 5356620
+MD5sum: 497d240dc6b36fbbd611bc96f89a0311
+SHA1: 15279ed9eb73d095d2c9b06fd9fe0ccdef962cc3
+SHA256: 66d3d042e5b059b4cb0414122717ead9232d33710ba119697f44674e96b09fea
+Section: Terminal Support
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta汉化版
 Support: https://hashbang.productions/support/
 
