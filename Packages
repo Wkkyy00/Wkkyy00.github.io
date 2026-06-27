@@ -18369,6 +18369,57 @@ Author: Nightwind
 Icon: https://sini921.github.io/repo/sileodepiction/icon/horizontalsliders.png
 Name: HorizontalSliders
 
+Package: com.wkk.hotaiqingli
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.hotaiqingli_0.0.2_iphoneos-arm.deb
+Size: 24624
+MD5sum: f3c3cf85c9bb9f0797407750d511b6d3
+SHA1: 5c2f9ce4ca8f3690eec11f026462830835e1cc89
+SHA256: c8888fe1273e4ba9366af1c9affd3f1488f0ad82f3c7ff9b58e9574f65204dac
+Section: Tweaks
+Description: 后台一键清理，无设置，可下拉锁定。支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 后台一键清理
+
+Package: com.wkk.hotaiqingli
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.hotaiqingli_0.0.2_iphoneos-arm64.deb
+Size: 24684
+MD5sum: 6cd7af4af2686cb0267e4e9d0e3e186b
+SHA1: 5156da2ac51e7b73205621700ad807bfd189a959
+SHA256: 21d165282d891949b03abff62907933f59271cc4a0ab1d00cd535e5833e92538
+Section: Tweaks
+Description: 后台一键清理，无设置，可下拉锁定。支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 后台一键清理
+
+Package: com.wkk.hotaiqingli
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.hotaiqingli_0.0.2_iphoneos-arm64e.deb
+Size: 24576
+MD5sum: cdb21645b08ded7f23cd6d92d34623e0
+SHA1: dfacc08d8560aa7c9bc76d845cbab7ff73ffbbd7
+SHA256: d2dd1e2e1c83240dabebe9417fb54752cd7e3af0acb52b2e101039605cbd1741
+Section: Tweaks
+Description: 后台一键清理，无设置，可下拉锁定。支持iOS14-17
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 后台一键清理
+
 Package: com.wkk.hphook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -26235,13 +26286,13 @@ Package: com.wkk.wechatx
 Version: 1.7-2
 Architecture: iphoneos-arm64e
 Maintainer: wkk
-Installed-Size: 4864
+Installed-Size: 4884
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.7-2_iphoneos-arm64e.deb
-Size: 1144870
-MD5sum: 4b998fda5a8cf7f5c9f6fa9ac04317c2
-SHA1: dc124b588174f3a2eb97e2e769ef44812b54b761
-SHA256: 7138366e220a2c10cfe3e100bfec2f2891af8a1903650f3d92466ed4e5358669
+Size: 1150832
+MD5sum: 094c8d07f495de6c183779305d0a7ba6
+SHA1: 89d3c9a2cf5ffc2b48cc2304bec1f8ade01650c9
+SHA256: cf648efe9748b3a942ff9c58405df0d67df2917b33ef462c5cd1bcb2676023f0
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
@@ -26252,13 +26303,13 @@ Package: com.wkk.wechatx
 Version: 1.7-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 4864
+Installed-Size: 4884
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.7-2_iphoneos-arm64.deb
-Size: 1143556
-MD5sum: 11b7e9cb8dcd8513d5c78c4ac1a50ce2
-SHA1: 81e9d8c7304e04c194ad7b5486b580d4c47fb2a5
-SHA256: 6ffb396913abc205ebeb523e61503af739ed048944fb57c33cc4e4901bb5d165
+Size: 1150544
+MD5sum: 5b4b5c0358ce94a868d09798ab4515b4
+SHA1: f5fb8c6e0857cca77216dc0ddb1dd86a996b88d0
+SHA256: 974be16367789f3c99b7f30becdc18fa5dd606357f2b56683bc282b18ecf5d0d
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
