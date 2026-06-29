@@ -17132,6 +17132,40 @@ Author: korboy <korboybeats@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
 Name: FilzaSwipeSelect
 
+Package: com.wkk.flex
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Joshua Wheeler & wkk
+Installed-Size: 3020
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.flex_1.0-1_iphoneos-arm64.deb
+Size: 649844
+MD5sum: f2d2631df9d58975889b9dee0608b2d9
+SHA1: b45de709bd1045da810f115a549bec084951ad80
+SHA256: 2869762d4203335fb327f76680243136a88a811603b57cd009a6caa242565137
+Section: Tweaks
+Description: 一个好用的Flex改版，同时按住音量+和-呼出，长按类名即可复制类名，无设置项。
+Author: Joshua Wheeler & wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Flex
+
+Package: com.wkk.flex
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Joshua Wheeler & wkk
+Installed-Size: 3020
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.flex_1.0-1_iphoneos-arm64e.deb
+Size: 647744
+MD5sum: 42d0baee36b12f92f0dba38ceee6d46b
+SHA1: db70a6cc5b044431a233ba879761955829ea990c
+SHA256: 39b10710cc3d00fbbe4167348ed05af22c2cee6fd284f0fdcc2039f2f1069ee9
+Section: Tweaks
+Description: 一个好用的Flex改版，同时按住音量+和-呼出，长按类名即可复制类名，无设置项。
+Author: Joshua Wheeler & wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Flex
+
 Package: com.wkk.flex3beta
 Version: 1.0-1
 Architecture: iphoneos-arm64e
