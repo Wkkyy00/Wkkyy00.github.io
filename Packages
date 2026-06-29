@@ -9700,6 +9700,41 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
 Name: SquidExtender配置
 
+Package: com.wkk.Systemxxxxx
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.Systemxxxxx_1.0-2_iphoneos-arm64.deb
+Size: 968
+MD5sum: 6c38500f8cf8cdfa2db6001a214b0e20
+SHA1: 982d73ab437811071e9bf8d2b478dd4b1c8fdbd8
+SHA256: 530f50010aff836dc327cafe897b6f4c7e03850e33bac1150cd90ed9d377e0c1
+Section: Tweaks
+Description: 针对系统的增强与精简的集合插件，用来替代用电话助手或者nicebarx只开几个功能的群友，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统增强
+
+Package: com.wkk.Systemxxxxx
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: ./debs/com.wkk.Systemxxxxx_1.0-2_iphoneos-arm64e.deb
+Size: 1482
+MD5sum: fa1652a260fe9dd847a8de7af3df16cc
+SHA1: 84ed8d52f4668490e69c4da4309908c1b754aee4
+SHA256: 89aa75385455a3e9e85a70151968d9d80b2d9407b3612d496ab0a8a239ad411c
+Section: Tweaks
+Description: 针对系统的增强与精简的集合插件，用来替代用电话助手或者nicebarx只开几个功能的群友，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统增强
+
 Package: com.wkk.WCCC
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -19706,35 +19741,35 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: KeyboardHook
 
 Package: com.wkk.keyroundxxxx
-Version: 1.0-7
+Version: 1.1-1
 Architecture: iphoneos-arm64e
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: sudo
-Filename: ./debs/com.wkk.keyroundxxxx_1.0-7_iphoneos-arm64e.deb
-Size: 1562
-MD5sum: a045c38fa1bf6db5aa6ab11ad2fbb92e
-SHA1: f80c9a742ab8bc8ef1db3b88fa6aec8ee60e9b35
-SHA256: ea22bf01b82b051ced490638179a5b9152d6e067058f7dd5b4f042750fa84efe
+Filename: ./debs/com.wkk.keyroundxxxx_1.1-1_iphoneos-arm64e.deb
+Size: 1600
+MD5sum: 2ba43c964566088c7cde08af10570803
+SHA1: fa34a557a04bbecfe80ceac9fdcb20033db81ba8
+SHA256: e40cf9bd56d2f7364249fbf1408cb093cf1d7323a3a2d1e3881a10ed8d2cac02
 Section: Tweaks
-Description: 针对原生键盘与微信键盘输入法的调整：键盘圆角/键帽圆角/侯选词渐变/键帽放大/全输入法外部圆角/隐藏某碍眼位置等/后续可加更多调整，付费群使用。
+Description: 针对原生键盘与微信键盘输入法的调整：键盘圆角/键帽圆角/原生、微信侯选词渐变/微信键盘背景色/键帽放大/全输入法外部圆角/隐藏某碍眼位置等/后续可加更多调整，付费群使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 微信/原生键盘调整
 
 Package: com.wkk.keyroundxxxx
-Version: 1.0-7
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.keyroundxxxx_1.0-7_iphoneos-arm64.deb
-Size: 1008
-MD5sum: 2657599998246a157259cbf2c6b79f6a
-SHA1: a93935ea1225ceb9bba7e8420d4af8a169592d49
-SHA256: 9dec48a16f7e8d8aa3a133ece5560acc11e672476c8e03c603b5330acee3df20
+Filename: ./debs/com.wkk.keyroundxxxx_1.1-1_iphoneos-arm64.deb
+Size: 1028
+MD5sum: f81b61b3cb0bf5e528ea30e63c19fbcd
+SHA1: 050819a109ce369525f797495154afc26ba123f5
+SHA256: 13e9e877f8918ec0a44417e09ccaf6ddec56e0c1cd995222ad165d444dd75c95
 Section: Tweaks
-Description: 针对原生键盘与微信键盘输入法的调整：键盘圆角/键帽圆角/侯选词渐变/键帽放大/全输入法外部圆角/隐藏某碍眼位置等/后续可加更多调整，付费群使用。
+Description: 针对原生键盘与微信键盘输入法的调整：键盘圆角/键帽圆角/原生、微信侯选词渐变/微信键盘背景色/键帽放大/全输入法外部圆角/隐藏某碍眼位置等/后续可加更多调整，付费群使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
