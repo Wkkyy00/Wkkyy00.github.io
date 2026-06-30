@@ -9701,35 +9701,17 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.
 Name: SquidExtender配置
 
 Package: com.wkk.Systemxxxxx
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.Systemxxxxx_1.0-2_iphoneos-arm64.deb
-Size: 968
-MD5sum: 6c38500f8cf8cdfa2db6001a214b0e20
-SHA1: 982d73ab437811071e9bf8d2b478dd4b1c8fdbd8
-SHA256: 530f50010aff836dc327cafe897b6f4c7e03850e33bac1150cd90ed9d377e0c1
+Filename: ./debs/com.wkk.Systemxxxxx_1.0-3_iphoneos-arm64.deb
+Size: 1016
+MD5sum: 762cd3b692df737bb92d0d3eda23a018
+SHA1: 20df9851b4bce0c16b7875e90a928e1d0f9cb821
+SHA256: 8c56c4aea40d2c459e64f65d8dfee7ea1d97a4b1e13c28dccc61d86f45d874f1
 Section: Tweaks
-Description: 针对系统的增强与精简的集合插件，用来替代用电话助手或者nicebarx只开几个功能的群友，付费群使用。
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 系统增强
-
-Package: com.wkk.Systemxxxxx
-Version: 1.0-2
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo
-Filename: ./debs/com.wkk.Systemxxxxx_1.0-2_iphoneos-arm64e.deb
-Size: 1482
-MD5sum: fa1652a260fe9dd847a8de7af3df16cc
-SHA1: 84ed8d52f4668490e69c4da4309908c1b754aee4
-SHA256: 89aa75385455a3e9e85a70151968d9d80b2d9407b3612d496ab0a8a239ad411c
-Section: Tweaks
-Description: 针对系统的增强与精简的集合插件，用来替代用电话助手或者nicebarx只开几个功能的群友，付费群使用。
+Description: 新增运行中app指示点，全网目前还没有哈。针对系统的增强与精简的集合插件，用来替代用电话助手或者nicebarx只开几个功能的群友，付费群使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
