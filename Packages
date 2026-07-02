@@ -26478,10 +26478,10 @@ Maintainer: wkk
 Installed-Size: 3932
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.7-3_iphoneos-arm64.deb
-Size: 996192
-MD5sum: 939e252fe769ebeb1e32e21fdbb87ce5
-SHA1: a78ef538196ebf29f93fa6548c4ff573c0e8ece9
-SHA256: ea126847774a008b858799a8482c9be97bb3e0985b5abe6f9b02bd7bd63e37cf
+Size: 993914
+MD5sum: bc7aff75ef5352e2623d1524c6d6df75
+SHA1: f1d49c8e27f7b767e513d2814febb0e86f3039f9
+SHA256: b071e798dc813efd763a3c93c544b8515fdb1afb997f17b1081526fb4014b566
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
@@ -26495,10 +26495,10 @@ Maintainer: wkk
 Installed-Size: 3932
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wkk.wechatx_1.7-3_iphoneos-arm64e.deb
-Size: 995728
-MD5sum: 64d44f2b6b137c76ed6be8b896f82fbf
-SHA1: 241afc39a0cc08a81bd3a0425797b780d92e5148
-SHA256: 2538de5e49d188181614dfa5f46a7cc7402e767494772ff09564c9dc771c6096
+Size: 994064
+MD5sum: 871bd71102a100126d609ab127e7836b
+SHA1: d45ed4bf04610ec94cfcd465b23c9389b6fb99ef
+SHA256: e89984ce26d1011ad739a954ff34734e16dfa377362a1e36e0cae5ac20795189
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
