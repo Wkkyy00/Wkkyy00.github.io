@@ -9701,17 +9701,17 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.
 Name: SquidExtender配置
 
 Package: com.wkk.Systemxxxxx
-Version: 1.0-3
+Version: 1.1-0
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.Systemxxxxx_1.0-3_iphoneos-arm64.deb
-Size: 1016
-MD5sum: 762cd3b692df737bb92d0d3eda23a018
-SHA1: 20df9851b4bce0c16b7875e90a928e1d0f9cb821
-SHA256: 8c56c4aea40d2c459e64f65d8dfee7ea1d97a4b1e13c28dccc61d86f45d874f1
+Filename: ./debs/com.wkk.Systemxxxxx_1.1-0_iphoneos-arm64.deb
+Size: 924
+MD5sum: 37dbb03df10db6aa6f6fc9d569cb1b3d
+SHA1: bfb2f57b6d8281b38a52a46d45d70cfd52f77c66
+SHA256: 2a06a1a14d0d9acd63c4ce892ff42404e925a2770883a708f1d981b0b994603a
 Section: Tweaks
-Description: 新增运行中app指示点，全网目前还没有哈。针对系统的增强与精简的集合插件，用来替代用电话助手或者nicebarx只开几个功能的群友，付费群使用。
+Description: 全新的军刀插件，针对系统的增强与精简的集合插件。付费群使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
@@ -11704,6 +11704,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信气泡文字改色
 
+Package: com.wkk.aaaaaaa9386373
+Version: 1.1-0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.aaaaaaa9386373_1.1-0_iphoneos-arm64.deb
+Size: 900
+MD5sum: ac8c56923ea65bf86414cb4d5ee3de48
+SHA1: c036b294cbf7cd595aa422c518652c6bcaac3320
+SHA256: 04eea270f4985635601bb44ac40d940ac7d4f042df89f288befca12c39eb1ef2
+Section: Tweaks
+Description: 需要定制插件的朋友可以联系我QQ：1772773799
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 接定制插件
+
 Package: com.wkk.aaaaaaaaaa
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -11739,33 +11756,15 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: AAAAAA插件配置说明（必看）
 
 Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.3-3
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-3_iphoneos-arm64e.deb
-Size: 2316
-MD5sum: 5f63df0e480863ab93e15cc989165a7b
-SHA1: 128df583bf495f256f9ca87b4aff42a42b75b057
-SHA256: ca88c8d22c3e77a59156f49ed7481f5df13c657cbecd2f45880afc681ae1d574
-Section: Tweaks
-Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 付费群公告
-
-Package: com.wkk.aaaaaaaaaaa22233
-Version: 1.3-3
+Version: 1.3-5
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-3_iphoneos-arm64.deb
+Filename: ./debs/com.wkk.aaaaaaaaaaa22233_1.3-5_iphoneos-arm64.deb
 Size: 1340
-MD5sum: 73003e79ca109ede29af624c228490e8
-SHA1: 9e925a34101c8ba8aba1489b4ece4af53dc60b6f
-SHA256: e6de07699c5d721503f757001450082f5361a86bef6a9118fc369ef9b72b57cd
+MD5sum: dd90fcc8e40f01a9271fba6fd9baab21
+SHA1: 69a7c2f705cefa23b54f6068a8fc75b8e5b6348e
+SHA256: 1841defce0ebfff8dce860485cb71722eaa1795e38e5ec98f84e5b4c8f62e975
 Section: Tweaks
 Description: 之前因某些原因源内去广告插件将不再更新维护，付费群已稳定两个多月，QQ/微信双群均已建好，群内已上传自制文件260+，全部为一手制作，插件覆盖范围不局限于App去广告、优化（主流APP全覆盖）偏门App可现做，同时包含各种偏门类/便捷操作类系统级插件、微信插件等各种实用内容。群内任何需求任何问题都可提出，力所能及的都会尽力帮助解决，全方位满足大家的越狱需求，让各位少走弯路，进群58元/人，感谢已经入群的几百位大哥们一直以来的支持与信任！需要的朋友可加我QQ：1772773799
 Tag: cydia::commercial
@@ -12751,6 +12750,58 @@ Size: 1045208
 MD5sum: 3df03067b97d0d1ca5c4319cdff7fbc3
 SHA1: 935e37db0aaf77121eab602df43288ab4ca45a8b
 SHA256: 13b3cc499a5a4e56c158e0afb1fddb35d4ca4db275e075c9e28118e001b387c2
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.5.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.5.1_iphoneos-arm.deb
+Size: 1562752
+MD5sum: b5ef4acd7bc2dc0a035a6d161f2645e3
+SHA1: 187d201e3d3e64a171874d928d1ae707ee5b48fc
+SHA256: 11a5b39d54e8926741c0102a19904a8cc7e10c88ec111a94a15547dd1693f1d2
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.5.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.5.1_iphoneos-arm64.deb
+Size: 1561636
+MD5sum: 1bf653ae3101350139b3e7643ec08fcc
+SHA1: b3e34a679c3576a4c6f68b8423f6c2aa12baef52
+SHA256: fb78c2e67a2246c5c84779ce32b91c1481c32b09a2877e11798aaa2565be5853
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.5.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.5.1_iphoneos-arm64e.deb
+Size: 3492852
+MD5sum: 948aaef1a928be6350b20c8b4ed946c7
+SHA1: b1dc813b8868484e3aa34932f2297b744cc95b54
+SHA256: 28b34505ead6b9778cb6eda7a09d6840c3c76dba1879ada6b15cb6407b79942f
 Section: Tweaks
 Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
 Author: Fouad Raheb
@@ -18854,41 +18905,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: Hideiconx
 
-Package: com.wkk.iconxxxxxxsf
-Version: 1.0-7
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo
-Filename: ./debs/com.wkk.iconxxxxxxsf_1.0-7_iphoneos-arm64.deb
-Size: 904
-MD5sum: 0ef770a318725163f5986319fd957db9
-SHA1: b0a29ec42b7e5a6f58bb116b578f113669c7bb81
-SHA256: b1a11de72abc3c67c41f3fa1113bbb9c5f9789834a1fee59297b5da8cf1e53ac
-Section: Tweaks
-Description: 带设置项，可自由选择，付费群使用。
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 图标缩放
-
-Package: com.wkk.iconxxxxxxsf
-Version: 1.0-7
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo
-Filename: ./debs/com.wkk.iconxxxxxxsf_1.0-7_iphoneos-arm64e.deb
-Size: 1320
-MD5sum: f9fc0ebca54af03858ae3e745433f65c
-SHA1: 19d1b59c1810dbd8a625640ad1ef3eaadd8bd99b
-SHA256: 85fa52b521520892cc195755713e01447c0ce2cdd313b330ff0d15e133e9122e
-Section: Tweaks
-Description: 带设置项，可自由选择，付费群使用。
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 图标缩放
-
 Package: com.wkk.iconxxxxxxsf99
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -18958,6 +18974,23 @@ Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 长按锁屏键假录屏
+
+Package: com.wkk.iconxxxxxxsff
+Version: 1.1-0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.iconxxxxxxsff_1.1-0_iphoneos-arm64.deb
+Size: 944
+MD5sum: 58ed3d813452598e75fb5a9dd334e8d1
+SHA1: 7e03458f18d0542475383a50b5a150a8d3446969
+SHA256: 722c257bdaaf10841f1c7b8af298f765691146e03bfe08e0b7e7aa6f03ee5b8f
+Section: Tweaks
+Description: 带设置项，可自由选择，bug已全部修复，可直接定制无设置项功能，付费群使用。
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 图标缩放
 
 Package: com.wkk.imaotai
 Version: 0.0.2
@@ -19809,33 +19842,15 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: KeyboardHook
 
 Package: com.wkk.keyroundxxxx
-Version: 1.1-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: sudo
-Filename: ./debs/com.wkk.keyroundxxxx_1.1-1_iphoneos-arm64e.deb
-Size: 1600
-MD5sum: 2ba43c964566088c7cde08af10570803
-SHA1: fa34a557a04bbecfe80ceac9fdcb20033db81ba8
-SHA256: e40cf9bd56d2f7364249fbf1408cb093cf1d7323a3a2d1e3881a10ed8d2cac02
-Section: Tweaks
-Description: 针对原生键盘与微信键盘输入法的调整：键盘圆角/键帽圆角/原生、微信侯选词渐变/微信键盘背景色/键帽放大/全输入法外部圆角/隐藏某碍眼位置等/后续可加更多调整，付费群使用。
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 微信/原生键盘调整
-
-Package: com.wkk.keyroundxxxx
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.keyroundxxxx_1.1-1_iphoneos-arm64.deb
+Filename: ./debs/com.wkk.keyroundxxxx_1.1-2_iphoneos-arm64.deb
 Size: 1028
-MD5sum: f81b61b3cb0bf5e528ea30e63c19fbcd
-SHA1: 050819a109ce369525f797495154afc26ba123f5
-SHA256: 13e9e877f8918ec0a44417e09ccaf6ddec56e0c1cd995222ad165d444dd75c95
+MD5sum: 1d7af05030a49a57eab49cb29bc0d326
+SHA1: b61bc6cf59a966fb14ddb8e06153df35325686ac
+SHA256: 6377dc61ee4f506f83643967dd13e8de5b7fb187b3773a6be498c39dbfb2cb41
 Section: Tweaks
 Description: 针对原生键盘与微信键盘输入法的调整：键盘圆角/键帽圆角/原生、微信侯选词渐变/微信键盘背景色/键帽放大/全输入法外部圆角/隐藏某碍眼位置等/后续可加更多调整，付费群使用。
 Tag: cydia::commercial
@@ -26472,16 +26487,16 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChatX
 
 Package: com.wkk.wechatx
-Version: 1.7-3
+Version: 1.7-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
-Installed-Size: 3932
+Installed-Size: 3964
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.wechatx_1.7-3_iphoneos-arm64.deb
-Size: 993914
-MD5sum: bc7aff75ef5352e2623d1524c6d6df75
-SHA1: f1d49c8e27f7b767e513d2814febb0e86f3039f9
-SHA256: b071e798dc813efd763a3c93c544b8515fdb1afb997f17b1081526fb4014b566
+Filename: ./debs/com.wkk.wechatx_1.7-4_iphoneos-arm64.deb
+Size: 1001434
+MD5sum: 3b5e947c0cd85255512a28213b3a6a7c
+SHA1: 68354a92bcc18b18dc01d17d0e591cb51af173da
+SHA256: 75e39c7d35996b8699315dadba0a0b3c544c65acd6691df95c4d9e72ac46b789
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
@@ -26489,16 +26504,16 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChatX
 
 Package: com.wkk.wechatx
-Version: 1.7-3
+Version: 1.7-4
 Architecture: iphoneos-arm64e
 Maintainer: wkk
-Installed-Size: 3932
+Installed-Size: 3964
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.wechatx_1.7-3_iphoneos-arm64e.deb
-Size: 994064
-MD5sum: 871bd71102a100126d609ab127e7836b
-SHA1: d45ed4bf04610ec94cfcd465b23c9389b6fb99ef
-SHA256: e89984ce26d1011ad739a954ff34734e16dfa377362a1e36e0cae5ac20795189
+Filename: ./debs/com.wkk.wechatx_1.7-4_iphoneos-arm64e.deb
+Size: 1002566
+MD5sum: 00b84113b310828858030d5038b90286
+SHA1: 94ecfe8ef9084b04dc5781b10e53ff960e2acb28
+SHA256: c5400c12db1adc381c3447d696a03997fcc40942b3480d58382b5c0151e1ee77
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
