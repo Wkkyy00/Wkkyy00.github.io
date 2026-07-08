@@ -29695,11 +29695,11 @@ Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions
 Conflicts: ws.hbang.newterm, ws.hbang.newterm2
 Replaces: ws.hbang.newterm, ws.hbang.newterm2
 Filename: ./debs/ws.hbang.newterm33_3.0~beta1-2048_iphoneos-arm64e.deb
-Size: 5356620
-MD5sum: 497d240dc6b36fbbd611bc96f89a0311
-SHA1: 15279ed9eb73d095d2c9b06fd9fe0ccdef962cc3
-SHA256: 66d3d042e5b059b4cb0414122717ead9232d33710ba119697f44674e96b09fea
-Section: Terminal Support
+Size: 5349780
+MD5sum: 1b890ef1936244d36b12c05c45432811
+SHA1: 29fa9002676693bef22abf6efa3803a493d42fb1
+SHA256: 7098c14d522364d61bccab347aa600b32cdbafbeb10197d2753fa729a078be62
+Section: Tweaks
 Description: Powerful terminal app for iOS
 Tag: compatible_min::ios14.0
 Author: HASHBANG Productions <support@hbang.ws>
