@@ -9701,21 +9701,21 @@ Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.
 Name: SquidExtender配置
 
 Package: com.wkk.Systemxxxxx
-Version: 1.1-0
+Version: 1.1-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.Systemxxxxx_1.1-0_iphoneos-arm64.deb
-Size: 924
-MD5sum: 37dbb03df10db6aa6f6fc9d569cb1b3d
-SHA1: bfb2f57b6d8281b38a52a46d45d70cfd52f77c66
-SHA256: 2a06a1a14d0d9acd63c4ce892ff42404e925a2770883a708f1d981b0b994603a
+Filename: ./debs/com.wkk.Systemxxxxx_1.1-4_iphoneos-arm64.deb
+Size: 1156
+MD5sum: 65bd14983248586a2ab177f82995fa0f
+SHA1: 23999f5b44185142cde6c35f0d4eb7db05ca0d4d
+SHA256: e13e7ac568231195cb12b884e9874288f2561ba5cdf2ec751ce29b5f9c8438f4
 Section: Tweaks
-Description: 全新的军刀插件，针对系统的增强与精简的集合插件。付费群使用。
+Description: 全新的军刀插件，针对系统的增强与精简的集合插件支持iOS15-17（更换图标/文件夹布局精简/角标美化/实用功能/静音vpn映射/全网都没有的mac运行指示点/禁用、隐藏系统内冗余地方等几十个实用功能）如果想加什么功能或者有好的想法，欢迎来我的付费群玩，源内所有蓝标插件仅付费群使用。
 Tag: cydia::commercial
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 系统增强
+Name: 系统增强SystemX
 
 Package: com.wkk.WCCC
 Version: 1.0-2
