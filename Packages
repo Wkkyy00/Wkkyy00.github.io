@@ -9668,23 +9668,6 @@ Author: 灰灰
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: 字体一键替换2
 
-Package: com.wkk.SmoothCursor
-Version: 1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.SmoothCursor_1.0-1_iphoneos-arm64e.deb
-Size: 3568
-MD5sum: 96a1e2dc4adf34acbada75f3d3196676
-SHA1: d73290d67b817d0d5c614aaa81f08391eec62ed4
-SHA256: 16e9d48a10c6d32137285b640183da3fc43f6177a6998082ad82c01a382be355
-Section: Tweaks
-Description: iOS17光标插件。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: SmoothCursor17
-
 Package: com.wkk.SquidExtender
 Version: 1.0-7
 Architecture: iphoneos-arm64
