@@ -12013,6 +12013,40 @@ Author: iosdump
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: AirDrop
 
+Package: com.wkk.airdrop
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.airdrop_0.0.2_iphoneos-arm64e.deb
+Size: 7504
+MD5sum: 0ecf0920cb964db0512634c31b08f7b2
+SHA1: a3b7d2177c0e018d2f97eef447a5d8dafbbce239
+SHA256: 0d48f49083d9865a9a44ca9308fdbc92b5f42db248554d23567c842d0bfaf945
+Section: Tweaks
+Description: 解除隔空投送十分钟限制，支持设置自定义关闭时间，4秒内控制中心隔空投送连续点击两次所有人即可触发设置弹窗，支持iOS16.1.1+
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AirDrop
+
+Package: com.wkk.airdrop
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.airdrop_0.0.2_iphoneos-arm64.deb
+Size: 7584
+MD5sum: 306e4bd60513ce3cc03db5847bba1e18
+SHA1: 9af35693767f2dbf7c8c396589b4a5df7c6b7b21
+SHA256: fcd2f7b910e402fe53698b3261639c40e03e32185aa09da3aaae3dd19790426e
+Section: Tweaks
+Description: 解除隔空投送十分钟限制，支持设置自定义关闭时间，4秒内控制中心隔空投送连续点击两次所有人即可触发设置弹窗，支持iOS16.1.1+
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AirDrop
+
 Package: com.wkk.akara
 Version: 2.0.2
 Architecture: iphoneos-arm64e
@@ -12802,6 +12836,58 @@ Size: 1562752
 MD5sum: b5ef4acd7bc2dc0a035a6d161f2645e3
 SHA1: 187d201e3d3e64a171874d928d1ae707ee5b48fc
 SHA256: 11a5b39d54e8926741c0102a19904a8cc7e10c88ec111a94a15547dd1693f1d2
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.6.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.6.1_iphoneos-arm64.deb
+Size: 1611340
+MD5sum: 55641e05c38b1cf84d857045b3711d05
+SHA1: 2c86d73103418017eb9f7c543b805567cc93fdc8
+SHA256: 8e0c25d9b982d252bc2874c283938d93c5220bca69f6064573a5afe0daee9204
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.6.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.6.1_iphoneos-arm64e.deb
+Size: 3641768
+MD5sum: c28ea5833b040f620cf617ba5e89a654
+SHA1: 3b7e8246b939562de5fdf3f2d3deda5b60ab434f
+SHA256: 034b496fcf16acd65e8817171a5c55a059cf6aa9fec328e9fb975836c43bcf6e
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.6.1_iphoneos-arm.deb
+Size: 1611952
+MD5sum: 5aeb28a013badee0505684671af26fc1
+SHA1: 4cdce34e1ea446e941c9f888ed0c01655eb50af4
+SHA256: b5282fcad14ef249c283f79cf2c53a7c746ebe0b32e68ec0b473499db45fe80d
 Section: Tweaks
 Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
 Author: Fouad Raheb
@@ -15014,6 +15100,57 @@ Description: iOS 14-17 自定义来去电背景插件
 Author: iosdump
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: CustomCallBg
+
+Package: com.wkk.customccbg
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customccbg_0.0.3_iphoneos-arm64.deb
+Size: 49792
+MD5sum: c122aa8817b862e48e263407bce57e3b
+SHA1: b458e4cf9b0c1e15d2db92b661696a122d252a9f
+SHA256: c9ce7cc0bac3186feb97d8f981a9212f3ac8cc10d0d42757934e6fd24ca4b78a
+Section: Tweaks
+Description: iOS 14-17 控制中心背景自定义
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCCBg
+
+Package: com.wkk.customccbg
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customccbg_0.0.3_iphoneos-arm64e.deb
+Size: 47872
+MD5sum: cc0ba36d2aae00a4ea3cc26967b55ef4
+SHA1: e3e7eb2159026d89a15dd7064789531c6abb7663
+SHA256: eac00fd7bccd52cef0cb84c7b6918dfdd0fc2369824b389d2774e3cb122d9b96
+Section: Tweaks
+Description: iOS 14-17 控制中心背景自定义
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCCBg
+
+Package: com.wkk.customccbg
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.customccbg_0.0.3_iphoneos-arm.deb
+Size: 49824
+MD5sum: d8807ebfd35c195744dfc9a22c698e16
+SHA1: 05272f16828ad5b67c5ddc8f259dc0693ade227b
+SHA256: 5a56953849ae1b5ce61e10766cdf8b43642cc0532821c1463977ef5c2cd15884
+Section: Tweaks
+Description: iOS 14-17 控制中心背景自定义
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CustomCCBg
 
 Package: com.wkk.cxdebdylib
 Version: 1.0
@@ -20811,6 +20948,57 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/20/4d296bfaebf204bf0f25e07d184e9db8.png
 Name: MEGANoAds
 
+Package: com.wkk.memorycontrol
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 780
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.memorycontrol_1.3_iphoneos-arm64.deb
+Size: 91892
+MD5sum: db56f07f0864c9a325ff8970c04334d1
+SHA1: 01cd1b7f9874d80d0473e90ab2f750dc1f85bf6d
+SHA256: d48df4b0200a6ae0524f02485796cbc3e33fd1b0134cf980714b597351d0a7d1
+Section: Tweaks
+Description: iOS 14-17 进程内存与优先级调整
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MemoryControlX
+
+Package: com.wkk.memorycontrol
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 780
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.memorycontrol_1.3_iphoneos-arm.deb
+Size: 92180
+MD5sum: 6f4b7ae8f3739b76792bd0700cca206c
+SHA1: 110058d0bac5683306f71da317cdffc04743e443
+SHA256: cc9cd2d28a790dced5270d01cea33b4bc841b65edfbadf1d012ff8a740959120
+Section: Tweaks
+Description: iOS 14-17 进程内存与优先级调整
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MemoryControlX
+
+Package: com.wkk.memorycontrol
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 780
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.memorycontrol_1.3_iphoneos-arm64e.deb
+Size: 90560
+MD5sum: 9356ff615632508314e2c7a7cd73b44f
+SHA1: 9a0ca440442db568e215ca4809adf0a00b048f66
+SHA256: 2f75c6d53bc11cc06b8a53d81a512b3a589b0c13765d143db81e405367c88bae
+Section: Tweaks
+Description: iOS 14-17 进程内存与优先级调整
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: MemoryControlX
+
 Package: com.wkk.mghook
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -23712,6 +23900,57 @@ Size: 136772
 MD5sum: ca71f3d0b815eca99b4ebce52e5a1989
 SHA1: 406b13c721fd87570cdc5faad1f220adb9bcecbf
 SHA256: 7499775ca2c4338ba284d1e93eeff10d319eef7d6ff23b2df338f8bf132105a6
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.2.0_iphoneos-arm64e.deb
+Size: 140740
+MD5sum: 6267862736357a8ffbe7328ee07806b1
+SHA1: f2f561b5af81aec82ebcc6c9072140836e7d670d
+SHA256: c389a787bb4418e9416772d0ede0af1f6c96fda6ab685dc171112f7d5856d338
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.2.0_iphoneos-arm64.deb
+Size: 142256
+MD5sum: ae07aec1cd47a50480cc59b7dc9313f1
+SHA1: b4e8c19027e021bad80c734b8a34f4eab2687b31
+SHA256: 95937bd5e69ff10fb59f3e2aff57476f8ac2f467db1fd0a5b3e1863dcda2bdd9
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.2.0_iphoneos-arm.deb
+Size: 142576
+MD5sum: 4bb92327367c17b00236978a0b292dc9
+SHA1: 8da9af54d7e0c5a0f468ea30ffea3234870903de
+SHA256: 3657474209a5ca352f3289745fd39eb4583e7bc75930693dc1f3cab38cc04e4c
 Section: Tweaks
 Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
 Author: iosdump
