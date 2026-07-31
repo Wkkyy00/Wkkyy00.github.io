@@ -1664,6 +1664,22 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailun
+Version: 2.1.4
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.1.4_iphoneos-arm64.deb
+Size: 11813076
+MD5sum: a54edb7a45047daf0ac981b71667d9a1
+SHA1: 3576f61165428e997e5682c0269aa50f5c59c624
+SHA256: 2fa10776a8f8190602acbe195f18b6b39ecc9ec48d5f90fd4c37f0fa61e8bfa3
+Section: 微信插件
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 黄白助手
+
 Package: com.Purifyads
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -8774,6 +8790,41 @@ Size: 5872064
 MD5sum: aa3410c79e62e416ce4095281efcf972
 SHA1: befa362e67f478f92c37745440a69ae0d3e7aee9
 SHA256: 82459a006fef72cc1e1b12dfbe92c019614c64caec3f053e79652226b996a334
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.1_iphoneos-arm64e.deb
+Size: 20084352
+MD5sum: 06fe4c4c4e1ec61137644c532c223f73
+SHA1: 4a0c73671fbb4e2796cad0703b2717a7b122ef90
+SHA256: 57c4b98a3bccd98487fdf9052a317d389d718f53cad4d88b55f6db067f1dd774
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.1_iphoneos-arm64.deb
+Size: 7285616
+MD5sum: 97ccc202823a92885a0b6dc0bff98abe
+SHA1: b7fe18514f359abc8e40e40f2fc96242e03cb7ee
+SHA256: 88fede9f8df201326d86392f4d6e084b71f205312f2e9c0940866c5e588c760e
 Section: 微信插件
 Description: 学习交流。
 Author: WeChat
@@ -16485,6 +16536,45 @@ Size: 5623544
 MD5sum: a00a9ad898679bd1a6ce3de0545b49fd
 SHA1: 404adf5204e01d12fec4f3c7bbadca4b31d4873b
 SHA256: 95f4e99f8856fd6a3a730d624d74e58bfb62ce3be71ffdaf711c5e75620f5a0b
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.5.0
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.5.0_iphoneos-arm64e.deb
+Size: 15733118
+MD5sum: 15d9c957a315fe98ba98c75964c5aa3d
+SHA1: b75ebc33b43a943f12d9af63a684b06a3d50ca29
+SHA256: 5e8bb34317543a7dfde261f00ad87f2a03a4495a5e16b7da36912a2d18b7515e
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 锤子助手
+
+Package: com.wkk.dumpapp
+Version: 2.5.0
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/com.wkk.dumpapp_2.5.0_iphoneos-arm64.deb
+Size: 5821532
+MD5sum: f3127a5eee879d19929ec14b8d5008d8
+SHA1: 418ecb63cf02d4ad4b8e09028b93eeb4573861b8
+SHA256: c928a1bea59aa8e468d028384cd37c54f477f2dcec878678ca22bb7da5ca3295
 Section: 微信插件
 Description: 微信多功能插件
  * 1:1 复刻“微信净化”插件，保留红包功能
