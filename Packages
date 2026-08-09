@@ -144,6 +144,41 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 Name: split-view-pro
 Ts: sp-sss
 
+Package: cn.wkk.snapshottool
+Version: 4.2-5+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 2640
+Depends: mobilesubstrate
+Filename: ./debs/cn.wkk.snapshottool_4.2-5+debug_iphoneos-arm64.deb
+Size: 1532088
+MD5sum: 83cf9813fb863a35e76935442459923d
+SHA1: 21d53b24a1569f786cb7fe15ecc3f4b712c25e73
+SHA256: 4bd510ff0d72f3421da24fb20e2a380f94c32e6fd06ed542b4baf17fc9f3ab66
+Section: Tweaks
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: STTool
+
+Package: cn.wkk.snapshottool
+Version: 4.2-5+debug
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 2640
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/cn.wkk.snapshottool_4.2-5+debug_iphoneos-arm64e.deb
+Size: 3245860
+MD5sum: 29f4ff22f9d30ad2d6d44983f2abb025
+SHA1: 35da1d1feb1803d261600224deb7a6870af4d30c
+SHA256: ae940be1a5a1c9a1f7b74fe6f99b053a62bef756ba730fd6d1e75384d6f7763a
+Section: Tweaks
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: STTool
+
 Package: cn.wkk.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64e
@@ -263,6 +298,41 @@ Description: 老系统配对新的 Apple watch 修复插件。
 Author: 577FKJ
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: WatchFix
+
+Package: cn.wkk.ycvpn
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 436
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.wkk.ycvpn_0.0.2_iphoneos-arm64.deb
+Size: 162464
+MD5sum: 90f559aaef263313134b3816117828fc
+SHA1: 5a884a7097379808ebd353f248f74b40971c9ec6
+SHA256: df9c610b1ce16c3fbc6f9e438dcc1fc80f9c6d2646034b511b509b9a0c2e7a97
+Section: Tweaks
+Description: 隐藏手机设置内VPN或某些选项或应用
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏设置里的项
+
+Package: cn.wkk.ycvpn
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.wkk.ycvpn_0.0.2_iphoneos-arm64e.deb
+Size: 167932
+MD5sum: 9b1517a9de1d6bc14ac0b543f1b124f5
+SHA1: c44af02ed0dd8ac7ab27a814758a6fe516cb4610
+SHA256: c569f1bf649c5de186ac786b004ebbd7394f663ae37fc84cb8bfa80882cf3496
+Section: Tweaks
+Description: 隐藏手机设置内VPN或某些选项或应用
+Author: 来了老弟
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 隐藏设置里的项
 
 Package: cn.zqbb.appdata
 Version: 1.3.6-9
@@ -27659,6 +27729,40 @@ Size: 2839800
 MD5sum: 8d4e5cdd6bc6f6cbc4914756cf09c2ed
 SHA1: c168e1d51726f6672b436cafe6b9e60c7b91a99d
 SHA256: 61dc645d5552f7a8d9af5f3cad3af314f8dd8f22f477df18adaa1c2dcb3c9ec9
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 2.0-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 14200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_2.0-6_iphoneos-arm64.deb
+Size: 3733466
+MD5sum: 3b1295ccb1426ad78bdefc2936a5ddcb
+SHA1: 4c1783b18b000406aa086a26a90556620fc3e329
+SHA256: 405eda0a7657dc944f7e000a6372ccac936852793ab1d58b7d183e87f87a48f9
+Section: 微信插件
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
+
+Package: com.wkk.wechatx
+Version: 2.0-6
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 14200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.wechatx_2.0-6_iphoneos-arm64e.deb
+Size: 3733056
+MD5sum: 8b8e14ed6d9d1731bc4f49b4ea2459aa
+SHA1: 09482139976afa37d83c224da317f49c706e105e
+SHA256: 618cc3b7eb91721e60bf4aad9f6fe9de539693b866b0656c15e6df60d978a3e5
 Section: 微信插件
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Author: wkk
