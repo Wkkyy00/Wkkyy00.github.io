@@ -23703,6 +23703,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 重启springboard动画重制
 
+Package: com.wkk.screenshotactions
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.screenshotactions_1.0-3_iphoneos-arm64e.deb
+Size: 7892
+MD5sum: 60bd29faf8bd5a9a39de1a06e10c1ad0
+SHA1: 27d7ed869b6d5566f95b068ddb7033ee5c27e935
+SHA256: 634ea773c6602cc21c66fe250a1ae7e2993f0f846ef26c1eac404a044bd6df70
+Section: Tweaks
+Description: 截图后选择拷贝到剪贴板或保存到相册，点击外部直接拷贝到剪贴板。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 截图操作
+
+Package: com.wkk.screenshotactions
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.screenshotactions_1.0-3_iphoneos-arm64.deb
+Size: 7960
+MD5sum: 24c8f6701f65bbc795c9b08a17657447
+SHA1: b32bf885e47051830dbfbffabc8e71846a9a491f
+SHA256: 1b1b547e17e2e87e49feaa37a5eee9ea497c4520750cafdb75f3904761ac1e88
+Section: Tweaks
+Description: 截图后选择拷贝到剪贴板或保存到相册，点击外部直接拷贝到剪贴板。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 截图操作
+
 Package: com.wkk.sdk16.5
 Version: 1.0
 Architecture: iphoneos-arm64e
