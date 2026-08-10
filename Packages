@@ -24326,6 +24326,74 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: Sileo美化
 Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/sileomeihua.json
 
+Package: com.wkk.sileoseparatorhider
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 72
+Depends: org.coolstar.sileo
+Filename: ./debs/com.wkk.sileoseparatorhider_1.0-1_iphoneos-arm64e.deb
+Size: 4760
+MD5sum: 27992de68182512043ac8c67eb2768aa
+SHA1: 5acd5cffbd02de45b1cdd5d022ef4b790a84d532
+SHA256: 68b421af5f4bc79e2b8e41d30fb1c207f466a529f3de2a066c4e148acd5c165d
+Section: Tweaks
+Description: 隐藏 Sileo 内的系统列表分割线与自定义细分割线。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo 隐藏分割线
+
+Package: com.wkk.sileoseparatorhider
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 72
+Depends: org.coolstar.sileo
+Filename: ./debs/com.wkk.sileoseparatorhider_1.0-1_iphoneos-arm64.deb
+Size: 4688
+MD5sum: 237cec33a2d65252661837b51b4cee26
+SHA1: 7555cb6461fd8af2dab2fec3df41a7a08aada44a
+SHA256: 3ca6424feebddf8535b111f0a2fa04aa9963a904261fbae2e3ebe04aa40d56c1
+Section: Tweaks
+Description: 隐藏 Sileo 内的系统列表分割线与自定义细分割线。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo 隐藏分割线
+
+Package: com.wkk.sileosourcesearch
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 92
+Depends: org.coolstar.sileo
+Filename: ./debs/com.wkk.sileosourcesearch_1.0-1_iphoneos-arm64.deb
+Size: 14392
+MD5sum: 59f5ae99a170a59ae745138d2a9f5e40
+SHA1: 6e50b2615a8f615e25f33bb5ec40636f0b7e3ab9
+SHA256: 7da2c543aad36d7eb5a2a3d2ee61e8c031e9f8349cda2085ef6171614e43cb8c
+Section: Tweaks
+Description: 在 Sileo 软件源页面加入源名称和网址模糊搜索，并可直接跳转到对应软件源。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo 源搜索
+
+Package: com.wkk.sileosourcesearch
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 92
+Depends: org.coolstar.sileo
+Filename: ./debs/com.wkk.sileosourcesearch_1.0-1_iphoneos-arm64e.deb
+Size: 14536
+MD5sum: 207842f5ebc70550dc2021b59db00e40
+SHA1: 0df402eec5e6105226f49acbfbab89f872261239
+SHA256: 0849a7f5e612ae5805f0ea6f4515219cbb3bb0298a96a9f341521550408f4219
+Section: Tweaks
+Description: 在 Sileo 软件源页面加入源名称和网址模糊搜索，并可直接跳转到对应软件源。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo 源搜索
+
 Package: com.wkk.sjssss
 Version: 1.0-1
 Architecture: iphoneos-arm64e
