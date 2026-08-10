@@ -6811,6 +6811,23 @@ Author: 🄷🅆
 Icon: https://s1.imagehub.cc/images/2025/12/13/79a27a347eac08b4f6e29dbc7775fe10.png
 Name: 农业银行NoJB
 
+Package: com.iosdump.appdata
+Version: 2.6.7
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.iosdump.appdata_2.6.7_iphoneos-arm.deb
+Size: 1703508
+MD5sum: c61c9be0bb60e15a611ae0a307d61ca1
+SHA1: 47197d1d88d05e45b37679016917db406434891a
+SHA256: 94195de9ea38f8f6127ef4b21d29e556b564ad2960e11f37dd3a8f7006e80a92
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
 Package: com.lhyee.wcfix
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -12939,6 +12956,41 @@ Size: 1611952
 MD5sum: 5aeb28a013badee0505684671af26fc1
 SHA1: 4cdce34e1ea446e941c9f888ed0c01655eb50af4
 SHA256: b5282fcad14ef249c283f79cf2c53a7c746ebe0b32e68ec0b473499db45fe80d
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.6.7
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.6.7_iphoneos-arm64e.deb
+Size: 3902066
+MD5sum: a037d7ba87eaa9b3a26b9710b3a11049
+SHA1: ac93545abc06b379028bdff4a6df8f90636efb82
+SHA256: 6f0b2b6337b45f348a5fa0b56070cdb5f8988eddf02769cd0c2e8dbcdac0d7f0
+Section: Tweaks
+Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
+Author: Fouad Raheb
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: AppData
+
+Package: com.wkk.appdata.iosdump
+Version: 2.6.7
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.wkk.appdata.iosdump_2.6.7_iphoneos-arm64.deb
+Size: 1704716
+MD5sum: 055901ea4aafa8bbbfe264afac025ce9
+SHA1: 07eb92371ac45a8a0c087e94176de71bb511f491
+SHA256: af2b9554f1215b6235ab9ae75a9e21fe9dff1d832c7f3b944f1704e7438576b9
 Section: Tweaks
 Description: 修复ios17+上的选择应用版本降级时导致SpringBoard崩溃问题，修复其它小问题并优化修改图标逻辑以及添加长按应用图标禁用应用通知，说明：单击应用图标可修改图标，长按可禁用通知，恢复再次长按即可，恢复通知可能会有些许延迟，已在ios14.3、15.4、16.4.1、17.0，测试并且所有修改仅在SpringBoard层面生效。
 Author: Fouad Raheb
@@ -24075,6 +24127,57 @@ Size: 142576
 MD5sum: 4bb92327367c17b00236978a0b292dc9
 SHA1: 8da9af54d7e0c5a0f468ea30ffea3234870903de
 SHA256: 3657474209a5ca352f3289745fd39eb4583e7bc75930693dc1f3cab38cc04e4c
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.2.1_iphoneos-arm64e.deb
+Size: 144112
+MD5sum: 9330819a1280de571ca27d78d6d03030
+SHA1: dfe775293307f84e6715ec03b0e222a9ea9f67c0
+SHA256: ed08bf6f747b3ab051e97d676dffe7f81967fd4151c91f43cd24729eea661676
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.2.1_iphoneos-arm64.deb
+Size: 146188
+MD5sum: 8ab124f30b7179750d91f23db6c9bc30
+SHA1: 5efc73d412d91f97b7231e2c482956defc76411c
+SHA256: 171f09c38aecddced8b43b397649b2f0105eb5ebbc2cc9c83a28163ed1b3b540
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SHELLX
+
+Package: com.wkk.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.shellx_1.2.1_iphoneos-arm.deb
+Size: 146472
+MD5sum: d842087cf6135ecc1f4a8c80037e1a66
+SHA1: 4b998bf38c2183ba5a8e90d8792c2aa229626994
+SHA256: 2ce9c0b2b07bb0b2c7c1104216774f99059f193da6c78965b91e4b79ebd19a98
 Section: Tweaks
 Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
 Author: iosdump
