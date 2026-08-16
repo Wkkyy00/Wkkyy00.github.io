@@ -14528,6 +14528,23 @@ Author: Simon
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 控制中心模块
 
+Package: com.wkk.controlcenterpercent
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.controlcenterpercent_1.0_iphoneos-arm64e.deb
+Size: 5168
+MD5sum: 9dc276dd467abf046a2c02392b08c535
+SHA1: 2b89d5262131a1f5c71ea3809c2646d8a765f618
+SHA256: d88f1ea3c48c7af507d6337960a0facdbd6fc0776d0c0c78e1b09d9f8e9bf271
+Section: Tweaks
+Description: 控制中心亮度和音量滑块显示百分比，仅支持  iOS17 relaxin 越狱。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 控制中心百分比 iOS17
+
 Package: com.wkk.coolapp
 Version: 1.5
 Architecture: iphoneos-arm64e
