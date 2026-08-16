@@ -1152,25 +1152,6 @@ Author: Mao
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: 微信插件管理
 
-Package: com.82flex.kayoko
-Version: 4.3
-Architecture: iphoneos-arm64e
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 3176
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
-Replaces: codes.aurora.kayoko, dev.traurige.kayoko
-Filename: ./debs/com.82flex.kayoko_4.3_iphoneos-arm64e.deb
-Size: 672340
-MD5sum: edaea289aca47b45fbcf73220d328d52
-SHA1: 7fa40723d66871eed8c398d2cbb0b5a684f9ca0e
-SHA256: 984882df33ed77b98a94e3b912720dc340c7886a8a6c66f84925f6a754baa7a2
-Section: Tweaks
-Homepage: https://github.com/OwnGoalStudio/Kayoko
-Description: A smarter clipboard experience that stays close whenever you need it.
-Author: 82Flex <82flex@gmail.com>
-Name: Kayoko
-
 Package: com.HBWechatHelper.ailun
 Version: 1.7-8
 Architecture: iphoneos-arm64
@@ -19700,92 +19681,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/02/07/dacca7f3b761a15a509e6ea110815a1b.png
 Name: 口袋记账NoAds
 
-Package: com.wkk.keyboardhook
-Version: 2.1-3
-Architecture: iphoneos-arm64e
-Maintainer: baiy
-Installed-Size: 524
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.wkk.keyboardhook_2.1-3_iphoneos-arm64e.deb
-Size: 46356
-MD5sum: ccac6b16f43dfd4955d88c1b57b09b6f
-SHA1: 19da212a9f6b6d4b5650b79ddb60f72aeb72aa31
-SHA256: 934fd2e5e66194813b73dc5b58aa116030b5615e6c959aa56786b2163bdd8090
-Section: Tweaks
-Description: 关于系统输入法和微信输入法的一些自定义，让键盘更个性化，备份。
-Author: baiy
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: KeyboardHook
-
-Package: com.wkk.keyboardx
-Version: 1.0-5
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 500
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.wkk.keyboardx_1.0-5_iphoneos-arm64e.deb
-Size: 57086
-MD5sum: f897dc3c111ec59c14de47058c17317e
-SHA1: 4b5a3d444b98dfd52444bb3eab0b41916795c2d1
-SHA256: dc0c9e44fd92dac1f3e8e2903c0654d05568b0e660abd705fa9ce22fd3a8abc6
-Section: Tweaks
-Description: 键盘调整。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: KeyboardX
-
-Package: com.wkk.keyboardx
-Version: 1.0-5
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 500
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.wkk.keyboardx_1.0-5_iphoneos-arm64e 2.deb
-Size: 57150
-MD5sum: 4c872c594d6d1fdd9c2d53a489808012
-SHA1: 51f5f812e2474b33fb8758b33ce9faced3d9776e
-SHA256: 963be6b909f48fa45ef717780c152e5f765ed3225ecbe3175ab469c10025f616
-Section: Tweaks
-Description: 键盘调整。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: KeyboardX
-
-Package: com.wkk.keyboardx
-Version: 1.0-6
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 500
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64e 2.deb
-Size: 62204
-MD5sum: d648ff9df5820a1fef5d2c32890f255e
-SHA1: b7c1cf959e3306ef5a0ec00c56a57ec3a1e07971
-SHA256: 03ed401ae51f042ae8278eeb57cfda9fd95fac20ede4dd63b6fe5c103d9581ef
-Section: Tweaks
-Description: 键盘调整。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: KeyboardX
-
-Package: com.wkk.keyboardx
-Version: 1.0-6
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 516
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64e.deb
-Size: 64326
-MD5sum: 337066a55024056636411dcd61f2f58f
-SHA1: 362032464c2bb6bf9936a78025d0710ae3c6150d
-SHA256: 5bfcb3175920f90fa0e8e3524ad2df0787764f895d519ff658699ff1795b1878
-Section: Tweaks
-Description: 键盘调整。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: KeyboardX
-
 Package: com.wkk.keyroundxxxx
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -24643,23 +24538,6 @@ Description: 用这款传奇的插件重塑你的原生键盘，自带我的预�
 Author: MiRO <tweaks_support@miro92.com>
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
-
-Package: com.wkk.systembox
-Version: 1.3-2
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 1144
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.wkk.systembox_1.3-2_iphoneos-arm64e.deb
-Size: 238926
-MD5sum: bb50c13bee25b623453e1486d9bb0cac
-SHA1: da5a726f675b048d3cf93db84a1787ffbf4f5c84
-SHA256: b7638a3b7aaf1621dc0f7ee2855dac094ceb75e06a1fb20f82fad609d16d2b5f
-Section: Tweaks
-Description: cool
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: SystemX
 
 Package: com.wkk.tapticboard
 Version: 1.2
