@@ -26970,23 +26970,6 @@ Author: Lessica
 Icon: https://s1.imagehub.cc/images/2025/12/26/f6e5793d6cf9b9e667f56142f4b87e9b.png
 Name: 语音转文字免跳转
 
-Package: com.wkk.wwwwwz111
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: sudo
-Filename: ./debs/com.wkk.wwwwwz111_1.0-2_iphoneos-arm64.deb
-Size: 960
-MD5sum: 583325c41927f0dda3b4b465fd561aec
-SHA1: 4f9f1d769e860d67547e2cc8ab91752f068bee8d
-SHA256: bbaae79182566f99b37014fa2d5dbb9b74de8911f151298b5d990c61fb903379
-Section: 插件配置
-Description: 因为今天9.8是个好日子，仅限进越狱群（所有插件都可以用）联系微信：chn137
-Tag: cydia::commercial
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 今天进群一律五折
-
 Package: com.wkk.wxkbhook
 Version: 1.0-1
 Architecture: iphoneos-arm64e
