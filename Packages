@@ -6846,6 +6846,34 @@ Author: lhyee
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 Name: fix图标错位
 
+Package: com.mlgm.pulloverx
+Version: 1.8.21
+Architecture: iphoneos-arm64e
+Maintainer: kanuo
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: ./debs/Pullover-X窗口调度版_1.8.21_roothide_iphoneos-arm64e(1).deb
+Size: 408936
+MD5sum: 2cc99b7754a4a06d569c5cd488163633
+SHA1: 47ba99041e7f3cd04dcd0b276b3638403950ba2d
+SHA256: f0743bb02d824beb86ba3dbc85705e359b0fbd372fba84ee74bf7bc892ca5955
+Section: Tweaks
+Priority: optional
+Description: Pullover-X窗口调度版
+ 1、快捷方式：主卡双击收藏栏转全屏，长按 app 跳转第二副窗口，副窗口底部按住可以移动位置，
+ 两个角拖拉可放大缩小以及调整合适的尺寸，副窗口顶部有多个功能键，方便切换你想要的场景。
+ 长按第二个 app 可以移动卡片位置，点击第一个图标可以进入半屏模式。
+ 2、注意事项：左手模式必须开启，固定把手必须开启，键盘避让应用必须全勾选，不要问为什么，
+ 按照要求设置就行了。如果半屏模式出现灰色阴影或者无法回到桌面，请注销一下手机。
+ 3、本次插件开发暂告一段落，后续大幅迭代优化的空间较小。插件完全免费开放使用，
+ 如果遇到 BUG 或者体验瑕疵，还请大家多多包涵。
+Author: kanuo
+Dev: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/icon/pullover.png
+Name: Pullover-X窗口调度版
+Sileodepiction: https://jimkanuo.github.io/apt-repo/depiction/com.mlgm.pulloverx.json
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
