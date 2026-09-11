@@ -23995,25 +23995,50 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.
 Name: TVLock
 
 Package: com.wkk.tweaksettings
-Version: 1.0.9
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1496
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.wkk.tweaksettings_1.1-1_iphoneos-arm64.deb
+Size: 434324
+MD5sum: 44dabbe204d7556edff939ee7382a81d
+SHA1: d7164900cecbaec349411b4c422fc27d926a84d5
+SHA256: 0dab4f0966b3a1eb3af95f6b4174bfc000fcc71642b002587835ba12154fd7e4
+Section: Applications
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: 基于 CreatureSurvive 开源项目 TweakSettings 的简体中文汉化增强版，用于集中管理越狱插件设置；新增“去掉分割线”“隐藏顶部搜索”和“更换桌面图标”等功能。
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive & wkk
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: file:///Applications/TweakSettings.app/icon_large.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
+Package: com.wkk.tweaksettings
+Version: 1.1-1
 Architecture: iphoneos-arm64e
 Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 1064
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 1492
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
-Filename: ./debs/com.wkk.tweaksettings_1.0.9_iphoneos-arm64e.deb
-Size: 389276
-MD5sum: fb91c4e3b84a418accd8bb47696ac750
-SHA1: 31ec3959054ba26b34d5c50473d71c434b989518
-SHA256: f35c54dd4b0115368b06cb96ffc05239265ac7c77bbdaa0c757f8e1e6c1aecc8
-Section: 应用程序
+Filename: ./debs/com.wkk.tweaksettings_1.1-1_iphoneos-arm64e.deb
+Size: 432556
+MD5sum: 09d3d801d1ce46d810213c24c059c5a2
+SHA1: aaf6aab33a4e59844c51fba8f90ae3868afe43b5
+SHA256: f1e9e9ade39eac2d703432fa5662903ed9d450b6bd6840f9b8f31ac64a3a188a
+Section: Applications
 Priority: optional
-Description: 桌面生成App，直达越狱插件页面，已汉化，觉得app图标丑的可以找我换。
+Homepage: https://creaturecoding.com/
+Description: 基于 CreatureSurvive 开源项目 TweakSettings 的简体中文汉化增强版，用于集中管理越狱插件设置；新增“去掉分割线”“隐藏顶部搜索”和“更换桌面图标”等功能。
 Tag: purpose::application, compatible_min::ios10
-Author: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive & wkk
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
 Dev: CreatureSurvive
-Icon: https://s1.imagehub.cc/images/2025/12/27/cf1e2e152c6f7753e36ae33902aa3886.png
+Icon: file:///Applications/TweakSettings.app/icon_large.png
 Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
 Package: com.wkk.tweaktool
 Version: 2.0.0-beta
