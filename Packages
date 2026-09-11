@@ -13692,15 +13692,15 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Name: KBApp
 
 Package: com.wkk.copylogx111
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.copylogx111_1.0-3_iphoneos-arm64.deb
-Size: 1016
-MD5sum: c359a1a11a812070a77f00b39e031c6a
-SHA1: d901ee7259541cbf196f606835e72801f1ad06ca
-SHA256: aa41cb5b52afc7b8f99e8ffc16d9a0cbb9ba34add0f6f92ac1f2efb29aa14eec
+Filename: ./debs/com.wkk.copylogx111_1.0-4_iphoneos-arm64.deb
+Size: 1020
+MD5sum: 3bda453abb5cc43503dcb40ec1ee512b
+SHA1: dace5bab227e22d4ede9d73a4688854e1be688d6
+SHA256: 3f152db82cc6944254679819922db8340d9c6574465b386d3e34cead69a037ab
 Section: 插件配置
 Description: 一款可以拷贝文件/图片/文本/屏蔽越狱使用且支持 iOS15-17 Dopamine/relaxin 越狱的剪贴板，诸多功能自定义程度高，付费群使用。联系微信：chn137
 Tag: cydia::commercial
@@ -18468,15 +18468,15 @@ Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.
 Name: 煎蛋NoAds
 
 Package: com.wkk.jjjddzz111
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.jjjddzz111_1.0-3_iphoneos-arm64.deb
+Filename: ./debs/com.wkk.jjjddzz111_1.0-4_iphoneos-arm64.deb
 Size: 912
-MD5sum: c9ae15da25ba12842dd76fdde3381987
-SHA1: 191e506e34269fead547ea286ee41ccfac5c0612
-SHA256: 0d34d715b4818113c81a6f1c19bbc040f82f2b5ccd9fa9cf404d9ed050ae52a8
+MD5sum: 8c6f7f526877a9c99d27fe3429dc9b07
+SHA1: 8ac62c141a0531f3504e5f44de0852f349a365dc
+SHA256: 483f17418228253f8a15981e2d8439df7d889e6f63cb391d17b3e072b6dd706b
 Section: 插件配置
 Description: 联系微信：chn137
 Tag: cydia::commercial
@@ -18846,15 +18846,15 @@ Icon: https://s1.imagehub.cc/images/2026/02/07/dacca7f3b761a15a509e6ea110815a1b.
 Name: 口袋记账NoAds
 
 Package: com.wkk.keyboardx111
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.keyboardx111_1.0-3_iphoneos-arm64.deb
-Size: 1028
-MD5sum: d2bf859d137f187467087eb352054df3
-SHA1: 8143db9f31906e16fb2fc627bba488a5eacc9556
-SHA256: 518b8117fbefc39c1bebd3ac4a8f7d13011f73bc5e4f9a90b1858757f155952f
+Filename: ./debs/com.wkk.keyboardx111_1.0-4_iphoneos-arm64.deb
+Size: 1032
+MD5sum: f28e0677cf2b6890615969aa66c83cfe
+SHA1: 6371e9cfb84276ae17a24648e30395156e9c3282
+SHA256: 1c5f017f66d4a03b2235bf75e1e66b35da44364d170afdebec5548ccb2f1016f
 Section: 插件配置
 Description: 一款仅支持15-17Dopamine/relaxin 越狱的使用的键盘多功能调整插件，诸多功能自定义程度高，并且支持所有三方输入法候选词颜色渐变，付费群使用。联系微信：chn137
 Tag: cydia::commercial
@@ -20705,15 +20705,15 @@ Name: OneSettings
 Sponsor: wkk
 
 Package: com.wkk.onestepx111
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.onestepx111_1.0-3_iphoneos-arm64.deb
+Filename: ./debs/com.wkk.onestepx111_1.0-4_iphoneos-arm64.deb
 Size: 1004
-MD5sum: 9e630341fd0538007431050112a63b01
-SHA1: d91fc272c257e4cb3bcb9096e26e709bb506f954
-SHA256: 51aa6bf3e28ad641a5f347d6827c1b2770e6232463ec76efee5694d396d261fb
+MD5sum: 2c50ef605d70733a7605784c64863b99
+SHA1: 3615724c53b5f05da94878837457f8dea5d39a5f
+SHA256: d4f063caa064db93d10e06dbd00d3c788b8090913ca09dcabfe9432a79f48b5c
 Section: 插件配置
 Description: 一款仅支持17.0-17.3.1 Dopamine/relaxin 越狱的使用的手势插件，致敬 SquidGesture Pro，诸多功能自定义程度高，付费群使用。联系微信：chn137
 Tag: cydia::commercial
@@ -21980,15 +21980,15 @@ Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.
 Name: 汽水音乐NoBottombar
 
 Package: com.wkk.qugg111
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.qugg111_1.0-3_iphoneos-arm64.deb
+Filename: ./debs/com.wkk.qugg111_1.0-4_iphoneos-arm64.deb
 Size: 984
-MD5sum: 3dab8bfd19dffceb90de8c8c9629f0b5
-SHA1: 3db11f79bf55e75dad445766481721c89927355f
-SHA256: caaf5c54b3dc445ff5545b7c18fcedbc77121cc8c73af7f6ac432eaf700ab893
+MD5sum: 78903f5f093d10ba4f4ef61b8b922480
+SHA1: a629d56c524fe8221c49f54ddeee7069b3658a4a
+SHA256: 65bff9e128f3fbc8552522ba4337b81a50b27674bf183beb9386ddb2511bd391
 Section: 插件配置
 Description: 付费群可用，涵盖市面上全部主流 app 去开屏广告/去应用内广告（别拿单纯去开屏广告比 没得比 去广告不止开屏广告）联系微信：chn137
 Tag: cydia::commercial
@@ -22755,6 +22755,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Sileo 源搜索
 
+Package: com.wkk.sileosourcesearch
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 108
+Depends: org.coolstar.sileo
+Filename: ./debs/com.wkk.sileosourcesearch_1.0-2_iphoneos-arm64.deb
+Size: 17406
+MD5sum: 20fb54da57a0266bd9b9406139ef73c9
+SHA1: 97851e08d168fdaadf7f9a7d9332e14bab1e63ad
+SHA256: 55490c961e6656990e36fb4f8331a56d83d1a5af00685a5e3b8088dfb1b37faa
+Section: Tweaks
+Description: 为 Sileo 软件源页面增加源名称和网址模糊搜索，点击搜索结果可直接进入对应软件源；同时在软件源左滑菜单中增加置顶和取消置顶，按置顶先后顺序排列，最多可置顶 5 个软件源。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo 源搜索
+
+Package: com.wkk.sileosourcesearch
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 108
+Depends: org.coolstar.sileo
+Filename: ./debs/com.wkk.sileosourcesearch_1.0-2_iphoneos-arm64e.deb
+Size: 17554
+MD5sum: 09f1ca7c1675c49e4d44c67d561a13a3
+SHA1: c2268c79e8977a7ad598eff58bdb61d06276933a
+SHA256: a14be8fd652065a3657667759844f5c55a0547e596923c60734becc1c2fad6d2
+Section: Tweaks
+Description: 为 Sileo 软件源页面增加源名称和网址模糊搜索，点击搜索结果可直接进入对应软件源；同时在软件源左滑菜单中增加置顶和取消置顶，按置顶先后顺序排列，最多可置顶 5 个软件源。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo 源搜索
+
 Package: com.wkk.smartnetwork
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -23410,15 +23444,15 @@ Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
 Package: com.wkk.systemx111
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.systemx111_1.0-3_iphoneos-arm64.deb
+Filename: ./debs/com.wkk.systemx111_1.0-4_iphoneos-arm64.deb
 Size: 980
-MD5sum: e6027b264a49d906b9aff5506d0372c4
-SHA1: aa5091ebbc1458a1cb0abde7ad16c03b083e9a52
-SHA256: 33ae3e198ef17d12a4015860b1b965d1a2a280b3f5796f1ed7d61c56a1a0e2b9
+MD5sum: 65f614e55453b46955a4ad5ad4b95735
+SHA1: 761d8f27482723129d3ae2b8c9c2e8cbe002c6d1
+SHA256: db76c2b21e3a5ca53879f916c621d60ed671d54d29a3078cc32718a10fa962eb
 Section: 插件配置
 Description: 一款仅支持15-17Dopamine/relaxin 越狱的使用的系统军刀插件，诸多功能自定义程度高，付费群使用。联系微信：chn137
 Tag: cydia::commercial
@@ -26752,15 +26786,15 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Name: WeChatX
 
 Package: com.wkk.wechatx111
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm64
 Maintainer: wkk
 Depends: sudo
-Filename: ./debs/com.wkk.wechatx111_1.0-3_iphoneos-arm64.deb
+Filename: ./debs/com.wkk.wechatx111_1.0-4_iphoneos-arm64.deb
 Size: 1096
-MD5sum: b40d8fbe7bae272a58536413b98d48cb
-SHA1: be42641a9c6ab470e26b00bf0d0f8b957e318835
-SHA256: 49a8211ab54b60f2aea42252f58b16850927ca2d3929f036d5392029e9a64588
+MD5sum: 4b3a53b354cfea73827fc53d990578e9
+SHA1: d3a148ba20e576987afabb6a602c73446676d0d8
+SHA256: fc6ef22658373a9cf0e02436b66c297b12b31ca07d1a8d8bce76b076bd7847bb
 Section: 插件配置
 Description: 功能160+，自定义程度拉满的 WeChat 插件，目前除了没有语音包功能，其他功能全有（后续也会有语音包功能）支持8070-8078，美化功能占百分之5/实用功能直接拉满占比百分之95，任何功能都可以提/定制皆可，单独授权58，进付费群依然可用。联系微信：chn137
 Tag: cydia::commercial
