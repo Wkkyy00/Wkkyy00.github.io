@@ -18224,6 +18224,48 @@ Author: Jonathan Winger Lang <jontelang@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/02/12/470f48ade8f7efef6d51128c9c697b81.png
 Name: InstaLauncher 2
 
+Package: com.wkk.installedpackages
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 912
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.wkk.installedpackages_1.0-1_iphoneos-arm64e.deb
+Size: 432150
+MD5sum: 947c4f029a7d26a9f7af39d54848b043
+SHA1: 8f6a263355caae216a2e5de4d08cd8a15ceb92c0
+SHA256: ce209a994b570ab0cbbbc564c18dcfd75eab8e23e1322de08cc1692456b772ca
+Section: Applications
+Priority: optional
+Homepage: https://github.com/roothide/Sileo-roothide
+Description: 是否受够了进入Sileo时卸载已安装插件慢如蜗牛般的速度？这是一款独立的越狱插件包管理器，用于快速查看和卸载本机已安装的插件包。
+ 安装后会在桌面显示应用图标。
+Tag: purpose::application, compatible_min::ios15
+Author: wkk
+Icon: file:///Applications/InstalledPackages.app/icon_large.png
+Name: Sileo插件管理器
+
+Package: com.wkk.installedpackages
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 912
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.wkk.installedpackages_1.0-1_iphoneos-arm64.deb
+Size: 431964
+MD5sum: 3929ff4f77cc7c3b6032d56b34f859fe
+SHA1: ed19aa266cd95cd52dd7fd5b02ae21846f9dedb0
+SHA256: 476e7b5f805828193e54c83f1669bb3ba2c7b796f3f32cd26df8181814463447
+Section: Applications
+Priority: optional
+Homepage: https://github.com/roothide/Sileo-roothide
+Description: 是否受够了进入Sileo时卸载已安装插件慢如蜗牛般的速度？这是一款独立的越狱插件包管理器，用于快速查看和卸载本机已安装的插件包。
+ 安装后会在桌面显示应用图标。
+Tag: purpose::application, compatible_min::ios15
+Author: wkk
+Icon: file:///Applications/InstalledPackages.app/icon_large.png
+Name: Sileo插件管理器
+
 Package: com.wkk.insulation
 Version: 0.0.13
 Architecture: iphoneos-arm64e
