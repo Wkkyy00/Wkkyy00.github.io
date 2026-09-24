@@ -15174,6 +15174,23 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: APP打开就关闭（TrollFools注入）
 
+Package: com.wkk.ktck111
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Depends: sudo
+Filename: ./debs/com.wkk.ktck111_1.0-1_iphoneos-arm64.deb
+Size: 908
+MD5sum: 6e512e9188999584dbe45ca8d2ec7476
+SHA1: b9e55f0d187e864dfc2a3ad91bb48bac13addf2d
+SHA256: 76c1f2ff298a023ff10eadd2854670a315587ea020cd83f022d288f6f7b34ae0
+Section: 插件配置
+Description: 开团仿 iOS27 弹窗 9.9 udid授权，联系微信：chn137
+Tag: cydia::commercial
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 仿 iOS27 弹窗
+
 Package: com.wkk.kuanhook
 Version: 1.0
 Architecture: iphoneos-arm64
