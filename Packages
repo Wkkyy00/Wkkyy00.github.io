@@ -1861,6 +1861,38 @@ Author: 狗哥
 Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
 Name: 哔哩哔哩净化
 
+Package: com.crctdd.stayalivelite
+Version: 0.2.9
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 672
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.2.9_iphoneos-arm64e.deb
+Size: 106548
+MD5sum: 333c54611ae154be823b386dac18281b
+SHA1: 8be617ddf460e0d40f265c9eab36245776679454
+SHA256: 45c5b28f28a18c902e9cbd17e8cd382c0b93c0e46edd53b3a28c54ac2bee6253
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.2.9
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1376
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.crctdd.stayalivelite_0.2.9_iphoneos-arm64.deb
+Size: 150412
+MD5sum: c1c31d9e036cd08d0c025f8413522d0d
+SHA1: 749d96095f91ca2146304006a17498166d8733e2
+SHA256: 92015b1605a214a027a2a23cec9a593b001eda22e7e087b97d942a58c2e8b647
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
 Package: com.creaturecoding.libcspreferences
 Version: 1.5.8
 Architecture: iphoneos-arm64e
