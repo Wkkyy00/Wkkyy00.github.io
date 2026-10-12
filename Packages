@@ -1861,6 +1861,72 @@ Author: 狗哥
 Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
 Name: 哔哩哔哩净化
 
+Package: com.crctdd.disablecutpop
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.disablecutpop_0.0.1_iphoneos-arm64.deb
+Size: 4074
+MD5sum: c1403b9e1a1785c9de6c94d87b749b5e
+SHA1: 46e8669863563bf437e25d5e2752792c903f971c
+SHA256: 52cb325607a9eb788f7d43ae49a6d5ed46dc221c01df0c0fd2a338dfc00d1864
+Section: Tweaks
+Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Disable CutPoP
+
+Package: com.crctdd.disablecutpop
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.disablecutpop_0.0.1_iphoneos-arm64e.deb
+Size: 3284
+MD5sum: 058717c716637bfe2fa1f3f06df0996a
+SHA1: 4dbd0533d5d6aef8dad14e98559e132024724839
+SHA256: 8233155936c8762ee5c7fc1615bbed05639bcd799d3e3ac6486dfd9b5782bd4b
+Section: Tweaks
+Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Disable CutPoP
+
+Package: com.crctdd.memtrim
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.memtrim_0.0.2_iphoneos-arm64.deb
+Size: 125198
+MD5sum: 37a2f6b78bad2d98266bd577b816aa97
+SHA1: 832c2a0d172b83fe1cc49b2bcfa25950d4080738
+SHA256: 24d6babe21eceacfffd06c4c26bb36e5f9077408f12b22cd8e53c5fd5baf1db5
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Name: MemTrim
+
+Package: com.crctdd.memtrim
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/com.crctdd.memtrim_0.0.2_iphoneos-arm64e.deb
+Size: 71676
+MD5sum: 13868da5467edc7ebef48f4887a8f14b
+SHA1: c4051eeb9b5a21c1533871afb252185b66c806a6
+SHA256: 2bb22166f174bb72bae2d0487d6dffcb475fc3f847c43ae5961a9125478cfc97
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Name: MemTrim
+
 Package: com.crctdd.stayalivelite
 Version: 0.2.9
 Architecture: iphoneos-arm64e
