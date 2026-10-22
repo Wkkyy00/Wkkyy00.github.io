@@ -3178,6 +3178,105 @@ Author: iosdump
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 
+Package: com.iosdump.jumpselect
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.iosdump.jumpselect_1.3_iphoneos-arm64e.deb
+Size: 98830
+MD5sum: 2117af6795e6a197fa4958c0bf9d1bf0
+SHA1: 4e73628bea066aaa90df765baaa8735b79418e99
+SHA256: 344ac4587d90e291916a42ca0eaf54e63ef724e46c4c7882235d3c6d7a4c5758
+Section: Tweaks
+Description: 应用跳转拦截重定向选择器，支持 iOS 14-17 所有越狱
+Author: iosdump
+Name: JumpSelect
+
+Package: com.iosdump.jumpselect
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.iosdump.jumpselect_1.3_iphoneos-arm.deb
+Size: 99128
+MD5sum: 9bf1cb8960e946f5f06ea4b1199df3f0
+SHA1: 520e8e248322e2c537f23074603cd7a66658b991
+SHA256: 6b502db844f5dadc81d6998b4884639ec8d3c821d0a705adfd07e604563dc469
+Section: Tweaks
+Description: 应用跳转拦截重定向选择器，支持 iOS 14-17 所有越狱
+Author: iosdump
+Name: JumpSelect
+
+Package: com.iosdump.jumpselect
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.iosdump.jumpselect_1.3_iphoneos-arm64.deb
+Size: 99452
+MD5sum: 1be382bf8c317c448727310bd07a6229
+SHA1: b2ca4a7f0845f86dbb3372e00ef576c41d7f6d58
+SHA256: 4b2daf9305690a132749cab3ae73816655b0e01448bb0335156cfd09b9cb8c80
+Section: Tweaks
+Description: 应用跳转拦截重定向选择器，支持 iOS 14-17 所有越狱
+Author: iosdump
+Name: JumpSelect
+
+Package: com.iosdump.shellx
+Version: 11.3
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 11452
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, com.crctdd.sbtrim
+Filename: ./debs/com.iosdump.shellx_11.3_iphoneos-arm64e.deb
+Size: 2601634
+MD5sum: 875d7936255d0996660a65e605aa1d06
+SHA1: 995a1741bdeba8f0177736626107c88e10e64085
+SHA256: 16cd095a77a219a2cdd122048e644f2d9c6bb8a7a99e16939a8fd19b858feb75
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 11.3
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 11532
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, com.crctdd.sbtrim
+Filename: ./debs/com.iosdump.shellx_11.3_iphoneos-arm64.deb
+Size: 2603202
+MD5sum: bb109c1c3ba97e097ec9836a309174cf
+SHA1: b061b95c885ea74f5257471c5b8951ffa02458f2
+SHA256: 2e0d5abb304242e76a7f6b9c0fa89bad1e1dcad2fc11abb0fb9a20f8167a73ca
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 11.3
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 11532
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, com.crctdd.sbtrim
+Filename: ./debs/com.iosdump.shellx_11.3_iphoneos-arm.deb
+Size: 2605168
+MD5sum: af267f72d2f0180decc12038fe4c17a2
+SHA1: 2c547bd91b8fca4d2b3a5b0f34dd147492b4f78f
+SHA256: a6c299440a43f89d6edd3b83a5451a8ba51d0a9870ce7343631829cf42dd8f30
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
 Package: com.lhyee.wcfix
 Version: 1.0
 Architecture: iphoneos-arm64
