@@ -19209,6 +19209,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/02/23/68af2a96e1fa8dcfb7935b2eb407ffad.png
 Name: 顺丰速运NoAds
 
+Package: com.wkk.sileofaststart
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.wkk.sileofaststart_1.0-2_iphoneos-arm64.deb
+Size: 21928
+MD5sum: d3251dade1a4fdc674c004e2f0b62bb9
+SHA1: f5f6deb229e2fcdc0c560501cb36d9a67a031144
+SHA256: 8fa362c1ddf4e2514491f14434d4e52d3b85f4d0e0aec2a4b6dcde417ea7588c
+Section: Tweaks
+Description: 禁止 sileo 每次进入都自动化刷新拖慢用户的等待行为，以便于更高效的管理与加载已安装的插件，便于用户卸载/安装插件，支持Dopamine 与 relaxin 所有的越狱设备，需要刷新源与插件需手动刷新。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo Fast Start
+
+Package: com.wkk.sileofaststart
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.wkk.sileofaststart_1.0-2_iphoneos-arm64e.deb
+Size: 21848
+MD5sum: 5d9e96e5de372ec40312431ca022d39e
+SHA1: 32a6b6879c0dc39facd8cbe5cb20f9005a10d611
+SHA256: fb44b853a460ed7e909ee63b18aa8c92472053c0812c732eb887c4740ae5d568
+Section: Tweaks
+Description: 禁止 sileo 每次进入都自动化刷新拖慢用户的等待行为，以便于更高效的管理与加载已安装的插件，便于用户卸载/安装插件，支持Dopamine 与 relaxin 所有的越狱设备，需要刷新源与插件需手动刷新。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Sileo Fast Start
+
 Package: com.wkk.sileomh
 Version: 1.0-1
 Architecture: iphoneos-arm64
