@@ -10003,6 +10003,43 @@ Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.
 Name: wkkCenter
 Sponsor: wkk
 
+Package: com.wkk.center
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 114
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.wkk.center_1.1-2_iphoneos-arm64.deb
+Size: 208356
+MD5sum: 6aa26abafba9b3c6b77ca56626488a03
+SHA1: 1f4c3ba649de14931c9afd50c56c9a69935a9bb6
+SHA256: 5bd664c28d7ea40993bd9681e3d113826ac33cb1e61038881883722a769c88ab
+Section: Tweaks
+Description: 自用的一些控制中心模块。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sponsor: wkk
+
+Package: com.wkk.center
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 114
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.wkk.center_1.1-2_iphoneos-arm64e.deb
+Size: 251362
+MD5sum: 549a6deaa55d954d808344a8c19fa69d
+SHA1: ec8ab9224839d405f6c751a7189d3c01043a2b93
+SHA256: 87918927202f9f6ff1ab00ec9cab93e956024452f066808d24362c01a4ffd875
+Section: Tweaks
+Description: 自用的一些控制中心模块。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/26/166e68a0d7051c2d58cb26a4fc284b5b.png
+Name: wkkCenter
+Sponsor: wkk
+
 Package: com.wkk.centra
 Version: 1.0
 Architecture: iphoneos-arm64
