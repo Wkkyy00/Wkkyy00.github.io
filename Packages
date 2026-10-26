@@ -3091,6 +3091,38 @@ Author: dvntm
 Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
 Name: SilentNotifs
 
+Package: com.fizz.ripple
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 15.0), preferenceloader.top | preferenceloader
+Filename: ./debs/com.fizz.ripple_0.1.0_iphoneos-arm64.deb
+Size: 111368
+MD5sum: 9753fd8c3f8c6d3dac314ad89e010202
+SHA1: 74d5f14321973d6eda88864264dbfec1f8cb15ea
+SHA256: 70fae5675946401fa731b223eceeafa5e2e09f7653a59cc5228afa32aa92ef89
+Section: Tweaks
+Description: 主屏幕的双指张开手势：图标向外荡漾，每个应用程序徽章都生长并淡出并保持清除状态，系统轻点一下即可标记它们消失的那一刻。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Fizz
+
+Package: com.fizz.ripple
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 15.0), preferenceloader.top | preferenceloader
+Filename: ./debs/com.fizz.ripple_0.1.0_iphoneos-arm64e.deb
+Size: 98760
+MD5sum: 347f875a14f2cc6c756579f79990b520
+SHA1: bb984b8d4994b9a45b5f4bd73a9c421af66dcf64
+SHA256: 1be56ddae84263535c0d8b8f3838acde342a6c0cb288597621eb4578ebeee4fc
+Section: Tweaks
+Description: 主屏幕的双指张开手势：图标向外荡漾，每个应用程序徽章都生长并淡出并保持清除状态，系统轻点一下即可标记它们消失的那一刻。
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: Fizz
+
 Package: com.hidenotificationbadge
 Version: 0.0.1
 Architecture: iphoneos-arm64e
