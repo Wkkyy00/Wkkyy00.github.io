@@ -19052,6 +19052,38 @@ Author: poqw312
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用通知中心下拉手势
 
+Package: com.wkk.screenfarewell
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 556
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.screenfarewell_1.0-2_iphoneos-arm64.deb
+Size: 64514
+MD5sum: ffa99e488ed9335a14e61f3467f786a9
+SHA1: a47cb0d204973284c56028a218b838549ca1e31d
+SHA256: 383ca010f9f4e07c38040b8fa511ca2c1869c3ed3a4cfac154c6e6d61323d8bd
+Section: Tweaks
+Description: 锁屏特效，效果任选，无用请卸载。
+Author: wkk
+Name: DriftX
+
+Package: com.wkk.screenfarewell
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 556
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.screenfarewell_1.0-2_iphoneos-arm64e.deb
+Size: 64536
+MD5sum: 3211277632be4d1ac31cce31a8f83dc4
+SHA1: a2afd1724d2c1aa2ea15cb4ae979149e358709a1
+SHA256: 1117028ddd2cb94261eb1f0d27efa21326b4e70659ddfc638f66ec5deefdf7ee
+Section: Tweaks
+Description: 锁屏特效，效果任选，无用请卸载。
+Author: wkk
+Name: DriftX
+
 Package: com.wkk.screenshotactions
 Version: 1.0-3
 Architecture: iphoneos-arm64e
