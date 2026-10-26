@@ -19084,6 +19084,40 @@ Description: 锁屏特效，效果任选，无用请卸载。
 Author: wkk
 Name: DriftX
 
+Package: com.wkk.screenfarewell
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 556
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.screenfarewell_1.0-3_iphoneos-arm64.deb
+Size: 64610
+MD5sum: 770d283be9d69e6e013596f4510d99db
+SHA1: 9485c0d60bed25ce43cbff6f180b0246a4bf21c0
+SHA256: b525c1493268e2862bfa33159d30735722733e0e760ec6bd0f39ebb034ff3f35
+Section: Tweaks
+Description: 锁屏特效，效果任选，无用请卸载。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: DriftX
+
+Package: com.wkk.screenfarewell
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 556
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.screenfarewell_1.0-3_iphoneos-arm64e.deb
+Size: 64664
+MD5sum: 8c727688c50b62c6d64a554f8ca5ea16
+SHA1: 447d0acb077f721c36f10a8025b5b9876b1babef
+SHA256: 305730bcff408d4340a6005a3205e5f85e1282328c187ef8d8d663dda0df89fe
+Section: Tweaks
+Description: 锁屏特效，效果任选，无用请卸载。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: DriftX
+
 Package: com.wkk.screenshotactions
 Version: 1.0-3
 Architecture: iphoneos-arm64e
