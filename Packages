@@ -19567,6 +19567,40 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: Sileo 源搜索
 
+Package: com.wkk.sileowarningblockx
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.wkk.sileowarningblockx_1.0-1_iphoneos-arm64e.deb
+Size: 6100
+MD5sum: 1edfb47d6da78c283f8eae73a5a506f7
+SHA1: 2bbb48fb80969afa3abfaf2f8abcf26c9c6cb406
+SHA256: 564199912a30770117a89cc64edc12e6e9298cf8556d567e547636a61868251f
+Section: Tweaks
+Description: 拦截sileo 商店刷新时，跳出的黄字提醒：Warning: Didn't find availabile architectures in Optional("iphoneos-arm iphoneos-arm64") : xxxxx
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用 sileo 黄字提醒
+
+Package: com.wkk.sileowarningblockx
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.wkk.sileowarningblockx_1.0-1_iphoneos-arm64.deb
+Size: 6164
+MD5sum: 7fe57023041c40ca5f71db43daad0747
+SHA1: 7ad4cc5c941e8ae48639bfec1804e3f480eeecb5
+SHA256: e44b6822a66e6bab8d3d635f75a04989ba146dd9ab3ce39849c2ad3649d93aa1
+Section: Tweaks
+Description: 拦截sileo 商店刷新时，跳出的黄字提醒：Warning: Didn't find availabile architectures in Optional("iphoneos-arm iphoneos-arm64") : xxxxx
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用 sileo 黄字提醒
+
 Package: com.wkk.smartnetwork
 Version: 1.1
 Architecture: iphoneos-arm64
