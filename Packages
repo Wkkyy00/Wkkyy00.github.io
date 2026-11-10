@@ -16256,11 +16256,11 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
 Filename: ./debs/com.wkk.leftpan_2.0-1_iphoneos-arm64.deb
-Size: 32540
-MD5sum: fc159993267db20ca6fdf49c1b967bee
-SHA1: 9d9cbb077308ebc4d3ad513c7f80f0d81e2a26bc
-SHA256: ba8c145e5913b246789a37c4e032328b5fd5c3a8eafaeac22fa95c2dbe3c159b
-Section: Rootless
+Size: 32556
+MD5sum: bc355eb6860207225a7f00d7066fa03f
+SHA1: f186ede2e19fb42861d1650476ea53a63a186c27
+SHA256: 61514b357901a6aec96d3df66fce4cd593997d3ed48defbe2ea0a33c695d67b0
+Section: Tweaks
 Priority: optional
 Description: 左滑返回上一页面
 Author: Mao
@@ -16273,11 +16273,11 @@ Architecture: iphoneos-arm64e
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
 Filename: ./debs/com.wkk.leftpan_2.0-1_iphoneos-arm64e.deb
-Size: 33044
-MD5sum: 43f62c6539c6aa5d66d66570c63c61e1
-SHA1: 8ca77bcb21fa4cdd6829a330d912667c8268bfba
-SHA256: 61f1f5bb5dfb42d833fe35f30a45ffffb8bb5c9f67bd7dfe06773776333ecba2
-Section: Rootless
+Size: 33020
+MD5sum: e045b43ef5cd3cebb8c20e8a137fadbb
+SHA1: 26e0970da01f37fa5e8c55f3cadb744215b11ca7
+SHA256: 5a1511bf12e79d6d625f1639373b069683ddf953106dcb3c1b94e9457ab8cb85
+Section: Tweaks
 Priority: optional
 Description: 左滑返回上一页面
 Author: Mao
