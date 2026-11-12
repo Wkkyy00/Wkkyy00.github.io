@@ -13334,10 +13334,10 @@ Maintainer: 0xkuj
 Installed-Size: 240
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.wkk.filzadirprobe_1.7.3_iphoneos-arm64e.deb
-Size: 48030
-MD5sum: 290f26969250ebea7804dc7e8c6fb82d
-SHA1: 0366119e561aa2c6ce81768b875f6cf61e1116e3
-SHA256: a5f9ef1914e2165e738aac0c4efafa0c8c104bb3eeb9eb8ff918e12af72caad7
+Size: 48010
+MD5sum: 570ab834161b6a71e9dca2d187078e36
+SHA1: 508a1753da70ec1174c36ba64fe196856d5ca7ee
+SHA256: 51de155b4e429044a041b1bb0dcc859e34b8c3474c3193f86a735becc6e7257a
 Section: Tweaks
 Description: 计算Filza里文件夹大小。
 Author: 0xkuj
