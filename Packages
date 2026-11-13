@@ -141,6 +141,40 @@ Tag: purpose::uikit, compatible::ios14
 Author: 来了老弟
 Name: QL 清理
 
+Package: cn.llld.ql
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1308
+Depends: firmware (>= 14.0)
+Filename: ./debs/ql清理1.3.5-rootless.deb
+Size: 430766
+MD5sum: 1d3f10160bb3b14fb1610b7b91944216
+SHA1: 21e249274bc8efa0427715e69d2c3176ed5f0bce
+SHA256: 331c51c60bc3716393c1d9fe1fd0cd013220ba8dd9dfd437c43ee7c2c1262adb
+Section: System
+Description: 越狱 iOS 桌面清理工具：扫描 App 缓存与临时文件、按应用单独清理、明细左滑清理缓存/临时、可跳过后缀、清理短信与 Safari 书签、系统垃圾（系统缓存/相册缩略图/日志/残留数据）
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Name: QL 清理
+
+Package: cn.llld.ql
+Version: 1.3.5
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 764
+Depends: firmware (>= 14.0)
+Filename: ./debs/ql清理1.3.5-roothide.deb
+Size: 358042
+MD5sum: 375c829d2d1cf33cdf91aeb00fd145f7
+SHA1: d0333d381492cbeec4a7899a915e53ea06ec059f
+SHA256: b5b1b30225e178869d545a17cab01511be8e45ae382aba15e3981c2902ced079
+Section: System
+Description: 越狱 iOS 桌面清理工具：扫描 App 缓存与临时文件、按应用单独清理、明细左滑清理缓存/临时、可跳过后缀、清理短信与 Safari 书签、系统垃圾（系统缓存/相册缩略图/日志/残留数据）
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Name: QL 清理
+
 Package: cn.llld.screenprivacy
 Version: 1.0
 Architecture: iphoneos-arm64
